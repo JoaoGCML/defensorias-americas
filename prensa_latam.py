@@ -1102,8 +1102,10 @@ def generar_mapa(datos: dict, output_path: Path, feed_url: str = ""):
 
     feed_link = f'<a href="{feed_url}" style="color:#64b5e8;font-size:.75rem">⚡ Feed Atom</a>' if feed_url else ""
 
+    colores_sec_j = json.dumps(COLORES_SECCION, ensure_ascii=False)
+
     html = f"""<!DOCTYPE html>
-<html lang="es">
+<html lang="es" id="root">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -1185,27 +1187,38 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
 ::-webkit-scrollbar{{width:7px}}
 ::-webkit-scrollbar-track{{background:#0d1b2a}}
 ::-webkit-scrollbar-thumb{{background:#1e3a52;border-radius:4px}}
+.lang-sw{{display:flex;gap:4px;align-items:center;margin-left:auto}}
+.lb{{background:none;border:1px solid #1e3a52;color:#7a8fa0;padding:3px 9px;
+  border-radius:4px;font-size:.73rem;font-weight:600;cursor:pointer;transition:all .15s}}
+.lb:hover{{border-color:#64b5e8;color:#64b5e8}}.lb.on{{border-color:#64b5e8;color:#64b5e8;background:#132334}}
 </style>
 </head>
 <body>
 <header>
   <div>
-    <h1>Notas de Prensa y Comunicados — Defensorías de las Américas</h1>
-    <p>Generado: {fecha_gen} &nbsp;·&nbsp; Ventana: {dias} días &nbsp;·&nbsp;
-       {n_inst_ok} instituciones accesibles &nbsp;·&nbsp; {feed_link}</p>
+    <h1 id="pg-title">Notas de Prensa y Comunicados — Defensorías de las Américas</h1>
+    <p><span id="pg-gen">Generado</span>: {fecha_gen} &nbsp;·&nbsp;
+       <span id="pg-win">Ventana</span>: {dias} <span id="pg-days">días</span> &nbsp;·&nbsp;
+       {n_inst_ok} <span id="pg-acc">instituciones accesibles</span> &nbsp;·&nbsp; {feed_link}</p>
   </div>
   <div class="stats">
-    <div class="stat"><div class="n">{len(instituciones)}</div><div class="l">Instituciones</div></div>
-    <div class="stat"><div class="n">{n_con_fecha}</div><div class="l">Con fecha</div></div>
-    <div class="stat"><div class="n">{n_sin_fecha}</div><div class="l">Sin fecha</div></div>
+    <div class="stat"><div class="n">{len(instituciones)}</div><div class="l" id="sl-inst">Instituciones</div></div>
+    <div class="stat"><div class="n">{n_con_fecha}</div><div class="l" id="sl-cf">Con fecha</div></div>
+    <div class="stat"><div class="n">{n_sin_fecha}</div><div class="l" id="sl-sf">Sin fecha</div></div>
     <div class="stat"><div class="n">{n_pdfs}</div><div class="l">PDFs</div></div>
+  </div>
+  <div class="lang-sw">
+    <button class="lb on" id="lb-es" onclick="setLang('es')">ES</button>
+    <button class="lb"    id="lb-en" onclick="setLang('en')">EN</button>
+    <button class="lb"    id="lb-pt" onclick="setLang('pt')">PT</button>
+    <button class="lb"    id="lb-fr" onclick="setLang('fr')">FR</button>
   </div>
 </header>
 
 <div class="tabs">
-  <button class="tab on" onclick="sw('mapa',this)">🗺 Mapa</button>
-  <button class="tab" onclick="sw('tl',this)">📅 Timeline</button>
-  <button class="tab" onclick="sw('tb',this)">📋 Tabla</button>
+  <button class="tab on" id="tab-mapa" onclick="sw('mapa',this)">🗺 Mapa</button>
+  <button class="tab"    id="tab-tl"   onclick="sw('tl',this)">📅 Timeline</button>
+  <button class="tab"    id="tab-tb"   onclick="sw('tb',this)">📋 Tabla</button>
 </div>
 
 <div id="pmapa" class="panel on"><div id="map"></div></div>
@@ -1213,23 +1226,23 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
 <div id="ptl" class="panel">
   <div class="filtros">
     <input id="tl-q" placeholder="Buscar titular o institución..." oninput="ftl()">
-    <select id="tl-r" onchange="ftl()"><option value="">Todas las regiones</option></select>
-    <select id="tl-p" onchange="ftl()"><option value="">Todos los países</option></select>
-    <select id="tl-t" onchange="ftl()"><option value="">Todos los tipos</option></select>
+    <select id="tl-r" onchange="ftl()"><option value="" id="tl-r-all">Todas las regiones</option></select>
+    <select id="tl-p" onchange="ftl()"><option value="" id="tl-p-all">Todos los países</option></select>
+    <select id="tl-t" onchange="ftl()"><option value="" id="tl-t-all">Todos los tipos</option></select>
     <select id="tl-s" onchange="ftl()">
-      <option value="">Todas las secciones</option>
+      <option value=""            id="tl-s-all">Todas las secciones</option>
       <option value="comunicados">Comunicados</option>
       <option value="notas_prensa">Notas de prensa</option>
       <option value="press_release">Press releases</option>
-      <option value="prensa">Prensa</option>
+      <option value="prensa">Prensa / Imprensa</option>
       <option value="boletines">Boletines</option>
       <option value="noticias">Noticias</option>
       <option value="pdf">PDFs</option>
     </select>
     <select id="tl-f" onchange="ftl()">
-      <option value="">Todas</option>
-      <option value="si">Con fecha confirmada</option>
-      <option value="no">Sin fecha detectada</option>
+      <option value=""   id="tl-f-all">Todas</option>
+      <option value="si" id="tl-f-si">Con fecha confirmada</option>
+      <option value="no" id="tl-f-no">Sin fecha detectada</option>
     </select>
   </div>
   <div id="tl-cnt"></div>
@@ -1239,32 +1252,163 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
 <div id="ptb" class="panel">
   <div class="filtros">
     <input id="tb-q" placeholder="Buscar..." oninput="ftb()">
-    <select id="tb-r" onchange="ftb()"><option value="">Todas las regiones</option></select>
-    <select id="tb-p" onchange="ftb()"><option value="">Todos los países</option></select>
-    <select id="tb-t" onchange="ftb()"><option value="">Todos los tipos</option></select>
+    <select id="tb-r" onchange="ftb()"><option value="" id="tb-r-all">Todas las regiones</option></select>
+    <select id="tb-p" onchange="ftb()"><option value="" id="tb-p-all">Todos los países</option></select>
+    <select id="tb-t" onchange="ftb()"><option value="" id="tb-t-all">Todos los tipos</option></select>
     <select id="tb-f" onchange="ftb()">
-      <option value="">Todas</option>
-      <option value="si">Con fecha</option>
-      <option value="no">Sin fecha</option>
-      <option value="pdf">Solo PDFs</option>
+      <option value=""    id="tb-f-all">Todas</option>
+      <option value="si"  id="tb-f-si">Con fecha</option>
+      <option value="no"  id="tb-f-no">Sin fecha</option>
+      <option value="pdf" id="tb-f-pdf">Solo PDFs</option>
     </select>
   </div>
   <table><thead><tr>
-    <th onclick="srt(0)">Fecha ↕</th>
-    <th onclick="srt(1)">Titular ↕</th>
-    <th onclick="srt(2)">Sección ↕</th>
-    <th onclick="srt(3)">Institución ↕</th>
-    <th onclick="srt(4)">País ↕</th>
-    <th onclick="srt(5)">Región ↕</th>
+    <th id="th-0" onclick="srt(0)">Fecha ↕</th>
+    <th id="th-1" onclick="srt(1)">Titular ↕</th>
+    <th id="th-2" onclick="srt(2)">Sección ↕</th>
+    <th id="th-3" onclick="srt(3)">Institución ↕</th>
+    <th id="th-4" onclick="srt(4)">País ↕</th>
+    <th id="th-5" onclick="srt(5)">Región ↕</th>
   </tr></thead><tbody id="tb-body"></tbody></table>
 </div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-const MK = {markers_j};
-const NN = {noticias_j};
+const MK   = {markers_j};
+const NN   = {noticias_j};
 const DIAS = {dias};
+const COLORES_SECCION = {colores_sec_j};
 
+// ── Traducciones ──────────────────────────────────────────────────────────────
+const LANGS = {{
+  es: {{
+    title:"Notas de Prensa y Comunicados — Defensorías de las Américas",
+    tab_map:"🗺 Mapa", tab_tl:"📅 Timeline", tab_tb:"📋 Tabla",
+    sl_inst:"Instituciones", sl_cf:"Con fecha", sl_sf:"Sin fecha",
+    pg_gen:"Generado", pg_win:"Ventana", pg_days:"días", pg_acc:"instituciones accesibles",
+    ph_tl:"Buscar titular o institución...", ph_tb:"Buscar...",
+    all_r:"Todas las regiones", all_p:"Todos los países", all_t:"Todos los tipos",
+    all_s:"Todas las secciones", all_f:"Todas", f_si:"Con fecha confirmada",
+    f_no:"Sin fecha detectada", f_pdf:"Solo PDFs", f_si2:"Con fecha", f_no2:"Sin fecha",
+    th:["Fecha ↕","Titular ↕","Sección ↕","Institución ↕","País ↕","Región ↕"],
+    npubs: n=>`${{n}} publicaciones`,
+    noresults:"Sin resultados.",
+    nodate_grp:"Sin fecha detectada",
+    nodate_lbl:"Sin fechas detectadas:",
+    nopubs: d=>`Sin publicaciones en ${{d}} días`,
+    noaccess:"⚠ Sin acceso",
+    plus_sf: n=>`+${{n}} sin fecha`,
+    site:"→ Sitio oficial",
+    leg_title:"Tipo de institución", leg_note:"Número = publicaciones recientes",
+    meses:['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'],
+  }},
+  en: {{
+    title:"Press Releases & Communiqués — Ombudspersons of the Americas",
+    tab_map:"🗺 Map", tab_tl:"📅 Timeline", tab_tb:"📋 Table",
+    sl_inst:"Institutions", sl_cf:"Dated", sl_sf:"Undated",
+    pg_gen:"Generated", pg_win:"Window", pg_days:"days", pg_acc:"institutions accessible",
+    ph_tl:"Search headline or institution...", ph_tb:"Search...",
+    all_r:"All regions", all_p:"All countries", all_t:"All types",
+    all_s:"All sections", all_f:"All", f_si:"Dated only",
+    f_no:"Undated only", f_pdf:"PDFs only", f_si2:"Dated", f_no2:"Undated",
+    th:["Date ↕","Headline ↕","Section ↕","Institution ↕","Country ↕","Region ↕"],
+    npubs: n=>`${{n}} publications`,
+    noresults:"No results.",
+    nodate_grp:"No date detected",
+    nodate_lbl:"No dates detected:",
+    nopubs: d=>`No publications in the last ${{d}} days`,
+    noaccess:"⚠ No access",
+    plus_sf: n=>`+${{n}} undated`,
+    site:"→ Official website",
+    leg_title:"Institution type", leg_note:"Number = recent publications",
+    meses:['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+  }},
+  pt: {{
+    title:"Notas de Imprensa e Comunicados — Defensorias das Américas",
+    tab_map:"🗺 Mapa", tab_tl:"📅 Linha do tempo", tab_tb:"📋 Tabela",
+    sl_inst:"Instituições", sl_cf:"Com data", sl_sf:"Sem data",
+    pg_gen:"Gerado", pg_win:"Janela", pg_days:"dias", pg_acc:"instituições acessíveis",
+    ph_tl:"Buscar título ou instituição...", ph_tb:"Buscar...",
+    all_r:"Todas as regiões", all_p:"Todos os países", all_t:"Todos os tipos",
+    all_s:"Todas as seções", all_f:"Todas", f_si:"Com data confirmada",
+    f_no:"Sem data detectada", f_pdf:"Somente PDFs", f_si2:"Com data", f_no2:"Sem data",
+    th:["Data ↕","Título ↕","Seção ↕","Instituição ↕","País ↕","Região ↕"],
+    npubs: n=>`${{n}} publicações`,
+    noresults:"Sem resultados.",
+    nodate_grp:"Sem data detectada",
+    nodate_lbl:"Sem datas detectadas:",
+    nopubs: d=>`Sem publicações nos últimos ${{d}} dias`,
+    noaccess:"⚠ Sem acesso",
+    plus_sf: n=>`+${{n}} sem data`,
+    site:"→ Site oficial",
+    leg_title:"Tipo de instituição", leg_note:"Número = publicações recentes",
+    meses:['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'],
+  }},
+  fr: {{
+    title:"Communiqués de presse — Défenseurs des droits des Amériques",
+    tab_map:"🗺 Carte", tab_tl:"📅 Chronologie", tab_tb:"📋 Tableau",
+    sl_inst:"Institutions", sl_cf:"Datés", sl_sf:"Sans date",
+    pg_gen:"Généré", pg_win:"Fenêtre", pg_days:"jours", pg_acc:"institutions accessibles",
+    ph_tl:"Rechercher un titre ou institution...", ph_tb:"Rechercher...",
+    all_r:"Toutes les régions", all_p:"Tous les pays", all_t:"Tous les types",
+    all_s:"Toutes les sections", all_f:"Tous", f_si:"Avec date confirmée",
+    f_no:"Sans date détectée", f_pdf:"PDFs seulement", f_si2:"Datés", f_no2:"Sans date",
+    th:["Date ↕","Titre ↕","Section ↕","Institution ↕","Pays ↕","Région ↕"],
+    npubs: n=>`${{n}} publications`,
+    noresults:"Aucun résultat.",
+    nodate_grp:"Sans date détectée",
+    nodate_lbl:"Sans dates détectées :",
+    nopubs: d=>`Aucune publication dans les ${{d}} derniers jours`,
+    noaccess:"⚠ Pas d'accès",
+    plus_sf: n=>`+${{n}} sans date`,
+    site:"→ Site officiel",
+    leg_title:"Type d'institution", leg_note:"Nombre = publications récentes",
+    meses:['jan','fév','mar','avr','mai','jun','jul','aoû','sep','oct','nov','déc'],
+  }},
+}};
+
+let T = LANGS['es'];
+
+function setLang(code) {{
+  T = LANGS[code] || LANGS['es'];
+  document.getElementById('root').lang = code;
+  // Elementos estáticos
+  document.getElementById('pg-title').textContent = T.title;
+  document.getElementById('pg-gen').textContent   = T.pg_gen;
+  document.getElementById('pg-win').textContent   = T.pg_win;
+  document.getElementById('pg-days').textContent  = T.pg_days;
+  document.getElementById('pg-acc').textContent   = T.pg_acc;
+  document.getElementById('sl-inst').textContent  = T.sl_inst;
+  document.getElementById('sl-cf').textContent    = T.sl_cf;
+  document.getElementById('sl-sf').textContent    = T.sl_sf;
+  document.getElementById('tab-mapa').textContent = T.tab_map;
+  document.getElementById('tab-tl').textContent   = T.tab_tl;
+  document.getElementById('tab-tb').textContent   = T.tab_tb;
+  // Placeholders
+  document.getElementById('tl-q').placeholder = T.ph_tl;
+  document.getElementById('tb-q').placeholder = T.ph_tb;
+  // Selects — opciones estáticas
+  const sf = {{
+    'tl-r-all':T.all_r,'tb-r-all':T.all_r,
+    'tl-p-all':T.all_p,'tb-p-all':T.all_p,
+    'tl-t-all':T.all_t,'tb-t-all':T.all_t,
+    'tl-s-all':T.all_s,
+    'tl-f-all':T.all_f,'tb-f-all':T.all_f,
+    'tl-f-si':T.f_si,'tl-f-no':T.f_no,
+    'tb-f-si':T.f_si2,'tb-f-no':T.f_no2,'tb-f-pdf':T.f_pdf,
+  }};
+  Object.entries(sf).forEach(([id,txt])=>{{const el=document.getElementById(id);if(el)el.textContent=txt;}});
+  // Cabeceras tabla
+  T.th.forEach((txt,i)=>{{const el=document.getElementById('th-'+i);if(el)el.textContent=txt;}});
+  // Lang buttons
+  document.querySelectorAll('.lb').forEach(b=>b.classList.toggle('on',b.id==='lb-'+code));
+  // Re-render dinámico
+  ftl(); ftb();
+  // Leyenda del mapa
+  if(window._legEl) window._legEl.innerHTML = buildLegend();
+}}
+
+// ── Mapa ─────────────────────────────────────────────────────────────────────
 function sw(name, btn) {{
   document.querySelectorAll('.panel').forEach(p=>p.classList.remove('on'));
   document.querySelectorAll('.tab').forEach(b=>b.classList.remove('on'));
@@ -1291,13 +1435,11 @@ function mkIcon(color, count, err) {{
       ${{badge}}</div>`}});
 }}
 
-const COLORES_SECCION = {json.dumps(COLORES_SECCION, ensure_ascii=False)};
-
 MK.forEach(m=>{{
   const ic = mkIcon(m.color, m.n_periodo, !!m.error);
   let html = `<div class="pt">${{m.nombre}}</div>
     <div class="pp">🌎 ${{m.pais}} · ${{m.tipo}}</div>`;
-  if(m.error) html+=`<div class="perr">⚠ Sin acceso</div>`;
+  if(m.error) html+=`<div class="perr">${{T.noaccess}}</div>`;
   else if(m.items_periodo.length) {{
     html+=`<ul class="plist">`;
     m.items_periodo.slice(0,5).forEach(n=>{{
@@ -1309,51 +1451,55 @@ MK.forEach(m=>{{
       html+=`<li>${{f}}${{pdf}}${{lnk}}${{sc}}</li>`;
     }});
     html+='</ul>';
-    if(m.n_sin_fecha>0)
-      html+=`<div style="color:#4a6a80;font-size:.7rem;margin-top:3px">+${{m.n_sin_fecha}} sin fecha</div>`;
+    if(m.n_sin_fecha>0) html+=`<div style="color:#4a6a80;font-size:.7rem;margin-top:3px">${{T.plus_sf(m.n_sin_fecha)}}</div>`;
   }} else if(m.items_sin_fecha.length) {{
-    html+=`<div style="color:#5a7a90;font-size:.73rem;margin-bottom:4px">Sin fechas detectadas:</div><ul class="plist">`;
+    html+=`<div style="color:#5a7a90;font-size:.73rem;margin-bottom:4px">${{T.nodate_lbl}}</div><ul class="plist">`;
     m.items_sin_fecha.slice(0,3).forEach(n=>{{
       const t=n.titulo.length>65?n.titulo.slice(0,62)+'…':n.titulo;
-      const lnk=n.url?`<a href="${{n.url}}" target="_blank">${{t}}</a>`:t;
-      html+=`<li>${{lnk}}</li>`;
+      html+=`<li>${{n.url?`<a href="${{n.url}}" target="_blank">${{t}}</a>`:t}}</li>`;
     }});
     html+='</ul>';
   }} else {{
-    html+=`<div style="color:#4a6a80;font-style:italic">Sin publicaciones en ${{DIAS}} días</div>`;
+    html+=`<div style="color:#4a6a80;font-style:italic">${{T.nopubs(DIAS)}}</div>`;
   }}
   if(m.secciones.length>0)
     html+=`<div style="color:#3a6080;font-size:.68rem;margin-top:5px">
-      Secciones: ${{m.secciones.map(s=>s.tipo).join(', ')}}</div>`;
-  html+=`<a class="plink" href="${{m.url}}" target="_blank">→ Sitio oficial</a>`;
+      ${{m.secciones.map(s=>s.tipo).join(', ')}}</div>`;
+  html+=`<a class="plink" href="${{m.url}}" target="_blank">${{T.site}}</a>`;
   L.marker([m.lat,m.lon],{{icon:ic}}).addTo(map).bindPopup(html,{{maxWidth:360}});
 }});
 
-const leg = L.control({{position:'bottomright'}});
-leg.onAdd=function(){{
-  const d=L.DomUtil.create('div','legend');
-  d.innerHTML='<h4>Tipo de institución</h4>'+
+function buildLegend() {{
+  return '<h4>'+T.leg_title+'</h4>'+
     Object.entries({{"Ombudsperson":"#e74c3c","Defensoria Pública":"#2980b9",
       "Red Regional":"#8e44ad","Org. Internacional":"#16a085"}})
     .map(([k,c])=>`<div class="li"><div class="ld" style="background:${{c}}"></div><span>${{k}}</span></div>`)
     .join('')+
     `<hr style="border-color:#1e3a52;margin:7px 0">
-    <div style="font-size:.68rem;color:#4a6a80">Número = publicaciones recientes</div>`;
+    <div style="font-size:.68rem;color:#4a6a80">${{T.leg_note}}</div>`;
+}}
+
+const leg = L.control({{position:'bottomright'}});
+leg.onAdd=function(){{
+  const d=L.DomUtil.create('div','legend');
+  d.innerHTML=buildLegend();
+  window._legEl=d;
   return d;
 }};
 leg.addTo(map);
 
+// ── Helpers fecha ─────────────────────────────────────────────────────────────
 function fmtF(iso) {{
   if(!iso) return '—';
   const [y,m,d]=iso.split('T')[0].split('-');
   return `${{d}}/${{m}}/${{y}}`;
 }}
-const MESES=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
 function fmtFLg(iso) {{
   const [y,m,d]=iso.split('T')[0].split('-');
-  return `${{parseInt(d)}} ${{MESES[parseInt(m)-1]}} ${{y}}`;
+  return `${{parseInt(d)}} ${{T.meses[parseInt(m)-1]}} ${{y}}`;
 }}
 
+// ── Selects dinámicos ─────────────────────────────────────────────────────────
 const regiones=[...new Set(NN.map(n=>n.region))].sort();
 const paises  =[...new Set(NN.map(n=>n.pais))  ].sort();
 const tipos   =[...new Set(NN.map(n=>n.tipo))   ].sort();
@@ -1371,6 +1517,7 @@ const tipos   =[...new Set(NN.map(n=>n.tipo))   ].sort();
   tipos.forEach(t=>{{const o=document.createElement('option');o.value=t;o.textContent=t;s.appendChild(o)}});
 }});
 
+// ── Filtrado ──────────────────────────────────────────────────────────────────
 function filtrar(q,r,p,t,s,f) {{
   return NN.filter(n=>{{
     if(r && n.region!==r) return false;
@@ -1398,9 +1545,9 @@ function ftl() {{
 }}
 
 function renderTL(items) {{
-  document.getElementById('tl-cnt').textContent=`${{items.length}} publicaciones`;
-  if(!items.length){{
-    document.getElementById('tl-body').innerHTML='<p style="color:#4a6a80;padding:16px">Sin resultados.</p>';
+  document.getElementById('tl-cnt').textContent = T.npubs(items.length);
+  if(!items.length) {{
+    document.getElementById('tl-body').innerHTML=`<p style="color:#4a6a80;padding:16px">${{T.noresults}}</p>`;
     return;
   }}
   const grupos={{}};
@@ -1409,7 +1556,7 @@ function renderTL(items) {{
   const keys=Object.keys(grupos).sort().reverse();
   document.getElementById('tl-body').innerHTML=keys.map(k=>{{
     const grp=grupos[k];
-    const tit=k==='__sf'?'Sin fecha detectada':fmtFLg(k);
+    const tit=k==='__sf'?T.nodate_grp:fmtFLg(k);
     const cards=grp.map(n=>{{
       const pdf=n.es_pdf?'<span class="pdf-tag">PDF</span> ':'';
       const lnk=n.url?`<a href="${{n.url}}" target="_blank">${{n.titulo}}</a>`:n.titulo;
@@ -1429,6 +1576,7 @@ function renderTL(items) {{
 }}
 renderTL(NN);
 
+// ── Tabela ────────────────────────────────────────────────────────────────────
 let sCol=0, sAsc=false;
 function srt(c){{if(sCol===c)sAsc=!sAsc;else{{sCol=c;sAsc=true;}}ftb();}}
 function ftb() {{
@@ -1448,7 +1596,7 @@ function renderTB(items) {{
     return sAsc?va.localeCompare(vb):vb.localeCompare(va);
   }});
   document.getElementById('tb-body').innerHTML=sorted.map(n=>{{
-    const fecha=n.fecha?`<span class="fc">${{fmtF(n.fecha)}}</span>`:`<span class="sf">⚠ sin fecha</span>`;
+    const fecha=n.fecha?`<span class="fc">${{fmtF(n.fecha)}}</span>`:`<span class="sf">⚠ ${{T.sl_sf.toLowerCase()}}</span>`;
     const pdf=n.es_pdf?'<span class="pdf-tag">PDF</span> ':'';
     const lnk=n.url?`<a href="${{n.url}}" target="_blank">${{pdf}}${{n.titulo}}</a>`:`${{pdf}}${{n.titulo}}`;
     return `<tr><td>${{fecha}}</td><td>${{lnk}}</td>
