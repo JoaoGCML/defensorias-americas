@@ -462,8 +462,9 @@ INSTITUCIONES_LATAM = [
         "tipo": "Organismo Internacional", "idioma": "es",
         "url_base": "https://www.oas.org/es/cidh",
         "secciones": [
-            {"url": "https://www.oas.org/es/cidh/prensa/comunicados.asp", "tipo": "comunicados"},
-            {"url": "https://www.oas.org/es/cidh/prensa/notas.asp",       "tipo": "notas_prensa"},
+            # La homepage lista los comunicados recientes via links jsForm
+            # /es/cidh/prensa/comunicados.asp redirige a wearesorry.htm (sitio reestructurado)
+            {"url": "https://www.oas.org/es/cidh/", "tipo": "comunicados"},
         ],
     },
     {
@@ -636,7 +637,7 @@ def parsear_fecha_url(url: str) -> datetime | None:
 SELECTORES_ITEMS = [
     "article", ".noticia", ".news-item", ".news-card", ".press-item",
     ".entry", ".post", "li.views-row", "li.news-item", ".card",
-    ".media-body", ".comunicado", ".press-release", ".item",
+    ".media-body", ".comunicado", ".comunicados li", ".comunicados", ".press-release", ".item",
 ]
 
 SELECTORES_TITULO = [
