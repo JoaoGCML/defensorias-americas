@@ -1,0 +1,48 @@
+name: Scrape Defensorías
+
+on:
+  schedule:
+    # Corre todos los días a las 07:00 UTC (04:00 Brasilia / 03:00 Bogotá)
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+    inputs:
+      dias:
+        description: "Ventana temporal (días)"
+        required: false
+        default: "30"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: |
+          DIAS=${{ github.event.inputs.dias || '30' }}
+          python prensa_latam.py \
+            --dias $DIAS \
+            --concurrencia 8 \
+            --output latest \
+            --output-dir docs/data \
+            --feed-url "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/data/feed.xml"
+
+      - name: Commit & push results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet && echo "Sin cambios." && exit 0
+          git commit -m "data: actualización automática $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
