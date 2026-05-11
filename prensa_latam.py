@@ -1101,8 +1101,6 @@ def generar_mapa(datos: dict, output_path: Path, feed_url: str = ""):
     n_pdfs      = sum(1 for n in todas_noticias if n["es_pdf"])
     n_inst_ok   = sum(1 for i in instituciones if i.get("secciones_scrapeadas"))
 
-    feed_link = f'<a href="{feed_url}" style="color:#64b5e8;font-size:.75rem">⚡ Feed Atom</a>' if feed_url else ""
-
     colores_sec_j = json.dumps(COLORES_SECCION, ensure_ascii=False)
 
     html = f"""<!DOCTYPE html>
@@ -1192,6 +1190,10 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
 .lb{{background:none;border:1px solid #1e3a52;color:#7a8fa0;padding:3px 9px;
   border-radius:4px;font-size:.73rem;font-weight:600;cursor:pointer;transition:all .15s}}
 .lb:hover{{border-color:#64b5e8;color:#64b5e8}}.lb.on{{border-color:#64b5e8;color:#64b5e8;background:#132334}}
+.rss-btn{{display:inline-flex;align-items:center;gap:5px;padding:4px 11px;
+  border-radius:4px;font-size:.73rem;font-weight:600;text-decoration:none;
+  background:#b34700;color:#fff;border:1px solid #e05a00;transition:background .15s}}
+.rss-btn:hover{{background:#e05a00}}
 </style>
 </head>
 <body>
@@ -1200,7 +1202,7 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
     <h1 id="pg-title">Notas de Prensa y Comunicados — Defensorías de las Américas</h1>
     <p><span id="pg-gen">Generado</span>: {fecha_gen} &nbsp;·&nbsp;
        <span id="pg-win">Ventana</span>: {dias} <span id="pg-days">días</span> &nbsp;·&nbsp;
-       {n_inst_ok} <span id="pg-acc">instituciones accesibles</span> &nbsp;·&nbsp; {feed_link}</p>
+       {n_inst_ok} <span id="pg-acc">instituciones accesibles</span></p>
   </div>
   <div class="stats">
     <div class="stat"><div class="n">{len(instituciones)}</div><div class="l" id="sl-inst">Instituciones</div></div>
@@ -1209,6 +1211,7 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
     <div class="stat"><div class="n">{n_pdfs}</div><div class="l">PDFs</div></div>
   </div>
   <div class="lang-sw">
+    {'<a href="' + feed_url + '" class="rss-btn" title="Assinar feed RSS/Atom — cole esta URL no seu leitor de feeds">&#9656; RSS</a>' if feed_url else ''}
     <button class="lb on" id="lb-es" onclick="setLang('es')">ES</button>
     <button class="lb"    id="lb-en" onclick="setLang('en')">EN</button>
     <button class="lb"    id="lb-pt" onclick="setLang('pt')">PT</button>
