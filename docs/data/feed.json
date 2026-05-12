@@ -1,8 +1,140 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Notas de Prensa — Defensorías de las Américas",
-  "feed_url": "https://joaogcml.github.io/defensorias-americas/data/feed.json",
+  "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
+    {
+      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-eletronica-n-109-2026-aquisicao-de-filtro-de-cafeteira",
+      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-eletronica-n-109-2026-aquisicao-de-filtro-de-cafeteira",
+      "title": "Aviso de Dispensa Eletrônica n° 109/2026 - Aquisição de filtro de cafeteira",
+      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
+      "date_published": "2026-05-15T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:3245203927692346518",
+      "url": "",
+      "title": "Defensoria Pública de SP abre consulta pública para o X Plano de Atuação (2026–2027)",
+      "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
+      "date_published": "2026-05-12T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/12/defensoria-amplia-debate-sobre-praticas-de-atendimento-ao-publico-em-capacitacao-nesta-quinta-feira-14/",
+      "url": "https://defensoria.am.def.br/2026/05/12/defensoria-amplia-debate-sobre-praticas-de-atendimento-ao-publico-em-capacitacao-nesta-quinta-feira-14/",
+      "title": "Defensoria amplia debate sobre ‘Práticas de Atendimento ao Público’ em capacitação nesta quinta-feira (14)",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-12T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.ce.def.br/noticia/#content",
+      "url": "https://www.defensoria.ce.def.br/noticia/#content",
+      "title": "conteúdo",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-12T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.ce.def.br/noticia/#mic-init-access-tool",
+      "url": "https://www.defensoria.ce.def.br/noticia/#mic-init-access-tool",
+      "title": "Menu de Acessibilidade",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-12T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.ce.def.br/noticia/criada-para-fortalecer-defesas-criminais-central-de-investigacao-defensiva-chega-aos-3-anos-com-mais-de-40-casos-acompanhados/",
+      "url": "https://www.defensoria.ce.def.br/noticia/criada-para-fortalecer-defesas-criminais-central-de-investigacao-defensiva-chega-aos-3-anos-com-mais-de-40-casos-acompanhados/",
+      "title": "Arquivos:Notícias",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-12T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-8826676263906867275",
+      "url": "",
+      "title": "12 de maio de 2026",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-12T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-1519755632555885747",
+      "url": "",
+      "title": "Criada para fortalecer defesas criminais, Central de Investigação Defensiva chega aos 3 anos com mais de 40 casos acompanhados",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-12T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16678/defensoria-regional-de-valparaiso-realizo-charla-sobre-derechos-y-justicia-juvenil-en-el-colegio-maria-auxiliadora",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16678/defensoria-regional-de-valparaiso-realizo-charla-sobre-derechos-y-justicia-juvenil-en-el-colegio-maria-auxiliadora",
+      "title": "Defensoría Regional de Valparaíso realizó charla sobre derechos y justicia juvenil en el colegio “María Auxiliadora”",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-05-12T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16677/tribunal-absolvio-a-joven-acusado-de-trafico-tras-acreditar-falta-de-participacion",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16677/tribunal-absolvio-a-joven-acusado-de-trafico-tras-acreditar-falta-de-participacion",
+      "title": "Tribunal absolvió a joven acusado de tráfico tras acreditar falta de participación",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-05-12T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
+      "id": "https://www.chrc-ccdp.gc.ca/resources",
+      "url": "https://www.chrc-ccdp.gc.ca/resources",
+      "title": "Resources",
+      "summary": "Canadian Human Rights Commission (Canadá)",
+      "date_published": "2026-05-12T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "news"
+      ]
+    },
     {
       "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-monitorea-movilizaciones-en-la-paz-y-el-alto-y-llama-a-mantener-el-dialogo-y-la-protesta-pacifica",
       "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-monitorea-movilizaciones-en-la-paz-y-el-alto-y-llama-a-mantener-el-dialogo-y-la-protesta-pacifica",
@@ -44,6 +176,78 @@
       "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4117/",
       "title": "DPPE realiza mutirão carcerário e analisa 241 processos de presos provisórios no Presídio de Itaquitinga I (PIT I)",
       "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-05-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/11/defensoria-inicia-mutirao-previdenciario-em-codajas-e-amplia-acesso-da-populacao-a-beneficios-sociais/",
+      "url": "https://defensoria.am.def.br/2026/05/11/defensoria-inicia-mutirao-previdenciario-em-codajas-e-amplia-acesso-da-populacao-a-beneficios-sociais/",
+      "title": "Defensoria inicia Mutirão Previdenciário em Codajás e amplia acesso da população a benefícios sociais",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-8371977869586895535",
+      "url": "",
+      "title": "11 de maio de 2026",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:880494175346668765",
+      "url": "",
+      "title": "Assessoria de Estágio da DPCE convoca candidatos(as) de pós-graduação para solenidades de posse em Icó e Crato",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-7196825861397953329",
+      "url": "",
+      "title": "Assessoria de Estágio divulga resultado parcial da prova objetiva de seleção para estagiários de Direito na capital e interior",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-1788120808820793712",
+      "url": "",
+      "title": "Cadê o sobrenome da minha mãe?",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-2577699883509095976",
+      "url": "",
+      "title": "Pesquisa Datafolha revela que a violência também entra no bolso pelo celular",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
       "date_published": "2026-05-11T00:00:00",
       "tags": [
         "Brasil",
@@ -460,15 +664,27 @@
       ]
     },
     {
-      "id": "https://www.chrc-ccdp.gc.ca/resources",
-      "url": "https://www.chrc-ccdp.gc.ca/resources",
-      "title": "Resources",
-      "summary": "Canadian Human Rights Commission (Canadá)",
-      "date_published": "2026-05-10T00:00:00",
+      "id": "https://defensoria.am.def.br/2026/05/09/defensoria-ta-na-area-inicia-agendamentos-para-acao-no-bairro-gilberto-mestrinho/",
+      "url": "https://defensoria.am.def.br/2026/05/09/defensoria-ta-na-area-inicia-agendamentos-para-acao-no-bairro-gilberto-mestrinho/",
+      "title": "Defensoria Tá na Área inicia agendamentos para ação no bairro Gilberto Mestrinho",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-09T00:00:00",
       "tags": [
-        "Canadá",
-        "Norteamérica",
-        "news"
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/09/defensoria-e-faf-lancam-campanha-de-combate-a-violencia-contra-criancas-e-adolescentes-no-futebol-de-base/",
+      "url": "https://defensoria.am.def.br/2026/05/09/defensoria-e-faf-lancam-campanha-de-combate-a-violencia-contra-criancas-e-adolescentes-no-futebol-de-base/",
+      "title": "Defensoria e FAF lançam campanha de combate à violência psicológica e verbal no futebol de base",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
       ]
     },
     {
@@ -496,7 +712,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1301060232368327434",
+      "id": "urn:defensorias:-266003573539614155",
       "url": "",
       "title": "Dia das Mães: Defensoria destaca serviços de proteção e orientação jurídica às mulheres",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -524,6 +740,90 @@
       "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4116/",
       "title": "DPPE intensifica presença no interior durante agenda institucional em Nazaré da Mata",
       "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-05-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/08/defensoria-debate-assedio-moral-e-sexual-no-trabalho-em-curso-sobre-prevencao-e-acolhimento/",
+      "url": "https://defensoria.am.def.br/2026/05/08/defensoria-debate-assedio-moral-e-sexual-no-trabalho-em-curso-sobre-prevencao-e-acolhimento/",
+      "title": "Defensoria debate assédio moral e sexual no trabalho em curso sobre prevenção e acolhimento",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/08/defensoria-e-funati-lancam-nova-edicao-do-curso-defensor-digital-60-e-fortalecem-parceria-institucional/",
+      "url": "https://defensoria.am.def.br/2026/05/08/defensoria-e-funati-lancam-nova-edicao-do-curso-defensor-digital-60-e-fortalecem-parceria-institucional/",
+      "title": "Defensoria e FUnATI lançam nova edição do curso ‘Defensor Digital 60+’ e fortalecem parceria institucional",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-1888054359493274926",
+      "url": "",
+      "title": "8 de maio de 2026",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-3170433510526928831",
+      "url": "",
+      "title": "Defensoria realiza quinta audiência pública do Orçamento Participativo no Crato, nesta terça-feira (12.05)",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-2937479031128809971",
+      "url": "",
+      "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidade de posse em Sobral",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-5967194298623617711",
+      "url": "",
+      "title": "Abandono afetivo: quando a ausência também vira dano",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:5322763143779523618",
+      "url": "",
+      "title": "Moradores do Vale do Jaguaribe e Litoral Leste debatem planejamento para a Defensoria no OP de Morada Nova",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
       "date_published": "2026-05-08T00:00:00",
       "tags": [
         "Brasil",
@@ -676,27 +976,123 @@
       ]
     },
     {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16668/defensoria-lanza-academia-para-perfeccionar-el-conocimiento-de-sus-profesionales",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16668/defensoria-lanza-academia-para-perfeccionar-el-conocimiento-de-sus-profesionales",
-      "title": "Defensoría lanza academia para perfeccionar el conocimiento de sus profesionales",
-      "summary": "Defensoría Penal Pública (Chile)",
+      "id": "https://defensoria.am.def.br/2026/05/07/defensoria-oferece-servicos-voltados-a-populacao-originaria-em-contexto-urbano-em-manaus/",
+      "url": "https://defensoria.am.def.br/2026/05/07/defensoria-oferece-servicos-voltados-a-populacao-originaria-em-contexto-urbano-em-manaus/",
+      "title": "Defensoria oferece serviços voltados à população originária em contexto urbano em Manaus",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-05-07T00:00:00",
       "tags": [
-        "Chile",
+        "Brasil",
         "Sudamérica",
-        "sala_prensa"
+        "noticias"
       ]
     },
     {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16667/equipo-de-la-defensoria-penal-publica-realizo-operativo-con-mujeres-privadas-de-libertad",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16667/equipo-de-la-defensoria-penal-publica-realizo-operativo-con-mujeres-privadas-de-libertad",
-      "title": "Equipo de la Defensoría Penal Pública realizó operativo con mujeres privadas de libertad",
-      "summary": "Defensoría Penal Pública (Chile)",
+      "id": "https://defensoria.am.def.br/2026/05/07/em-parceria-com-a-caritas-manaus-defensoria-garante-apoio-juridico-a-criancas-e-adolescentes-vitimas-de-violencia-sexual/",
+      "url": "https://defensoria.am.def.br/2026/05/07/em-parceria-com-a-caritas-manaus-defensoria-garante-apoio-juridico-a-criancas-e-adolescentes-vitimas-de-violencia-sexual/",
+      "title": "Defensoria garante apoio jurídico a crianças e adolescentes vítimas de violência sexual",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-05-07T00:00:00",
       "tags": [
-        "Chile",
+        "Brasil",
         "Sudamérica",
-        "sala_prensa"
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/07/defensoria-do-amazonas-leva-escuta-especializada-a-pessoas-idosas-no-bairro-taruma/",
+      "url": "https://defensoria.am.def.br/2026/05/07/defensoria-do-amazonas-leva-escuta-especializada-a-pessoas-idosas-no-bairro-taruma/",
+      "title": "Defensoria do Amazonas leva escuta especializada a pessoas idosas no bairro Tarumã",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-07T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/07/defensoria-publica-do-amazonas-empossa-mais-dois-servidores-aprovados-em-concurso/",
+      "url": "https://defensoria.am.def.br/2026/05/07/defensoria-publica-do-amazonas-empossa-mais-dois-servidores-aprovados-em-concurso/",
+      "title": "Defensoria Pública do Amazonas empossa mais dois servidores aprovados em concurso",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-07T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/07/defensoria-publica-do-amazonas-realiza-integracao-de-novos-estagiarios-e-residentes/",
+      "url": "https://defensoria.am.def.br/2026/05/07/defensoria-publica-do-amazonas-realiza-integracao-de-novos-estagiarios-e-residentes/",
+      "title": "Defensoria Pública do Amazonas realiza integração de novos estagiários e residentes",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-07T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/07/em-comunidade-ribeirinha-de-borba-mae-solo-busca-a-defensoria-para-dar-entrada-no-pedido-de-pensao-da-filha/",
+      "url": "https://defensoria.am.def.br/2026/05/07/em-comunidade-ribeirinha-de-borba-mae-solo-busca-a-defensoria-para-dar-entrada-no-pedido-de-pensao-da-filha/",
+      "title": "Em comunidade ribeirinha de Borba, mãe solo busca a Defensoria para dar entrada no pedido de pensão da filha",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-07T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/07/amazonas-sediara-lancamento-de-obra-coletiva-sobre-a-participacao-da-defensoria-publica-na-cop30/",
+      "url": "https://defensoria.am.def.br/2026/05/07/amazonas-sediara-lancamento-de-obra-coletiva-sobre-a-participacao-da-defensoria-publica-na-cop30/",
+      "title": "Amazonas sediará lançamento de obra coletiva sobre a participação da Defensoria Pública na COP30",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-07T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/07/defensoria-publica-celebra-dia-das-maes-com-foco-no-fortalecimento-de-vinculos-de-jovens-do-sistema-socioeducativo/",
+      "url": "https://defensoria.am.def.br/2026/05/07/defensoria-publica-celebra-dia-das-maes-com-foco-no-fortalecimento-de-vinculos-de-jovens-do-sistema-socioeducativo/",
+      "title": "Defensoria celebra Dia das Mães com foco no fortalecimento de vínculos de jovens do sistema socioeducativo",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-07T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/07/defensoria-ta-na-area-chega-a-segunda-comunidade-indigena-de-borba-para-atendimento-juridico-gratuito/",
+      "url": "https://defensoria.am.def.br/2026/05/07/defensoria-ta-na-area-chega-a-segunda-comunidade-indigena-de-borba-para-atendimento-juridico-gratuito/",
+      "title": "’Defensoria Tá na Área’ chega à segunda comunidade indígena de Borba para atendimento jurídico",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-07T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-6550116684050553048",
+      "url": "",
+      "title": "7 de maio de 2026",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-07T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
       ]
     },
     {
@@ -708,6 +1104,18 @@
       "tags": [
         "Perú",
         "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://conadeh.hn/?cat=1",
+      "url": "https://conadeh.hn/?cat=1",
+      "title": "CONADEH cuenta con nuevo Comité de Probidad y Ética",
+      "summary": "Comisionado Nacional de los Derechos Humanos (CONADEH) (Honduras)",
+      "date_published": "2026-05-07T00:00:00",
+      "tags": [
+        "Honduras",
+        "Centroamérica",
         "noticias"
       ]
     },
@@ -760,7 +1168,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1420721300630788557",
+      "id": "urn:defensorias:-5835920428680333498",
       "url": "",
       "title": "Justiça de Ribeirão Preto condena município após ação da Defensoria Pública por negligência em abrigo institucional",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -772,7 +1180,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4573021921763118260",
+      "id": "urn:defensorias:8608634222924540071",
       "url": "",
       "title": "Defensoria Pública de SP contribui com subsídios ao STF em julgamento sobre política de cotas raciais",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -789,414 +1197,6 @@
       "title": "Ofício da Defensoria Pública fundamentou decisão histórica pela autonomia da perícia criminal no RJ",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-05-06T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32628-DPRJ-disponibiliza-pareceres-do-Nucleo-de-Assessoria-Farmaceutica-NAF-para-todo-o-Brasil",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32628-DPRJ-disponibiliza-pareceres-do-Nucleo-de-Assessoria-Farmaceutica-NAF-para-todo-o-Brasil",
-      "title": "DPRJ democratiza acesso a pareceres farmacêuticos para fortalecer ações de saúde",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-05-06T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4114/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4114/",
-      "title": "Defensoria Pública de Pernambuco realiza visita institucional ao Comando da 7ª Região Militar",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-05-06T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-personas-discapacidad-acnudh/",
-      "url": "https://www.indh.cl/indh-personas-discapacidad-acnudh/",
-      "title": "Situación de las personas con discapacidad: INDH y ACNUDH iniciaron ciclo con organizaciones sociales para redactar informes alternativos frente al próximo examen de Chile ante Naciones Unidas",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-05-06T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/consentement-soins-enfant-14-ans",
-      "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/consentement-soins-enfant-14-ans",
-      "title": "Soins de santé : votre enfant de 14 ans peut-il les refuser?",
-      "summary": "Protecteur du citoyen du Québec (Canadá)",
-      "date_published": "2026-05-06T00:00:00",
-      "tags": [
-        "Canadá",
-        "Norteamérica",
-        "nouvelles"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/080.asp&utm_term=class-mon",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/080.asp&utm_term=class-mon",
-      "title": "R80/26—La Relatoría Especial para la Libertad de Expresión de la CIDH condena el asesinato de al menos ocho periodistas en las Américas desde enero de 2026",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-05-06T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/079.asp&utm_content=country-ven&utm_term=class-mc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/079.asp&utm_content=country-ven&utm_term=class-mc",
-      "title": "79/26—CIDH otorga medidas cautelares a Carmelo, Daniel y Levin De Grazia, en Venezuela",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-05-06T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-4489999061663565759",
-      "url": "",
-      "title": "Defensoria Pública de SP inicia atendimento em Sumaré e amplia acesso à Justiça na região",
-      "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32625-Defensoria-move-acao-para-garantir-tarifa-social-de-agua-a-mais-de-6-mil-familias-em-Vassouras",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32625-Defensoria-move-acao-para-garantir-tarifa-social-de-agua-a-mais-de-6-mil-familias-em-Vassouras",
-      "title": "Defensoria move ACP para garantir tarifa social de água e esgoto para 6 mil famílias em Vassouras",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4113/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4113/",
-      "title": "DPPE realiza capacitação sobre IA para colaboradores da Coordenadoria de Gestão",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-tarapaca-libertad-expresion/",
-      "url": "https://www.indh.cl/indh-tarapaca-libertad-expresion/",
-      "title": "Libertad de expresión y discursos de odio: INDH de Tarapacá abordó capítulo del Informe Anual 2025 en el marco del Día de la Libertad de Prensa",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-maule-concurso-literario/",
-      "url": "https://www.indh.cl/indh-maule-concurso-literario/",
-      "title": "INDH Maule abre convocatoria para el concurso literario “Tus derechos en breves palabras 2026”",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/jefa-rios-indh-decano-austral/",
-      "url": "https://www.indh.cl/jefa-rios-indh-decano-austral/",
-      "title": "Jefa de Los Ríos del INDH se reunió con decano de Derecho de la Universidad Austral para vincular el quehacer académico con las demandas y desafíos de la región",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/wp-content/uploads/2026/05/NP-209-2026-Caso-de-3-hermanos-abandono-escolar-San-Martín-PRC.pdf",
-      "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/05/NP-209-2026-Caso-de-3-hermanos-abandono-escolar-San-Martín-PRC.pdf",
-      "title": "Nota de Prensa n.° 209/OGCO/DP/2026",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "notas_prensa"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/wp-content/uploads/2026/05/NP-208-2026-Derecho-a-la-identidad-5-niños-Chimbote-PRC.pdf",
-      "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/05/NP-208-2026-Derecho-a-la-identidad-5-niños-Chimbote-PRC.pdf",
-      "title": "Nota de Prensa n.° 208/OGCO/DP/2026",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "notas_prensa"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-al-ministerio-de-salud-y-al-ministerio-de-educacion-a-reforzar-medidas-preventivas-ante-incremento-de-casos-del-sindrome-de-mano-pie-y-boca-en-el-pais/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-al-ministerio-de-salud-y-al-ministerio-de-educacion-a-reforzar-medidas-preventivas-ante-incremento-de-casos-del-sindrome-de-mano-pie-y-boca-en-el-pais/",
-      "title": "Defensoría del Pueblo exhorta al Ministerio de Salud y al Ministerio de Educación a reforzar medidas preventivas ante incremento de casos del síndrome de mano, pie y boca en el país",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/labor-de-defensoria-del-pueblo-impulsa-garantia-del-derecho-a-la-identidad-de-ninos-para-el-acceso-a-educacion-salud-y-mas-oportunidades-en-chimbote/",
-      "url": "https://www.defensoria.gob.pe/labor-de-defensoria-del-pueblo-impulsa-garantia-del-derecho-a-la-identidad-de-ninos-para-el-acceso-a-educacion-salud-y-mas-oportunidades-en-chimbote/",
-      "title": "Labor de Defensoría del Pueblo impulsa garantía del derecho a la identidad de niños para el acceso a educación, salud y más oportunidades en Chimbote",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-contribuye-a-cambiar-el-futuro-de-3-hermanos-con-su-retorno-a-las-aulas-en-san-martin/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-contribuye-a-cambiar-el-futuro-de-3-hermanos-con-su-retorno-a-las-aulas-en-san-martin/",
-      "title": "Defensoría del Pueblo contribuye a cambiar el futuro de 3 hermanos con su retorno a las aulas en San Martín",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/vraem-defensoria-del-pueblo-interviene-para-que-se-garantice-la-proteccion-de-los-derechos-de-la-ninez-en-kimbiri/",
-      "url": "https://www.defensoria.gob.pe/vraem-defensoria-del-pueblo-interviene-para-que-se-garantice-la-proteccion-de-los-derechos-de-la-ninez-en-kimbiri/",
-      "title": "Vraem: Defensoría del Pueblo interviene para que se garantice la protección de los derechos de la niñez en Kimbiri",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-realiza-seguimiento-a-la-atencion-de-pacientes-renales-y-viabiliza-acuerdos-para-garantizar-servicios-de-hemodialisis",
-      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-realiza-seguimiento-a-la-atencion-de-pacientes-renales-y-viabiliza-acuerdos-para-garantizar-servicios-de-hemodialisis",
-      "title": "Defensor del Pueblo realiza seguimiento a la atención de pacientes renales y viabiliza acuerdos para garantizar servicios de hemodiálisis",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-05-04T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/-defensor-del-pueblo-en-linea%E2%80%9Dnueva-app-facilita-el-ejercicio-del-derecho-a-denunciar-de-forma-inmediata-y-gratuita",
-      "url": "https://www.defensoria.gob.bo/noticias/-defensor-del-pueblo-en-linea%E2%80%9Dnueva-app-facilita-el-ejercicio-del-derecho-a-denunciar-de-forma-inmediata-y-gratuita",
-      "title": "“DEFENSOR DEL PUEBLO EN LÍNEA”: NUEVA APP FACILITA EL EJERCICIO DEL DERECHO A DENUNCIAR DE FORMA INMEDIATA Y GRATUITA",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-05-04T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32622-DPRJ-reuniu-pais-em-encontro-para-fortalecer-direitos-das-mulheres",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32622-DPRJ-reuniu-pais-em-encontro-para-fortalecer-direitos-das-mulheres",
-      "title": "DPRJ reuniu país em encontro para fortalecer direitos das mulheres",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-05-04T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32620-DPRJ-atua-para-garantir-repasses-de-saude-e-evitar-colapso-em-municipios-fluminenses",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32620-DPRJ-atua-para-garantir-repasses-de-saude-e-evitar-colapso-em-municipios-fluminenses",
-      "title": "DPRJ atua para garantir repasses de saúde e evitar colapso em municípios fluminenses",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-05-04T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4112/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4112/",
-      "title": "Defensoria Pública de Pernambuco prestigia a abertura do Mês Estadual do Júri",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-05-04T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4111/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4111/",
-      "title": "DPPE marca presença na formatura dos novos policiais militares do Estado",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-05-04T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4110/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4110/",
-      "title": "Defensoria Pública de Pernambuco prestigia posse de desembargador do TRE-PE, Marcelo Labanca",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-05-04T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/encuentro-autoridades-departamentales",
-      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/encuentro-autoridades-departamentales",
-      "title": "Encuentro con autoridades departamentales",
-      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
-      "date_published": "2026-05-04T00:00:00",
-      "tags": [
-        "Uruguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/078.asp&utm_term=class-mon",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/078.asp&utm_term=class-mon",
-      "title": "R78/26—La Relatoría Especial para la Libertad de Expresión publica su Informe Anual 2025",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-05-04T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-rinde-cuentas-a-ninyas,-ninyos-y-adolescentes-y-destaca-avances-en-derechos-y-participacion",
-      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-rinde-cuentas-a-ninyas,-ninyos-y-adolescentes-y-destaca-avances-en-derechos-y-participacion",
-      "title": "Defensor del Pueblo rinde cuentas a niñas, niños y adolescentes y destaca avances en derechos y participación",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-05-03T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-afirma-que-militares-son-sujetos-de-derechos-y-pide-reforzar-la-dignidad-en-el-ambito-castrense",
-      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-afirma-que-militares-son-sujetos-de-derechos-y-pide-reforzar-la-dignidad-en-el-ambito-castrense",
-      "title": "Defensor del Pueblo afirma que militares son sujetos de derechos y pide reforzar la dignidad en el ámbito castrense",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-05-03T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-demanda-separacion-inmediata-de-funcionarios-responsables-de-no-velar-por-los-estandares-minimos-de-bioseguridad-higiene-y-manejo-de-ropa-contaminada-establecidos-en-la-normativ/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-demanda-separacion-inmediata-de-funcionarios-responsables-de-no-velar-por-los-estandares-minimos-de-bioseguridad-higiene-y-manejo-de-ropa-contaminada-establecidos-en-la-normativ/",
-      "title": "Defensoría del Pueblo demanda separación inmediata de funcionarios responsables de no velar por los estándares mínimos de bioseguridad, higiene y manejo de ropa contaminada establecidos en la normativa sanitaria vigente, en EsSalud",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-05-03T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-reforzar-medidas-de-seguridad-ante-amenazas-en-colegios/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-reforzar-medidas-de-seguridad-ante-amenazas-en-colegios/",
-      "title": "Defensoría del Pueblo exhorta a reforzar medidas de seguridad ante amenazas en colegios",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-05-01T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/077.asp&utm_content=country-hti",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/077.asp&utm_content=country-hti",
-      "title": "77/26—CIDH expresa preocupación por la continua violencia en Haití y por la muerte de personas en operaciones con drones",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-05-01T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/076.asp",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/076.asp",
-      "title": "RD76/26—La acción colectiva de las personas trabajadoras como garantía de los derechos laborales",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-05-01T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "urn:defensorias:6040914409934208406",
-      "url": "",
-      "title": "Defensoria leva circuito #DáPraResolver a Campinas com foco em negociação de dívidas",
-      "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
-      "date_published": "2026-04-30T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",
