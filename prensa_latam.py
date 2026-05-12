@@ -130,6 +130,42 @@ INSTITUCIONES_LATAM = [
         ],
     },
     {
+        "pais": "Brasil", "region": "Sudamérica",
+        "nombre": "Defensoria Pública do Estado do Amazonas",
+        "tipo": "Defensoria Pública", "idioma": "pt",
+        "url_base": "https://defensoria.am.def.br",
+        "secciones": [
+            {"url": "https://defensoria.am.def.br/noticias/", "tipo": "noticias"},
+        ],
+    },
+    {
+        "pais": "Brasil", "region": "Sudamérica",
+        "nombre": "Defensoria Pública do Estado de Alagoas",
+        "tipo": "Defensoria Pública", "idioma": "pt",
+        "url_base": "https://defensoria.al.def.br",
+        "secciones": [
+            {"url": "https://defensoria.al.def.br/noticias/", "tipo": "noticias"},
+        ],
+    },
+    {
+        "pais": "Brasil", "region": "Sudamérica",
+        "nombre": "Defensoria Pública do Estado do Ceará",
+        "tipo": "Defensoria Pública", "idioma": "pt",
+        "url_base": "https://www.defensoria.ce.def.br",
+        "secciones": [
+            {"url": "https://www.defensoria.ce.def.br/noticia/", "tipo": "noticias"},
+        ],
+    },
+    {
+        "pais": "Brasil", "region": "Sudamérica",
+        "nombre": "Defensoria Pública do Estado do Rio Grande do Sul",
+        "tipo": "Defensoria Pública", "idioma": "pt",
+        "url_base": "https://www.defensoria.rs.def.br",
+        "secciones": [
+            {"url": "https://www.defensoria.rs.def.br/noticias/", "tipo": "noticias"},
+        ],
+    },
+    {
         "pais": "Chile", "region": "Sudamérica",
         "nombre": "Defensoría Penal Pública",
         "tipo": "Defensoria Pública", "idioma": "es",
@@ -227,9 +263,9 @@ INSTITUCIONES_LATAM = [
         "pais": "Guyana", "region": "Sudamérica",
         "nombre": "Office of the Ombudsman of Guyana",
         "tipo": "Ombudsperson", "idioma": "en",
-        "url_base": "https://ombudsman.gov.gy",
+        "url_base": "https://ombudsmangy.org",
         "secciones": [
-            {"url": "https://ombudsman.gov.gy/news/", "tipo": "news"},
+            {"url": "https://ombudsmangy.org/news-press-releases/", "tipo": "news"},
         ],
     },
 
@@ -347,6 +383,15 @@ INSTITUCIONES_LATAM = [
         "secciones": [
             {"url": "https://www.ombudsman.org.tt/news/",         "tipo": "news"},
             {"url": "https://www.ombudsman.org.tt/press-releases/","tipo": "press_release"},
+        ],
+    },
+    {
+        "pais": "Curaçao", "region": "Caribe",
+        "nombre": "Ombudsman van Curaçao",
+        "tipo": "Ombudsperson", "idioma": "nl",
+        "url_base": "https://www.ombudsman.cw",
+        "secciones": [
+            {"url": "https://www.ombudsman.cw/nieuws/", "tipo": "news"},
         ],
     },
     {
@@ -504,6 +549,7 @@ COORDS = {
     "República Dominicana":[ 18.5, -69.9],
     "Jamaica":             [ 18.0, -76.8],
     "Trinidad y Tobago":   [ 10.7, -61.5],
+    "Curaçao":             [ 12.1, -68.9],
     "Haití":               [ 18.5, -72.3],
     "Canadá":              [ 49.0, -95.0],
     "Regional":            [  4.0, -74.0],
@@ -638,7 +684,7 @@ SELECTORES_ITEMS = [
     "article", ".noticia", ".news-item", ".news-card", ".press-item",
     ".entry", ".post", "li.views-row", "li.news-item", ".card",
     ".media-body", ".comunicado", ".comunicados li", ".comunicados",
-    ".press-release", ".item", ".documento",
+    ".press-release", ".item", ".documento", ".article-header", "li.media",
 ]
 
 SELECTORES_TITULO = [
@@ -1207,8 +1253,10 @@ header p{{font-size:.75rem;color:#7a8fa0;margin-top:3px}}
 
 .tabs{{display:flex;background:#0d1822;border-bottom:2px solid #1a3045}}
 .tab{{padding:11px 22px;cursor:pointer;font-size:.83rem;color:#7a8fa0;border:none;
-  background:none;border-bottom:2px solid transparent;margin-bottom:-2px;transition:all .2s}}
+  background:none;border-bottom:2px solid transparent;margin-bottom:-2px;transition:all .2s;
+  display:inline-flex;align-items:center;gap:6px}}
 .tab:hover{{color:#64b5e8}}.tab.on{{color:#64b5e8;border-bottom-color:#64b5e8;font-weight:600}}
+.tab svg{{flex-shrink:0}}
 
 .panel{{display:none}}.panel.on{{display:block}}
 #map{{height:calc(100vh - 195px);width:100%}}
@@ -1338,9 +1386,9 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
 </div>
 
 <div class="tabs">
-  <button class="tab on" id="tab-mapa" onclick="sw('mapa',this)">🗺 Mapa</button>
-  <button class="tab"    id="tab-tl"   onclick="sw('tl',this)">📅 Timeline</button>
-  <button class="tab"    id="tab-tb"   onclick="sw('tb',this)">📋 Tabla</button>
+  <button class="tab on" id="tab-mapa" onclick="sw('mapa',this)"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="3 6 9 3 15 6 21 3 21 18 15 21 9 18 3 21"/><line x1="9" y1="3" x2="9" y2="18"/><line x1="15" y1="6" x2="15" y2="21"/></svg><span id="tab-mapa-lbl">Mapa</span></button>
+  <button class="tab"    id="tab-tl"   onclick="sw('tl',this)"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg><span id="tab-tl-lbl">Timeline</span></button>
+  <button class="tab"    id="tab-tb"   onclick="sw('tb',this)"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="1"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="3" y1="15" x2="21" y2="15"/><line x1="9" y1="9" x2="9" y2="21"/></svg><span id="tab-tb-lbl">Tabla</span></button>
 </div>
 
 <div id="pmapa" class="panel on">
@@ -1413,7 +1461,7 @@ const FEED_BASE = '{feed_url.rsplit("/", 1)[0] + "/" if feed_url else ""}';
 const LANGS = {{
   es: {{
     title:"Notas de Prensa y Comunicados — Defensorías de las Américas",
-    tab_map:"🗺 Mapa", tab_tl:"📅 Timeline", tab_tb:"📋 Tabla",
+    tab_map:"Mapa", tab_tl:"Timeline", tab_tb:"Tabla",
     sl_inst:"Instituciones", sl_cf:"Con fecha", sl_sf:"Sin fecha",
     pg_gen:"Generado", pg_win:"Ventana", pg_days:"días", pg_acc:"instituciones accesibles",
     ph_tl:"Buscar titular o institución...", ph_tb:"Buscar...",
@@ -1434,7 +1482,7 @@ const LANGS = {{
   }},
   en: {{
     title:"Press Releases & Communiqués — Ombudspersons of the Americas",
-    tab_map:"🗺 Map", tab_tl:"📅 Timeline", tab_tb:"📋 Table",
+    tab_map:"Map", tab_tl:"Timeline", tab_tb:"Table",
     sl_inst:"Institutions", sl_cf:"Dated", sl_sf:"Undated",
     pg_gen:"Generated", pg_win:"Window", pg_days:"days", pg_acc:"institutions accessible",
     ph_tl:"Search headline or institution...", ph_tb:"Search...",
@@ -1455,7 +1503,7 @@ const LANGS = {{
   }},
   pt: {{
     title:"Notas de Imprensa e Comunicados — Defensorias das Américas",
-    tab_map:"🗺 Mapa", tab_tl:"📅 Linha do tempo", tab_tb:"📋 Tabela",
+    tab_map:"Mapa", tab_tl:"Linha do tempo", tab_tb:"Tabela",
     sl_inst:"Instituições", sl_cf:"Com data", sl_sf:"Sem data",
     pg_gen:"Gerado", pg_win:"Janela", pg_days:"dias", pg_acc:"instituições acessíveis",
     ph_tl:"Buscar título ou instituição...", ph_tb:"Buscar...",
@@ -1476,7 +1524,7 @@ const LANGS = {{
   }},
   fr: {{
     title:"Communiqués de presse — Défenseurs des droits des Amériques",
-    tab_map:"🗺 Carte", tab_tl:"📅 Chronologie", tab_tb:"📋 Tableau",
+    tab_map:"Carte", tab_tl:"Chronologie", tab_tb:"Tableau",
     sl_inst:"Institutions", sl_cf:"Datés", sl_sf:"Sans date",
     pg_gen:"Généré", pg_win:"Fenêtre", pg_days:"jours", pg_acc:"institutions accessibles",
     ph_tl:"Rechercher un titre ou institution...", ph_tb:"Rechercher...",
@@ -1511,9 +1559,9 @@ function setLang(code) {{
   document.getElementById('sl-inst').textContent  = T.sl_inst;
   document.getElementById('sl-cf').textContent    = T.sl_cf;
   document.getElementById('sl-sf').textContent    = T.sl_sf;
-  document.getElementById('tab-mapa').textContent = T.tab_map;
-  document.getElementById('tab-tl').textContent   = T.tab_tl;
-  document.getElementById('tab-tb').textContent   = T.tab_tb;
+  document.getElementById('tab-mapa-lbl').textContent = T.tab_map;
+  document.getElementById('tab-tl-lbl').textContent   = T.tab_tl;
+  document.getElementById('tab-tb-lbl').textContent   = T.tab_tb;
   // Placeholders
   document.getElementById('tl-q').placeholder = T.ph_tl;
   document.getElementById('tb-q').placeholder = T.ph_tb;
@@ -1552,24 +1600,27 @@ L.tileLayer('https://{{s}}.basemaps.cartocdn.com/dark_all/{{z}}/{{x}}/{{y}}{{r}}
   attribution:'&copy; CARTO',subdomains:'abcd',maxZoom:19}}).addTo(map);
 
 function mkIcon(color, count, err) {{
-  const s = count>0 ? Math.min(40,20+count*3) : 18;
-  const op = err ? .3 : count>0 ? 1 : .55;
-  const badge = count>0 ? `<div style="position:absolute;top:-7px;right:-7px;
-    background:#e74c3c;color:#fff;border-radius:50%;width:18px;height:18px;
-    font-size:10px;font-weight:700;display:flex;align-items:center;
-    justify-content:center;border:2px solid #0d1b2a">${{count}}</div>` : '';
-  return L.divIcon({{className:'',iconSize:[s,s],iconAnchor:[s/2,s/2],popupAnchor:[0,-(s/2+4)],
-    html:`<div style="width:${{s}}px;height:${{s}}px;border-radius:50%;
-      background:${{color}};border:2px solid rgba(255,255,255,.35);
-      opacity:${{op}};position:relative;box-shadow:0 2px 8px rgba(0,0,0,.5)">
-      ${{badge}}</div>`}});
+  const s  = count>0 ? Math.min(36,18+count*2.5) : 16;
+  const ph = Math.round(s * 1.5);
+  const op = err ? .25 : count>0 ? 1 : .5;
+  const badge = count>0 ? `<div style="position:absolute;top:-8px;right:-8px;
+    background:#e74c3c;color:#fff;border-radius:50%;width:17px;height:17px;
+    font-size:9px;font-weight:700;display:flex;align-items:center;
+    justify-content:center;border:2px solid #0d1b2a;line-height:1">${{count}}</div>` : '';
+  const pin = `<svg width="${{s}}" height="${{ph}}" viewBox="0 0 24 32" style="display:block">
+    <path d="M12 0C7.6 0 4 3.6 4 8c0 5.3 8 20 8 20s8-14.7 8-20c0-4.4-3.6-8-8-8z"
+      fill="${{color}}" stroke="rgba(255,255,255,.35)" stroke-width="1.2" opacity="${{op}}"/>
+    <circle cx="12" cy="8.5" r="3.5" fill="rgba(255,255,255,.45)" opacity="${{op}}"/>
+  </svg>`;
+  return L.divIcon({{className:'',iconSize:[s,ph],iconAnchor:[s/2,ph],popupAnchor:[0,-(ph+2)],
+    html:`<div style="position:relative">${{pin}}${{badge}}</div>`}});
 }}
 
 const _markers = [];
 MK.forEach(m=>{{
   const ic = mkIcon(m.color, m.n_periodo, !!m.error);
   let html = `<div class="pt">${{m.nombre}}</div>
-    <div class="pp">🌎 ${{m.pais}} · ${{m.tipo}}</div>`;
+    <div class="pp">${{m.pais}} · ${{m.tipo}}</div>`;
   if(m.error) html+=`<div class="perr">${{T.noaccess}}</div>`;
   else if(m.items_periodo.length) {{
     html+=`<ul class="plist">`;
@@ -1651,7 +1702,7 @@ function openInstModal() {{
       html += `<div class="inst-card ${{acc}}">
         <div class="ic-name">${{name}}</div>
         <div class="ic-meta">
-          <span>🌎 ${{i.pais}}</span>
+          <span>${{i.pais}}</span>
           <span style="color:#3a5a70">${{i.tipo}}</span>
           ${{badge}}
           ${{feedLink}}
