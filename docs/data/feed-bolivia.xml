@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-05-12T15:40:46Z</updated>
+  <updated>2026-05-12T23:10:18Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensor del Pueblo exhorta al diálogo y a preservar los derechos humanos frente a la creciente conflictividad social</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-exhorta-al-dialogo-y-a-preservar-los-derechos-humanos-frente-a-la-creciente-conflictividad-social</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-exhorta-al-dialogo-y-a-preservar-los-derechos-humanos-frente-a-la-creciente-conflictividad-social" />
+    <updated>2026-05-12T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo monitorea movilizaciones en La Paz y El Alto y llama a mantener el diálogo y la protesta pacífica</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-monitorea-movilizaciones-en-la-paz-y-el-alto-y-llama-a-mantener-el-dialogo-y-la-protesta-pacifica</id>
@@ -65,13 +72,6 @@
     <title>Defensor del Pueblo rinde cuentas a niñas, niños y adolescentes y destaca avances en derechos y participación</title>
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-rinde-cuentas-a-ninyas,-ninyos-y-adolescentes-y-destaca-avances-en-derechos-y-participacion</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-rinde-cuentas-a-ninyas,-ninyos-y-adolescentes-y-destaca-avances-en-derechos-y-participacion" />
-    <updated>2026-05-03T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensor del Pueblo afirma que militares son sujetos de derechos y pide reforzar la dignidad en el ámbito castrense</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-afirma-que-militares-son-sujetos-de-derechos-y-pide-reforzar-la-dignidad-en-el-ambito-castrense</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-afirma-que-militares-son-sujetos-de-derechos-y-pide-reforzar-la-dignidad-en-el-ambito-castrense" />
     <updated>2026-05-03T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
