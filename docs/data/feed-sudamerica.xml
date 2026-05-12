@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Notas de Prensa — Defensorías de las Américas</title>
-  <id>urn:defensorias-americas:prensa:all</id>
+  <title>Notas de Prensa — Defensorías de las Américas · Sudamérica</title>
+  <id>urn:defensorias-americas:prensa:sudamerica</id>
   <updated>2026-05-12T03:00:15Z</updated>
-  <link rel="self" href="https://joaogcml.github.io/defensorias-americas/data/feed.xml" />
+  <link rel="self" href="https://joaogcml.github.io/defensorias-americas/data/feed-sudamerica.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
     <title>Defensoría del Pueblo monitorea movilizaciones en La Paz y El Alto y llama a mantener el diálogo y la protesta pacífica</title>
@@ -244,39 +244,11 @@
     <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
   </entry>
   <entry>
-    <title>Enquête sur l’utilisation de l’IA dans les services publics : appel à mémoires</title>
-    <id>https://protecteurducitoyen.qc.ca/fr/nouvelles/appel-memoires-intelligence-artificielle-services-publics</id>
-    <link href="https://protecteurducitoyen.qc.ca/fr/nouvelles/appel-memoires-intelligence-artificielle-services-publics" />
-    <updated>2026-05-11T00:00:00</updated>
-    <summary>Protecteur du citoyen du Québec (Canadá) — nouvelles</summary>
-  </entry>
-  <entry>
-    <title>Revenu Québec : attention de ne pas suspendre le dossier trop vite</title>
-    <id>https://protecteurducitoyen.qc.ca/fr/enquetes/cas-vecus/revenu-quebec-ne-pas-suspendre-dossier-trop-vite</id>
-    <link href="https://protecteurducitoyen.qc.ca/fr/enquetes/cas-vecus/revenu-quebec-ne-pas-suspendre-dossier-trop-vite" />
-    <updated>2026-05-11T00:00:00</updated>
-    <summary>Protecteur du citoyen du Québec (Canadá) — nouvelles</summary>
-  </entry>
-  <entry>
-    <title>82/26—CIDH publica informe sobre desaparición de personas en México</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/082.asp&amp;utm_content=country-mex&amp;utm_term=class-mon</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/082.asp&amp;utm_content=country-mex&amp;utm_term=class-mon" />
-    <updated>2026-05-11T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
     <title>EL ESTADO DEBE GARANTIZAR Y PROTEGER LA LABOR PERIODÍSTICA COMO PILAR DE LA DEMOCRACIA</title>
     <id>https://www.defensoria.gob.bo/noticias/el-estado-debe-garantizar-y-proteger-la-labor-periodistica-como-pilar-de-la-democracia</id>
     <link href="https://www.defensoria.gob.bo/noticias/el-estado-debe-garantizar-y-proteger-la-labor-periodistica-como-pilar-de-la-democracia" />
     <updated>2026-05-10T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Resources</title>
-    <id>https://www.chrc-ccdp.gc.ca/resources</id>
-    <link href="https://www.chrc-ccdp.gc.ca/resources" />
-    <updated>2026-05-10T00:00:00</updated>
-    <summary>Canadian Human Rights Commission (Canadá) — news</summary>
   </entry>
   <entry>
     <title>Piura: Defensoría Del Pueblo impulsa medidas urgentes para garantizar la seguridad y educación de estudiantes de Carrasquillo</title>
@@ -418,20 +390,6 @@
     <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
   </entry>
   <entry>
-    <title>Réaction au projet de loi no 23</title>
-    <id>https://protecteurducitoyen.qc.ca/fr/enquetes/reactions-aux-projets-de-loi-et-de-reglement/memoire-projet-loi-23-etat-mentale-risque-securite</id>
-    <link href="https://protecteurducitoyen.qc.ca/fr/enquetes/reactions-aux-projets-de-loi-et-de-reglement/memoire-projet-loi-23-etat-mentale-risque-securite" />
-    <updated>2026-05-07T00:00:00</updated>
-    <summary>Protecteur du citoyen du Québec (Canadá) — nouvelles</summary>
-  </entry>
-  <entry>
-    <title>81/26—CIDH y REDESCA publican Resolución sobre Políticas Fiscales y Derechos Humanos en las Américas</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/081.asp</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/081.asp" />
-    <updated>2026-05-07T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
     <title>DEFENSOR DEL PUEBLO INSTALA PUNTO DE ATENCIÓN MÉDICA EN LA UMSA Y FORTALECE PROTECCIÓN INTEGRAL DE NIÑAS, NIÑOS Y ADOLESCENTES EN CONTEXTO DE MOVILIZACIÓN</title>
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-instala-punto-de-atencion-medica-en-la-umsa-y-fortalece-proteccion-integral-de-ninyas,-ninyos-y-adolescentes-en-contexto-de-movilizacion</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-instala-punto-de-atencion-medica-en-la-umsa-y-fortalece-proteccion-integral-de-ninyas,-ninyos-y-adolescentes-en-contexto-de-movilizacion" />
@@ -484,27 +442,6 @@
     <link href="https://www.indh.cl/indh-personas-discapacidad-acnudh/" />
     <updated>2026-05-06T00:00:00</updated>
     <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Soins de santé : votre enfant de 14 ans peut-il les refuser?</title>
-    <id>https://protecteurducitoyen.qc.ca/fr/conseils/capsules/consentement-soins-enfant-14-ans</id>
-    <link href="https://protecteurducitoyen.qc.ca/fr/conseils/capsules/consentement-soins-enfant-14-ans" />
-    <updated>2026-05-06T00:00:00</updated>
-    <summary>Protecteur du citoyen du Québec (Canadá) — nouvelles</summary>
-  </entry>
-  <entry>
-    <title>R80/26—La Relatoría Especial para la Libertad de Expresión de la CIDH condena el asesinato de al menos ocho periodistas en las Américas desde enero de 2026</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/080.asp&amp;utm_term=class-mon</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/080.asp&amp;utm_term=class-mon" />
-    <updated>2026-05-06T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>79/26—CIDH otorga medidas cautelares a Carmelo, Daniel y Levin De Grazia, en Venezuela</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/079.asp&amp;utm_content=country-ven&amp;utm_term=class-mc</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/079.asp&amp;utm_content=country-ven&amp;utm_term=class-mc" />
-    <updated>2026-05-06T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
   <entry>
     <title>Defensoria Pública de SP inicia atendimento em Sumaré e amplia acesso à Justiça na região</title>
@@ -646,13 +583,6 @@
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>
   <entry>
-    <title>R78/26—La Relatoría Especial para la Libertad de Expresión publica su Informe Anual 2025</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/078.asp&amp;utm_term=class-mon</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/078.asp&amp;utm_term=class-mon" />
-    <updated>2026-05-04T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
     <title>Defensor del Pueblo rinde cuentas a niñas, niños y adolescentes y destaca avances en derechos y participación</title>
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-rinde-cuentas-a-ninyas,-ninyos-y-adolescentes-y-destaca-avances-en-derechos-y-participacion</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-rinde-cuentas-a-ninyas,-ninyos-y-adolescentes-y-destaca-avances-en-derechos-y-participacion" />
@@ -681,23 +611,92 @@
     <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
   </entry>
   <entry>
-    <title>77/26—CIDH expresa preocupación por la continua violencia en Haití y por la muerte de personas en operaciones con drones</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/077.asp&amp;utm_content=country-hti</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/077.asp&amp;utm_content=country-hti" />
-    <updated>2026-05-01T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>RD76/26—La acción colectiva de las personas trabajadoras como garantía de los derechos laborales</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/076.asp</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/076.asp" />
-    <updated>2026-05-01T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
     <title>Defensoria leva circuito #DáPraResolver a Campinas com foco em negociação de dívidas</title>
     <id>urn:defensorias-americas:6040914409934208406</id>
     <updated>2026-04-30T00:00:00</updated>
+    <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Justiça em cena: DPRJ monta plantão especial para o show de Shakira no Rio</title>
+    <id>https://defensoria.rj.def.br/noticia/detalhes/32617-Justica-em-cena-DPRJ-monta-plantao-especial-para-o-show-de-Shakira-no-Rio</id>
+    <link href="https://defensoria.rj.def.br/noticia/detalhes/32617-Justica-em-cena-DPRJ-monta-plantao-especial-para-o-show-de-Shakira-no-Rio" />
+    <updated>2026-04-30T00:00:00</updated>
+    <summary>Defensoria Pública do Estado do Rio de Janeiro (Brasil) — noticias</summary>
+  </entry>
+  <entry>
+    <title>DPPE garante à criança com autismo direito a acompanhante exclusivo individual em sala de aula em Araripina</title>
+    <id>https://www.defensoria.pe.def.br/noticias/detalhe/4108/</id>
+    <link href="https://www.defensoria.pe.def.br/noticias/detalhe/4108/" />
+    <updated>2026-04-30T00:00:00</updated>
+    <summary>Defensoria Pública do Estado de Pernambuco (Brasil) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Cuenta Pública 2025 INDH Tarapacá: más de 4.530 personas participaron en actividades de formación en derechos humanos y destaca participación en el caso que condenó a integrantes del Tren de Aragua</title>
+    <id>https://www.indh.cl/indh-cuenta-publica-tarapaca/</id>
+    <link href="https://www.indh.cl/indh-cuenta-publica-tarapaca/" />
+    <updated>2026-04-30T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
+  </entry>
+  <entry>
+    <title>INDH Maule realizó Cuenta Pública Regional 2025 destacando un alza de 36,4% en el número de atenciones a la ciudadanía</title>
+    <id>https://www.indh.cl/indh-maule-cuenta-publica/</id>
+    <link href="https://www.indh.cl/indh-maule-cuenta-publica/" />
+    <updated>2026-04-30T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
+  </entry>
+  <entry>
+    <title>La INDDHH fortalece la búsqueda de personas desaparecidas en Argentina</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-fortalece-busqueda-personas-desaparecidas-argentina</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-fortalece-busqueda-personas-desaparecidas-argentina" />
+    <updated>2026-04-30T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
+  </entry>
+  <entry>
+    <title>LANZAMIENTO DE LA CAPACITACIÓN OBLIGATORIA “LEY MALVINAS”</title>
+    <id>https://www.mpd.gov.ar/index.php/noticias-h/lanzamiento-de-la-capacitacion-obligatoria-ley-malvinas</id>
+    <link href="https://www.mpd.gov.ar/index.php/noticias-h/lanzamiento-de-la-capacitacion-obligatoria-ley-malvinas" />
+    <updated>2026-04-29T00:00:00</updated>
+    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
+  </entry>
+  <entry>
+    <title>DPPE intensifica presença no interior durante agenda institucional em Palmares</title>
+    <id>https://www.defensoria.pe.def.br/noticias/detalhe/4107/</id>
+    <link href="https://www.defensoria.pe.def.br/noticias/detalhe/4107/" />
+    <updated>2026-04-29T00:00:00</updated>
+    <summary>Defensoria Pública do Estado de Pernambuco (Brasil) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Nota de Prensa n.° 207/OGCO/DP/2026</title>
+    <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/04/NP-207-2026.pdf</id>
+    <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/04/NP-207-2026.pdf" type="application/pdf" />
+    <updated>2026-04-29T00:00:00</updated>
+    <summary>Defensoría del Pueblo del Perú (Perú) — notas_prensa</summary>
+  </entry>
+  <entry>
+    <title>Nota de Prensa n.° 206/OGCO/DP/2026</title>
+    <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/04/NP-206-2026.pdf</id>
+    <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/04/NP-206-2026.pdf" type="application/pdf" />
+    <updated>2026-04-29T00:00:00</updated>
+    <summary>Defensoría del Pueblo del Perú (Perú) — notas_prensa</summary>
+  </entry>
+  <entry>
+    <title>Nota de Prensa n.° 205/OGCO/DP/2026</title>
+    <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/04/NP-205-2026.pdf</id>
+    <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/04/NP-205-2026.pdf" type="application/pdf" />
+    <updated>2026-04-29T00:00:00</updated>
+    <summary>Defensoría del Pueblo del Perú (Perú) — notas_prensa</summary>
+  </entry>
+  <entry>
+    <title>Comenzó a funcionar un grupo de trabajo por los derechos de las infancias y adolescencias</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/comenzo-funcionar-grupo-trabajo-derechos-infancias-adolescencias</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/comenzo-funcionar-grupo-trabajo-derechos-infancias-adolescencias" />
+    <updated>2026-04-29T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Defensoria divulga lista tríplice com nomes indicados para chefiar Ouvidoria-Geral no biênio 2026-2028</title>
+    <id>urn:defensorias-americas:4772107791646052601</id>
+    <updated>2026-04-28T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
 </feed>

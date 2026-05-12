@@ -929,13 +929,21 @@ async def scrapear_institucion(
             todos.extend(items)
             log.info(f"    [{sec['tipo']}] {len(items)} items — {sec['url'][:65]}")
 
-    # Deduplicar por título
-    vistas: set[str] = set()
+    # Deduplicar por URL y por título normalizado
+    vistas_url: set[str] = set()
+    vistas_tit: set[str] = set()
     todos_dedup = []
     for item in todos:
-        if item["titulo"] not in vistas:
-            vistas.add(item["titulo"])
-            todos_dedup.append(item)
+        url = item.get("url", "")
+        tit_norm = re.sub(r"\s+", " ", item["titulo"].lower().strip())
+        if url and url in vistas_url:
+            continue
+        if tit_norm in vistas_tit:
+            continue
+        if url:
+            vistas_url.add(url)
+        vistas_tit.add(tit_norm)
+        todos_dedup.append(item)
 
     resultado["todos_items"] = [
         {k: v for k, v in n.items() if k != "fecha_dt"} for n in todos_dedup
@@ -962,25 +970,44 @@ async def scrapear_institucion(
 
 # ─── Feed Atom ────────────────────────────────────────────────────────────────
 
-def generar_feed_atom(datos: dict, output_path: Path, site_url: str = ""):
-    """Genera un feed Atom (RFC 4287) con todas las publicaciones con fecha."""
+def _slugify(text: str) -> str:
+    import unicodedata
+    text = unicodedata.normalize("NFD", text.lower())
+    text = "".join(c for c in text if unicodedata.category(c) != "Mn")
+    return re.sub(r"[^a-z0-9]+", "-", text).strip("-")
+
+
+def _collect_feed_items(datos: dict, filtro_pais: str = "", filtro_region: str = "") -> list[dict]:
+    items: list[dict] = []
+    for inst in datos["instituciones"]:
+        if filtro_pais   and inst["pais"]           != filtro_pais:   continue
+        if filtro_region and inst.get("region", "") != filtro_region: continue
+        for item in inst.get("items_en_periodo", []):
+            items.append({**item, "_inst": inst["nombre"], "_pais": inst["pais"],
+                          "_region": inst.get("region", ""), "_tipo": inst["tipo"]})
+    items.sort(key=lambda x: x.get("fecha", ""), reverse=True)
+    return items
+
+
+def generar_feed_atom(datos: dict, output_path: Path, site_url: str = "",
+                      filtro_pais: str = "", filtro_region: str = "", label: str = ""):
+    """Genera un feed Atom (RFC 4287). Acepta filtros opcionales por país o región."""
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    titulo = "Notas de Prensa — Defensorías de las Américas"
+    if label:
+        titulo += f" · {label}"
 
     root = ET.Element("feed", xmlns="http://www.w3.org/2005/Atom")
-    ET.SubElement(root, "title").text = "Notas de Prensa — Defensorías de las Américas"
-    ET.SubElement(root, "id").text = "urn:defensorias-americas:prensa"
+    ET.SubElement(root, "title").text = titulo
+    feed_id = f"urn:defensorias-americas:prensa:{_slugify(label) if label else 'all'}"
+    ET.SubElement(root, "id").text = feed_id
     ET.SubElement(root, "updated").text = now_iso
     link = ET.SubElement(root, "link")
     link.set("rel", "self")
     link.set("href", site_url or "https://example.org/feed.xml")
     ET.SubElement(root, "rights").text = "Contenido de fuentes institucionales públicas"
 
-    all_items: list[dict] = []
-    for inst in datos["instituciones"]:
-        for item in inst.get("items_en_periodo", []):
-            all_items.append({**item, "_inst": inst["nombre"], "_pais": inst["pais"]})
-
-    all_items.sort(key=lambda x: x.get("fecha", ""), reverse=True)
+    all_items = _collect_feed_items(datos, filtro_pais, filtro_region)
 
     for item in all_items[:100]:
         entry = ET.SubElement(root, "entry")
@@ -995,7 +1022,9 @@ def generar_feed_atom(datos: dict, output_path: Path, site_url: str = ""):
                 lnk.set("type", "application/pdf")
         fecha_str = item.get("fecha", "")
         if fecha_str:
-            ET.SubElement(entry, "updated").text = fecha_str.replace(" ", "T") + "Z" if "T" not in fecha_str else fecha_str
+            ET.SubElement(entry, "updated").text = (
+                fecha_str.replace(" ", "T") + "Z" if "T" not in fecha_str else fecha_str
+            )
         summ = f"{item['_inst']} ({item['_pais']}) — {item.get('tipo_seccion', '')}"
         ET.SubElement(entry, "summary").text = summ
 
@@ -1004,7 +1033,35 @@ def generar_feed_atom(datos: dict, output_path: Path, site_url: str = ""):
     with open(output_path, "wb") as f:
         f.write(b'<?xml version="1.0" encoding="utf-8"?>\n')
         tree.write(f, encoding="utf-8", xml_declaration=False)
-    log.info(f"Feed Atom: {output_path}  ({len(all_items)} entradas)")
+    log.info(f"Feed Atom: {output_path}  ({len(all_items)} entradas){' ['+label+']' if label else ''}")
+
+
+def generar_json_feed(datos: dict, output_path: Path, site_url: str = "",
+                      filtro_pais: str = "", filtro_region: str = "", label: str = ""):
+    """Genera un JSON Feed 1.1 (https://jsonfeed.org/version/1.1)."""
+    titulo = "Notas de Prensa — Defensorías de las Américas"
+    if label:
+        titulo += f" · {label}"
+    all_items = _collect_feed_items(datos, filtro_pais, filtro_region)
+    feed = {
+        "version": "https://jsonfeed.org/version/1.1",
+        "title": titulo,
+        "feed_url": site_url or "",
+        "items": [],
+    }
+    for item in all_items[:100]:
+        fecha_str = item.get("fecha", "")
+        feed["items"].append({
+            "id":            item.get("url") or f"urn:defensorias:{hash(item['titulo'])}",
+            "url":           item.get("url", ""),
+            "title":         item["titulo"],
+            "summary":       f"{item['_inst']} ({item['_pais']})",
+            "date_published": (fecha_str.replace(" ", "T") + "Z" if fecha_str and "T" not in fecha_str else fecha_str) or None,
+            "tags":          [item["_pais"], item["_region"], item.get("tipo_seccion", "")],
+        })
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(feed, f, ensure_ascii=False, indent=2)
+    log.info(f"JSON Feed: {output_path}  ({len(all_items)} entradas){' ['+label+']' if label else ''}")
 
 
 # ─── Histórico JSONL ──────────────────────────────────────────────────────────
@@ -1134,7 +1191,8 @@ def generar_mapa(datos: dict, output_path: Path, feed_url: str = ""):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Notas de Prensa — Defensorías de las Américas (últimos {dias} días)</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
-{'<link rel="alternate" type="application/atom+xml" href="' + feed_url + '">' if feed_url else ''}
+{'<link rel="alternate" type="application/atom+xml" title="Feed Atom — todas las instituciones" href="' + feed_url + '">' if feed_url else ''}
+{'<link rel="alternate" type="application/feed+json" title="JSON Feed — todas las instituciones" href="' + feed_url.replace("feed.xml","feed.json") + '">' if feed_url else ''}
 <style>
 *{{box-sizing:border-box;margin:0;padding:0}}
 body{{font-family:'Segoe UI',system-ui,sans-serif;background:#0d1b2a;color:#dce8f0}}
@@ -1153,7 +1211,11 @@ header p{{font-size:.75rem;color:#7a8fa0;margin-top:3px}}
 .tab:hover{{color:#64b5e8}}.tab.on{{color:#64b5e8;border-bottom-color:#64b5e8;font-weight:600}}
 
 .panel{{display:none}}.panel.on{{display:block}}
-#map{{height:calc(100vh - 160px);width:100%}}
+#map{{height:calc(100vh - 195px);width:100%}}
+.map-search{{position:relative;padding:8px 12px;background:#0d1822;border-bottom:1px solid #1a3045;display:flex;gap:8px;align-items:center}}
+.map-search input{{flex:1;background:#132334;border:1px solid #1e3a52;color:#dce8f0;padding:6px 11px;border-radius:6px;font-size:.82rem;outline:none}}
+.map-search input:focus{{border-color:#64b5e8}}
+.map-search .ms-count{{font-size:.72rem;color:#5a7a90;white-space:nowrap}}
 #ptl,#ptb{{padding:18px 22px;max-height:calc(100vh - 160px);overflow-y:auto}}
 
 .filtros{{display:flex;gap:8px;margin-bottom:14px;flex-wrap:wrap;align-items:center}}
@@ -1281,7 +1343,13 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
   <button class="tab"    id="tab-tb"   onclick="sw('tb',this)">📋 Tabla</button>
 </div>
 
-<div id="pmapa" class="panel on"><div id="map"></div></div>
+<div id="pmapa" class="panel on">
+  <div class="map-search">
+    <input id="map-q" type="search" placeholder="Buscar institución, país o titular..." oninput="filtrarMapa(this.value)" autocomplete="off">
+    <span class="ms-count" id="map-cnt"></span>
+  </div>
+  <div id="map"></div>
+</div>
 
 <div id="ptl" class="panel">
   <div class="filtros">
@@ -1339,6 +1407,7 @@ const NN   = {noticias_j};
 const DIAS = {dias};
 const COLORES_SECCION = {colores_sec_j};
 const INST_ALL = {inst_all_j};
+const FEED_BASE = '{feed_url.rsplit("/", 1)[0] + "/" if feed_url else ""}';
 
 // ── Traducciones ──────────────────────────────────────────────────────────────
 const LANGS = {{
@@ -1496,6 +1565,7 @@ function mkIcon(color, count, err) {{
       ${{badge}}</div>`}});
 }}
 
+const _markers = [];
 MK.forEach(m=>{{
   const ic = mkIcon(m.color, m.n_periodo, !!m.error);
   let html = `<div class="pt">${{m.nombre}}</div>
@@ -1527,8 +1597,25 @@ MK.forEach(m=>{{
     html+=`<div style="color:#3a6080;font-size:.68rem;margin-top:5px">
       ${{m.secciones.map(s=>s.tipo).join(', ')}}</div>`;
   html+=`<a class="plink" href="${{m.url}}" target="_blank">${{T.site}}</a>`;
-  L.marker([m.lat,m.lon],{{icon:ic}}).addTo(map).bindPopup(html,{{maxWidth:360}});
+  const mk = L.marker([m.lat,m.lon],{{icon:ic}}).addTo(map).bindPopup(html,{{maxWidth:360}});
+  _markers.push({{lf:mk, m}});
 }});
+
+function filtrarMapa(q) {{
+  const term = q.trim().toLowerCase();
+  let vis = 0;
+  _markers.forEach(({{lf, m}}) => {{
+    const match = !term ||
+      m.nombre.toLowerCase().includes(term) ||
+      m.pais.toLowerCase().includes(term) ||
+      m.tipo.toLowerCase().includes(term) ||
+      m.items_periodo.some(n => n.titulo.toLowerCase().includes(term));
+    lf.setOpacity(match ? 1 : 0.08);
+    if(match) vis++;
+  }});
+  const cnt = document.getElementById('map-cnt');
+  if(cnt) cnt.textContent = term ? `${{vis}} / ${{_markers.length}}` : '';
+}}
 
 // ── Modal de instituciones ────────────────────────────────────────────────────
 function openInstModal() {{
@@ -1557,12 +1644,17 @@ function openInstModal() {{
       const name = i.url
         ? `<a href="${{i.url}}" target="_blank">${{i.nombre}}</a>`
         : i.nombre;
+      const slug = i.pais.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+      const feedLink = FEED_BASE && i.n_periodo > 0
+        ? `<a href="${{FEED_BASE}}feed-${{slug}}.xml" target="_blank" title="Feed RSS deste país" style="color:#b34700;font-size:.65rem;text-decoration:none">&#9656;RSS</a>`
+        : '';
       html += `<div class="inst-card ${{acc}}">
         <div class="ic-name">${{name}}</div>
         <div class="ic-meta">
           <span>🌎 ${{i.pais}}</span>
           <span style="color:#3a5a70">${{i.tipo}}</span>
           ${{badge}}
+          ${{feedLink}}
         </div>
       </div>`;
     }});
@@ -1784,7 +1876,33 @@ async def run(args):
     html_path = out_dir / f"{args.output}_{args.dias}d_{ts}.html"
     feed_path = out_dir / "feed.xml"
 
+    # Feed principal
     generar_feed_atom(datos, feed_path, site_url=args.feed_url)
+    # JSON Feed principal
+    generar_json_feed(datos, out_dir / "feed.json",
+                      site_url=args.feed_url.replace("feed.xml", "feed.json") if args.feed_url else "")
+
+    # Feeds por país (solo los que tienen publicaciones en el periodo)
+    paises_activos  = sorted({i["pais"]           for i in datos["instituciones"] if i.get("items_en_periodo")})
+    regiones_activas = sorted({i.get("region","") for i in datos["instituciones"] if i.get("items_en_periodo") and i.get("region")})
+
+    for pais in paises_activos:
+        slug = _slugify(pais)
+        base = args.feed_url.rsplit("/", 1)[0] + "/" if args.feed_url else ""
+        generar_feed_atom(datos, out_dir / f"feed-{slug}.xml",
+                          site_url=f"{base}feed-{slug}.xml",
+                          filtro_pais=pais, label=pais)
+        generar_json_feed(datos, out_dir / f"feed-{slug}.json",
+                          site_url=f"{base}feed-{slug}.json",
+                          filtro_pais=pais, label=pais)
+
+    for region in regiones_activas:
+        slug = _slugify(region)
+        base = args.feed_url.rsplit("/", 1)[0] + "/" if args.feed_url else ""
+        generar_feed_atom(datos, out_dir / f"feed-{slug}.xml",
+                          site_url=f"{base}feed-{slug}.xml",
+                          filtro_region=region, label=region)
+
     generar_mapa(datos, html_path, feed_url=args.feed_url)
 
     # Copia como index.html si el directorio tiene pinta de docs/

@@ -1,6 +1,6 @@
 {
   "dias": 30,
-  "timestamp": "20260512_0300",
+  "timestamp": "20260512_0257",
   "instituciones": [
     {
       "pais": "Argentina",
@@ -77,7 +77,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142165"
+      "timestamp": "2026-05-12T02:56:40.661287"
     },
     {
       "pais": "Argentina",
@@ -104,7 +104,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142542"
+      "timestamp": "2026-05-12T02:56:40.661652"
     },
     {
       "pais": "Bolivia",
@@ -273,7 +273,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142598"
+      "timestamp": "2026-05-12T02:56:40.661706"
     },
     {
       "pais": "Brasil",
@@ -286,8 +286,8 @@
         {
           "url": "https://www.dpu.def.br/listagem-de-todas-as-noticias",
           "tipo": "noticias",
-          "ok": true,
-          "items": 2
+          "ok": false,
+          "items": 0
         },
         {
           "url": "https://www.dpu.def.br/imprensa/noticias",
@@ -296,41 +296,11 @@
           "items": 0
         }
       ],
-      "todos_items": [
-        {
-          "titulo": "LISTAGEM DE NOTÍCIAS",
-          "url": "",
-          "fecha": null,
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Mapa do Site",
-          "url": "",
-          "fecha": null,
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        }
-      ],
+      "todos_items": [],
       "items_en_periodo": [],
-      "items_sin_fecha": [
-        {
-          "titulo": "LISTAGEM DE NOTÍCIAS",
-          "url": "",
-          "fecha": null,
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Mapa do Site",
-          "url": "",
-          "fecha": null,
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        }
-      ],
+      "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142682"
+      "timestamp": "2026-05-12T02:56:40.661748"
     },
     {
       "pais": "Brasil",
@@ -471,7 +441,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142746"
+      "timestamp": "2026-05-12T02:56:40.661783"
     },
     {
       "pais": "Brasil",
@@ -634,7 +604,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142790"
+      "timestamp": "2026-05-12T02:56:40.661818"
     },
     {
       "pais": "Brasil",
@@ -825,7 +795,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142831"
+      "timestamp": "2026-05-12T02:56:40.661850"
     },
     {
       "pais": "Chile",
@@ -1023,7 +993,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142867"
+      "timestamp": "2026-05-12T02:56:40.661887"
     },
     {
       "pais": "Chile",
@@ -1290,7 +1260,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142954"
+      "timestamp": "2026-05-12T02:56:40.661971"
     },
     {
       "pais": "Chile",
@@ -1473,7 +1443,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142961"
+      "timestamp": "2026-05-12T02:56:40.661978"
     },
     {
       "pais": "Colombia",
@@ -1599,7 +1569,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142965"
+      "timestamp": "2026-05-12T02:56:40.661982"
     },
     {
       "pais": "Ecuador",
@@ -1632,7 +1602,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142968"
+      "timestamp": "2026-05-12T02:56:40.661985"
     },
     {
       "pais": "Paraguay",
@@ -1665,7 +1635,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142971"
+      "timestamp": "2026-05-12T02:56:40.661988"
     },
     {
       "pais": "Perú",
@@ -2155,7 +2125,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142973"
+      "timestamp": "2026-05-12T02:56:40.661990"
     },
     {
       "pais": "Uruguay",
@@ -2318,7 +2288,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142976"
+      "timestamp": "2026-05-12T02:56:40.661993"
     },
     {
       "pais": "Venezuela",
@@ -2345,7 +2315,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142984"
+      "timestamp": "2026-05-12T02:56:40.662000"
     },
     {
       "pais": "Guyana",
@@ -2366,7 +2336,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142987"
+      "timestamp": "2026-05-12T02:56:40.662004"
     },
     {
       "pais": "Costa Rica",
@@ -2399,7 +2369,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142990"
+      "timestamp": "2026-05-12T02:56:40.662007"
     },
     {
       "pais": "El Salvador",
@@ -2693,7 +2663,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142993"
+      "timestamp": "2026-05-12T02:56:40.662010"
     },
     {
       "pais": "Guatemala",
@@ -2726,7 +2696,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142996"
+      "timestamp": "2026-05-12T02:56:40.662013"
     },
     {
       "pais": "Honduras",
@@ -2753,7 +2723,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.142998"
+      "timestamp": "2026-05-12T02:56:40.662015"
     },
     {
       "pais": "México",
@@ -2816,7 +2786,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143001"
+      "timestamp": "2026-05-12T02:56:40.662018"
     },
     {
       "pais": "Nicaragua",
@@ -2979,7 +2949,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143004"
+      "timestamp": "2026-05-12T02:56:40.662021"
     },
     {
       "pais": "Panamá",
@@ -3134,7 +3104,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143006"
+      "timestamp": "2026-05-12T02:56:40.662023"
     },
     {
       "pais": "Belice",
@@ -3155,7 +3125,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143009"
+      "timestamp": "2026-05-12T02:56:40.662026"
     },
     {
       "pais": "República Dominicana",
@@ -3182,7 +3152,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143012"
+      "timestamp": "2026-05-12T02:56:40.662029"
     },
     {
       "pais": "Jamaica",
@@ -3288,7 +3258,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143016"
+      "timestamp": "2026-05-12T02:56:40.662033"
     },
     {
       "pais": "Trinidad y Tobago",
@@ -3315,7 +3285,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143057"
+      "timestamp": "2026-05-12T02:56:40.662069"
     },
     {
       "pais": "Haití",
@@ -3342,7 +3312,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143064"
+      "timestamp": "2026-05-12T02:56:40.662074"
     },
     {
       "pais": "Canadá",
@@ -3519,7 +3489,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143067"
+      "timestamp": "2026-05-12T02:56:40.662077"
     },
     {
       "pais": "Canadá",
@@ -3654,7 +3624,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143069"
+      "timestamp": "2026-05-12T02:56:40.662080"
     },
     {
       "pais": "Canadá",
@@ -3681,7 +3651,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143072"
+      "timestamp": "2026-05-12T02:56:40.662082"
     },
     {
       "pais": "Canadá",
@@ -3773,7 +3743,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143075"
+      "timestamp": "2026-05-12T02:56:40.662085"
     },
     {
       "pais": "Canadá",
@@ -3935,7 +3905,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143078"
+      "timestamp": "2026-05-12T02:56:40.662088"
     },
     {
       "pais": "Canadá",
@@ -3956,7 +3926,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143081"
+      "timestamp": "2026-05-12T02:56:40.662091"
     },
     {
       "pais": "Canadá",
@@ -3977,7 +3947,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143083"
+      "timestamp": "2026-05-12T02:56:40.662093"
     },
     {
       "pais": "Canadá",
@@ -4041,7 +4011,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143086"
+      "timestamp": "2026-05-12T02:56:40.662096"
     },
     {
       "pais": "Canadá",
@@ -4106,7 +4076,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143089"
+      "timestamp": "2026-05-12T02:56:40.662099"
     },
     {
       "pais": "Regional",
@@ -4184,7 +4154,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143091"
+      "timestamp": "2026-05-12T02:56:40.662101"
     },
     {
       "pais": "Regional",
@@ -4375,7 +4345,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143094"
+      "timestamp": "2026-05-12T02:56:40.662104"
     },
     {
       "pais": "Regional",
@@ -4402,7 +4372,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-05-12T02:59:09.143097"
+      "timestamp": "2026-05-12T02:56:40.662107"
     }
   ]
 }
