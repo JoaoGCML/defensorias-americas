@@ -74,7 +74,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Argentina", "region": "Sudamérica",
         "nombre": "Defensoría del Pueblo de la Nación",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.defensoriadelpueblo.gov.ar",
         "secciones": [
             {"url": "https://www.defensoriadelpueblo.gov.ar/prensa",   "tipo": "prensa"},
@@ -84,7 +84,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Bolivia", "region": "Sudamérica",
         "nombre": "Defensoría del Pueblo de Bolivia",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.defensoria.gob.bo",
         "secciones": [
             {"url": "https://www.defensoria.gob.bo/noticias",     "tipo": "noticias"},
@@ -188,7 +188,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Chile", "region": "Sudamérica",
         "nombre": "Instituto Nacional de Derechos Humanos (INDH)",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.indh.cl",
         "secciones": [
             {"url": "https://www.indh.cl/noticias-indh/",       "tipo": "noticias"},
@@ -198,7 +198,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Colombia", "region": "Sudamérica",
         "nombre": "Defensoría del Pueblo de Colombia",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.defensoria.gov.co",
         "secciones": [
             {"url": "https://www.defensoria.gov.co/es/noticias",      "tipo": "noticias"},
@@ -209,7 +209,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Ecuador", "region": "Sudamérica",
         "nombre": "Defensoría del Pueblo del Ecuador",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.dpe.gob.ec",
         "secciones": [
             {"url": "https://www.dpe.gob.ec/prensa/",       "tipo": "prensa"},
@@ -220,7 +220,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Paraguay", "region": "Sudamérica",
         "nombre": "Defensoría del Pueblo del Paraguay",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.defensoria.gov.py",
         "secciones": [
             {"url": "https://www.defensoria.gov.py/noticias",    "tipo": "noticias"},
@@ -231,7 +231,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Perú", "region": "Sudamérica",
         "nombre": "Defensoría del Pueblo del Perú",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.defensoria.gob.pe",
         "secciones": [
             {"url": "https://www.defensoria.gob.pe/nota_de_prensa/", "tipo": "notas_prensa"},
@@ -242,7 +242,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Uruguay", "region": "Sudamérica",
         "nombre": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.gub.uy",
         "secciones": [
             {"url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias",
@@ -252,7 +252,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Venezuela", "region": "Sudamérica",
         "nombre": "Defensoría del Pueblo de Venezuela",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.defensoria.gob.ve",
         "secciones": [
             {"url": "https://www.defensoria.gob.ve/noticias/",      "tipo": "noticias"},
@@ -262,7 +262,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Guyana", "region": "Sudamérica",
         "nombre": "Office of the Ombudsman of Guyana",
-        "tipo": "Ombudsperson", "idioma": "en",
+        "tipo": "Ombudsperson", "idioma": "en", "indh_ganhri": "B",
         "url_base": "https://ombudsmangy.org",
         "secciones": [
             {"url": "https://ombudsmangy.org/news-press-releases/", "tipo": "news"},
@@ -273,7 +273,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Costa Rica", "region": "Centroamérica",
         "nombre": "Defensoría de los Habitantes",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.defensoriadh.go.cr",
         "secciones": [
             {"url": "https://www.defensoriadh.go.cr/prensa/",       "tipo": "prensa"},
@@ -284,7 +284,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "El Salvador", "region": "Centroamérica",
         "nombre": "Procuraduría para la Defensa de los Derechos Humanos",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.pddh.gob.sv",
         "secciones": [
             {"url": "https://www.pddh.gob.sv/category/comunicados/",     "tipo": "comunicados"},
@@ -295,7 +295,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Guatemala", "region": "Centroamérica",
         "nombre": "Procuraduría de los Derechos Humanos",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.pdh.org.gt",
         "secciones": [
             {"url": "https://www.pdh.org.gt/noticias.html",     "tipo": "noticias"},
@@ -306,7 +306,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Honduras", "region": "Centroamérica",
         "nombre": "Comisionado Nacional de los Derechos Humanos (CONADEH)",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://conadeh.hn",
         "secciones": [
             {"url": "https://conadeh.hn",               "tipo": "noticias"},
@@ -316,7 +316,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "México", "region": "Centroamérica",
         "nombre": "Comisión Nacional de los Derechos Humanos (CNDH)",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.cndh.org.mx",
         "secciones": [
             {"url": "https://www.cndh.org.mx/tipo_noticias/comunicados",          "tipo": "comunicados"},
@@ -327,7 +327,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Nicaragua", "region": "Centroamérica",
         "nombre": "Procuraduría para la Defensa de los Derechos Humanos de Nicaragua",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "B",
         "url_base": "https://www.pddh.gob.ni",
         "secciones": [
             {"url": "https://www.pddh.gob.ni/?page_id=19", "tipo": "noticias"},
@@ -336,7 +336,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Panamá", "region": "Centroamérica",
         "nombre": "Defensoría del Pueblo de Panamá",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.defensoria.gob.pa",
         "secciones": [
             {"url": "https://www.defensoria.gob.pa/comunicados/",    "tipo": "comunicados"},
@@ -358,7 +358,7 @@ INSTITUCIONES_LATAM = [
         # DNS off-line en mayo 2026; mantener para retentar
         "pais": "República Dominicana", "region": "Caribe",
         "nombre": "Defensoría del Pueblo de la República Dominicana",
-        "tipo": "Ombudsperson", "idioma": "es",
+        "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "B",
         "url_base": "https://www.defensoriadelpueblo.gob.do",
         "secciones": [
             {"url": "https://www.defensoriadelpueblo.gob.do/noticias/",    "tipo": "noticias"},
@@ -368,7 +368,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Jamaica", "region": "Caribe",
         "nombre": "Office of the Public Defender of Jamaica",
-        "tipo": "Ombudsperson", "idioma": "en",
+        "tipo": "Ombudsperson", "idioma": "en", "indh_ganhri": "B",
         "url_base": "https://opd.gov.jm",
         "secciones": [
             {"url": "https://opd.gov.jm/news",                  "tipo": "news"},
@@ -378,7 +378,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Trinidad y Tobago", "region": "Caribe",
         "nombre": "Office of the Ombudsman of Trinidad and Tobago",
-        "tipo": "Ombudsperson", "idioma": "en",
+        "tipo": "Ombudsperson", "idioma": "en", "indh_ganhri": "B",
         "url_base": "https://www.ombudsman.org.tt",
         "secciones": [
             {"url": "https://www.ombudsman.org.tt/news/",         "tipo": "news"},
@@ -397,7 +397,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Haití", "region": "Caribe",
         "nombre": "Office de la Protection du Citoyen (OPC)",
-        "tipo": "Ombudsperson", "idioma": "fr",
+        "tipo": "Ombudsperson", "idioma": "fr", "indh_ganhri": "B",
         "url_base": "https://www.opc.gouv.ht",
         "secciones": [
             {"url": "https://www.opc.gouv.ht/actualites",  "tipo": "actualites"},
@@ -409,7 +409,7 @@ INSTITUCIONES_LATAM = [
     {
         "pais": "Canadá", "region": "Norteamérica",
         "nombre": "Canadian Human Rights Commission",
-        "tipo": "Ombudsperson", "idioma": "en",
+        "tipo": "Ombudsperson", "idioma": "en", "indh_ganhri": "A",
         "url_base": "https://www.chrc-ccdp.gc.ca",
         "secciones": [
             {"url": "https://www.chrc-ccdp.gc.ca/en/news",               "tipo": "news"},
@@ -1163,12 +1163,14 @@ def generar_mapa(datos: dict, output_path: Path, feed_url: str = ""):
             jlat = r * math.sin(angle)
             jlon = r * math.cos(angle)
 
+        ganhri = inst.get("indh_ganhri", "")
         markers.append({
             "pais": pais, "region": inst.get("region", ""),
             "nombre": inst["nombre"], "tipo": inst["tipo"],
             "url": inst["url_base"],
             "lat": coords[0] + jlat, "lon": coords[1] + jlon,
             "color": color,
+            "ganhri": ganhri,
             "n_periodo": len(items_periodo),
             "n_sin_fecha": len(items_sin),
             "error": inst.get("error", ""),
@@ -1189,6 +1191,7 @@ def generar_mapa(datos: dict, output_path: Path, feed_url: str = ""):
                 "region": inst.get("region", ""),
                 "tipo": inst["tipo"],
                 "color": color,
+                "ganhri": ganhri,
                 "con_fecha": True,
             })
         for n in items_sin:
@@ -1203,6 +1206,7 @@ def generar_mapa(datos: dict, output_path: Path, feed_url: str = ""):
                 "region": inst.get("region", ""),
                 "tipo": inst["tipo"],
                 "color": color,
+                "ganhri": ganhri,
                 "con_fecha": False,
             })
 
@@ -1216,6 +1220,7 @@ def generar_mapa(datos: dict, output_path: Path, feed_url: str = ""):
         "nombre": i["nombre"], "pais": i["pais"],
         "region": i.get("region", ""),
         "tipo": i["tipo"],
+        "ganhri": i.get("indh_ganhri", ""),
         "n_periodo": len(i.get("items_en_periodo", [])),
         "n_sin_fecha": len(i.get("items_sin_fecha", [])),
         "ok": bool(i.get("secciones_scrapeadas")),
@@ -1420,6 +1425,12 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
       <option value="si" id="tl-f-si">Con fecha confirmada</option>
       <option value="no" id="tl-f-no">Sin fecha detectada</option>
     </select>
+    <select id="tl-g" onchange="ftl()">
+      <option value=""     id="tl-g-all">Todas las inst.</option>
+      <option value="INDH" id="tl-g-indh">Solo INDHs</option>
+      <option value="A"    id="tl-g-a">GANHRI A</option>
+      <option value="B"    id="tl-g-b">GANHRI B</option>
+    </select>
   </div>
   <div id="tl-cnt"></div>
   <div id="tl-body"></div>
@@ -1436,6 +1447,12 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
       <option value="si"  id="tb-f-si">Con fecha</option>
       <option value="no"  id="tb-f-no">Sin fecha</option>
       <option value="pdf" id="tb-f-pdf">Solo PDFs</option>
+    </select>
+    <select id="tb-g" onchange="ftb()">
+      <option value=""     id="tb-g-all">Todas las inst.</option>
+      <option value="INDH" id="tb-g-indh">Solo INDHs</option>
+      <option value="A"    id="tb-g-a">GANHRI A</option>
+      <option value="B"    id="tb-g-b">GANHRI B</option>
     </select>
   </div>
   <table><thead><tr>
@@ -1478,6 +1495,8 @@ const LANGS = {{
     plus_sf: n=>`+${{n}} sin fecha`,
     site:"→ Sitio oficial",
     leg_title:"Tipo de institución", leg_note:"Número = publicaciones recientes",
+    leg_indh:"Acreditación GANHRI",
+    ganhri_all:"Todas las inst.", ganhri_indh:"Solo INDHs", ganhri_a:"GANHRI A", ganhri_b:"GANHRI B",
     meses:['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'],
   }},
   en: {{
@@ -1499,6 +1518,8 @@ const LANGS = {{
     plus_sf: n=>`+${{n}} undated`,
     site:"→ Official website",
     leg_title:"Institution type", leg_note:"Number = recent publications",
+    leg_indh:"GANHRI Accreditation",
+    ganhri_all:"All institutions", ganhri_indh:"NHRIs only", ganhri_a:"GANHRI A", ganhri_b:"GANHRI B",
     meses:['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
   }},
   pt: {{
@@ -1520,6 +1541,8 @@ const LANGS = {{
     plus_sf: n=>`+${{n}} sem data`,
     site:"→ Site oficial",
     leg_title:"Tipo de instituição", leg_note:"Número = publicações recentes",
+    leg_indh:"Acreditação GANHRI",
+    ganhri_all:"Todas as inst.", ganhri_indh:"Só INDHs", ganhri_a:"GANHRI A", ganhri_b:"GANHRI B",
     meses:['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'],
   }},
   fr: {{
@@ -1541,6 +1564,8 @@ const LANGS = {{
     plus_sf: n=>`+${{n}} sans date`,
     site:"→ Site officiel",
     leg_title:"Type d'institution", leg_note:"Nombre = publications récentes",
+    leg_indh:"Accréditation GANHRI",
+    ganhri_all:"Toutes les inst.", ganhri_indh:"INDH seulement", ganhri_a:"GANHRI A", ganhri_b:"GANHRI B",
     meses:['jan','fév','mar','avr','mai','jun','jul','aoû','sep','oct','nov','déc'],
   }},
 }};
@@ -1574,6 +1599,10 @@ function setLang(code) {{
     'tl-f-all':T.all_f,'tb-f-all':T.all_f,
     'tl-f-si':T.f_si,'tl-f-no':T.f_no,
     'tb-f-si':T.f_si2,'tb-f-no':T.f_no2,'tb-f-pdf':T.f_pdf,
+    'tl-g-all':T.ganhri_all,'tb-g-all':T.ganhri_all,
+    'tl-g-indh':T.ganhri_indh,'tb-g-indh':T.ganhri_indh,
+    'tl-g-a':T.ganhri_a,'tb-g-a':T.ganhri_a,
+    'tl-g-b':T.ganhri_b,'tb-g-b':T.ganhri_b,
   }};
   Object.entries(sf).forEach(([id,txt])=>{{const el=document.getElementById(id);if(el)el.textContent=txt;}});
   // Cabeceras tabla
@@ -1599,18 +1628,21 @@ const map = L.map('map',{{center:[2,-65],zoom:3}});
 L.tileLayer('https://{{s}}.basemaps.cartocdn.com/dark_all/{{z}}/{{x}}/{{y}}{{r}}.png',{{
   attribution:'&copy; CARTO',subdomains:'abcd',maxZoom:19}}).addTo(map);
 
-function mkIcon(color, count, err) {{
+function mkIcon(color, count, err, ganhri) {{
   const s  = count>0 ? Math.min(36,18+count*2.5) : 16;
   const ph = Math.round(s * 1.5);
   const op = err ? .25 : count>0 ? 1 : .5;
+  const stroke = ganhri==='A' ? '#f1c40f' : ganhri==='B' ? '#95a5a6' : 'rgba(255,255,255,.35)';
+  const sw     = ganhri ? '2' : '1.2';
+  const inner  = ganhri==='A' ? '#f1c40f' : ganhri==='B' ? '#bdc3c7' : 'rgba(255,255,255,.45)';
   const badge = count>0 ? `<div style="position:absolute;top:-8px;right:-8px;
     background:#e74c3c;color:#fff;border-radius:50%;width:17px;height:17px;
     font-size:9px;font-weight:700;display:flex;align-items:center;
     justify-content:center;border:2px solid #0d1b2a;line-height:1">${{count}}</div>` : '';
   const pin = `<svg width="${{s}}" height="${{ph}}" viewBox="0 0 24 32" style="display:block">
     <path d="M12 0C7.6 0 4 3.6 4 8c0 5.3 8 20 8 20s8-14.7 8-20c0-4.4-3.6-8-8-8z"
-      fill="${{color}}" stroke="rgba(255,255,255,.35)" stroke-width="1.2" opacity="${{op}}"/>
-    <circle cx="12" cy="8.5" r="3.5" fill="rgba(255,255,255,.45)" opacity="${{op}}"/>
+      fill="${{color}}" stroke="${{stroke}}" stroke-width="${{sw}}" opacity="${{op}}"/>
+    <circle cx="12" cy="8.5" r="3.5" fill="${{inner}}" opacity="${{op}}"/>
   </svg>`;
   return L.divIcon({{className:'',iconSize:[s,ph],iconAnchor:[s/2,ph],popupAnchor:[0,-(ph+2)],
     html:`<div style="position:relative">${{pin}}${{badge}}</div>`}});
@@ -1618,8 +1650,14 @@ function mkIcon(color, count, err) {{
 
 const _markers = [];
 MK.forEach(m=>{{
-  const ic = mkIcon(m.color, m.n_periodo, !!m.error);
-  let html = `<div class="pt">${{m.nombre}}</div>
+  const ic = mkIcon(m.color, m.n_periodo, !!m.error, m.ganhri||'');
+  const gBadge = m.ganhri ? `<span style="display:inline-block;padding:1px 6px;border-radius:3px;
+    font-size:.65rem;font-weight:700;margin-left:5px;
+    background:${{m.ganhri==='A'?'rgba(241,196,15,.18)':'rgba(149,165,166,.15)'}};
+    color:${{m.ganhri==='A'?'#f1c40f':'#95a5a6'}};
+    border:1px solid ${{m.ganhri==='A'?'rgba(241,196,15,.5)':'rgba(149,165,166,.4)'}}"
+    >INDH GANHRI ${{m.ganhri}}</span>` : '';
+  let html = `<div class="pt">${{m.nombre}}${{gBadge}}</div>
     <div class="pp">${{m.pais}} · ${{m.tipo}}</div>`;
   if(m.error) html+=`<div class="perr">${{T.noaccess}}</div>`;
   else if(m.items_periodo.length) {{
@@ -1699,12 +1737,19 @@ function openInstModal() {{
       const feedLink = FEED_BASE && i.n_periodo > 0
         ? `<a href="${{FEED_BASE}}feed-${{slug}}.xml" target="_blank" title="Feed RSS deste país" style="color:#b34700;font-size:.65rem;text-decoration:none">&#9656;RSS</a>`
         : '';
+      const gColor = i.ganhri==='A'?'#f1c40f':i.ganhri==='B'?'#95a5a6':'';
+      const gTag = i.ganhri
+        ? `<span style="padding:1px 5px;border-radius:3px;font-size:.62rem;font-weight:700;
+            background:${{i.ganhri==='A'?'rgba(241,196,15,.15)':'rgba(149,165,166,.12)'}};
+            color:${{gColor}};border:1px solid ${{i.ganhri==='A'?'rgba(241,196,15,.4)':'rgba(149,165,166,.35)'}}">GANHRI ${{i.ganhri}}</span>`
+        : '';
       html += `<div class="inst-card ${{acc}}">
         <div class="ic-name">${{name}}</div>
         <div class="ic-meta">
           <span>${{i.pais}}</span>
           <span style="color:#3a5a70">${{i.tipo}}</span>
           ${{badge}}
+          ${{gTag}}
           ${{feedLink}}
         </div>
       </div>`;
@@ -1726,6 +1771,10 @@ function buildLegend() {{
     .map(([k,c])=>`<div class="li"><div class="ld" style="background:${{c}}"></div><span>${{k}}</span></div>`)
     .join('')+
     `<hr style="border-color:#1e3a52;margin:7px 0">
+    <div style="font-size:.7rem;font-weight:700;color:#64b5e8;margin-bottom:4px">${{T.leg_indh}}</div>
+    <div class="li"><svg width="10" height="14" viewBox="0 0 24 32"><path d="M12 0C7.6 0 4 3.6 4 8c0 5.3 8 20 8 20s8-14.7 8-20c0-4.4-3.6-8-8-8z" fill="#7f8c8d" stroke="#f1c40f" stroke-width="2"/><circle cx="12" cy="8.5" r="3.5" fill="#f1c40f"/></svg><span style="font-size:.72rem">INDH GANHRI A</span></div>
+    <div class="li"><svg width="10" height="14" viewBox="0 0 24 32"><path d="M12 0C7.6 0 4 3.6 4 8c0 5.3 8 20 8 20s8-14.7 8-20c0-4.4-3.6-8-8-8z" fill="#7f8c8d" stroke="#95a5a6" stroke-width="2"/><circle cx="12" cy="8.5" r="3.5" fill="#bdc3c7"/></svg><span style="font-size:.72rem">INDH GANHRI B</span></div>
+    <hr style="border-color:#1e3a52;margin:7px 0">
     <div style="font-size:.68rem;color:#4a6a80">${{T.leg_note}}</div>`;
 }}
 
@@ -1768,7 +1817,7 @@ const tipos   =[...new Set(NN.map(n=>n.tipo))   ].sort();
 }});
 
 // ── Filtrado ──────────────────────────────────────────────────────────────────
-function filtrar(q,r,p,t,s,f) {{
+function filtrar(q,r,p,t,s,f,g) {{
   return NN.filter(n=>{{
     if(r && n.region!==r) return false;
     if(p && n.pais!==p) return false;
@@ -1777,6 +1826,9 @@ function filtrar(q,r,p,t,s,f) {{
     if(s && s!=='pdf' && !n.tipo_seccion.includes(s)) return false;
     if(f==='si' && !n.con_fecha) return false;
     if(f==='no' && n.con_fecha) return false;
+    if(g==='INDH' && !n.ganhri) return false;
+    if(g==='A'    && n.ganhri!=='A') return false;
+    if(g==='B'    && n.ganhri!=='B') return false;
     if(q) {{const qL=q.toLowerCase();
       return n.titulo.toLowerCase().includes(qL)||n.institucion.toLowerCase().includes(qL);}}
     return true;
@@ -1791,6 +1843,7 @@ function ftl() {{
     document.getElementById('tl-t').value,
     document.getElementById('tl-s').value,
     document.getElementById('tl-f').value,
+    document.getElementById('tl-g').value,
   ));
 }}
 
@@ -1836,6 +1889,7 @@ function ftb() {{
     document.getElementById('tb-p').value,
     document.getElementById('tb-t').value,'',
     document.getElementById('tb-f').value,
+    document.getElementById('tb-g').value,
   ));
 }}
 function renderTB(items) {{
