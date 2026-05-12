@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-colombia.json",
   "items": [
     {
+      "id": "https://www.defensoria.gov.co/es/web/guest/-/entrevista-defensora-el-tiempo?redirect=%2Fes%2Fnoticias",
+      "url": "https://www.defensoria.gov.co/es/web/guest/-/entrevista-defensora-el-tiempo?redirect=%2Fes%2Fnoticias",
+      "title": "Entrevista| Defensora alerta que gabelas a grupos armados podrían 'generar incentivos perversos para que incidan en elecciones'",
+      "summary": "Defensoría del Pueblo de Colombia (Colombia)",
+      "date_published": "2026-05-12T00:00:00",
+      "tags": [
+        "Colombia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gov.co/es/web/guest/-/ruta-conjunta-para-aplicar-la-ley-de-utilidad-publica?redirect=%2Fes%2Fnoticias",
       "url": "https://www.defensoria.gov.co/es/web/guest/-/ruta-conjunta-para-aplicar-la-ley-de-utilidad-publica?redirect=%2Fes%2Fnoticias",
       "title": "Defensoría y Procuraduría impulsan ruta conjunta para aplicar la Ley de Utilidad Pública",
@@ -28,21 +40,9 @@
       ]
     },
     {
-      "id": "https://www.defensoria.gov.co/es/web/guest/-/rompe-el-estigma?redirect=%2Fes%2Fnoticias",
-      "url": "https://www.defensoria.gov.co/es/web/guest/-/rompe-el-estigma?redirect=%2Fes%2Fnoticias",
+      "id": "https://www.defensoria.gov.co/es/web/guest/-/rompe-el-estigma?redirect=%2Fes%2Fsala-de-prensa",
+      "url": "https://www.defensoria.gov.co/es/web/guest/-/rompe-el-estigma?redirect=%2Fes%2Fsala-de-prensa",
       "title": "Rompe el estigma",
-      "summary": "Defensoría del Pueblo de Colombia (Colombia)",
-      "date_published": "2026-05-11T00:00:00",
-      "tags": [
-        "Colombia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gov.co/es/web/guest/-/habitantes-del-municipio-de-atrato-choco-estan-en-riesgo-a-causa-de-posible-confrontacion-entre-grupos-armados-no-estatales?redirect=%2Fes%2Fsala-de-prensa",
-      "url": "https://www.defensoria.gov.co/es/web/guest/-/habitantes-del-municipio-de-atrato-choco-estan-en-riesgo-a-causa-de-posible-confrontacion-entre-grupos-armados-no-estatales?redirect=%2Fes%2Fsala-de-prensa",
-      "title": "Habitantes del municipio de Atrato, Chocó, están en riesgo a causa de posible confrontación entre grupos armados no estatales",
       "summary": "Defensoría del Pueblo de Colombia (Colombia)",
       "date_published": "2026-05-11T00:00:00",
       "tags": [
@@ -52,9 +52,9 @@
       ]
     },
     {
-      "id": "https://www.defensoria.gov.co/es/web/guest/-/aumentar-las-penas-no-reduce-la-delincuencia-adolescente?redirect=%2Fes%2Fsala-de-prensa",
-      "url": "https://www.defensoria.gov.co/es/web/guest/-/aumentar-las-penas-no-reduce-la-delincuencia-adolescente?redirect=%2Fes%2Fsala-de-prensa",
-      "title": "La evidencia lo confirma: aumentar las penas no reduce la delincuencia adolescente",
+      "id": "https://www.defensoria.gov.co/es/web/guest/-/habitantes-del-municipio-de-atrato-choco-estan-en-riesgo-a-causa-de-posible-confrontacion-entre-grupos-armados-no-estatales?redirect=%2Fes%2Fsala-de-prensa",
+      "url": "https://www.defensoria.gov.co/es/web/guest/-/habitantes-del-municipio-de-atrato-choco-estan-en-riesgo-a-causa-de-posible-confrontacion-entre-grupos-armados-no-estatales?redirect=%2Fes%2Fsala-de-prensa",
+      "title": "Habitantes del municipio de Atrato, Chocó, están en riesgo a causa de posible confrontación entre grupos armados no estatales",
       "summary": "Defensoría del Pueblo de Colombia (Colombia)",
       "date_published": "2026-05-11T00:00:00",
       "tags": [

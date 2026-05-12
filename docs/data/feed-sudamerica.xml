@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Sudamérica</title>
   <id>urn:defensorias-americas:prensa:sudamerica</id>
-  <updated>2026-05-12T14:24:26Z</updated>
+  <updated>2026-05-12T15:40:46Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-sudamerica.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -14,7 +14,7 @@
   </entry>
   <entry>
     <title>Defensoria Pública de SP abre consulta pública para o X Plano de Atuação (2026–2027)</title>
-    <id>urn:defensorias-americas:3245203927692346518</id>
+    <id>urn:defensorias-americas:4814843924627561240</id>
     <updated>2026-05-12T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -48,13 +48,13 @@
   </entry>
   <entry>
     <title>12 de maio de 2026</title>
-    <id>urn:defensorias-americas:-8826676263906867275</id>
+    <id>urn:defensorias-americas:2222816925111649237</id>
     <updated>2026-05-12T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Ceará (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Criada para fortalecer defesas criminais, Central de Investigação Defensiva chega aos 3 anos com mais de 40 casos acompanhados</title>
-    <id>urn:defensorias-americas:-1519755632555885747</id>
+    <id>urn:defensorias-americas:-3124637226083618898</id>
     <updated>2026-05-12T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Ceará (Brasil) — noticias</summary>
   </entry>
@@ -71,6 +71,13 @@
     <link href="https://www.dpp.cl/sala_prensa/noticias_detalle/16677/tribunal-absolvio-a-joven-acusado-de-trafico-tras-acreditar-falta-de-participacion" />
     <updated>2026-05-12T00:00:00</updated>
     <summary>Defensoría Penal Pública (Chile) — sala_prensa</summary>
+  </entry>
+  <entry>
+    <title>Entrevista| Defensora alerta que gabelas a grupos armados podrían 'generar incentivos perversos para que incidan en elecciones'</title>
+    <id>https://www.defensoria.gov.co/es/web/guest/-/entrevista-defensora-el-tiempo?redirect=%2Fes%2Fnoticias</id>
+    <link href="https://www.defensoria.gov.co/es/web/guest/-/entrevista-defensora-el-tiempo?redirect=%2Fes%2Fnoticias" />
+    <updated>2026-05-12T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Colombia (Colombia) — noticias</summary>
   </entry>
   <entry>
     <title>Defensoría del Pueblo monitorea movilizaciones en La Paz y El Alto y llama a mantener el diálogo y la protesta pacífica</title>
@@ -109,31 +116,31 @@
   </entry>
   <entry>
     <title>11 de maio de 2026</title>
-    <id>urn:defensorias-americas:-8371977869586895535</id>
+    <id>urn:defensorias-americas:-5294218882941008733</id>
     <updated>2026-05-11T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Ceará (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Assessoria de Estágio da DPCE convoca candidatos(as) de pós-graduação para solenidades de posse em Icó e Crato</title>
-    <id>urn:defensorias-americas:880494175346668765</id>
+    <id>urn:defensorias-americas:-782922885156835513</id>
     <updated>2026-05-11T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Ceará (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Assessoria de Estágio divulga resultado parcial da prova objetiva de seleção para estagiários de Direito na capital e interior</title>
-    <id>urn:defensorias-americas:-7196825861397953329</id>
+    <id>urn:defensorias-americas:5552435996727494198</id>
     <updated>2026-05-11T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Ceará (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Cadê o sobrenome da minha mãe?</title>
-    <id>urn:defensorias-americas:-1788120808820793712</id>
+    <id>urn:defensorias-americas:8915202166825651023</id>
     <updated>2026-05-11T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Ceará (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Pesquisa Datafolha revela que a violência também entra no bolso pelo celular</title>
-    <id>urn:defensorias-americas:-2577699883509095976</id>
+    <id>urn:defensorias-americas:-8887229287515299729</id>
     <updated>2026-05-11T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Ceará (Brasil) — noticias</summary>
   </entry>
@@ -209,22 +216,15 @@
   </entry>
   <entry>
     <title>Rompe el estigma</title>
-    <id>https://www.defensoria.gov.co/es/web/guest/-/rompe-el-estigma?redirect=%2Fes%2Fnoticias</id>
-    <link href="https://www.defensoria.gov.co/es/web/guest/-/rompe-el-estigma?redirect=%2Fes%2Fnoticias" />
+    <id>https://www.defensoria.gov.co/es/web/guest/-/rompe-el-estigma?redirect=%2Fes%2Fsala-de-prensa</id>
+    <link href="https://www.defensoria.gov.co/es/web/guest/-/rompe-el-estigma?redirect=%2Fes%2Fsala-de-prensa" />
     <updated>2026-05-11T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Colombia (Colombia) — noticias</summary>
+    <summary>Defensoría del Pueblo de Colombia (Colombia) — prensa</summary>
   </entry>
   <entry>
     <title>Habitantes del municipio de Atrato, Chocó, están en riesgo a causa de posible confrontación entre grupos armados no estatales</title>
     <id>https://www.defensoria.gov.co/es/web/guest/-/habitantes-del-municipio-de-atrato-choco-estan-en-riesgo-a-causa-de-posible-confrontacion-entre-grupos-armados-no-estatales?redirect=%2Fes%2Fsala-de-prensa</id>
     <link href="https://www.defensoria.gov.co/es/web/guest/-/habitantes-del-municipio-de-atrato-choco-estan-en-riesgo-a-causa-de-posible-confrontacion-entre-grupos-armados-no-estatales?redirect=%2Fes%2Fsala-de-prensa" />
-    <updated>2026-05-11T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Colombia (Colombia) — prensa</summary>
-  </entry>
-  <entry>
-    <title>La evidencia lo confirma: aumentar las penas no reduce la delincuencia adolescente</title>
-    <id>https://www.defensoria.gov.co/es/web/guest/-/aumentar-las-penas-no-reduce-la-delincuencia-adolescente?redirect=%2Fes%2Fsala-de-prensa</id>
-    <link href="https://www.defensoria.gov.co/es/web/guest/-/aumentar-las-penas-no-reduce-la-delincuencia-adolescente?redirect=%2Fes%2Fsala-de-prensa" />
     <updated>2026-05-11T00:00:00</updated>
     <summary>Defensoría del Pueblo de Colombia (Colombia) — prensa</summary>
   </entry>
@@ -384,7 +384,7 @@
   </entry>
   <entry>
     <title>Dia das Mães: Defensoria destaca serviços de proteção e orientação jurídica às mulheres</title>
-    <id>urn:defensorias-americas:-266003573539614155</id>
+    <id>urn:defensorias-americas:6079089705190255340</id>
     <updated>2026-05-08T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -418,31 +418,31 @@
   </entry>
   <entry>
     <title>8 de maio de 2026</title>
-    <id>urn:defensorias-americas:-1888054359493274926</id>
+    <id>urn:defensorias-americas:4664768212797201738</id>
     <updated>2026-05-08T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Ceará (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Defensoria realiza quinta audiência pública do Orçamento Participativo no Crato, nesta terça-feira (12.05)</title>
-    <id>urn:defensorias-americas:-3170433510526928831</id>
+    <id>urn:defensorias-americas:3530095794770075313</id>
     <updated>2026-05-08T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Ceará (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidade de posse em Sobral</title>
-    <id>urn:defensorias-americas:-2937479031128809971</id>
+    <id>urn:defensorias-americas:2786075075694074466</id>
     <updated>2026-05-08T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Ceará (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Abandono afetivo: quando a ausência também vira dano</title>
-    <id>urn:defensorias-americas:-5967194298623617711</id>
+    <id>urn:defensorias-americas:6723118714506086364</id>
     <updated>2026-05-08T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Ceará (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Moradores do Vale do Jaguaribe e Litoral Leste debatem planejamento para a Defensoria no OP de Morada Nova</title>
-    <id>urn:defensorias-americas:5322763143779523618</id>
+    <id>urn:defensorias-americas:-8151799551138909496</id>
     <updated>2026-05-08T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Ceará (Brasil) — noticias</summary>
   </entry>
@@ -595,7 +595,7 @@
   </entry>
   <entry>
     <title>7 de maio de 2026</title>
-    <id>urn:defensorias-americas:-6550116684050553048</id>
+    <id>urn:defensorias-americas:3102804972819393685</id>
     <updated>2026-05-07T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Ceará (Brasil) — noticias</summary>
   </entry>
@@ -622,13 +622,13 @@
   </entry>
   <entry>
     <title>Justiça de Ribeirão Preto condena município após ação da Defensoria Pública por negligência em abrigo institucional</title>
-    <id>urn:defensorias-americas:-5835920428680333498</id>
+    <id>urn:defensorias-americas:2022694149503886886</id>
     <updated>2026-05-06T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Defensoria Pública de SP contribui com subsídios ao STF em julgamento sobre política de cotas raciais</title>
-    <id>urn:defensorias-americas:8608634222924540071</id>
+    <id>urn:defensorias-americas:7126081436569203124</id>
     <updated>2026-05-06T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -676,7 +676,7 @@
   </entry>
   <entry>
     <title>Defensoria Pública de SP inicia atendimento em Sumaré e amplia acesso à Justiça na região</title>
-    <id>urn:defensorias-americas:-1575730527295939711</id>
+    <id>urn:defensorias-americas:3903139360797889222</id>
     <updated>2026-05-05T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
