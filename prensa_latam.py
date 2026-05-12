@@ -207,9 +207,9 @@ INSTITUCIONES_LATAM = [
         "pais": "Uruguay", "region": "Sudamérica",
         "nombre": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo",
         "tipo": "Ombudsperson", "idioma": "es",
-        "url_base": "https://www.inddhh.gub.uy",
+        "url_base": "https://www.gub.uy",
         "secciones": [
-            {"url": "https://www.inddhh.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias",
+            {"url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias",
              "tipo": "noticias"},
         ],
     },
@@ -591,8 +591,8 @@ def parsear_fecha(texto: str) -> datetime | None:
             except ValueError:
                 pass
 
-    # "May 11, 2026"
-    m = re.search(r"([a-záéíóú]+)\s+(\d{1,2}),?\s+(\d{4})", texto.lower())
+    # "May 11, 2026" / "mayo 07,2026" (sin espacio post-coma)
+    m = re.search(r"([a-záéíóú]+)\s+(\d{1,2}),?\s*(\d{4})", texto.lower())
     if m:
         mes = TODOS_MESES.get(m.group(1))
         if mes:
@@ -637,7 +637,8 @@ def parsear_fecha_url(url: str) -> datetime | None:
 SELECTORES_ITEMS = [
     "article", ".noticia", ".news-item", ".news-card", ".press-item",
     ".entry", ".post", "li.views-row", "li.news-item", ".card",
-    ".media-body", ".comunicado", ".comunicados li", ".comunicados", ".press-release", ".item",
+    ".media-body", ".comunicado", ".comunicados li", ".comunicados",
+    ".press-release", ".item", ".documento",
 ]
 
 SELECTORES_TITULO = [
@@ -763,9 +764,9 @@ def extraer_items(soup: BeautifulSoup, url_base: str, tipo_seccion: str) -> list
         if len(items_result) >= MAX_POR_SEC:
             break
 
-    # Estrategia B: H2/H3 con texto de fecha inline (patrón Uruguay)
+    # Estrategia B: H2/H3/H4/H5 con texto de fecha inline o en container padre
     if not items_result:
-        for h in soup.find_all(["h2", "h3", "h4"])[:40]:
+        for h in soup.find_all(["h2", "h3", "h4", "h5"])[:40]:
             texto_h = h.get_text(strip=True)
             if len(texto_h) < 8:
                 continue
@@ -778,6 +779,10 @@ def extraer_items(soup: BeautifulSoup, url_base: str, tipo_seccion: str) -> list
             enlace = urljoin(url_base, a["href"]) if a else ""
             if not fecha_inline and enlace:
                 fecha_inline = parsear_fecha_url(enlace)
+            # Buscar fecha en texto del container padre (patrón Perú)
+            if not fecha_inline and h.parent:
+                ctx = h.parent.get_text(" ", strip=True)[:120]
+                fecha_inline = parsear_fecha(ctx)
 
             if titulo_limpio not in vistas and not es_ui_element(titulo_limpio):
                 vistas.add(titulo_limpio)
@@ -1043,9 +1048,17 @@ def generar_mapa(datos: dict, output_path: Path, feed_url: str = ""):
         items_periodo = inst.get("items_en_periodo", [])
         items_sin = inst.get("items_sin_fecha", [])
 
+        # Circular offset: count total institutions per country first (pre-pass above)
         n_mismo_pais = sum(1 for m in markers if m["pais"] == pais)
-        jlat = n_mismo_pais * 0.5
-        jlon = n_mismo_pais * 0.4
+        n_total_pais = sum(1 for i in instituciones if i["pais"] == pais and COORDS.get(i["pais"]))
+        if n_total_pais <= 1:
+            jlat, jlon = 0.0, 0.0
+        else:
+            import math
+            r = 0.55
+            angle = (2 * math.pi * n_mismo_pais) / n_total_pais
+            jlat = r * math.sin(angle)
+            jlon = r * math.cos(angle)
 
         markers.append({
             "pais": pais, "region": inst.get("region", ""),
@@ -1095,6 +1108,17 @@ def generar_mapa(datos: dict, output_path: Path, feed_url: str = ""):
     markers_j  = json.dumps(markers,        ensure_ascii=False)
     noticias_j = json.dumps(todas_noticias, ensure_ascii=False)
     fecha_gen  = datetime.utcnow().strftime("%d/%m/%Y %H:%M UTC")
+
+    inst_all_j = json.dumps([{
+        "nombre": i["nombre"], "pais": i["pais"],
+        "region": i.get("region", ""),
+        "tipo": i["tipo"],
+        "n_periodo": len(i.get("items_en_periodo", [])),
+        "n_sin_fecha": len(i.get("items_sin_fecha", [])),
+        "ok": bool(i.get("secciones_scrapeadas")),
+        "error": i.get("error", ""),
+        "url": i.get("url_base", ""),
+    } for i in instituciones], ensure_ascii=False)
 
     n_con_fecha = sum(1 for n in todas_noticias if n["con_fecha"])
     n_sin_fecha = sum(1 for n in todas_noticias if not n["con_fecha"])
@@ -1194,6 +1218,28 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
   border-radius:4px;font-size:.73rem;font-weight:600;text-decoration:none;
   background:#b34700;color:#fff;border:1px solid #e05a00;transition:background .15s}}
 .rss-btn:hover{{background:#e05a00}}
+.stat-link{{cursor:pointer}}
+.stat-link:hover .n{{color:#90d0f0}}
+.stat-link:hover{{border-color:#3a6a90}}
+.modal-bg{{display:none;position:fixed;inset:0;background:rgba(0,0,0,.7);z-index:9000;align-items:center;justify-content:center}}
+.modal-bg.on{{display:flex}}
+.modal{{background:#132334;border:1px solid #1e3a52;border-radius:10px;
+  width:min(820px,95vw);max-height:85vh;display:flex;flex-direction:column;overflow:hidden}}
+.modal-hdr{{display:flex;align-items:center;justify-content:space-between;
+  padding:14px 18px;border-bottom:1px solid #1e3a52}}
+.modal-hdr h3{{font-size:.9rem;color:#64b5e8;margin:0}}
+.modal-close{{background:none;border:none;color:#7a8fa0;font-size:1.3rem;cursor:pointer;line-height:1}}
+.modal-close:hover{{color:#dce8f0}}
+.modal-body{{overflow-y:auto;padding:12px 18px}}
+.inst-grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:8px}}
+.inst-card{{background:#0d1b2a;border:1px solid #1e3a52;border-radius:6px;
+  padding:9px 12px;display:flex;flex-direction:column;gap:3px}}
+.inst-card.ok{{border-left:3px solid #27ae60}}
+.inst-card.nok{{border-left:3px solid #c0392b;opacity:.7}}
+.ic-name{{font-size:.82rem;color:#c0d4e8;line-height:1.3}}
+.ic-name a{{color:inherit;text-decoration:none}}.ic-name a:hover{{color:#64b5e8}}
+.ic-meta{{font-size:.7rem;color:#5a7a90;display:flex;gap:6px;flex-wrap:wrap}}
+.ic-n{{font-weight:700;color:#64b5e8}}
 </style>
 </head>
 <body>
@@ -1205,7 +1251,7 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
        {n_inst_ok} <span id="pg-acc">instituciones accesibles</span></p>
   </div>
   <div class="stats">
-    <div class="stat"><div class="n">{len(instituciones)}</div><div class="l" id="sl-inst">Instituciones</div></div>
+    <div class="stat stat-link" onclick="openInstModal()" title="Ver todas las instituciones"><div class="n">{len(instituciones)}</div><div class="l" id="sl-inst">Instituciones</div></div>
     <div class="stat"><div class="n">{n_con_fecha}</div><div class="l" id="sl-cf">Con fecha</div></div>
     <div class="stat"><div class="n">{n_sin_fecha}</div><div class="l" id="sl-sf">Sin fecha</div></div>
     <div class="stat"><div class="n">{n_pdfs}</div><div class="l">PDFs</div></div>
@@ -1218,6 +1264,16 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
     <button class="lb"    id="lb-fr" onclick="setLang('fr')">FR</button>
   </div>
 </header>
+
+<div class="modal-bg" id="inst-modal" onclick="if(event.target===this)closeInstModal()">
+  <div class="modal">
+    <div class="modal-hdr">
+      <h3 id="inst-modal-title">Instituciones monitoreadas</h3>
+      <button class="modal-close" onclick="closeInstModal()">&#x2715;</button>
+    </div>
+    <div class="modal-body" id="inst-modal-body"></div>
+  </div>
+</div>
 
 <div class="tabs">
   <button class="tab on" id="tab-mapa" onclick="sw('mapa',this)">🗺 Mapa</button>
@@ -1282,6 +1338,7 @@ const MK   = {markers_j};
 const NN   = {noticias_j};
 const DIAS = {dias};
 const COLORES_SECCION = {colores_sec_j};
+const INST_ALL = {inst_all_j};
 
 // ── Traducciones ──────────────────────────────────────────────────────────────
 const LANGS = {{
@@ -1472,6 +1529,52 @@ MK.forEach(m=>{{
   html+=`<a class="plink" href="${{m.url}}" target="_blank">${{T.site}}</a>`;
   L.marker([m.lat,m.lon],{{icon:ic}}).addTo(map).bindPopup(html,{{maxWidth:360}});
 }});
+
+// ── Modal de instituciones ────────────────────────────────────────────────────
+function openInstModal() {{
+  const modal = document.getElementById('inst-modal');
+  const body  = document.getElementById('inst-modal-body');
+  document.getElementById('inst-modal-title').textContent =
+    T.sl_inst + ' — ' + INST_ALL.length;
+
+  const byRegion = {{}};
+  INST_ALL.forEach(i => {{
+    if(!byRegion[i.region]) byRegion[i.region] = [];
+    byRegion[i.region].push(i);
+  }});
+
+  let html = '';
+  Object.keys(byRegion).sort().forEach(reg => {{
+    html += `<div style="margin-bottom:14px">
+      <div style="font-size:.72rem;font-weight:700;color:#64b5e8;
+        text-transform:uppercase;letter-spacing:.08em;margin-bottom:6px">${{reg}}</div>
+      <div class="inst-grid">`;
+    byRegion[reg].sort((a,b)=>a.pais.localeCompare(b.pais)).forEach(i => {{
+      const acc = i.ok ? 'ok' : 'nok';
+      const badge = i.n_periodo > 0
+        ? `<span class="ic-n">${{i.n_periodo}}</span>`
+        : (i.ok ? '<span style="color:#3a6a50;font-size:.68rem">0</span>' : '<span style="color:#c0392b;font-size:.68rem">✗</span>');
+      const name = i.url
+        ? `<a href="${{i.url}}" target="_blank">${{i.nombre}}</a>`
+        : i.nombre;
+      html += `<div class="inst-card ${{acc}}">
+        <div class="ic-name">${{name}}</div>
+        <div class="ic-meta">
+          <span>🌎 ${{i.pais}}</span>
+          <span style="color:#3a5a70">${{i.tipo}}</span>
+          ${{badge}}
+        </div>
+      </div>`;
+    }});
+    html += '</div></div>';
+  }});
+  body.innerHTML = html;
+  modal.classList.add('on');
+}}
+function closeInstModal() {{
+  document.getElementById('inst-modal').classList.remove('on');
+}}
+document.addEventListener('keydown', e => {{ if(e.key==='Escape') closeInstModal(); }});
 
 function buildLegend() {{
   return '<h4>'+T.leg_title+'</h4>'+
