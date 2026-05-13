@@ -4,18 +4,6 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
-      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-eletronica-n-109-2026-aquisicao-de-filtro-de-cafeteira",
-      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-eletronica-n-109-2026-aquisicao-de-filtro-de-cafeteira",
-      "title": "Aviso de Dispensa Eletrônica n° 109/2026 - Aquisição de filtro de cafeteira",
-      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
-      "date_published": "2026-05-15T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/ministra-janine-mello-participara-da-solenidade-de-abertura-das-celebracoes-do-bembe-do-mercado-nesta-quarta-feira-13",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/ministra-janine-mello-participara-da-solenidade-de-abertura-das-celebracoes-do-bembe-do-mercado-nesta-quarta-feira-13",
       "title": "Ministra Janine Mello participará da solenidade de abertura das celebrações do Bembé do Mercado nesta quarta-feira (13)",
@@ -40,7 +28,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5073375000619700747",
+      "id": "urn:defensorias:-2161004369225613173",
       "url": "",
       "title": "Defensoria Pública acompanha famílias atingidas por explosão no Jaguaré em força-tarefa conjunta com o MP-SP",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -52,7 +40,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8235960559864402755",
+      "id": "urn:defensorias:2796471234644456266",
       "url": "",
       "title": "Defensoria Pública de SP acompanha desdobramentos da explosão no Jaguaré e garante assistência jurídica às famílias atingidas",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -64,7 +52,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8457973463555020486",
+      "id": "urn:defensorias:-690399749158721190",
       "url": "",
       "title": "Defensoria Pública de SP abre consulta pública para o X Plano de Atuação (2026–2027)",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -148,30 +136,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.ce.def.br/noticia/#content",
-      "url": "https://www.defensoria.ce.def.br/noticia/#content",
-      "title": "conteúdo",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-05-12T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.ce.def.br/noticia/#mic-init-access-tool",
-      "url": "https://www.defensoria.ce.def.br/noticia/#mic-init-access-tool",
-      "title": "Menu de Acessibilidade",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-05-12T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.defensoria.ce.def.br/noticia/aos-pes-da-chapada-vozes-do-cariri-cobram-direitos-presenca-e-protecao-do-territorio/",
       "url": "https://www.defensoria.ce.def.br/noticia/aos-pes-da-chapada-vozes-do-cariri-cobram-direitos-presenca-e-protecao-do-territorio/",
       "title": "Arquivos:Notícias",
@@ -184,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1341336855919220185",
+      "id": "urn:defensorias:7693213793876794857",
       "url": "",
       "title": "12 de maio de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -196,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3909760072979841701",
+      "id": "urn:defensorias:2413403305517036692",
       "url": "",
       "title": "Aos pés da Chapada, vozes do Cariri cobram direitos, presença e proteção do território",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -208,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1112940841924447295",
+      "id": "urn:defensorias:-3991188660573266639",
       "url": "",
       "title": "Defensoria abre seleções simplificadas de estágio em Direito para atuação em Horizonte e Jaguaruana",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -220,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5234804538231420159",
+      "id": "urn:defensorias:-1189332724643834475",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação para solenidade de posse em Crateús",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -232,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2004217618956058118",
+      "id": "urn:defensorias:-3988561708967666003",
       "url": "",
       "title": "Criada para fortalecer defesas criminais, Central de Investigação Defensiva chega aos 3 anos com mais de 40 casos acompanhados",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -376,7 +340,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1492794583573371378",
+      "id": "urn:defensorias:-2495608636125498142",
       "url": "",
       "title": "11 de maio de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -388,7 +352,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2027804509740717050",
+      "id": "urn:defensorias:-1628496835245908763",
       "url": "",
       "title": "Assessoria de Estágio da DPCE convoca candidatos(as) de pós-graduação para solenidades de posse em Icó e Crato",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -400,7 +364,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:377641874614424976",
+      "id": "urn:defensorias:-8254919511765810389",
       "url": "",
       "title": "Assessoria de Estágio divulga resultado parcial da prova objetiva de seleção para estagiários de Direito na capital e interior",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -412,7 +376,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8466843210147115017",
+      "id": "urn:defensorias:6545818569099678403",
       "url": "",
       "title": "Cadê o sobrenome da minha mãe?",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -424,7 +388,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3679832875082642722",
+      "id": "urn:defensorias:-3926425177406902965",
       "url": "",
       "title": "Pesquisa Datafolha revela que a violência também entra no bolso pelo celular",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -544,7 +508,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2630180020459396588",
+      "id": "urn:defensorias:4669274616446148788",
       "url": "",
       "title": "Dia das Mães: Defensoria destaca serviços de proteção e orientação jurídica às mulheres",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -604,7 +568,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2114786713837650977",
+      "id": "urn:defensorias:-766080759688460056",
       "url": "",
       "title": "8 de maio de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -616,7 +580,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3914648483354052642",
+      "id": "urn:defensorias:4312950713217134210",
       "url": "",
       "title": "Defensoria realiza quinta audiência pública do Orçamento Participativo no Crato, nesta terça-feira (12.05)",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -628,9 +592,33 @@
       ]
     },
     {
-      "id": "urn:defensorias:6891493335890719938",
+      "id": "urn:defensorias:5193897682835424720",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidade de posse em Sobral",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-622130826027941131",
+      "url": "",
+      "title": "Abandono afetivo: quando a ausência também vira dano",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:1910371830792965168",
+      "url": "",
+      "title": "Moradores do Vale do Jaguaribe e Litoral Leste debatem planejamento para a Defensoria no OP de Morada Nova",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
       "date_published": "2026-05-08T00:00:00",
       "tags": [
@@ -856,7 +844,19 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8637419410761736698",
+      "id": "urn:defensorias:4156000626573784349",
+      "url": "",
+      "title": "7 de maio de 2026",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-05-07T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-2696808197570552768",
       "url": "",
       "title": "Justiça de Ribeirão Preto condena município após ação da Defensoria Pública por negligência em abrigo institucional",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -868,7 +868,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8915597939469141401",
+      "id": "urn:defensorias:1536272252271114845",
       "url": "",
       "title": "Defensoria Pública de SP contribui com subsídios ao STF em julgamento sobre política de cotas raciais",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -940,7 +940,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4935892292911250707",
+      "id": "urn:defensorias:-5253057619063001585",
       "url": "",
       "title": "Defensoria Pública de SP inicia atendimento em Sumaré e amplia acesso à Justiça na região",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1036,7 +1036,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1865390376607827871",
+      "id": "urn:defensorias:-7006211002521676323",
       "url": "",
       "title": "Defensoria leva circuito #DáPraResolver a Campinas com foco em negociação de dívidas",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
