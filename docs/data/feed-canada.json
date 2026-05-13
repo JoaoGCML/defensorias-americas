@@ -4,18 +4,6 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.json",
   "items": [
     {
-      "id": "https://www.chrc-ccdp.gc.ca/resources",
-      "url": "https://www.chrc-ccdp.gc.ca/resources",
-      "title": "Resources",
-      "summary": "Canadian Human Rights Commission (Canadá)",
-      "date_published": "2026-05-12T00:00:00",
-      "tags": [
-        "Canadá",
-        "Norteamérica",
-        "news"
-      ]
-    },
-    {
       "id": "https://protecteurducitoyen.qc.ca/fr/nouvelles/appel-memoires-intelligence-artificielle-services-publics",
       "url": "https://protecteurducitoyen.qc.ca/fr/nouvelles/appel-memoires-intelligence-artificielle-services-publics",
       "title": "Enquête sur l’utilisation de l’IA dans les services publics : appel à mémoires",
@@ -109,6 +97,18 @@
         "Canadá",
         "Norteamérica",
         "news"
+      ]
+    },
+    {
+      "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/chrc-annual-report-human-rights-are-key-moment-canada",
+      "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/chrc-annual-report-human-rights-are-key-moment-canada",
+      "title": "CHRC Annual Report: Human rights are key to this moment for Canada",
+      "summary": "Canadian Human Rights Commission (Canadá)",
+      "date_published": "2026-04-15T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "newsroom"
       ]
     },
     {

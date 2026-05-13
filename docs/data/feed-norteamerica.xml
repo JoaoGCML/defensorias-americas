@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Norteamérica</title>
   <id>urn:defensorias-americas:prensa:norteamerica</id>
-  <updated>2026-05-13T01:05:46Z</updated>
+  <updated>2026-05-13T01:12:27Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-norteamerica.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
-  <entry>
-    <title>Resources</title>
-    <id>https://www.chrc-ccdp.gc.ca/resources</id>
-    <link href="https://www.chrc-ccdp.gc.ca/resources" />
-    <updated>2026-05-12T00:00:00</updated>
-    <summary>Canadian Human Rights Commission (Canadá) — news</summary>
-  </entry>
   <entry>
     <title>Enquête sur l’utilisation de l’IA dans les services publics : appel à mémoires</title>
     <id>https://protecteurducitoyen.qc.ca/fr/nouvelles/appel-memoires-intelligence-artificielle-services-publics</id>
@@ -67,6 +60,13 @@
     <link href="https://ombudsman.sk.ca/news/2026/2026-04-24/ombudsman-tables-her-2025-annual-reports/" />
     <updated>2026-04-24T00:00:00</updated>
     <summary>Saskatchewan Ombudsman (Canadá) — news</summary>
+  </entry>
+  <entry>
+    <title>CHRC Annual Report: Human rights are key to this moment for Canada</title>
+    <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/chrc-annual-report-human-rights-are-key-moment-canada</id>
+    <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/chrc-annual-report-human-rights-are-key-moment-canada" />
+    <updated>2026-04-15T00:00:00</updated>
+    <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
   </entry>
   <entry>
     <title>Un guide pour promouvoir un virage numérique inclusif dans les services publics</title>
