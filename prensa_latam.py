@@ -75,10 +75,10 @@ INSTITUCIONES_LATAM = [
         "pais": "Argentina", "region": "Sudamérica",
         "nombre": "Defensoría del Pueblo de la Nación",
         "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
-        "url_base": "https://www.defensoriadelpueblo.gov.ar",
+        "url_base": "https://defensoria.org.ar",
         "secciones": [
-            {"url": "https://www.defensoriadelpueblo.gov.ar/prensa",   "tipo": "prensa"},
-            {"url": "https://www.defensoriadelpueblo.gov.ar/noticias", "tipo": "noticias"},
+            {"url": "https://defensoria.org.ar/noticias/", "tipo": "noticias"},
+            {"url": "https://defensoria.org.ar/comunicacion/", "tipo": "comunicados"},
         ],
     },
     {
@@ -624,9 +624,9 @@ def parsear_fecha(texto: str) -> datetime | None:
         except ValueError:
             pass
 
-    # "11 de mayo de 2026" / "11 mayo 2026"
+    # "11 de mayo de 2026" / "11 mayo 2026" / "8 mayo, 2026" (vírgula antes do ano)
     m = re.search(
-        r"(\d{1,2})\s+(?:de\s+)?([a-záéíóúàâêîôûüñç]+)(?:\s+de)?\s+(\d{4})",
+        r"(\d{1,2})\s+(?:de\s+)?([a-záéíóúàâêîôûüñç]+)(?:\s+de)?,?\s*(\d{4})",
         texto.lower(),
     )
     if m:
@@ -746,7 +746,7 @@ def es_ui_element(titulo: str) -> bool:
 
 
 def extraer_fecha_tag(tag) -> datetime | None:
-    for attr in ["datetime", "content", "title"]:
+    for attr in ["datetime", "datatime", "content", "title"]:  # datatime = typo em alguns CMS
         v = tag.get(attr, "")
         if v:
             d = parsear_fecha(v)
@@ -825,6 +825,11 @@ def extraer_items(soup: BeautifulSoup, url_base: str, tipo_seccion: str) -> list
             enlace = urljoin(url_base, a["href"]) if a else ""
             if not fecha_inline and enlace:
                 fecha_inline = parsear_fecha_url(enlace)
+            # Buscar fecha en tag <time> del container padre (patrón BC Ombudsperson)
+            if not fecha_inline and h.parent:
+                t_tag = h.parent.find("time")
+                if t_tag:
+                    fecha_inline = extraer_fecha_tag(t_tag)
             # Buscar fecha en texto del container padre (patrón Perú)
             if not fecha_inline and h.parent:
                 ctx = h.parent.get_text(" ", strip=True)[:120]
@@ -1292,6 +1297,9 @@ header p{{font-size:.75rem;color:#7a8fa0;margin-top:3px}}
 .sec-tag{{display:inline-block;padding:1px 6px;border-radius:3px;font-size:.65rem;
   color:#a0b8c8;background:#1a3045;border:1px solid #2a4a60}}
 .pdf-tag{{background:#c0392b;font-size:.65rem;padding:1px 5px;border-radius:3px;color:#fff}}
+.indh-tag{{display:inline-block;font-size:.62rem;font-weight:700;padding:1px 5px;border-radius:3px;letter-spacing:.03em}}
+.indh-a{{background:rgba(241,196,15,.18);color:#f1c40f;border:1px solid rgba(241,196,15,.4)}}
+.indh-b{{background:rgba(149,165,166,.18);color:#bdc3c7;border:1px solid rgba(149,165,166,.4)}}
 
 table{{width:100%;border-collapse:collapse;font-size:.8rem}}
 thead th{{background:#132334;color:#64b5e8;padding:9px 11px;text-align:left;
@@ -1355,6 +1363,14 @@ tbody td a{{color:#64b5e8;text-decoration:none}}tbody td a:hover{{text-decoratio
 .ic-name a{{color:inherit;text-decoration:none}}.ic-name a:hover{{color:#64b5e8}}
 .ic-meta{{font-size:.7rem;color:#5a7a90;display:flex;gap:6px;flex-wrap:wrap}}
 .ic-n{{font-weight:700;color:#64b5e8}}
+.status-grp{{margin-bottom:16px}}
+.status-grp-title{{font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.07em;
+  padding:5px 10px;border-radius:4px;margin-bottom:8px;display:inline-block}}
+.sg-active{{background:rgba(39,174,96,.15);color:#27ae60}}
+.sg-stale{{background:rgba(243,156,18,.12);color:#f39c12}}
+.sg-nodate{{background:rgba(230,126,34,.12);color:#e67e22}}
+.sg-noaccess{{background:rgba(192,57,43,.12);color:#c0392b}}
+.reldate{{color:#4a6a80;font-size:.68rem;margin-left:5px;font-style:italic}}
 </style>
 </head>
 <body>
@@ -1497,6 +1513,9 @@ const LANGS = {{
     leg_title:"Tipo de institución", leg_note:"Número = publicaciones recientes",
     leg_indh:"Acreditación GANHRI",
     ganhri_all:"Todas las inst.", ganhri_indh:"Solo INDHs", ganhri_a:"GANHRI A", ganhri_b:"GANHRI B",
+    sg_active:"Activas — publicaciones recientes", sg_stale:"Accesibles — sin publicaciones recientes",
+    sg_nodate:"Con acceso — sin fechas detectadas", sg_noaccess:"Sin acceso o sin contenido",
+    reldate: d=>`hace ${{d}}d`,
     meses:['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'],
   }},
   en: {{
@@ -1520,6 +1539,9 @@ const LANGS = {{
     leg_title:"Institution type", leg_note:"Number = recent publications",
     leg_indh:"GANHRI Accreditation",
     ganhri_all:"All institutions", ganhri_indh:"NHRIs only", ganhri_a:"GANHRI A", ganhri_b:"GANHRI B",
+    sg_active:"Active — recent publications", sg_stale:"Accessible — no recent publications",
+    sg_nodate:"Accessible — dates not detected", sg_noaccess:"No access or no content",
+    reldate: d=>`${{d}}d ago`,
     meses:['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
   }},
   pt: {{
@@ -1543,6 +1565,9 @@ const LANGS = {{
     leg_title:"Tipo de instituição", leg_note:"Número = publicações recentes",
     leg_indh:"Acreditação GANHRI",
     ganhri_all:"Todas as inst.", ganhri_indh:"Só INDHs", ganhri_a:"GANHRI A", ganhri_b:"GANHRI B",
+    sg_active:"Ativas — publicações recentes", sg_stale:"Acessíveis — sem publicações recentes",
+    sg_nodate:"Acessíveis — datas não detectadas", sg_noaccess:"Sem acesso ou sem conteúdo",
+    reldate: d=>`há ${{d}}d`,
     meses:['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'],
   }},
   fr: {{
@@ -1566,6 +1591,9 @@ const LANGS = {{
     leg_title:"Type d'institution", leg_note:"Nombre = publications récentes",
     leg_indh:"Accréditation GANHRI",
     ganhri_all:"Toutes les inst.", ganhri_indh:"INDH seulement", ganhri_a:"GANHRI A", ganhri_b:"GANHRI B",
+    sg_active:"Actives — publications récentes", sg_stale:"Accessibles — sans publications récentes",
+    sg_nodate:"Accessibles — dates non détectées", sg_noaccess:"Pas d'accès ou sans contenu",
+    reldate: d=>`il y a ${{d}}j`,
     meses:['jan','fév','mar','avr','mai','jun','jul','aoû','sep','oct','nov','déc'],
   }},
 }};
@@ -1707,54 +1735,58 @@ function filtrarMapa(q) {{
 }}
 
 // ── Modal de instituciones ────────────────────────────────────────────────────
+function _instCard(i) {{
+  const name = i.url ? `<a href="${{i.url}}" target="_blank">${{i.nombre}}</a>` : i.nombre;
+  const slug = i.pais.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+  const feedLink = FEED_BASE && i.n_periodo > 0
+    ? `<a href="${{FEED_BASE}}feed-${{slug}}.xml" target="_blank" title="RSS" style="color:#b34700;font-size:.65rem;text-decoration:none">&#9656;RSS</a>` : '';
+  const gColor = i.ganhri==='A'?'#f1c40f':i.ganhri==='B'?'#95a5a6':'';
+  const gTag = i.ganhri
+    ? `<span style="padding:1px 5px;border-radius:3px;font-size:.62rem;font-weight:700;
+        background:${{i.ganhri==='A'?'rgba(241,196,15,.15)':'rgba(149,165,166,.12)'}};
+        color:${{gColor}};border:1px solid ${{i.ganhri==='A'?'rgba(241,196,15,.4)':'rgba(149,165,166,.35)'}}">GANHRI ${{i.ganhri}}</span>` : '';
+  const borderColor = i.n_periodo>0?'#27ae60':i.ok&&i.n_sin_fecha>0?'#e67e22':i.ok?'#1e3a52':'#c0392b';
+  const badge = i.n_periodo>0
+    ? `<span class="ic-n">${{i.n_periodo}}</span>`
+    : i.ok&&i.n_sin_fecha>0 ? `<span style="color:#e67e22;font-size:.68rem">⚠ s/data</span>`
+    : i.ok ? `<span style="color:#3a5a70;font-size:.68rem">0</span>`
+    : `<span style="color:#c0392b;font-size:.68rem">✗</span>`;
+  return `<div class="inst-card" style="border-left-color:${{borderColor}}">
+    <div class="ic-name">${{name}}</div>
+    <div class="ic-meta">
+      <span>${{i.pais}}</span><span style="color:#3a5a70">${{i.tipo}}</span>
+      ${{badge}}${{gTag}}${{feedLink}}
+    </div>
+  </div>`;
+}}
+
 function openInstModal() {{
   const modal = document.getElementById('inst-modal');
   const body  = document.getElementById('inst-modal-body');
-  document.getElementById('inst-modal-title').textContent =
-    T.sl_inst + ' — ' + INST_ALL.length;
+  document.getElementById('inst-modal-title').textContent = T.sl_inst + ' — ' + INST_ALL.length;
 
-  const byRegion = {{}};
+  // Agrupar por status: ativa / acessível sem recentes / sem data / sem acesso
+  const groups = [
+    {{ key:'active',   label:T.sg_active,   cls:'sg-active',   items:[] }},
+    {{ key:'stale',    label:T.sg_stale,    cls:'sg-stale',    items:[] }},
+    {{ key:'nodate',   label:T.sg_nodate,   cls:'sg-nodate',   items:[] }},
+    {{ key:'noaccess', label:T.sg_noaccess, cls:'sg-noaccess', items:[] }},
+  ];
   INST_ALL.forEach(i => {{
-    if(!byRegion[i.region]) byRegion[i.region] = [];
-    byRegion[i.region].push(i);
+    if(i.n_periodo > 0)                    groups[0].items.push(i);
+    else if(i.ok && i.n_sin_fecha > 0)     groups[2].items.push(i);
+    else if(i.ok)                          groups[1].items.push(i);
+    else                                   groups[3].items.push(i);
   }});
 
   let html = '';
-  Object.keys(byRegion).sort().forEach(reg => {{
-    html += `<div style="margin-bottom:14px">
-      <div style="font-size:.72rem;font-weight:700;color:#64b5e8;
-        text-transform:uppercase;letter-spacing:.08em;margin-bottom:6px">${{reg}}</div>
-      <div class="inst-grid">`;
-    byRegion[reg].sort((a,b)=>a.pais.localeCompare(b.pais)).forEach(i => {{
-      const acc = i.ok ? 'ok' : 'nok';
-      const badge = i.n_periodo > 0
-        ? `<span class="ic-n">${{i.n_periodo}}</span>`
-        : (i.ok ? '<span style="color:#3a6a50;font-size:.68rem">0</span>' : '<span style="color:#c0392b;font-size:.68rem">✗</span>');
-      const name = i.url
-        ? `<a href="${{i.url}}" target="_blank">${{i.nombre}}</a>`
-        : i.nombre;
-      const slug = i.pais.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
-      const feedLink = FEED_BASE && i.n_periodo > 0
-        ? `<a href="${{FEED_BASE}}feed-${{slug}}.xml" target="_blank" title="Feed RSS deste país" style="color:#b34700;font-size:.65rem;text-decoration:none">&#9656;RSS</a>`
-        : '';
-      const gColor = i.ganhri==='A'?'#f1c40f':i.ganhri==='B'?'#95a5a6':'';
-      const gTag = i.ganhri
-        ? `<span style="padding:1px 5px;border-radius:3px;font-size:.62rem;font-weight:700;
-            background:${{i.ganhri==='A'?'rgba(241,196,15,.15)':'rgba(149,165,166,.12)'}};
-            color:${{gColor}};border:1px solid ${{i.ganhri==='A'?'rgba(241,196,15,.4)':'rgba(149,165,166,.35)'}}">GANHRI ${{i.ganhri}}</span>`
-        : '';
-      html += `<div class="inst-card ${{acc}}">
-        <div class="ic-name">${{name}}</div>
-        <div class="ic-meta">
-          <span>${{i.pais}}</span>
-          <span style="color:#3a5a70">${{i.tipo}}</span>
-          ${{badge}}
-          ${{gTag}}
-          ${{feedLink}}
-        </div>
-      </div>`;
-    }});
-    html += '</div></div>';
+  groups.forEach(g => {{
+    if(!g.items.length) return;
+    g.items.sort((a,b)=>a.pais.localeCompare(b.pais));
+    html += `<div class="status-grp">
+      <div class="status-grp-title ${{g.cls}}">${{g.label}} (${{g.items.length}})</div>
+      <div class="inst-grid">${{g.items.map(_instCard).join('')}}</div>
+    </div>`;
   }});
   body.innerHTML = html;
   modal.classList.add('on');
@@ -1860,20 +1892,25 @@ function renderTL(items) {{
   document.getElementById('tl-body').innerHTML=keys.map(k=>{{
     const grp=grupos[k];
     const tit=k==='__sf'?T.nodate_grp:fmtFLg(k);
+    const rel=k!=='__sf'?(()=>{{
+      const diff=Math.floor((Date.now()-new Date(k))/86400000);
+      return diff>=0&&diff<60?`<span class="reldate">${{T.reldate(diff)}}</span>`:'';
+    }})():'';
     const cards=grp.map(n=>{{
       const pdf=n.es_pdf?'<span class="pdf-tag">PDF</span> ':'';
       const lnk=n.url?`<a href="${{n.url}}" target="_blank">${{n.titulo}}</a>`:n.titulo;
       const secC=COLORES_SECCION[n.tipo_seccion]||'#4a6a80';
       const sec=n.tipo_seccion?`<span class="sec-tag" style="border-color:${{secC}};color:${{secC}}">${{n.tipo_seccion}}</span>`:'';
+      const ganhriB=n.ganhri?`<span class="indh-tag ${{n.ganhri==='A'?'indh-a':'indh-b'}}">INDH ${{n.ganhri}}</span>`:'';
       return `<div class="card" style="border-left-color:${{n.color}}">
         <div class="ct">${{pdf}}${{lnk}}</div>
         <div class="cm">
           <span class="tag" style="background:${{n.color}}">${{n.tipo}}</span>
-          ${{sec}}<span>${{n.region}}</span><span>${{n.pais}}</span><span>${{n.institucion}}</span>
+          ${{ganhriB}}${{sec}}<span>${{n.region}}</span><span>${{n.pais}}</span><span>${{n.institucion}}</span>
         </div></div>`;
     }}).join('');
     return `<div class="dg">
-      <div class="dg-titulo">${{tit}} <span style="color:#3a5a70;font-weight:400">(${{grp.length}})</span></div>
+      <div class="dg-titulo">${{tit}}${{rel}} <span style="color:#3a5a70;font-weight:400">(${{grp.length}})</span></div>
       ${{cards}}</div>`;
   }}).join('');
 }}
@@ -1902,8 +1939,9 @@ function renderTB(items) {{
   document.getElementById('tb-body').innerHTML=sorted.map(n=>{{
     const fecha=n.fecha?`<span class="fc">${{fmtF(n.fecha)}}</span>`:`<span class="sf">⚠ ${{T.sl_sf.toLowerCase()}}</span>`;
     const pdf=n.es_pdf?'<span class="pdf-tag">PDF</span> ':'';
+    const ganhriB=n.ganhri?`<span class="indh-tag ${{n.ganhri==='A'?'indh-a':'indh-b'}}">INDH ${{n.ganhri}}</span> `:'';
     const lnk=n.url?`<a href="${{n.url}}" target="_blank">${{pdf}}${{n.titulo}}</a>`:`${{pdf}}${{n.titulo}}`;
-    return `<tr><td>${{fecha}}</td><td>${{lnk}}</td>
+    return `<tr><td>${{fecha}}</td><td>${{ganhriB}}${{lnk}}</td>
       <td style="color:#5a7a90">${{n.tipo_seccion}}</td>
       <td>${{n.institucion}}</td><td>${{n.pais}}</td><td>${{n.region}}</td></tr>`;
   }}).join('');
