@@ -796,6 +796,10 @@ TITULOS_IGNORAR = {
     "communiqués de presse", "salle de presse",
     # Portugués
     "leia mais", "ver todas as notícias", "mais notícias",
+    "conteúdo", "menu de acessibilidade", "acessibilidade",
+    "ir para o conteúdo", "pular para o conteúdo", "ir ao conteúdo",
+    "menu principal", "mapa do site", "fale conosco",
+    "aviso de acessibilidade", "alto contraste",
 }
 
 _UI_SUBSTRINGS = [
@@ -805,6 +809,10 @@ _UI_SUBSTRINGS = [
     "if you think you have been treated",
     "can we look at your concern",
     "looking to make a complaint",
+    "menu de acessib", "pular para", "ir para o conteú",
+    "aviso de dispensa eletr",   # licitações/compras públicas
+    "aviso de licitação", "edital de licitação",
+    "pregão eletrônico", "tomada de preço",
 ]
 
 
@@ -1018,6 +1026,7 @@ async def scrapear_institucion(
     inst: dict, session: aiohttp.ClientSession, dias: int, sem: asyncio.Semaphore
 ) -> dict:
     corte = datetime.now() - timedelta(days=dias)
+    hoy   = datetime.now() + timedelta(days=1)   # margem de 1 dia para fusos horários
     resultado = {
         **{k: v for k, v in inst.items() if k != "secciones"},
         "secciones_scrapeadas": [],
@@ -1067,12 +1076,15 @@ async def scrapear_institucion(
         todos_dedup.append(item)
 
     resultado["todos_items"] = [
-        {k: v for k, v in n.items() if k != "fecha_dt"} for n in todos_dedup
+        {k: v for k, v in n.items() if k != "fecha_dt"}
+        for n in todos_dedup
+        if not n.get("fecha_dt") or n["fecha_dt"] <= hoy
     ]
 
     en_periodo = [
         {k: v for k, v in n.items() if k != "fecha_dt"}
-        for n in todos_dedup if n["fecha_dt"] and n["fecha_dt"] >= corte
+        for n in todos_dedup
+        if n["fecha_dt"] and corte <= n["fecha_dt"] <= hoy
     ]
     sin_fecha = [
         {k: v for k, v in n.items() if k != "fecha_dt"}
