@@ -75,10 +75,19 @@ INSTITUCIONES_LATAM = [
         "pais": "Argentina", "region": "Sudamérica",
         "nombre": "Defensoría del Pueblo de la Nación",
         "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
-        "url_base": "https://defensoria.org.ar",
+        "url_base": "https://www.dpn.gob.ar",
         "secciones": [
-            {"url": "https://defensoria.org.ar/noticias/", "tipo": "noticias"},
-            {"url": "https://defensoria.org.ar/comunicacion/", "tipo": "comunicados"},
+            {"url": "https://www.dpn.gob.ar/noticias.php",    "tipo": "noticias"},
+            {"url": "https://www.dpn.gob.ar/comunicados.php", "tipo": "comunicados"},
+        ],
+    },
+    {
+        "pais": "Argentina", "region": "Sudamérica",
+        "nombre": "Procuración Penitenciaria de la Nación",
+        "tipo": "Ombudsperson", "idioma": "es",
+        "url_base": "https://www.ppn.gov.ar",
+        "secciones": [
+            {"url": "https://www.ppn.gov.ar/index.php/noticias", "tipo": "noticias"},
         ],
     },
     {
@@ -87,8 +96,9 @@ INSTITUCIONES_LATAM = [
         "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.defensoria.gob.bo",
         "secciones": [
-            {"url": "https://www.defensoria.gob.bo/noticias",     "tipo": "noticias"},
-            {"url": "https://www.defensoria.gob.bo/sala-de-prensa", "tipo": "prensa"},
+            {"url": "https://www.defensoria.gob.bo/noticias",         "tipo": "noticias"},
+            {"url": "https://www.defensoria.gob.bo/comunicados",      "tipo": "comunicados"},
+            {"url": "https://www.defensoria.gob.bo/pronunciamientos", "tipo": "pronunciamientos"},
         ],
     },
     {
@@ -97,8 +107,26 @@ INSTITUCIONES_LATAM = [
         "tipo": "Defensoria Pública", "idioma": "pt",
         "url_base": "https://www.dpu.def.br",
         "secciones": [
-            {"url": "https://www.dpu.def.br/listagem-de-todas-as-noticias", "tipo": "noticias"},
-            {"url": "https://www.dpu.def.br/imprensa/noticias",             "tipo": "imprensa"},
+            {"url": "https://www.dpu.def.br/listagem-de-todas-as-noticias",   "tipo": "noticias"},
+            {"url": "https://direitoshumanos.dpu.def.br/noticias/",           "tipo": "direitos_humanos"},
+        ],
+    },
+    {
+        "pais": "Brasil", "region": "Sudamérica",
+        "nombre": "Ministério dos Direitos Humanos e da Cidadania",
+        "tipo": "Ombudsperson", "idioma": "pt",
+        "url_base": "https://www.gov.br/mdh",
+        "secciones": [
+            {"url": "https://www.gov.br/mdh/pt-br/assuntos/noticias", "tipo": "noticias"},
+        ],
+    },
+    {
+        "pais": "Brasil", "region": "Sudamérica",
+        "nombre": "Ministério Público Federal — PFDC",
+        "tipo": "Ombudsperson", "idioma": "pt",
+        "url_base": "https://www.mpf.mp.br/pfdc",
+        "secciones": [
+            {"url": "https://www.mpf.mp.br/pfdc/sala-de-imprensa", "tipo": "imprensa"},
         ],
     },
     {
@@ -191,8 +219,9 @@ INSTITUCIONES_LATAM = [
         "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.indh.cl",
         "secciones": [
-            {"url": "https://www.indh.cl/noticias-indh/",       "tipo": "noticias"},
-            {"url": "https://www.indh.cl/noticias-regionales/", "tipo": "noticias_regionales"},
+            {"url": "https://www.indh.cl/noticias-indh/",         "tipo": "noticias"},
+            {"url": "https://www.indh.cl/noticias-regionales/",   "tipo": "noticias_regionales"},
+            {"url": "https://www.indh.cl/category/declaraciones/","tipo": "declaraciones"},
         ],
     },
     {
@@ -201,9 +230,19 @@ INSTITUCIONES_LATAM = [
         "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.defensoria.gov.co",
         "secciones": [
-            {"url": "https://www.defensoria.gov.co/es/noticias",      "tipo": "noticias"},
-            {"url": "https://www.defensoria.gov.co/es/sala-de-prensa","tipo": "prensa"},
-            {"url": "https://www.defensoria.gov.co/es/comunicados",   "tipo": "comunicados"},
+            {"url": "https://www.defensoria.gov.co/es/nube/noticias/",          "tipo": "noticias"},
+            {"url": "https://www.defensoria.gov.co/es/nube/comunicados/",       "tipo": "comunicados"},
+            {"url": "https://www.defensoria.gov.co/es/nube/alertas-tempranas/", "tipo": "alertas"},
+        ],
+    },
+    {
+        "pais": "Colombia", "region": "Sudamérica",
+        "nombre": "Procuraduría General de la Nación",
+        "tipo": "Ombudsperson", "idioma": "es",
+        "url_base": "https://www.procuraduria.gov.co",
+        "secciones": [
+            {"url": "https://www.procuraduria.gov.co/Pages/prensa.aspx",       "tipo": "prensa"},
+            {"url": "https://www.procuraduria.gov.co/Pages/comunicados.aspx",  "tipo": "comunicados"},
         ],
     },
     {
@@ -212,20 +251,26 @@ INSTITUCIONES_LATAM = [
         "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.dpe.gob.ec",
         "secciones": [
-            {"url": "https://www.dpe.gob.ec/prensa/",       "tipo": "prensa"},
-            {"url": "https://www.dpe.gob.ec/noticias/",     "tipo": "noticias"},
-            {"url": "https://www.dpe.gob.ec/comunicados/",  "tipo": "comunicados"},
+            {"url": "https://www.dpe.gob.ec/category/sala-de-prensa/",     "tipo": "prensa"},
+            {"url": "https://www.dpe.gob.ec/category/pronunciamientos/",   "tipo": "pronunciamientos"},
         ],
     },
     {
         "pais": "Paraguay", "region": "Sudamérica",
         "nombre": "Defensoría del Pueblo del Paraguay",
         "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
-        "url_base": "https://www.defensoria.gov.py",
+        "url_base": "https://www.defensoriadelpueblo.gov.py",
         "secciones": [
-            {"url": "https://www.defensoria.gov.py/noticias",    "tipo": "noticias"},
-            {"url": "https://www.defensoria.gov.py/prensa",      "tipo": "prensa"},
-            {"url": "https://www.defensoria.gov.py/comunicados", "tipo": "comunicados"},
+            {"url": "https://www.defensoriadelpueblo.gov.py/noticias", "tipo": "noticias"},
+        ],
+    },
+    {
+        "pais": "Paraguay", "region": "Sudamérica",
+        "nombre": "Mecanismo Nacional de Prevención de la Tortura (MNP)",
+        "tipo": "Ombudsperson", "idioma": "es",
+        "url_base": "https://www.mnp.gov.py",
+        "secciones": [
+            {"url": "https://www.mnp.gov.py/index.php/noticias", "tipo": "noticias"},
         ],
     },
     {
@@ -234,9 +279,9 @@ INSTITUCIONES_LATAM = [
         "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.defensoria.gob.pe",
         "secciones": [
-            {"url": "https://www.defensoria.gob.pe/nota_de_prensa/", "tipo": "notas_prensa"},
-            {"url": "https://www.defensoria.gob.pe/noticias/",       "tipo": "noticias"},
-            {"url": "https://www.defensoria.gob.pe/comunicados/",    "tipo": "comunicados"},
+            {"url": "https://www.defensoria.gob.pe/noticias/",            "tipo": "noticias"},
+            {"url": "https://www.defensoria.gob.pe/pronunciamientos/",    "tipo": "pronunciamientos"},
+            {"url": "https://www.defensoria.gob.pe/alertas/",             "tipo": "alertas"},
         ],
     },
     {
@@ -247,6 +292,8 @@ INSTITUCIONES_LATAM = [
         "secciones": [
             {"url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias",
              "tipo": "noticias"},
+            {"url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/comunicados",
+             "tipo": "comunicados"},
         ],
     },
     {
@@ -255,8 +302,8 @@ INSTITUCIONES_LATAM = [
         "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.defensoria.gob.ve",
         "secciones": [
-            {"url": "https://www.defensoria.gob.ve/noticias/",      "tipo": "noticias"},
-            {"url": "https://www.defensoria.gob.ve/sala-de-prensa/","tipo": "prensa"},
+            {"url": "http://www.defensoria.gob.ve/",                       "tipo": "noticias"},
+            {"url": "http://www.defensoria.gob.ve/category/pronunciamientos/", "tipo": "pronunciamientos"},
         ],
     },
     {
@@ -309,8 +356,8 @@ INSTITUCIONES_LATAM = [
         "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://conadeh.hn",
         "secciones": [
-            {"url": "https://conadeh.hn",               "tipo": "noticias"},
-            {"url": "https://conadeh.hn/?page_id=2393", "tipo": "boletines"},
+            {"url": "https://conadeh.hn/noticias/",           "tipo": "noticias"},
+            {"url": "https://conadeh.hn/pronunciamientos/",   "tipo": "pronunciamientos"},
         ],
     },
     {
@@ -319,9 +366,9 @@ INSTITUCIONES_LATAM = [
         "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.cndh.org.mx",
         "secciones": [
-            {"url": "https://www.cndh.org.mx/tipo_noticias/comunicados",          "tipo": "comunicados"},
-            {"url": "https://www.cndh.org.mx/tipo_noticias/boletines-de-prensa",  "tipo": "boletines"},
-            {"url": "https://www.cndh.org.mx/noticias",                           "tipo": "noticias"},
+            {"url": "https://www.cndh.org.mx/noticias",                                        "tipo": "noticias"},
+            {"url": "https://www.cndh.org.mx/comunicados-pronunciamientos",                    "tipo": "comunicados"},
+            {"url": "https://www.cndh.org.mx/comunicados-pronunciamientos/pronunciamientos",   "tipo": "pronunciamientos"},
         ],
     },
     {
@@ -339,8 +386,8 @@ INSTITUCIONES_LATAM = [
         "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "A",
         "url_base": "https://www.defensoria.gob.pa",
         "secciones": [
-            {"url": "https://www.defensoria.gob.pa/comunicados/",    "tipo": "comunicados"},
-            {"url": "https://www.defensoria.gob.pa/boletin-digital/","tipo": "boletin"},
+            {"url": "https://www.defensoria.gob.pa/noticias/",        "tipo": "noticias"},
+            {"url": "https://www.defensoria.gob.pa/comunicados/",     "tipo": "comunicados"},
         ],
     },
     {
@@ -355,14 +402,21 @@ INSTITUCIONES_LATAM = [
 
     # ── CARIBE ────────────────────────────────────────────────────────────────
     {
-        # DNS off-line en mayo 2026; mantener para retentar
         "pais": "República Dominicana", "region": "Caribe",
-        "nombre": "Defensoría del Pueblo de la República Dominicana",
+        "nombre": "Defensor del Pueblo de la República Dominicana",
         "tipo": "Ombudsperson", "idioma": "es", "indh_ganhri": "B",
-        "url_base": "https://www.defensoriadelpueblo.gob.do",
+        "url_base": "https://defensordelpueblo.gob.do",
         "secciones": [
-            {"url": "https://www.defensoriadelpueblo.gob.do/noticias/",    "tipo": "noticias"},
-            {"url": "https://www.defensoriadelpueblo.gob.do/comunicados/", "tipo": "comunicados"},
+            {"url": "https://defensordelpueblo.gob.do/noticias/", "tipo": "noticias"},
+        ],
+    },
+    {
+        "pais": "República Dominicana", "region": "Caribe",
+        "nombre": "Comisión Nacional de los Derechos Humanos (CNDH-RD)",
+        "tipo": "Ombudsperson", "idioma": "es",
+        "url_base": "https://cndh.org.do",
+        "secciones": [
+            {"url": "https://cndh.org.do/noticias/", "tipo": "noticias"},
         ],
     },
     {
@@ -412,8 +466,7 @@ INSTITUCIONES_LATAM = [
         "tipo": "Ombudsperson", "idioma": "en", "indh_ganhri": "A",
         "url_base": "https://www.chrc-ccdp.gc.ca",
         "secciones": [
-            {"url": "https://www.chrc-ccdp.gc.ca/en/news",               "tipo": "news"},
-            {"url": "https://www.chrc-ccdp.gc.ca/en/news/news-releases",  "tipo": "press_release"},
+            {"url": "https://www.chrc-ccdp.gc.ca/resources/newsroom", "tipo": "newsroom"},
         ],
     },
     {
@@ -431,8 +484,7 @@ INSTITUCIONES_LATAM = [
         "tipo": "Ombudsperson", "idioma": "en",
         "url_base": "https://www.ombudsman.on.ca",
         "secciones": [
-            {"url": "https://www.ombudsman.on.ca/resources/news-releases", "tipo": "press_release"},
-            {"url": "https://www.ombudsman.on.ca/resources/news",          "tipo": "news"},
+            {"url": "https://www.ombudsman.on.ca/en/news", "tipo": "news"},
         ],
     },
     {
@@ -491,6 +543,24 @@ INSTITUCIONES_LATAM = [
     },
 
     # ── ORGANISMOS REGIONALES ─────────────────────────────────────────────────
+    {
+        "pais": "Regional", "region": "Américas",
+        "nombre": "GANHRI — Global Alliance of National Human Rights Institutions",
+        "tipo": "Red Regional", "idioma": "en",
+        "url_base": "https://ganhri.org",
+        "secciones": [
+            {"url": "https://ganhri.org/news-events/", "tipo": "news"},
+        ],
+    },
+    {
+        "pais": "Regional", "region": "Américas",
+        "nombre": "RINDHCA — Red de INDH del Continente Americano",
+        "tipo": "Red Regional", "idioma": "es",
+        "url_base": "https://www.rindhca.org",
+        "secciones": [
+            {"url": "https://www.rindhca.org/noticias/", "tipo": "noticias"},
+        ],
+    },
     {
         "pais": "Regional", "region": "Américas",
         "nombre": "Asociación Interamericana de Defensorías Públicas (AIDEF)",
