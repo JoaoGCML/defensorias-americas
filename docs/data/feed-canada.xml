@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Canadá</title>
   <id>urn:defensorias-americas:prensa:canada</id>
-  <updated>2026-05-13T09:46:54Z</updated>
+  <updated>2026-05-14T09:36:11Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -67,12 +67,5 @@
     <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/chrc-annual-report-human-rights-are-key-moment-canada" />
     <updated>2026-04-15T00:00:00</updated>
     <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
-  </entry>
-  <entry>
-    <title>Un guide pour promouvoir un virage numérique inclusif dans les services publics</title>
-    <id>https://protecteurducitoyen.qc.ca/fr/enquetes/rapports-speciaux/guide-virage-numerique-inclusif-services-publics</id>
-    <link href="https://protecteurducitoyen.qc.ca/fr/enquetes/rapports-speciaux/guide-virage-numerique-inclusif-services-publics" />
-    <updated>2026-04-14T00:00:00</updated>
-    <summary>Protecteur du citoyen du Québec (Canadá) — nouvelles</summary>
   </entry>
 </feed>
