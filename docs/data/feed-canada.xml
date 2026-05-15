@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Canadá</title>
   <id>urn:defensorias-americas:prensa:canada</id>
-  <updated>2026-05-14T09:36:11Z</updated>
+  <updated>2026-05-15T09:49:51Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -60,12 +60,5 @@
     <link href="https://ombudsman.sk.ca/news/2026/2026-04-24/ombudsman-tables-her-2025-annual-reports/" />
     <updated>2026-04-24T00:00:00</updated>
     <summary>Saskatchewan Ombudsman (Canadá) — news</summary>
-  </entry>
-  <entry>
-    <title>CHRC Annual Report: Human rights are key to this moment for Canada</title>
-    <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/chrc-annual-report-human-rights-are-key-moment-canada</id>
-    <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/chrc-annual-report-human-rights-are-key-moment-canada" />
-    <updated>2026-04-15T00:00:00</updated>
-    <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
   </entry>
 </feed>
