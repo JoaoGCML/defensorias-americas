@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Américas</title>
   <id>urn:defensorias-americas:prensa:americas</id>
-  <updated>2026-05-15T09:49:51Z</updated>
+  <updated>2026-05-16T08:48:52Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-americas.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>84/26—Venezuela: CIDH urge la liberación inmediata e incondicional de todas las personas detenidas por motivos políticos</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/084.asp&amp;utm_content=country-ven&amp;utm_term=class-mon</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/084.asp&amp;utm_content=country-ven&amp;utm_term=class-mon" />
+    <updated>2026-05-15T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>83/26—Guatemala: CIDH reconoce la designación de Fiscal General como oportunidad para fortalecer el Estado de derecho</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/083.asp&amp;utm_content=country-gtm&amp;utm_term=class-mon</id>
@@ -104,13 +111,6 @@
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
   <entry>
-    <title>72/26—CIDH otorga medidas cautelares al adolescente J.D.M.B., privado de la libertad en Cuba</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/072.asp&amp;utm_content=country-cub&amp;utm_term=class-mc</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/072.asp&amp;utm_content=country-cub&amp;utm_term=class-mc" />
-    <updated>2026-04-24T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
     <title>Comunicado del Comité de Coordinación de la RINDHCA 03/2026 – Reelección de la Presidenta del Subcomité de Acreditación de la GANHRI</title>
     <id>https://www.rindhca.org/comunicado-del-comite-de-coordinacion-de-la-rindhca-03-2026-reeleccion-de-la-presidenta-del-subcomite-de-acreditacion-de-la-ganhri/</id>
     <link href="https://www.rindhca.org/comunicado-del-comite-de-coordinacion-de-la-rindhca-03-2026-reeleccion-de-la-presidenta-del-subcomite-de-acreditacion-de-la-ganhri/" />
@@ -129,13 +129,6 @@
     <id>https://www.rindhca.org/rindhca-celebra-reunion-del-grupo-de-trabajo-sobre-derechos-humanos-y-poblacion-afrodescendiente-y-aprueba-su-hoja-de-ruta-2026/</id>
     <link href="https://www.rindhca.org/rindhca-celebra-reunion-del-grupo-de-trabajo-sobre-derechos-humanos-y-poblacion-afrodescendiente-y-aprueba-su-hoja-de-ruta-2026/" />
     <updated>2026-04-20T00:00:00</updated>
-    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
-  </entry>
-  <entry>
-    <title>RINDHCA celebra reunión del Grupo de Trabajo sobre Empresas y Derechos Humanos y aprueba su hoja de ruta 2026</title>
-    <id>https://www.rindhca.org/rindhca-celebra-reunion-del-grupo-de-trabajo-sobre-empresas-y-derechos-humanos-y-aprueba-su-hoja-de-ruta-2026/</id>
-    <link href="https://www.rindhca.org/rindhca-celebra-reunion-del-grupo-de-trabajo-sobre-empresas-y-derechos-humanos-y-aprueba-su-hoja-de-ruta-2026/" />
-    <updated>2026-04-16T00:00:00</updated>
     <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
   </entry>
 </feed>
