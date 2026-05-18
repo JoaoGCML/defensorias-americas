@@ -4,9 +4,33 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/no-dia-internacional-de-enfrentamento-a-lgbtqiafobia-mdhc-reafirma-o-direito-a-existencia-e-a-dignidade",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/no-dia-internacional-de-enfrentamento-a-lgbtqiafobia-mdhc-reafirma-o-direito-a-existencia-e-a-dignidade",
+      "title": "No Dia Internacional de Enfrentamento à LGBTQIAfobia, MDHC reafirma o direito à existência e à dignidade",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-05-17T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/17/apos-perder-isencao-do-iptu-moradora-do-viver-melhor-3-busca-apoio-da-defensoria-para-contestar-cobranca/",
+      "url": "https://defensoria.am.def.br/2026/05/17/apos-perder-isencao-do-iptu-moradora-do-viver-melhor-3-busca-apoio-da-defensoria-para-contestar-cobranca/",
+      "title": "Após perder isenção do IPTU, moradora do Viver Melhor 3 busca apoio da Defensoria para contestar cobrança",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-17T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.am.def.br/2026/05/16/defensoria-do-amazonas-realiza-acao-especializada-na-area-de-familia-no-bairro-gilberto-mestrinho/",
       "url": "https://defensoria.am.def.br/2026/05/16/defensoria-do-amazonas-realiza-acao-especializada-na-area-de-familia-no-bairro-gilberto-mestrinho/",
-      "title": "Defensoria do Amazonas realiza ação especializada na área de Família no bairro Gilberto Mestrinho",
+      "title": "Defensoria realiza ação especializada na área de Família no bairro Gilberto Mestrinho",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-05-16T00:00:00",
       "tags": [
@@ -64,7 +88,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4739926059564177565",
+      "id": "urn:defensorias:5147229552491744408",
       "url": "",
       "title": "Defensoria Pública mantém força-tarefa no Jaguaré e acompanha medidas emergenciais para famílias atingidas por explosão",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -208,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5283668014789829379",
+      "id": "urn:defensorias:7451616857637901664",
       "url": "",
       "title": "15 de maio de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -220,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-486434176089639939",
+      "id": "urn:defensorias:-4109852772691333836",
       "url": "",
       "title": "Colegiado reúne-se para a 5ª Sessão Extraordinária",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -232,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5630860702099050032",
+      "id": "urn:defensorias:-2541298136713608318",
       "url": "",
       "title": "CDI divulga 15 editais de atividades cumulativas",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -244,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1266646874250550729",
+      "id": "urn:defensorias:6664737264422550543",
       "url": "",
       "title": "Assessoria de Estágio divulga resultado final das provas objetivas da seleção de graduação em Direito e convoca candidatos para entrega de documentos",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -256,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1659651456234077945",
+      "id": "urn:defensorias:697310913081134727",
       "url": "",
       "title": "Acesso à justiça: Defensoria realiza mutirão de atendimento na Praça José de Alencar nesta sexta (22)",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -352,6 +376,18 @@
       ]
     },
     {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32650-Defensoria-cobra-cumprimento-de-decisao-judicial-para-implementacao-da-DEAM-em-Petropolis",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32650-Defensoria-cobra-cumprimento-de-decisao-judicial-para-implementacao-da-DEAM-em-Petropolis",
+      "title": "Defensoria cobra cumprimento de decisão judicial para implementação da DEAM em Petrópolis",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-05-14T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.am.def.br/2026/05/14/em-manacapuru-defensoria-amplia-regularizacao-fundiaria-com-atendimento-juridico-gratuito/",
       "url": "https://defensoria.am.def.br/2026/05/14/em-manacapuru-defensoria-amplia-regularizacao-fundiaria-com-atendimento-juridico-gratuito/",
       "title": "Em Manacapuru, Defensoria Pública amplia regularização fundiária com atendimento jurídico gratuito",
@@ -400,7 +436,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6167642470126859980",
+      "id": "urn:defensorias:-2094531346718069303",
       "url": "",
       "title": "14 de maio de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -412,7 +448,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3760653483490259145",
+      "id": "urn:defensorias:6398164596029219231",
       "url": "",
       "title": "Defensoria do Ceará lança edital para defensores participarem do XVII CONADEP",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -424,7 +460,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-192856113384635757",
+      "id": "urn:defensorias:-6638648120532352122",
       "url": "",
       "title": "CDC divulga 10 editais de atividades cumulativas",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -436,7 +472,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:62010763541071403",
+      "id": "urn:defensorias:-5311598442105062030",
       "url": "",
       "title": "Assessoria de Estágio da DPCE abre inscrições para seleção de estagiários de pós-graduação em Direito",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -448,7 +484,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8467527335074222018",
+      "id": "urn:defensorias:-2481367776400405257",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos para entrevista de seleção simplificada de Direito em Aurora",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -460,7 +496,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5228299062375326274",
+      "id": "urn:defensorias:-8881365763119222792",
       "url": "",
       "title": "CDI oferta vaga para atuação na Unidade Prisional do Cedro",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -520,7 +556,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2944661371621253847",
+      "id": "urn:defensorias:5525278599005367426",
       "url": "",
       "title": "Defensoria Pública acompanha famílias atingidas por explosão no Jaguaré em força-tarefa conjunta com o MP-SP",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -532,7 +568,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4601365742436280127",
+      "id": "urn:defensorias:-1735946371933890122",
       "url": "",
       "title": "Defensores Públicos obtém condenação da Suzano S.A por danos ambientais em São Luiz do Paraitinga após quase 20 anos de litígio",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -616,7 +652,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:905413267579465842",
+      "id": "urn:defensorias:3033655007748912541",
       "url": "",
       "title": "13 de maio de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -628,7 +664,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7820117760149941378",
+      "id": "urn:defensorias:-5707352703622353231",
       "url": "",
       "title": "Rodas de conversa com Povo Kariri ampliam o diálogo por direitos com as  comunidades tradicionais",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -640,7 +676,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5047688988376792523",
+      "id": "urn:defensorias:-4194007987171908977",
       "url": "",
       "title": "Assessoria de Estágio divulga gabaritos preliminares das seleções simplificadas para estágio de pós-graduação em Direito em Horizonte e Tianguá",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -652,7 +688,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3098940680287546111",
+      "id": "urn:defensorias:7575850792405761361",
       "url": "",
       "title": "Assessoria de Estágio divulga deferimento de inscrições para seleção de estagiários em Direito",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -664,7 +700,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3409083720227575087",
+      "id": "urn:defensorias:-3728562437926689115",
       "url": "",
       "title": "Assessoria de Estágio divulga lista de inscritos para processo seletivo de estudantes de Direito para Varas da Família, Cível e de Delitos e Organizações criminosas",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -700,7 +736,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6570298814357789494",
+      "id": "urn:defensorias:-3620812759855148435",
       "url": "",
       "title": "Defensoria Pública de SP acompanha desdobramentos da explosão no Jaguaré e garante assistência jurídica às famílias atingidas",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -712,7 +748,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4628213001202193909",
+      "id": "urn:defensorias:-1524422169422487987",
       "url": "",
       "title": "Defensoria Pública de SP abre consulta pública para o X Plano de Atuação (2026–2027)",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -856,18 +892,6 @@
       ]
     },
     {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/18m-mdhc-realizara-congresso-nacional-para-fortalecer-o-enfrentamento-a-violencia-sexual-contra-criancas-e-adolescentes",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/18m-mdhc-realizara-congresso-nacional-para-fortalecer-o-enfrentamento-a-violencia-sexual-contra-criancas-e-adolescentes",
-      "title": "18M: MDHC realizará Congresso Nacional para fortalecer o enfrentamento à violência sexual contra crianças e adolescentes",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-05-11T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.rj.def.br/noticia/detalhes/32639-DPRJ-cria-sala-especializada-para-atendimento-de-doenca-falciforme",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32639-DPRJ-cria-sala-especializada-para-atendimento-de-doenca-falciforme",
       "title": "DPRJ participa da criação de sala especializada para atendimento de doença falciforme",
@@ -940,19 +964,7 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/05/09/defensoria-e-faf-lancam-campanha-de-combate-a-violencia-contra-criancas-e-adolescentes-no-futebol-de-base/",
-      "url": "https://defensoria.am.def.br/2026/05/09/defensoria-e-faf-lancam-campanha-de-combate-a-violencia-contra-criancas-e-adolescentes-no-futebol-de-base/",
-      "title": "Defensoria e FAF lançam campanha de combate à violência psicológica e verbal no futebol de base",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-05-09T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-1556206650160097901",
+      "id": "urn:defensorias:1326185826808683658",
       "url": "",
       "title": "Dia das Mães: Defensoria destaca serviços de proteção e orientação jurídica às mulheres",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1000,18 +1012,6 @@
       ]
     },
     {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32635-ALERJ-homenageia-Defensoria-Rio-em-sessao-solene-marcada-pelo-reconhecimento-a-Instituicao",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32635-ALERJ-homenageia-Defensoria-Rio-em-sessao-solene-marcada-pelo-reconhecimento-a-Instituicao",
-      "title": "ALERJ homenageia Defensoria Rio em sessão solene marcada pelo reconhecimento à Instituição",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-05-07T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4115/",
       "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4115/",
       "title": "Visita ao núcleo de Santa Cruz do Capibaribe reforça o fortalecimento e a interiorização da Defensoria Pública de Pernambuco",
@@ -1024,7 +1024,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5951281754615936550",
+      "id": "urn:defensorias:-3703659804938264600",
       "url": "",
       "title": "Justiça de Ribeirão Preto condena município após ação da Defensoria Pública por negligência em abrigo institucional",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",

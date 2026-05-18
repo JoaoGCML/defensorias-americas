@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/dia-internacional-contrala-homofobia,-la-transfobia-y-la-bifobia",
+      "url": "https://www.defensoria.gob.bo/noticias/dia-internacional-contrala-homofobia,-la-transfobia-y-la-bifobia",
+      "title": "DÍA INTERNACIONAL CONTRA LA HOMOFOBIA, LA TRANSFOBIA Y LA BIFOBIA",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-05-17T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-reporta-47-aprehendidos-y-cinco-heridos-en-conflictos-y-llama-al-dialogo-para-desescalar-la-tension",
       "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-reporta-47-aprehendidos-y-cinco-heridos-en-conflictos-y-llama-al-dialogo-para-desescalar-la-tension",
       "title": "DEFENSOR DEL PUEBLO REPORTA 47 APREHENDIDOS Y CINCO HERIDOS EN CONFLICTOS Y LLAMA AL DIÁLOGO PARA DESESCALAR LA TENSIÓN",
@@ -103,18 +115,6 @@
       "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-verifica-situacion-de-policias-heridos-y-manifestantes-arrestados-tras-hechos-de-violencia-en-la-paz",
       "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-verifica-situacion-de-policias-heridos-y-manifestantes-arrestados-tras-hechos-de-violencia-en-la-paz",
       "title": "Defensoría del Pueblo verifica situación de policías heridos y manifestantes arrestados tras hechos de violencia en La Paz",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-05-14T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-urge-garantizar-la-proteccion-de-periodistas-y-el-respeto-a-los-derechos-humanos-en-contextos-de-conflictividad-social",
-      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-urge-garantizar-la-proteccion-de-periodistas-y-el-respeto-a-los-derechos-humanos-en-contextos-de-conflictividad-social",
-      "title": "DEFENSORÍA DEL PUEBLO URGE GARANTIZAR LA PROTECCIÓN DE PERIODISTAS Y EL RESPETO A LOS DERECHOS HUMANOS EN CONTEXTOS DE CONFLICTIVIDAD SOCIAL",
       "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
       "date_published": "2026-05-14T00:00:00",
       "tags": [
