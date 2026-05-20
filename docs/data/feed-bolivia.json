@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/conflictividaddefensoria-del-pueblo-reporta-bloqueos-y-marchas-en-cuatro-regiones-y-mantiene-vigilancia-con-equipos-de-monitoreo",
+      "url": "https://www.defensoria.gob.bo/noticias/conflictividaddefensoria-del-pueblo-reporta-bloqueos-y-marchas-en-cuatro-regiones-y-mantiene-vigilancia-con-equipos-de-monitoreo",
+      "title": "CONFLICTIVIDAD: DEFENSORÍA DEL PUEBLO REPORTA BLOQUEOS Y MARCHAS EN CUATRO REGIONES Y MANTIENE VIGILANCIA CON EQUIPOS DE MONITOREO",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-05-19T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-urge-instalar-el-dialogo-para-desescalarla-conflictividad-y-precautelar-la-vida",
+      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-urge-instalar-el-dialogo-para-desescalarla-conflictividad-y-precautelar-la-vida",
+      "title": "Defensor del Pueblo urge instalar el diálogo para desescalar la conflictividad y precautelar la vida",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-05-19T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-conjunto",
       "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-conjunto",
       "title": "PRONUNCIAMIENTO CONJUNTO",
@@ -93,30 +117,6 @@
       "title": "PRONUNCIAMIENTO CONJUNTO DEFENSORÍA DEL PUEBLO Y ORGANIZACIONES DE LA SOCIEDAD CIVIL",
       "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
       "date_published": "2026-05-16T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-viabiliza-ingreso-de-40-toneladas-de-oxigeno-para-abastecer-hospitales-de-la-paz-y-el-alto",
-      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-viabiliza-ingreso-de-40-toneladas-de-oxigeno-para-abastecer-hospitales-de-la-paz-y-el-alto",
-      "title": "Defensoría del Pueblo viabiliza ingreso de 40 toneladas de oxígeno para abastecer hospitales de La Paz y El Alto",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-05-15T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-gestiona-paso-humanitario-de-cisternas-con-oxigeno-hacia-la-paz",
-      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-gestiona-paso-humanitario-de-cisternas-con-oxigeno-hacia-la-paz",
-      "title": "Defensor del Pueblo gestiona paso humanitario de cisternas con oxígeno hacia La Paz",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-05-15T00:00:00",
       "tags": [
         "Bolivia",
         "Sudamérica",

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Regional</title>
   <id>urn:defensorias-americas:prensa:regional</id>
-  <updated>2026-05-19T10:38:56Z</updated>
+  <updated>2026-05-20T10:26:06Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>88/26—CIDH otorga medidas cautelares a Rodolfo José Berrio Rojas y su núcleo familiar en Venezuela</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/088.asp&amp;utm_content=country-ven&amp;utm_term=class-mc</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/088.asp&amp;utm_content=country-ven&amp;utm_term=class-mc" />
+    <updated>2026-05-19T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
+  <entry>
+    <title>87/26—CIDH otorga medidas cautelares a Orlando Laufer, privado de la libertad en Venezuela</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/087.asp&amp;utm_content=country-ven&amp;utm_term=class-mc</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/087.asp&amp;utm_content=country-ven&amp;utm_term=class-mc" />
+    <updated>2026-05-19T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>R86/26—Colombia: RELE condena asesinato de periodista y urge al Estado a tomar medidas para prevenir, proteger e investigar la violencia contra la prensa</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/086.asp&amp;utm_content=country-col&amp;utm_term=class-mon</id>
@@ -90,20 +104,6 @@
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
   <entry>
-    <title>RD76/26—La acción colectiva de las personas trabajadoras como garantía de los derechos laborales</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/076.asp</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/076.asp" />
-    <updated>2026-05-01T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>75/26—CIDH otorga medidas cautelares al nacional de Argentina, Germán Darío Giuliani, en Venezuela</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/075.asp&amp;utm_content=country-ven&amp;utm_term=class-mc</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/075.asp&amp;utm_content=country-ven&amp;utm_term=class-mc" />
-    <updated>2026-04-29T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
     <title>La RINDHCA se suma a la preocupación de expertos de Naciones Unidas por ataques a Instituciones Nacionales de Derechos Humanos</title>
     <id>https://www.rindhca.org/la-rindhca-se-suma-a-la-preocupacion-de-expertos-de-naciones-unidas-por-ataques-a-instituciones-nacionales-de-derechos-humanos/</id>
     <link href="https://www.rindhca.org/la-rindhca-se-suma-a-la-preocupacion-de-expertos-de-naciones-unidas-por-ataques-a-instituciones-nacionales-de-derechos-humanos/" />
@@ -123,12 +123,5 @@
     <link href="https://www.aidef.org/reunion-del-comite-ejecutivo-y-del-consejo-directivo-de-la-asociacion-interamericana-de-defensorias-publicas-aidef-2/" />
     <updated>2026-04-22T00:00:00</updated>
     <summary>Asociación Interamericana de Defensorías Públicas (AIDEF) (Regional) — noticias</summary>
-  </entry>
-  <entry>
-    <title>RINDHCA celebra reunión del Grupo de Trabajo sobre Derechos Humanos y Población Afrodescendiente y aprueba su hoja de ruta 2026</title>
-    <id>https://www.rindhca.org/rindhca-celebra-reunion-del-grupo-de-trabajo-sobre-derechos-humanos-y-poblacion-afrodescendiente-y-aprueba-su-hoja-de-ruta-2026/</id>
-    <link href="https://www.rindhca.org/rindhca-celebra-reunion-del-grupo-de-trabajo-sobre-derechos-humanos-y-poblacion-afrodescendiente-y-aprueba-su-hoja-de-ruta-2026/" />
-    <updated>2026-04-20T00:00:00</updated>
-    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
   </entry>
 </feed>
