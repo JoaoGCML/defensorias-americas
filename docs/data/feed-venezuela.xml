@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-05-20T10:26:06Z</updated>
+  <updated>2026-05-21T10:41:13Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensora del Pueblo visitó la Entidad de Atención al Adolescente “Dr. José Gregorio Hernández” en Antímano</title>
+    <id>http://www.defensoria.gob.ve/?p=19264</id>
+    <link href="http://www.defensoria.gob.ve/?p=19264" />
+    <updated>2026-05-20T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Gremios de la salud presentan balance ante la Defensoría del Pueblo y apuestan al trabajo institucional conjunto</title>
     <id>http://www.defensoria.gob.ve/?p=19244</id>
@@ -20,13 +27,6 @@
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
   <entry>
-    <title>Estudiantes del Complejo Educativo Bicentenario Republicano reciben formación del programa Consejo de Defensores y Defensoras Escolares</title>
-    <id>http://www.defensoria.gob.ve/?p=19101</id>
-    <link href="http://www.defensoria.gob.ve/?p=19101" />
-    <updated>2026-05-07T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
     <title>Defensoría del Pueblo inicia mesas de consulta a la Sociedad civil</title>
     <id>http://www.defensoria.gob.ve/?p=19075</id>
     <link href="http://www.defensoria.gob.ve/?p=19075" />
@@ -38,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=18985</id>
     <link href="http://www.defensoria.gob.ve/?p=18985" />
     <updated>2026-05-03T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo recibió a familiares de privados de libertad por caso Tancol</title>
-    <id>http://www.defensoria.gob.ve/?p=18971</id>
-    <link href="http://www.defensoria.gob.ve/?p=18971" />
-    <updated>2026-04-30T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>

@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-monitorea-movilizaciones-y-bloqueos-en-departamentos-del-pais",
+      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-monitorea-movilizaciones-y-bloqueos-en-departamentos-del-pais",
+      "title": "Defensor del Pueblo monitorea movilizaciones y bloqueos en departamentos del país",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-05-20T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/conflictividaddefensoria-del-pueblo-reporta-bloqueos-y-marchas-en-cuatro-regiones-y-mantiene-vigilancia-con-equipos-de-monitoreo",
       "url": "https://www.defensoria.gob.bo/noticias/conflictividaddefensoria-del-pueblo-reporta-bloqueos-y-marchas-en-cuatro-regiones-y-mantiene-vigilancia-con-equipos-de-monitoreo",
       "title": "CONFLICTIVIDAD: DEFENSORÍA DEL PUEBLO REPORTA BLOQUEOS Y MARCHAS EN CUATRO REGIONES Y MANTIENE VIGILANCIA CON EQUIPOS DE MONITOREO",
@@ -103,18 +115,6 @@
       "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-97-instituciones-exhortan-a-preservar-la-paz,-la-democracia-y-los-derechos-humanos",
       "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-97-instituciones-exhortan-a-preservar-la-paz,-la-democracia-y-los-derechos-humanos",
       "title": "DEFENSORÍA DEL PUEBLO Y 97 INSTITUCIONES EXHORTAN A PRESERVAR LA PAZ, LA DEMOCRACIA Y LOS DERECHOS HUMANOS",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-05-16T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-conjuntodefensoria-del-pueblo-y-organizaciones-de-la-sociedad-civil",
-      "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-conjuntodefensoria-del-pueblo-y-organizaciones-de-la-sociedad-civil",
-      "title": "PRONUNCIAMIENTO CONJUNTO DEFENSORÍA DEL PUEBLO Y ORGANIZACIONES DE LA SOCIEDAD CIVIL",
       "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
       "date_published": "2026-05-16T00:00:00",
       "tags": [

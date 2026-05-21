@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Uruguay</title>
   <id>urn:defensorias-americas:prensa:uruguay</id>
-  <updated>2026-05-20T10:26:06Z</updated>
+  <updated>2026-05-21T10:41:13Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Para la protección del patrimonio cultural indígena</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/para-proteccion-del-patrimonio-cultural-indigena</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/para-proteccion-del-patrimonio-cultural-indigena" />
+    <updated>2026-05-20T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
+  </entry>
   <entry>
     <title>Equipo de Investigación de la Búsqueda de INDDHH trabaja en 243 casos por denuncias de desaparición forzada</title>
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/equipo-investigacion-busqueda-inddhh-trabaja-243-casos-denuncias-desaparicion</id>
