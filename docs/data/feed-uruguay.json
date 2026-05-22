@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.json",
   "items": [
     {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/convenio-refuerza-busqueda-personas-detenidas-desaparecidas-intendencia",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/convenio-refuerza-busqueda-personas-detenidas-desaparecidas-intendencia",
+      "title": "Convenio refuerza la Búsqueda de Personas Detenidas Desaparecidas: Intendencia de Canelones aporta apoyo logístico",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-05-20T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/para-proteccion-del-patrimonio-cultural-indigena",
       "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/para-proteccion-del-patrimonio-cultural-indigena",
       "title": "Para la protección del patrimonio cultural indígena",
@@ -93,30 +105,6 @@
       "title": "INDDHH continúa monitoreo en centros para personas mayores",
       "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
       "date_published": "2026-04-23T00:00:00",
-      "tags": [
-        "Uruguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-impo-firmaron-convenio",
-      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-impo-firmaron-convenio",
-      "title": "INDDHH e IMPO firmaron convenio",
-      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
-      "date_published": "2026-04-22T00:00:00",
-      "tags": [
-        "Uruguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/informe-inddhh-alerto-sobre-incumplimiento-ley-salud-mental",
-      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/informe-inddhh-alerto-sobre-incumplimiento-ley-salud-mental",
-      "title": "Informe de la INDDHH alertó sobre incumplimiento de la Ley de Salud Mental",
-      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
-      "date_published": "2026-04-22T00:00:00",
       "tags": [
         "Uruguay",
         "Sudamérica",

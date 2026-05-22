@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Uruguay</title>
   <id>urn:defensorias-americas:prensa:uruguay</id>
-  <updated>2026-05-21T10:41:13Z</updated>
+  <updated>2026-05-22T10:25:33Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Convenio refuerza la Búsqueda de Personas Detenidas Desaparecidas: Intendencia de Canelones aporta apoyo logístico</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/convenio-refuerza-busqueda-personas-detenidas-desaparecidas-intendencia</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/convenio-refuerza-busqueda-personas-detenidas-desaparecidas-intendencia" />
+    <updated>2026-05-20T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
+  </entry>
   <entry>
     <title>Para la protección del patrimonio cultural indígena</title>
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/para-proteccion-del-patrimonio-cultural-indigena</id>
@@ -59,20 +66,6 @@
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-continua-monitoreo-centros-para-personas-mayores</id>
     <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-continua-monitoreo-centros-para-personas-mayores" />
     <updated>2026-04-23T00:00:00</updated>
-    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
-  </entry>
-  <entry>
-    <title>INDDHH e IMPO firmaron convenio</title>
-    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-impo-firmaron-convenio</id>
-    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-impo-firmaron-convenio" />
-    <updated>2026-04-22T00:00:00</updated>
-    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Informe de la INDDHH alertó sobre incumplimiento de la Ley de Salud Mental</title>
-    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/informe-inddhh-alerto-sobre-incumplimiento-ley-salud-mental</id>
-    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/informe-inddhh-alerto-sobre-incumplimiento-ley-salud-mental" />
-    <updated>2026-04-22T00:00:00</updated>
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>
 </feed>
