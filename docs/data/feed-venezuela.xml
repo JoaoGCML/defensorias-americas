@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-05-22T10:25:33Z</updated>
+  <updated>2026-05-23T09:03:01Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensora del Pueblo celebra recientes excarcelaciones y ratifica acompañamiento a familiares del grupo PDVSA-Obrero</title>
+    <id>http://www.defensoria.gob.ve/?p=19286</id>
+    <link href="http://www.defensoria.gob.ve/?p=19286" />
+    <updated>2026-05-22T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensora del Pueblo visitó la Entidad de Atención al Adolescente “Dr. José Gregorio Hernández” en Antímano</title>
     <id>http://www.defensoria.gob.ve/?p=19264</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=19075</id>
     <link href="http://www.defensoria.gob.ve/?p=19075" />
     <updated>2026-05-06T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo activa mecanismos para dar respuesta sobre el caso Quero Navas.</title>
-    <id>http://www.defensoria.gob.ve/?p=18985</id>
-    <link href="http://www.defensoria.gob.ve/?p=18985" />
-    <updated>2026-05-03T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>
