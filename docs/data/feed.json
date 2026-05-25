@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.pe/en-el-dia-de-la-educacion-inicial-la-defensoria-del-pueblo-exhorta-al-estado-a-continuar-avanzando-para-recuperar-los-niveles-de-matricula-escolar-previos-a-la-pandemia/",
+      "url": "https://www.defensoria.gob.pe/en-el-dia-de-la-educacion-inicial-la-defensoria-del-pueblo-exhorta-al-estado-a-continuar-avanzando-para-recuperar-los-niveles-de-matricula-escolar-previos-a-la-pandemia/",
+      "title": "En el día de la educación inicial, la Defensoría del Pueblo exhorta al Estado a continuar avanzando para recuperar los niveles de matrícula escolar previos a la pandemia",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-05-25T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-conjunto-de-la-defensoria-del-pueblo,-iglesia-catolica-y-la-asamblea-permanente-de-derechos-humanos-el-alto",
+      "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-conjunto-de-la-defensoria-del-pueblo,-iglesia-catolica-y-la-asamblea-permanente-de-derechos-humanos-el-alto",
+      "title": "PRONUNCIAMIENTO CONJUNTO DE LA DEFENSORÍA DEL PUEBLO, IGLESIA CATÓLICA Y LA ASAMBLEA PERMANENTE DE DERECHOS HUMANOS EL ALTO",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-05-24T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.al.def.br/index.php/noticias/plantao-civel-e-criminal-23-e-24-de-maio-de-2026",
       "url": "https://defensoria.al.def.br/index.php/noticias/plantao-civel-e-criminal-23-e-24-de-maio-de-2026",
       "title": "Plantão Cível e Criminal - 23 e 24 de maio de 2026",
@@ -11,6 +35,18 @@
       "date_published": "2026-05-24T00:00:00",
       "tags": [
         "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-acompanya-espacio-de-dialogo-entre-autoridades-comunitarias-de-rio-abajo-y-el-gobierno-nacional",
+      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-acompanya-espacio-de-dialogo-entre-autoridades-comunitarias-de-rio-abajo-y-el-gobierno-nacional",
+      "title": "DEFENSORÍA DEL PUEBLO ACOMPAÑA ESPACIO DE DIÁLOGO ENTRE AUTORIDADES COMUNITARIAS DE RÍO ABAJO Y EL GOBIERNO NACIONAL",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-05-23T00:00:00",
+      "tags": [
+        "Bolivia",
         "Sudamérica",
         "noticias"
       ]
@@ -152,18 +188,6 @@
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32671-Nudedh-PopRua-Itinerante-faz-acao-no-Centro-do-Rio",
       "title": "Nudedh PopRua Itinerante faz ação para pessoas em situação de rua no Centro do Rio",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-05-22T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4144/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4144/",
-      "title": "Núcleo de Caruaru da Defensoria Pública de Pernambuco recebe estudantes em atividade de imersão na Psicologia Jurídica",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
       "date_published": "2026-05-22T00:00:00",
       "tags": [
         "Brasil",
@@ -376,7 +400,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6854431550349233795",
+      "id": "urn:defensorias:3264352543850448909",
       "url": "",
       "title": "Noticias 22 de mayo de 2026 Más de 170 personas fueron asistidas en jornada liderada por la Defensoría del Pueblo en Itauguá Con el objetivo de acerca",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -388,7 +412,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6374849814402766007",
+      "id": "urn:defensorias:1002137559995867628",
       "url": "",
       "title": "Noticias 22 de mayo de 2026 La Defensoría del Pueblo impulsa la modernización y desburocratización del acceso a la Objeción de Conciencia Se llevó a c",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -604,18 +628,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-conjunto-defensoria-del-pueblo-y-la-iglesia-catolica",
-      "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-conjunto-defensoria-del-pueblo-y-la-iglesia-catolica",
-      "title": "PRONUNCIAMIENTO CONJUNTO - DEFENSORÍA DEL PUEBLO Y LA IGLESIA CATÓLICA",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-05-21T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/participacao-do-mdhc-em-debate-na-camara-aborda-golpes-e-ludopatia-entre-pessoas-idosas",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/participacao-do-mdhc-em-debate-na-camara-aborda-golpes-e-ludopatia-entre-pessoas-idosas",
       "title": "Participação do MDHC em debate na Câmara aborda golpes e ludopatia entre pessoas idosas",
@@ -736,54 +748,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4143/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4143/",
-      "title": "Defensoria Pública de Pernambuco obtém tutela provisória de urgência para assistida em Petrolina",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-05-21T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4142/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4142/",
-      "title": "Defensoria Pública de Pernambuco obtém liminar no STF e suspende reintegração de posse de 200 famílias em Gravatá",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-05-21T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4141/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4141/",
-      "title": "Defensoria Pública de Pernambuco é homenageada pelas principais instituições do Estado",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-05-21T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4140/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4140/",
-      "title": "Mutirão de exames de DNA e reconhecimentos voluntários de paternidade é realizado em Abreu e Lima",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-05-21T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.am.def.br/2026/05/21/escola-superior-realiza-programacao-aberta-ao-publico-para-discutir-direitos-socioambientais-e-protecao-de-vulneraveis/",
       "url": "https://defensoria.am.def.br/2026/05/21/escola-superior-realiza-programacao-aberta-ao-publico-para-discutir-direitos-socioambientais-e-protecao-de-vulneraveis/",
       "title": "Esudpam realiza programação sobre direitos socioambientais e proteção de vulneráveis",
@@ -820,7 +784,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8883260413002558556",
+      "id": "urn:defensorias:679438914734740054",
       "url": "",
       "title": "Noticias 21 de mayo de 2026 Defensor del Pueblo presentó pronunciamiento a favor de la protección del Parque Nacional Médanos del Chaco El Defensor de",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -832,7 +796,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7698876741864489711",
+      "id": "urn:defensorias:4198366274935281932",
       "url": "",
       "title": "Noticias 21 de mayo de 2026 Comunicado de la Defensoría del Pueblo sobre el Parque Nacional Médanos del Chaco La Defensoría del Pueblo expresa su preo",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -875,18 +839,6 @@
       "date_published": "2026-05-20T00:00:00",
       "tags": [
         "Argentina",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-monitorea-movilizaciones-y-bloqueos-en-departamentos-del-pais",
-      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-monitorea-movilizaciones-y-bloqueos-en-departamentos-del-pais",
-      "title": "Defensor del Pueblo monitorea movilizaciones y bloqueos en departamentos del país",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-05-20T00:00:00",
-      "tags": [
-        "Bolivia",
         "Sudamérica",
         "noticias"
       ]
@@ -976,7 +928,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4107122543394769476",
+      "id": "urn:defensorias:-6076570475202611307",
       "url": "",
       "title": "Defensoria Pública de SP conquista 1º lugar em prêmio nacional do Ministério da Justiça",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -988,7 +940,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8825721127956444391",
+      "id": "urn:defensorias:7551048835047891820",
       "url": "",
       "title": "Justiça determina que Prefeitura e Estado apresentem plano para criação de vagas destinadas a idosos com alta dependência em São José do Rio Preto",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1016,18 +968,6 @@
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32665-Defensoria-Publica-participa-de-debate-na-ALERJ-sobre-saude-da-mulher-negra-e-violencia-obstetrica",
       "title": "Defensoria Pública participa de debate na ALERJ sobre saúde da mulher negra e violência obstétrica",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-05-20T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4139/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4139/",
-      "title": "Defensoria divulga resultado da eleição para formação da lista tríplice para o cargo de Defensor Público-Geral para o biênio 2026-2028",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
       "date_published": "2026-05-20T00:00:00",
       "tags": [
         "Brasil",
@@ -1199,6 +1139,66 @@
       "date_published": "2026-05-20T00:00:00",
       "tags": [
         "Venezuela",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/opening-remarks-chief-commissioner-day-dialogue-canadian-ministers-human-rights",
+      "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/opening-remarks-chief-commissioner-day-dialogue-canadian-ministers-human-rights",
+      "title": "Opening remarks for the Chief Commissioner - Day of dialogue: Canadian ministers, human rights commissions, and stakeholders",
+      "summary": "Canadian Human Rights Commission (Canadá)",
+      "date_published": "2026-05-20T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "newsroom"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/089.asp&utm_content=country-usa&utm_term=class-mon",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/089.asp&utm_content=country-usa&utm_term=class-mon",
+      "title": "89/26—Estados Unidos debe proteger la vida de mujeres, niñas, niños y adolescentes contra la violencia doméstica",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-05-20T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32661-Dia-Nacional-da-Defensoria-Publica-Cristo-Redentor-e-outros-monumentos-homenageiam-a-Instituicao",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32661-Dia-Nacional-da-Defensoria-Publica-Cristo-Redentor-e-outros-monumentos-homenageiam-a-Instituicao",
+      "title": "Dia Nacional da Defensoria Pública: Sede da Defensoria e outros monumentos homenageiam a Instituição",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-05-19T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32660-DPRJ-empossa-residentes-do-1%C2%BA-concurso-de-Residencia-tecnica-multidisciplinar",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32660-DPRJ-empossa-residentes-do-1%C2%BA-concurso-de-Residencia-tecnica-multidisciplinar",
+      "title": "DPRJ empossa residentes do 1º concurso de Residência técnica multidisciplinar",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-05-19T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/19/dia-da-defensoria-publica-representantes-do-amazonas-participam-de-reuniao-com-presidente-do-stf/",
+      "url": "https://defensoria.am.def.br/2026/05/19/dia-da-defensoria-publica-representantes-do-amazonas-participam-de-reuniao-com-presidente-do-stf/",
+      "title": "Representantes do Amazonas participam de reunião com presidente do STF",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-19T00:00:00",
+      "tags": [
+        "Brasil",
         "Sudamérica",
         "noticias"
       ]

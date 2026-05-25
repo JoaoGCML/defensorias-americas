@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-05-24T09:23:01Z</updated>
+  <updated>2026-05-25T11:13:03Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>PRONUNCIAMIENTO CONJUNTO DE LA DEFENSORÍA DEL PUEBLO, IGLESIA CATÓLICA Y LA ASAMBLEA PERMANENTE DE DERECHOS HUMANOS EL ALTO</title>
+    <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-conjunto-de-la-defensoria-del-pueblo,-iglesia-catolica-y-la-asamblea-permanente-de-derechos-humanos-el-alto</id>
+    <link href="https://www.defensoria.gob.bo/noticias/pronunciamiento-conjunto-de-la-defensoria-del-pueblo,-iglesia-catolica-y-la-asamblea-permanente-de-derechos-humanos-el-alto" />
+    <updated>2026-05-24T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
+  <entry>
+    <title>DEFENSORÍA DEL PUEBLO ACOMPAÑA ESPACIO DE DIÁLOGO ENTRE AUTORIDADES COMUNITARIAS DE RÍO ABAJO Y EL GOBIERNO NACIONAL</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-acompanya-espacio-de-dialogo-entre-autoridades-comunitarias-de-rio-abajo-y-el-gobierno-nacional</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-acompanya-espacio-de-dialogo-entre-autoridades-comunitarias-de-rio-abajo-y-el-gobierno-nacional" />
+    <updated>2026-05-23T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>COMUNICADO DE LA DEFENSORÍA DEL PUEBLO - 22/05/2026</title>
     <id>https://www.defensoria.gob.bo/noticias/comunicado-de-la-defensoria-del-pueblo-22-05-2026</id>
@@ -59,20 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-destaca-pronunciamiento-de-la-cidh-y-el-llamado-a-garantizar-corredores-humanitarios-ante-la-conflictividad</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-destaca-pronunciamiento-de-la-cidh-y-el-llamado-a-garantizar-corredores-humanitarios-ante-la-conflictividad" />
     <updated>2026-05-21T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>PRONUNCIAMIENTO CONJUNTO - DEFENSORÍA DEL PUEBLO Y LA IGLESIA CATÓLICA</title>
-    <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-conjunto-defensoria-del-pueblo-y-la-iglesia-catolica</id>
-    <link href="https://www.defensoria.gob.bo/noticias/pronunciamiento-conjunto-defensoria-del-pueblo-y-la-iglesia-catolica" />
-    <updated>2026-05-21T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensor del Pueblo monitorea movilizaciones y bloqueos en departamentos del país</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-monitorea-movilizaciones-y-bloqueos-en-departamentos-del-pais</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-monitorea-movilizaciones-y-bloqueos-en-departamentos-del-pais" />
-    <updated>2026-05-20T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
