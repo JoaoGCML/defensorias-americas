@@ -4,6 +4,42 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.json",
   "items": [
     {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-convoco-mesa-dialogo-sobre-cuidados-paliativos-acceso-educacion",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-convoco-mesa-dialogo-sobre-cuidados-paliativos-acceso-educacion",
+      "title": "La INDDHH convocó una mesa de diálogo sobre cuidados paliativos y acceso a la educación",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-05-26T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/agustina-palacios-participo-tres-instancias-sobre-capacidad-juridica-acceso",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/agustina-palacios-participo-tres-instancias-sobre-capacidad-juridica-acceso",
+      "title": "Agustina Palacios participó en tres instancias sobre capacidad jurídica y acceso a la justicia en Uruguay",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-05-25T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/mariana-mota-visito-batallon-14-marco-del-mes-memoria",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/mariana-mota-visito-batallon-14-marco-del-mes-memoria",
+      "title": "Mariana Mota visitó el Batallón 14 en el marco del Mes de la Memoria",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-05-21T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/convenio-refuerza-busqueda-personas-detenidas-desaparecidas-intendencia",
       "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/convenio-refuerza-busqueda-personas-detenidas-desaparecidas-intendencia",
       "title": "Convenio refuerza la Búsqueda de Personas Detenidas Desaparecidas: Intendencia de Canelones aporta apoyo logístico",

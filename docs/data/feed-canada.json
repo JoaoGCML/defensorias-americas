@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.json",
   "items": [
     {
+      "id": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/drames-humains-derriere-barreaux-enquete-gestion-cas-complexes-detention",
+      "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/drames-humains-derriere-barreaux-enquete-gestion-cas-complexes-detention",
+      "title": "Drames humains derrière les barreaux : une enquête sur la gestion des cas complexes dans les établissements de détention",
+      "summary": "Protecteur du citoyen du Québec (Canadá)",
+      "date_published": "2026-05-27T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "nouvelles"
+      ]
+    },
+    {
+      "id": "https://protecteurducitoyen.qc.ca/fr/enquetes/rapports-speciaux/enquete-gestion-cas-complexes-etablissements-detention",
+      "url": "https://protecteurducitoyen.qc.ca/fr/enquetes/rapports-speciaux/enquete-gestion-cas-complexes-etablissements-detention",
+      "title": "Enquête sur la gestion des cas complexes dans les établissements de détention du Québec",
+      "summary": "Protecteur du citoyen du Québec (Canadá)",
+      "date_published": "2026-05-27T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "nouvelles"
+      ]
+    },
+    {
       "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/remarks-federal-housing-advocate-forum-ministers-human-rights",
       "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/remarks-federal-housing-advocate-forum-ministers-human-rights",
       "title": "Remarks for the Federal Housing Advocate - Forum of Ministers on human rights",

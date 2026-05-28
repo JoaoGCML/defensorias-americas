@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Américas</title>
   <id>urn:defensorias-americas:prensa:americas</id>
-  <updated>2026-05-27T10:57:57Z</updated>
+  <updated>2026-05-28T10:58:14Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-americas.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>92/26—CIDH concluye visita de trabajo sobre soluciones amistosas y medidas cautelares en Colombia</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/092.asp&amp;utm_content=country-col&amp;utm_term=class-vt</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/092.asp&amp;utm_content=country-col&amp;utm_term=class-vt" />
+    <updated>2026-05-27T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
+  <entry>
+    <title>91/26—CIDH otorga medidas cautelares a Alain Piedra Hernandez en Nicaragua</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/091.asp&amp;utm_content=country-nic&amp;utm_term=class-mc</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/091.asp&amp;utm_content=country-nic&amp;utm_term=class-mc" />
+    <updated>2026-05-27T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>90/26—CIDH otorga medidas cautelares a Breider Murcia Correa en Colombia</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/090.asp&amp;utm_content=country-col&amp;utm_term=class-mc</id>
@@ -97,31 +111,10 @@
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
   <entry>
-    <title>79/26—CIDH otorga medidas cautelares a Carmelo, Daniel y Levin De Grazia, en Venezuela</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/079.asp&amp;utm_content=country-ven&amp;utm_term=class-mc</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/079.asp&amp;utm_content=country-ven&amp;utm_term=class-mc" />
-    <updated>2026-05-06T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
     <title>La Secretaría Técnica Permanente de la RINDHCA participó como observadora en el 47º período de sesiones del Subcomité de Acreditación de la GANHRI</title>
     <id>https://www.rindhca.org/la-secretaria-tecnica-permanente-de-la-rindhca-participo-como-observadora-en-el-47o-periodo-de-sesiones-del-subcomite-de-acreditacion-de-la-ganhri/</id>
     <link href="https://www.rindhca.org/la-secretaria-tecnica-permanente-de-la-rindhca-participo-como-observadora-en-el-47o-periodo-de-sesiones-del-subcomite-de-acreditacion-de-la-ganhri/" />
     <updated>2026-05-04T00:00:00</updated>
-    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
-  </entry>
-  <entry>
-    <title>R78/26—La Relatoría Especial para la Libertad de Expresión publica su Informe Anual 2025</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/078.asp&amp;utm_term=class-mon</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/078.asp&amp;utm_term=class-mon" />
-    <updated>2026-05-04T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>La RINDHCA se suma a la preocupación de expertos de Naciones Unidas por ataques a Instituciones Nacionales de Derechos Humanos</title>
-    <id>https://www.rindhca.org/la-rindhca-se-suma-a-la-preocupacion-de-expertos-de-naciones-unidas-por-ataques-a-instituciones-nacionales-de-derechos-humanos/</id>
-    <link href="https://www.rindhca.org/la-rindhca-se-suma-a-la-preocupacion-de-expertos-de-naciones-unidas-por-ataques-a-instituciones-nacionales-de-derechos-humanos/" />
-    <updated>2026-04-28T00:00:00</updated>
     <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
   </entry>
 </feed>

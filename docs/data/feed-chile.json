@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16746/jefe-de-estudios-de-la-defensoria-de-los-rios-dialogo-sobre-justicia-juvenil-con-estudiantes-del-liceo-comercial-de-valdivia",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16746/jefe-de-estudios-de-la-defensoria-de-los-rios-dialogo-sobre-justicia-juvenil-con-estudiantes-del-liceo-comercial-de-valdivia",
+      "title": "Jefe de Estudios de la Defensoría de Los Ríos dialogó sobre justicia juvenil con estudiantes del Liceo Comercial de Valdivia",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-05-27T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16744/la-araucania-defensor-publico-de-junin-de-los-andes-conocio-el-funcionamiento-del-sistema-penal-en-villarrica",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16744/la-araucania-defensor-publico-de-junin-de-los-andes-conocio-el-funcionamiento-del-sistema-penal-en-villarrica",
+      "title": "La Araucanía: defensor público de Junín de los Andes conoció el funcionamiento del sistema penal en Villarrica",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-05-27T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
       "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16743/defensoria-regional-metropolitana-sur-realizo-dialogo-participativo-con-internos-de-la-carcel-de-talagante",
       "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16743/defensoria-regional-metropolitana-sur-realizo-dialogo-participativo-con-internos-de-la-carcel-de-talagante",
       "title": "Defensoría Regional Metropolitana Sur realizó diálogo participativo con internos de la cárcel de Talagante",
@@ -100,31 +124,7 @@
       ]
     },
     {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16734/defensor-regional-de-ohiggins-expuso-sobre-la-mision-institucional-y-la-importancia-del-debido-proceso",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16734/defensor-regional-de-ohiggins-expuso-sobre-la-mision-institucional-y-la-importancia-del-debido-proceso",
-      "title": "Defensor Regional de O'Higgins expuso sobre la misión institucional y la importancia del debido proceso",
-      "summary": "Defensoría Penal Pública (Chile)",
-      "date_published": "2026-05-25T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "sala_prensa"
-      ]
-    },
-    {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16733/dpp-y-sii-firman-convenio-que-agilizara-el-proceso-de-aranceles-de-los-usuarios-de-la-defensoria",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16733/dpp-y-sii-firman-convenio-que-agilizara-el-proceso-de-aranceles-de-los-usuarios-de-la-defensoria",
-      "title": "DPP y SII firman convenio que agilizará el proceso de aranceles de los usuarios de la Defensoría",
-      "summary": "Defensoría Penal Pública (Chile)",
-      "date_published": "2026-05-25T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "sala_prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:1694810957424019763",
+      "id": "urn:defensorias:-3987818504273499814",
       "url": "",
       "title": "EMOL | Según estudio de la Defensoría de la Niñez:...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9200704096675927304",
+      "id": "urn:defensorias:-2165897212955570487",
       "url": "",
       "title": "Según estudio de la Defensoría de la Niñez: Contacto de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1894796759104404281",
+      "id": "urn:defensorias:-1676097833618682365",
       "url": "",
       "title": "CCN Chile | Contacto de niños, niñas y adolescentes con...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4528404124896925208",
+      "id": "urn:defensorias:7559707165336097983",
       "url": "",
       "title": "Declaración pública: Defensoría de la Niñez advierte que propuesta legislativa ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1218334776973987519",
+      "id": "urn:defensorias:-1048734935590635613",
       "url": "",
       "title": "Biobiochile.cl | Defensoría de la Niñez alerta grave desprotección por...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -304,7 +304,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8232108307788130957",
+      "id": "urn:defensorias:4571450931920715138",
       "url": "",
       "title": "CNN Chile | Defensor de la Niñez: «Cerca del 80...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7828896874252719296",
+      "id": "urn:defensorias:-3625596303127173025",
       "url": "",
       "title": "Defensor de la Niñez visita Arica y aborda con autoridades ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -328,7 +328,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6569870809421680373",
+      "id": "urn:defensorias:-1187489628443925337",
       "url": "",
       "title": "Declaración pública de la Defensoría de la Niñez ante la ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -340,7 +340,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7645055556887976228",
+      "id": "urn:defensorias:7510862691433547720",
       "url": "",
       "title": "Radio Sonar | Entrevista al Defensor de la Niñez: «Las...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -352,7 +352,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1821883341021822643",
+      "id": "urn:defensorias:-6875003643357989131",
       "url": "",
       "title": "La Clave | Entrevista al Defensor de la Niñez: «En...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -364,7 +364,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1614990828356100293",
+      "id": "urn:defensorias:-4309469756643795020",
       "url": "",
       "title": "Radio Concierto | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -376,7 +376,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2549606243849769257",
+      "id": "urn:defensorias:-5765643924159880834",
       "url": "",
       "title": "24 Horas | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -388,7 +388,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1656662021536873441",
+      "id": "urn:defensorias:6655237196120411685",
       "url": "",
       "title": "Defensoría de la Niñez alerta aumento de autolesiones, violencia sexual ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8391567286765413991",
+      "id": "urn:defensorias:-5168824104028188841",
       "url": "",
       "title": "Radio Infinita | Defensor de la Niñez, Anuar Quesille, conversa...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -412,7 +412,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5893384423871217211",
+      "id": "urn:defensorias:-3325426444914676751",
       "url": "",
       "title": "Sede Biobío realizó nueva jornada de Mesa de Promoción junto ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -424,7 +424,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7771732129795690483",
+      "id": "urn:defensorias:-1555570814031002739",
       "url": "",
       "title": "Adolescentes de Coquimbo y Valparaíso participan en conversatorio sobre proyecto ...",
       "summary": "Defensoría de la Niñez (Chile)",
