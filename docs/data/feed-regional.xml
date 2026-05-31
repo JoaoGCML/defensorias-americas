@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Regional</title>
   <id>urn:defensorias-americas:prensa:regional</id>
-  <updated>2026-05-30T09:19:37Z</updated>
+  <updated>2026-05-31T09:48:13Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>La RINDHCA celebró la segunda sesión de su Grupo de Trabajo sobre Prevención de la Tortura y Otros Malos Tratos</title>
+    <id>https://www.rindhca.org/la-rindhca-celebro-la-segunda-sesion-de-su-grupo-de-trabajo-sobre-prevencion-de-la-tortura-y-otros-malos-tratos/</id>
+    <link href="https://www.rindhca.org/la-rindhca-celebro-la-segunda-sesion-de-su-grupo-de-trabajo-sobre-prevencion-de-la-tortura-y-otros-malos-tratos/" />
+    <updated>2026-05-30T00:00:00</updated>
+    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
+  </entry>
   <entry>
     <title>94/26—CIDH expresa su preocupación por la violencia política en Colombia y llama a reforzar acciones preventivas para garantizar elecciones pacíficas</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/094.asp&amp;utm_content=country-col&amp;utm_term=class-mon</id>
@@ -130,12 +137,5 @@
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/082.asp&amp;utm_content=country-mex&amp;utm_term=class-mon" />
     <updated>2026-05-11T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>La Secretaría Técnica Permanente de la RINDHCA participó como observadora en el 47º período de sesiones del Subcomité de Acreditación de la GANHRI</title>
-    <id>https://www.rindhca.org/la-secretaria-tecnica-permanente-de-la-rindhca-participo-como-observadora-en-el-47o-periodo-de-sesiones-del-subcomite-de-acreditacion-de-la-ganhri/</id>
-    <link href="https://www.rindhca.org/la-secretaria-tecnica-permanente-de-la-rindhca-participo-como-observadora-en-el-47o-periodo-de-sesiones-del-subcomite-de-acreditacion-de-la-ganhri/" />
-    <updated>2026-05-04T00:00:00</updated>
-    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
   </entry>
 </feed>
