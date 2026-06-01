@@ -4,7 +4,19 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "urn:defensorias:2040957574144891542",
+      "id": "https://www.indh.cl/tipificacion-tortura-indh-seminario/",
+      "url": "https://www.indh.cl/tipificacion-tortura-indh-seminario/",
+      "title": "A diez años de la tipificación de tortura y tratos crueles: INDH y la Asociación de Prevención contra la Tortura realizan seminario con instituciones del sistema de justicia y organizaciones de la sociedad civil",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-06-01T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:5051601954302145624",
       "url": "",
       "title": "Estudiantes convierten sus testimonios sobre derechos de la niñez en ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:435507631178810798",
+      "id": "urn:defensorias:8119131395072799545",
       "url": "",
       "title": "EMOL | Según estudio de la Defensoría de la Niñez:...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5869045293589913426",
+      "id": "urn:defensorias:-1075928704244640496",
       "url": "",
       "title": "Según estudio de la Defensoría de la Niñez: Contacto de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4755206809620101211",
+      "id": "urn:defensorias:2149708358801971357",
       "url": "",
       "title": "CCN Chile | Contacto de niños, niñas y adolescentes con...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,18 +268,6 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/jefe-araucania-discursos-odio/",
-      "url": "https://www.indh.cl/jefe-araucania-discursos-odio/",
-      "title": "Jefe de INDH La Araucanía expuso sobre los límites a los discursos de odio en jornada convocada por el Día contra la Lesbofobia, Homofobia, Transfobia y la Bifobia",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-05-18T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.indh.cl/indh-los-rios-cuenta-publica/",
       "url": "https://www.indh.cl/indh-los-rios-cuenta-publica/",
       "title": "INDH Los Ríos realizó Cuenta Pública 2025: más de 5.500 personas participaron en actividades de promoción y educación en derechos humanos",
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8082524334778847513",
+      "id": "urn:defensorias:3519873399898755723",
       "url": "",
       "title": "Declaración pública: Defensoría de la Niñez advierte que propuesta legislativa ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7131950479425793178",
+      "id": "urn:defensorias:-5217842885640587581",
       "url": "",
       "title": "Biobiochile.cl | Defensoría de la Niñez alerta grave desprotección por...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -340,7 +340,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:935175515919079846",
+      "id": "urn:defensorias:-6780463900665030830",
       "url": "",
       "title": "CNN Chile | Defensor de la Niñez: «Cerca del 80...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -352,7 +352,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4787314050856871816",
+      "id": "urn:defensorias:2662985666546866",
       "url": "",
       "title": "Defensor de la Niñez visita Arica y aborda con autoridades ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -364,7 +364,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5584036262430240014",
+      "id": "urn:defensorias:2545503987816865849",
       "url": "",
       "title": "Declaración pública de la Defensoría de la Niñez ante la ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -376,7 +376,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4973290663192328528",
+      "id": "urn:defensorias:9018567558590438638",
       "url": "",
       "title": "Radio Sonar | Entrevista al Defensor de la Niñez: «Las...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -388,7 +388,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8545228545325302408",
+      "id": "urn:defensorias:5290207548456293686",
       "url": "",
       "title": "La Clave | Entrevista al Defensor de la Niñez: «En...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7297948949337180033",
+      "id": "urn:defensorias:-413446941945399979",
       "url": "",
       "title": "Radio Concierto | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -412,7 +412,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6453001619043420442",
+      "id": "urn:defensorias:-1850652085016213922",
       "url": "",
       "title": "24 Horas | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",

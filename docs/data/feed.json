@@ -4,6 +4,42 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://www.indh.cl/tipificacion-tortura-indh-seminario/",
+      "url": "https://www.indh.cl/tipificacion-tortura-indh-seminario/",
+      "title": "A diez años de la tipificación de tortura y tratos crueles: INDH y la Asociación de Prevención contra la Tortura realizan seminario con instituciones del sistema de justicia y organizaciones de la sociedad civil",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-06-01T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-iglesia-catolica-y-defensoria-del-pueblo-ante-la-situacion-de-conflictividad-social-en-bolivia",
+      "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-iglesia-catolica-y-defensoria-del-pueblo-ante-la-situacion-de-conflictividad-social-en-bolivia",
+      "title": "PRONUNCIAMIENTO IGLESIA CATÓLICA Y DEFENSORÍA DEL PUEBLO ANTE LA SITUACIÓN DE CONFLICTIVIDAD SOCIAL EN BOLIVIA",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-05-31T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/05/31/pais-e-maes-comemoram-acao-da-defensoria-e-faf-contra-a-violencia-no-futebol-de-base/",
+      "url": "https://defensoria.am.def.br/2026/05/31/pais-e-maes-comemoram-acao-da-defensoria-e-faf-contra-a-violencia-no-futebol-de-base/",
+      "title": "Pais e mães apoiam ação da Defensoria e FAF contra a violência no futebol de base",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-31T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.al.def.br/index.php/noticias/defensores-publicos-plantonistas-30-e-31-06",
       "url": "https://defensoria.al.def.br/index.php/noticias/defensores-publicos-plantonistas-30-e-31-06",
       "title": "Defensores públicos plantonistas - 30 e 31.06",
@@ -18,7 +54,7 @@
     {
       "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-mayor-accion-ante-probable-nino-costero-de-gran-magnitud-moderada-en-proximos-meses/",
       "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-mayor-accion-ante-probable-nino-costero-de-gran-magnitud-moderada-en-proximos-meses/",
-      "title": "Defensoría del Pueblo exige mayor acción ante probable niño costero de gran magnitud moderada en próximos meses",
+      "title": "Defensoría del Pueblo exige mayor acción ante probable Niño Costero de gran magnitud moderada en próximos meses",
       "summary": "Defensoría del Pueblo del Perú (Perú)",
       "date_published": "2026-05-31T00:00:00",
       "tags": [
@@ -100,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2040957574144891542",
+      "id": "urn:defensorias:5051601954302145624",
       "url": "",
       "title": "Estudiantes convierten sus testimonios sobre derechos de la niñez en ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5535225824912634422",
+      "id": "urn:defensorias:8584276360469418437",
       "url": "",
       "title": "Defensoria Pública de SP apresenta Relatório de Gestão 2025–2026",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -232,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2726052096829290259",
+      "id": "urn:defensorias:2561450176000862111",
       "url": "",
       "title": "Defensoria Pública obtém liminar para impedir fechamento do Estação Cidadania I",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -436,7 +472,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1747704460597670576",
+      "id": "urn:defensorias:5635600058162645745",
       "url": "",
       "title": "Noticias 29 de mayo de 2026 La Defensoría del Pueblo declara de Interés Institucional el largometraje documental «Agapito Valiente, Stroessner Kyhyjeh",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -448,7 +484,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5683556645475123448",
+      "id": "urn:defensorias:4272571660726999510",
       "url": "",
       "title": "Noticias 29 de mayo de 2026 Defensoría del Pueblo y DIBEN gestionan asistencia para personas en situación de vulnerabilidad en Villarrica Representant",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -664,7 +700,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4941120837138920209",
+      "id": "urn:defensorias:843032516472195879",
       "url": "",
       "title": "Defensoria Pública e Câmara Municipal de São Paulo firmam parceria para posto de atendimento jurídico gratuito no Palácio Anchieta",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -976,18 +1012,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-promueve-acuerdo-humanitario-para-garantizar-el-paso-de-ambulancias-en-chuquisaca",
-      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-promueve-acuerdo-humanitario-para-garantizar-el-paso-de-ambulancias-en-chuquisaca",
-      "title": "DEFENSORÍA DEL PUEBLO PROMUEVE ACUERDO HUMANITARIO PARA GARANTIZAR EL PASO DE AMBULANCIAS EN CHUQUISACA",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-05-27T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/participacao-do-brasil-na-onu-e-lancamento-de-documentario-marcam-debate-sobre-os-20-anos-da-convencao-da-pessoa-com-deficiencia",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/participacao-do-brasil-na-onu-e-lancamento-de-documentario-marcam-debate-sobre-os-20-anos-da-convencao-da-pessoa-com-deficiencia",
       "title": "Participação do Brasil na ONU e lançamento de documentário marcam debate sobre os 20 anos da Convenção da Pessoa com Deficiência",
@@ -1171,30 +1195,6 @@
       "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-la-gestion-y-funcionamiento-de-los-25-colegios-de-alto-rendimiento/",
       "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-la-gestion-y-funcionamiento-de-los-25-colegios-de-alto-rendimiento/",
       "title": "Defensoría del Pueblo supervisa la gestión y funcionamiento de los 25 colegios de alto rendimiento",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-05-27T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-realiza-seguimiento-a-implementacion-del-pantbc-y-advierte-necesidad-de-fortalecer-entrega-oportuna-de-beneficios-a-personas-afectadas/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-realiza-seguimiento-a-implementacion-del-pantbc-y-advierte-necesidad-de-fortalecer-entrega-oportuna-de-beneficios-a-personas-afectadas/",
-      "title": "Defensoría del Pueblo realiza seguimiento a implementación del PANTBC y advierte necesidad de fortalecer entrega oportuna de beneficios a personas afectadas",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-05-27T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/ucayali-defensoria-del-pueblo-interviene-para-que-se-garantice-proteccion-de-menor-de-edad-en-estado-de-vulnerabilidad-en-padre-abad/",
-      "url": "https://www.defensoria.gob.pe/ucayali-defensoria-del-pueblo-interviene-para-que-se-garantice-proteccion-de-menor-de-edad-en-estado-de-vulnerabilidad-en-padre-abad/",
-      "title": "Ucayali: Defensoría del Pueblo interviene para que se garantice protección de menor de edad en estado de vulnerabilidad en Padre Abad",
       "summary": "Defensoría del Pueblo del Perú (Perú)",
       "date_published": "2026-05-27T00:00:00",
       "tags": [

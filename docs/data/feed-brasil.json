@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
+      "id": "https://defensoria.am.def.br/2026/05/31/pais-e-maes-comemoram-acao-da-defensoria-e-faf-contra-a-violencia-no-futebol-de-base/",
+      "url": "https://defensoria.am.def.br/2026/05/31/pais-e-maes-comemoram-acao-da-defensoria-e-faf-contra-a-violencia-no-futebol-de-base/",
+      "title": "Pais e mães apoiam ação da Defensoria e FAF contra a violência no futebol de base",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-05-31T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.al.def.br/index.php/noticias/defensores-publicos-plantonistas-30-e-31-06",
       "url": "https://defensoria.al.def.br/index.php/noticias/defensores-publicos-plantonistas-30-e-31-06",
       "title": "Defensores públicos plantonistas - 30 e 31.06",
@@ -88,7 +100,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5535225824912634422",
+      "id": "urn:defensorias:8584276360469418437",
       "url": "",
       "title": "Defensoria Pública de SP apresenta Relatório de Gestão 2025–2026",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -100,7 +112,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2726052096829290259",
+      "id": "urn:defensorias:2561450176000862111",
       "url": "",
       "title": "Defensoria Pública obtém liminar para impedir fechamento do Estação Cidadania I",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -232,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4941120837138920209",
+      "id": "urn:defensorias:843032516472195879",
       "url": "",
       "title": "Defensoria Pública e Câmara Municipal de São Paulo firmam parceria para posto de atendimento jurídico gratuito no Palácio Anchieta",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -628,18 +640,6 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/05/26/defensoria-publica-realiza-mutirao-fundiario-na-zona-norte-de-manaus-a-partir-desta-terca-26/",
-      "url": "https://defensoria.am.def.br/2026/05/26/defensoria-publica-realiza-mutirao-fundiario-na-zona-norte-de-manaus-a-partir-desta-terca-26/",
-      "title": "Defensoria Pública realiza atendimento fundiário na zona Norte de Manaus a partir desta terça-feira",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-05-26T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/participacao-do-brasil-na-onu-e-os-20-anos-da-convencao-sobre-os-direitos-das-pessoas-com-deficiencia-serao-tema-de-live-do-mdhc",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/participacao-do-brasil-na-onu-e-os-20-anos-da-convencao-sobre-os-direitos-das-pessoas-com-deficiencia-serao-tema-de-live-do-mdhc",
       "title": "Participação do Brasil na ONU e os 20 anos da Convenção sobre os Direitos das Pessoas com Deficiência serão tema de live do MDHC",
@@ -676,7 +676,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3921276506355489597",
+      "id": "urn:defensorias:-5931235805682597314",
       "url": "",
       "title": "Prefeitura de Itapevi promete plano em 30 dias para regularizar o CMDCA após provocação da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -796,7 +796,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6142153751361238918",
+      "id": "urn:defensorias:555908722573699651",
       "url": "",
       "title": "Defensoria Pública de SP conquista 1º lugar em prêmio nacional do Ministério da Justiça",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -808,7 +808,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8659192980286060518",
+      "id": "urn:defensorias:1488945139399383593",
       "url": "",
       "title": "Justiça determina que Prefeitura e Estado apresentem plano para criação de vagas destinadas a idosos com alta dependência em São José do Rio Preto",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -832,7 +832,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4657740760139640481",
+      "id": "urn:defensorias:-878595072683820294",
       "url": "",
       "title": "Com recorde de atendimentos e 20 anos de história, Defensoria Pública de SP celebra seu dia nacional",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -844,7 +844,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8986526843821375802",
+      "id": "urn:defensorias:1811928252860959200",
       "url": "",
       "title": "Defensoria Pública mantém força-tarefa no Jaguaré e acompanha medidas emergenciais para famílias atingidas por explosão",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",

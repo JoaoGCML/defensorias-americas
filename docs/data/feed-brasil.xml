@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Brasil</title>
   <id>urn:defensorias-americas:prensa:brasil</id>
-  <updated>2026-05-31T09:48:13Z</updated>
+  <updated>2026-06-01T12:39:20Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Pais e mães apoiam ação da Defensoria e FAF contra a violência no futebol de base</title>
+    <id>https://defensoria.am.def.br/2026/05/31/pais-e-maes-comemoram-acao-da-defensoria-e-faf-contra-a-violencia-no-futebol-de-base/</id>
+    <link href="https://defensoria.am.def.br/2026/05/31/pais-e-maes-comemoram-acao-da-defensoria-e-faf-contra-a-violencia-no-futebol-de-base/" />
+    <updated>2026-05-31T00:00:00</updated>
+    <summary>Defensoria Pública do Estado do Amazonas (Brasil) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensores públicos plantonistas - 30 e 31.06</title>
     <id>https://defensoria.al.def.br/index.php/noticias/defensores-publicos-plantonistas-30-e-31-06</id>
@@ -56,13 +63,13 @@
   </entry>
   <entry>
     <title>Defensoria Pública de SP apresenta Relatório de Gestão 2025–2026</title>
-    <id>urn:defensorias-americas:-5535225824912634422</id>
+    <id>urn:defensorias-americas:8584276360469418437</id>
     <updated>2026-05-29T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Defensoria Pública obtém liminar para impedir fechamento do Estação Cidadania I</title>
-    <id>urn:defensorias-americas:2726052096829290259</id>
+    <id>urn:defensorias-americas:2561450176000862111</id>
     <updated>2026-05-29T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -138,7 +145,7 @@
   </entry>
   <entry>
     <title>Defensoria Pública e Câmara Municipal de São Paulo firmam parceria para posto de atendimento jurídico gratuito no Palácio Anchieta</title>
-    <id>urn:defensorias-americas:-4941120837138920209</id>
+    <id>urn:defensorias-americas:843032516472195879</id>
     <updated>2026-05-28T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -367,13 +374,6 @@
     <summary>Defensoria Pública do Estado do Amazonas (Brasil) — noticias</summary>
   </entry>
   <entry>
-    <title>Defensoria Pública realiza atendimento fundiário na zona Norte de Manaus a partir desta terça-feira</title>
-    <id>https://defensoria.am.def.br/2026/05/26/defensoria-publica-realiza-mutirao-fundiario-na-zona-norte-de-manaus-a-partir-desta-terca-26/</id>
-    <link href="https://defensoria.am.def.br/2026/05/26/defensoria-publica-realiza-mutirao-fundiario-na-zona-norte-de-manaus-a-partir-desta-terca-26/" />
-    <updated>2026-05-26T00:00:00</updated>
-    <summary>Defensoria Pública do Estado do Amazonas (Brasil) — noticias</summary>
-  </entry>
-  <entry>
     <title>Participação do Brasil na ONU e os 20 anos da Convenção sobre os Direitos das Pessoas com Deficiência serão tema de live do MDHC</title>
     <id>https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/participacao-do-brasil-na-onu-e-os-20-anos-da-convencao-sobre-os-direitos-das-pessoas-com-deficiencia-serao-tema-de-live-do-mdhc</id>
     <link href="https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/maio/participacao-do-brasil-na-onu-e-os-20-anos-da-convencao-sobre-os-direitos-das-pessoas-com-deficiencia-serao-tema-de-live-do-mdhc" />
@@ -396,7 +396,7 @@
   </entry>
   <entry>
     <title>Prefeitura de Itapevi promete plano em 30 dias para regularizar o CMDCA após provocação da Defensoria</title>
-    <id>urn:defensorias-americas:-3921276506355489597</id>
+    <id>urn:defensorias-americas:-5931235805682597314</id>
     <updated>2026-05-25T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -465,13 +465,13 @@
   </entry>
   <entry>
     <title>Defensoria Pública de SP conquista 1º lugar em prêmio nacional do Ministério da Justiça</title>
-    <id>urn:defensorias-americas:-6142153751361238918</id>
+    <id>urn:defensorias-americas:555908722573699651</id>
     <updated>2026-05-20T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Justiça determina que Prefeitura e Estado apresentem plano para criação de vagas destinadas a idosos com alta dependência em São José do Rio Preto</title>
-    <id>urn:defensorias-americas:-8659192980286060518</id>
+    <id>urn:defensorias-americas:1488945139399383593</id>
     <updated>2026-05-20T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -484,13 +484,13 @@
   </entry>
   <entry>
     <title>Com recorde de atendimentos e 20 anos de história, Defensoria Pública de SP celebra seu dia nacional</title>
-    <id>urn:defensorias-americas:-4657740760139640481</id>
+    <id>urn:defensorias-americas:-878595072683820294</id>
     <updated>2026-05-18T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Defensoria Pública mantém força-tarefa no Jaguaré e acompanha medidas emergenciais para famílias atingidas por explosão</title>
-    <id>urn:defensorias-americas:-8986526843821375802</id>
+    <id>urn:defensorias-americas:1811928252860959200</id>
     <updated>2026-05-15T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
