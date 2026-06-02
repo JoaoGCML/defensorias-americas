@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.rindhca.org/la-rindhca-celebro-la-segunda-sesion-de-su-grupo-de-trabajo-sobre-poblacion-migrante-y-refugiada/",
+      "url": "https://www.rindhca.org/la-rindhca-celebro-la-segunda-sesion-de-su-grupo-de-trabajo-sobre-poblacion-migrante-y-refugiada/",
+      "title": "La RINDHCA celebró la segunda sesión de su Grupo de Trabajo sobre Población Migrante y Refugiada",
+      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
+      "date_published": "2026-06-01T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/095.asp&utm_content=country-per&utm_term=class-corteidh",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/095.asp&utm_content=country-per&utm_term=class-corteidh",
+      "title": "95/26—CIDH somete caso a la Corte IDH sobre incumplimiento de pago de salarios adeudados en el Poder Judicial de Perú",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-01T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.rindhca.org/la-rindhca-celebro-la-segunda-sesion-de-su-grupo-de-trabajo-sobre-prevencion-de-la-tortura-y-otros-malos-tratos/",
       "url": "https://www.rindhca.org/la-rindhca-celebro-la-segunda-sesion-de-su-grupo-de-trabajo-sobre-prevencion-de-la-tortura-y-otros-malos-tratos/",
       "title": "La RINDHCA celebró la segunda sesión de su Grupo de Trabajo sobre Prevención de la Tortura y Otros Malos Tratos",
@@ -193,30 +217,6 @@
         "Regional",
         "Américas",
         "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/083.asp&utm_content=country-gtm&utm_term=class-mon",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/083.asp&utm_content=country-gtm&utm_term=class-mon",
-      "title": "83/26—Guatemala: CIDH reconoce la designación de Fiscal General como oportunidad para fortalecer el Estado de derecho",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-05-13T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.rindhca.org/rindhca-e-indh-de-la-region-aportan-a-la-construccion-de-los-principios-globales-para-la-proteccion-de-los-derechos-humanos-en-la-era-digital/",
-      "url": "https://www.rindhca.org/rindhca-e-indh-de-la-region-aportan-a-la-construccion-de-los-principios-globales-para-la-proteccion-de-los-derechos-humanos-en-la-era-digital/",
-      "title": "RINDHCA e INDH de la región aportan a la construcción de los Principios Globales para la Protección de los Derechos Humanos en la Era Digital",
-      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
-      "date_published": "2026-05-12T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "noticias"
       ]
     }
   ]

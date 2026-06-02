@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Américas</title>
   <id>urn:defensorias-americas:prensa:americas</id>
-  <updated>2026-06-01T12:39:20Z</updated>
+  <updated>2026-06-02T11:20:23Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-americas.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>La RINDHCA celebró la segunda sesión de su Grupo de Trabajo sobre Población Migrante y Refugiada</title>
+    <id>https://www.rindhca.org/la-rindhca-celebro-la-segunda-sesion-de-su-grupo-de-trabajo-sobre-poblacion-migrante-y-refugiada/</id>
+    <link href="https://www.rindhca.org/la-rindhca-celebro-la-segunda-sesion-de-su-grupo-de-trabajo-sobre-poblacion-migrante-y-refugiada/" />
+    <updated>2026-06-01T00:00:00</updated>
+    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
+  </entry>
+  <entry>
+    <title>95/26—CIDH somete caso a la Corte IDH sobre incumplimiento de pago de salarios adeudados en el Poder Judicial de Perú</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/095.asp&amp;utm_content=country-per&amp;utm_term=class-corteidh</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/095.asp&amp;utm_content=country-per&amp;utm_term=class-corteidh" />
+    <updated>2026-06-01T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>La RINDHCA celebró la segunda sesión de su Grupo de Trabajo sobre Prevención de la Tortura y Otros Malos Tratos</title>
     <id>https://www.rindhca.org/la-rindhca-celebro-la-segunda-sesion-de-su-grupo-de-trabajo-sobre-prevencion-de-la-tortura-y-otros-malos-tratos/</id>
@@ -116,19 +130,5 @@
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/084.asp&amp;utm_content=country-ven&amp;utm_term=class-mon" />
     <updated>2026-05-15T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>83/26—Guatemala: CIDH reconoce la designación de Fiscal General como oportunidad para fortalecer el Estado de derecho</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/083.asp&amp;utm_content=country-gtm&amp;utm_term=class-mon</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/083.asp&amp;utm_content=country-gtm&amp;utm_term=class-mon" />
-    <updated>2026-05-13T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>RINDHCA e INDH de la región aportan a la construcción de los Principios Globales para la Protección de los Derechos Humanos en la Era Digital</title>
-    <id>https://www.rindhca.org/rindhca-e-indh-de-la-region-aportan-a-la-construccion-de-los-principios-globales-para-la-proteccion-de-los-derechos-humanos-en-la-era-digital/</id>
-    <link href="https://www.rindhca.org/rindhca-e-indh-de-la-region-aportan-a-la-construccion-de-los-principios-globales-para-la-proteccion-de-los-derechos-humanos-en-la-era-digital/" />
-    <updated>2026-05-12T00:00:00</updated>
-    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
   </entry>
 </feed>
