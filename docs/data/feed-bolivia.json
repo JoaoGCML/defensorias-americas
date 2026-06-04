@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-conjunto-03-06-2026",
+      "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-conjunto-03-06-2026",
+      "title": "PRONUNCIAMIENTO CONJUNTO 03-06-2026",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-06-03T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-intensifica-monitoreo-de-la-conflictividad-y-acciones-humanitarias-en-el-alto,-potosi,-cochabamba-y-oruro",
       "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-intensifica-monitoreo-de-la-conflictividad-y-acciones-humanitarias-en-el-alto,-potosi,-cochabamba-y-oruro",
       "title": "DEFENSORÍA DEL PUEBLO INTENSIFICA MONITOREO DE LA CONFLICTIVIDAD Y ACCIONES HUMANITARIAS EN EL ALTO, POTOSÍ, COCHABAMBA Y ORURO",
@@ -103,18 +115,6 @@
       "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-prioriza-gestiones-para-garantizar-salud-y-alimentacion-en-contextos-de-conflictividad-nacional",
       "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-prioriza-gestiones-para-garantizar-salud-y-alimentacion-en-contextos-de-conflictividad-nacional",
       "title": "DEFENSOR DEL PUEBLO PRIORIZA GESTIONES PARA GARANTIZAR SALUD Y ALIMENTACIÓN EN CONTEXTOS DE CONFLICTIVIDAD NACIONAL",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-05-30T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-verifica-riesgos-en-la-atencion-en-salud-y-en-la-alimentacion-en-hospitales-y-centros-de-acogida-en-contexto-de-conflictividad-social",
-      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-verifica-riesgos-en-la-atencion-en-salud-y-en-la-alimentacion-en-hospitales-y-centros-de-acogida-en-contexto-de-conflictividad-social",
-      "title": "DEFENSOR DEL PUEBLO VERIFICA RIESGOS EN LA ATENCIÓN EN SALUD Y EN LA ALIMENTACIÓN EN HOSPITALES Y CENTROS DE ACOGIDA EN CONTEXTO DE CONFLICTIVIDAD SOCIAL",
       "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
       "date_published": "2026-05-30T00:00:00",
       "tags": [

@@ -4,11 +4,23 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16772/los-juegos-deportivos-2026-de-la-defensoria-y-el-cde-se-realizaran-el-6-y-7-de-noviembre-en-valdivia",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16772/los-juegos-deportivos-2026-de-la-defensoria-y-el-cde-se-realizaran-el-6-y-7-de-noviembre-en-valdivia",
-      "title": "Los ‘Juegos deportivos 2026’ de la Defensoría y el CDE se realizarán el 6 y 7 de noviembre en Valdivia",
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16775/unidad-de-estudios-capacito-al-equipo-regional-sobre-las-modificaciones-de-la-ley-de-drogas",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16775/unidad-de-estudios-capacito-al-equipo-regional-sobre-las-modificaciones-de-la-ley-de-drogas",
+      "title": "Unidad de Estudios capacitó al equipo regional sobre las modificaciones de la Ley de Drogas",
       "summary": "Defensoría Penal Pública (Chile)",
-      "date_published": "2026-06-02T00:00:00",
+      "date_published": "2026-06-03T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16774/defensora-publica-juvenil-difundio-los-derechos-ante-jovenes-que-cumplen-sancion-en-regimen-cerrado",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16774/defensora-publica-juvenil-difundio-los-derechos-ante-jovenes-que-cumplen-sancion-en-regimen-cerrado",
+      "title": "Defensora pública juvenil difundió los derechos ante jóvenes que cumplen sanción en régimen cerrado",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-06-03T00:00:00",
       "tags": [
         "Chile",
         "Sudamérica",
@@ -136,18 +148,6 @@
       ]
     },
     {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16762/defensor-local-de-taltal-expuso-a-estudiantes-sobre-derechos-y-consecuencias-legales-en-responsabilidad-penal-juvenil",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16762/defensor-local-de-taltal-expuso-a-estudiantes-sobre-derechos-y-consecuencias-legales-en-responsabilidad-penal-juvenil",
-      "title": "Defensor local de Taltal expuso a estudiantes sobre derechos y consecuencias legales en responsabilidad penal juvenil",
-      "summary": "Defensoría Penal Pública (Chile)",
-      "date_published": "2026-06-01T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "sala_prensa"
-      ]
-    },
-    {
       "id": "https://www.indh.cl/indh-magallanes-justicia-militar/",
       "url": "https://www.indh.cl/indh-magallanes-justicia-militar/",
       "title": "De la justicia militar a la justicia civil: Juzgado de Garantía de Punta Arenas acogió argumentos del INDH por muerte de cabo del Ejército",
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:721758446872161859",
+      "id": "urn:defensorias:5312531149984576125",
       "url": "",
       "title": "Estudiantes convierten sus testimonios sobre derechos de la niñez en ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6190198284150588621",
+      "id": "urn:defensorias:-130691317721151463",
       "url": "",
       "title": "EMOL | Según estudio de la Defensoría de la Niñez:...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7085611842090068704",
+      "id": "urn:defensorias:-4090375766746061632",
       "url": "",
       "title": "Según estudio de la Defensoría de la Niñez: Contacto de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4372624702863198187",
+      "id": "urn:defensorias:9170414596825127075",
       "url": "",
       "title": "CCN Chile | Contacto de niños, niñas y adolescentes con...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -304,7 +304,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2321158362862153190",
+      "id": "urn:defensorias:6311914127999736425",
       "url": "",
       "title": "Declaración pública: Defensoría de la Niñez advierte que propuesta legislativa ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:328011659483844502",
+      "id": "urn:defensorias:458067696634211254",
       "url": "",
       "title": "Biobiochile.cl | Defensoría de la Niñez alerta grave desprotección por...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -340,7 +340,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-511071643225269005",
+      "id": "urn:defensorias:2306146651618244387",
       "url": "",
       "title": "CNN Chile | Defensor de la Niñez: «Cerca del 80...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -352,7 +352,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3479235246279389944",
+      "id": "urn:defensorias:-5916309793841652642",
       "url": "",
       "title": "Defensor de la Niñez visita Arica y aborda con autoridades ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -361,54 +361,6 @@
         "Chile",
         "Sudamérica",
         "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-8742223922240661846",
-      "url": "",
-      "title": "Declaración pública de la Defensoría de la Niñez ante la ...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-4393814406327695862",
-      "url": "",
-      "title": "Radio Sonar | Entrevista al Defensor de la Niñez: «Las...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-5645129541980304845",
-      "url": "",
-      "title": "La Clave | Entrevista al Defensor de la Niñez: «En...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:2692712716931693963",
-      "url": "",
-      "title": "Radio Concierto | Entrevista al Defensor de la Niñez, Anuar...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-05-05T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "prensa"
       ]
     }
   ]
