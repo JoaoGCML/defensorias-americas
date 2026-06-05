@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.json",
   "items": [
     {
+      "id": "https://protecteurducitoyen.qc.ca/fr/enquetes/rapports-speciaux/rapport-protection-jeunesse-premieres-nations-inuit",
+      "url": "https://protecteurducitoyen.qc.ca/fr/enquetes/rapports-speciaux/rapport-protection-jeunesse-premieres-nations-inuit",
+      "title": "Trajectoires des enfants, des jeunes et des familles des Premières Nations et Inuit en protection de la jeunesse au Québec",
+      "summary": "Protecteur du citoyen du Québec (Canadá)",
+      "date_published": "2026-06-04T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "nouvelles"
+      ]
+    },
+    {
       "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/renew-human-rights-based-approach-canadas-housing-strategy-federal-housing",
       "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/renew-human-rights-based-approach-canadas-housing-strategy-federal-housing",
       "title": "Renew human rights-based approach to Canada’s housing strategy: Federal Housing Advocate",
@@ -117,18 +129,6 @@
       "title": "Réaction au projet de loi no 23",
       "summary": "Protecteur du citoyen du Québec (Canadá)",
       "date_published": "2026-05-07T00:00:00",
-      "tags": [
-        "Canadá",
-        "Norteamérica",
-        "nouvelles"
-      ]
-    },
-    {
-      "id": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/consentement-soins-enfant-14-ans",
-      "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/consentement-soins-enfant-14-ans",
-      "title": "Soins de santé : votre enfant de 14 ans peut-il les refuser?",
-      "summary": "Protecteur du citoyen du Québec (Canadá)",
-      "date_published": "2026-05-06T00:00:00",
       "tags": [
         "Canadá",
         "Norteamérica",

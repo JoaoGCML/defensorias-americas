@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-06-04T10:40:17Z</updated>
+  <updated>2026-06-05T10:49:44Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría Regional de Antofagasta participó en concurrida plaza de justicia</title>
+    <id>https://www.dpp.cl/sala_prensa/noticias_detalle/16776/defensoria-regional-de-antofagasta-participo-en-concurrida-plaza-de-justicia</id>
+    <link href="https://www.dpp.cl/sala_prensa/noticias_detalle/16776/defensoria-regional-de-antofagasta-participo-en-concurrida-plaza-de-justicia" />
+    <updated>2026-06-04T00:00:00</updated>
+    <summary>Defensoría Penal Pública (Chile) — sala_prensa</summary>
+  </entry>
+  <entry>
+    <title>Poder Judicial, Instituto Nacional de Derechos Humanos y Universidad Austral realizarán las “Primeras Jornadas Judiciales de Derechos Humanos”</title>
+    <id>https://www.indh.cl/poder-judicial-indh-universidad-austral-jornadas/</id>
+    <link href="https://www.indh.cl/poder-judicial-indh-universidad-austral-jornadas/" />
+    <updated>2026-06-04T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Con jornadas en Arica y Tarapacá finaliza ciclo de talleres organizados por el INDH sobre situación de personas con discapacidad en Chile ad portas de examen frente a la ONU</title>
+    <id>https://www.indh.cl/indh-arica-tarapaca-discapacidad/</id>
+    <link href="https://www.indh.cl/indh-arica-tarapaca-discapacidad/" />
+    <updated>2026-06-04T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>INDH de Los Lagos ofició a municipios de Puerto Montt y Calbuco ante denuncias de afectación de humedal y turberas en la zona de Siete Islas</title>
+    <id>https://www.indh.cl/indh-lagos-oficio-siete-islas/</id>
+    <link href="https://www.indh.cl/indh-lagos-oficio-siete-islas/" />
+    <updated>2026-06-04T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
   <entry>
     <title>Unidad de Estudios capacitó al equipo regional sobre las modificaciones de la Ley de Drogas</title>
     <id>https://www.dpp.cl/sala_prensa/noticias_detalle/16775/unidad-de-estudios-capacito-al-equipo-regional-sobre-las-modificaciones-de-la-ley-de-drogas</id>
@@ -83,13 +111,6 @@
     <summary>Defensoría Penal Pública (Chile) — sala_prensa</summary>
   </entry>
   <entry>
-    <title>Corte de Valparaíso acogió recurso de nulidad por errónea aplicación del derecho</title>
-    <id>https://www.dpp.cl/sala_prensa/noticias_detalle/16763/corte-de-valparaiso-acogio-recurso-de-nulidad-por-erronea-aplicacion-del-derecho</id>
-    <link href="https://www.dpp.cl/sala_prensa/noticias_detalle/16763/corte-de-valparaiso-acogio-recurso-de-nulidad-por-erronea-aplicacion-del-derecho" />
-    <updated>2026-06-01T00:00:00</updated>
-    <summary>Defensoría Penal Pública (Chile) — sala_prensa</summary>
-  </entry>
-  <entry>
     <title>De la justicia militar a la justicia civil: Juzgado de Garantía de Punta Arenas acogió argumentos del INDH por muerte de cabo del Ejército</title>
     <id>https://www.indh.cl/indh-magallanes-justicia-militar/</id>
     <link href="https://www.indh.cl/indh-magallanes-justicia-militar/" />
@@ -105,7 +126,7 @@
   </entry>
   <entry>
     <title>Estudiantes convierten sus testimonios sobre derechos de la niñez en ...</title>
-    <id>urn:defensorias-americas:5312531149984576125</id>
+    <id>urn:defensorias-americas:5154923440559692202</id>
     <updated>2026-05-30T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -121,25 +142,11 @@
     <id>https://www.indh.cl/indh-atacama-cuenta-publica/</id>
     <link href="https://www.indh.cl/indh-atacama-cuenta-publica/" />
     <updated>2026-05-29T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
-    <title>INDH de La Araucanía realizó su Cuenta Pública regional 2025 destacando la participación de 7 mil personas en actividades de promoción en derechos humanos</title>
-    <id>https://www.indh.cl/indh-araucania-cuenta-publica/</id>
-    <link href="https://www.indh.cl/indh-araucania-cuenta-publica/" />
-    <updated>2026-05-29T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Hugo Sir, especialista en neurodiversidad: “La discapacidad no puede pensarse como un problema individual”</title>
-    <id>https://www.indh.cl/derechos-hugo-sir-neurodiversidad/</id>
-    <link href="https://www.indh.cl/derechos-hugo-sir-neurodiversidad/" />
-    <updated>2026-05-28T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>EMOL | Según estudio de la Defensoría de la Niñez:...</title>
-    <id>urn:defensorias-americas:-130691317721151463</id>
+    <id>urn:defensorias-americas:4896025624278341503</id>
     <updated>2026-05-25T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -152,58 +159,37 @@
   </entry>
   <entry>
     <title>Según estudio de la Defensoría de la Niñez: Contacto de ...</title>
-    <id>urn:defensorias-americas:-4090375766746061632</id>
+    <id>urn:defensorias-americas:2725571020026750204</id>
     <updated>2026-05-18T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>CCN Chile | Contacto de niños, niñas y adolescentes con...</title>
-    <id>urn:defensorias-americas:9170414596825127075</id>
+    <id>urn:defensorias-americas:5282503719563673486</id>
     <updated>2026-05-18T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
-    <title>INDH de Los Ríos interpuso recurso en favor de estudiantes con discapacidad visual de Escuela Ann Sullivan que hace tres años esperan reconstrucción tras incendio</title>
-    <id>https://www.indh.cl/indh-rios-recurso-estudiantes/</id>
-    <link href="https://www.indh.cl/indh-rios-recurso-estudiantes/" />
-    <updated>2026-05-18T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
-    <title>INDH Los Ríos realizó Cuenta Pública 2025: más de 5.500 personas participaron en actividades de promoción y educación en derechos humanos</title>
-    <id>https://www.indh.cl/indh-los-rios-cuenta-publica/</id>
-    <link href="https://www.indh.cl/indh-los-rios-cuenta-publica/" />
-    <updated>2026-05-18T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
     <title>Declaración pública: Defensoría de la Niñez advierte que propuesta legislativa ...</title>
-    <id>urn:defensorias-americas:6311914127999736425</id>
+    <id>urn:defensorias-americas:8862876322334603197</id>
     <updated>2026-05-15T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>Biobiochile.cl | Defensoría de la Niñez alerta grave desprotección por...</title>
-    <id>urn:defensorias-americas:458067696634211254</id>
+    <id>urn:defensorias-americas:1178379047506685606</id>
     <updated>2026-05-15T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
-    <title>INDH Los Lagos presentó Cuenta Pública 2025: destacan capacitaciones en derechos humanos para más de 450 funcionarias y funcionarios públicos</title>
-    <id>https://www.indh.cl/indh-lagos-cuenta-publica-2025/</id>
-    <link href="https://www.indh.cl/indh-lagos-cuenta-publica-2025/" />
-    <updated>2026-05-15T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
     <title>CNN Chile | Defensor de la Niñez: «Cerca del 80...</title>
-    <id>urn:defensorias-americas:2306146651618244387</id>
+    <id>urn:defensorias-americas:6365673338516963517</id>
     <updated>2026-05-10T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Defensor de la Niñez visita Arica y aborda con autoridades ...</title>
-    <id>urn:defensorias-americas:-5916309793841652642</id>
+    <id>urn:defensorias-americas:2250096943753108674</id>
     <updated>2026-05-08T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
