@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Argentina</title>
   <id>urn:defensorias-americas:prensa:argentina</id>
-  <updated>2026-06-05T10:49:44Z</updated>
+  <updated>2026-06-06T09:28:05Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-argentina.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Nueva sede en Posadas, provincia de Misiones</title>
+    <id>https://www.mpd.gov.ar/index.php/noticias-h/finalizacion-de-ampliacion-reforma-y-modernizacion-de-la-sede-del-mpd-en-posadas</id>
+    <link href="https://www.mpd.gov.ar/index.php/noticias-h/finalizacion-de-ampliacion-reforma-y-modernizacion-de-la-sede-del-mpd-en-posadas" />
+    <updated>2026-06-05T00:00:00</updated>
+    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
+  </entry>
   <entry>
     <title>DOS HISTORIAS, UNA MISMA OPORTUNIDAD: VIVIR GRACIAS A LA DONACIÓN</title>
     <id>https://www.mpd.gov.ar/index.php/noticias-h/dos-historias-una-misma-oportunidad-vivir-gracias-a-la-donacion</id>
@@ -17,13 +24,6 @@
     <id>https://www.mpd.gov.ar/index.php/noticias-h/la-dgn-avanza-en-una-estrategia-integral-para-fortalecer-la-representacion-y-el-acompanamiento-de-victimas-en-todo-el-pais</id>
     <link href="https://www.mpd.gov.ar/index.php/noticias-h/la-dgn-avanza-en-una-estrategia-integral-para-fortalecer-la-representacion-y-el-acompanamiento-de-victimas-en-todo-el-pais" />
     <updated>2026-05-28T00:00:00</updated>
-    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
-  </entry>
-  <entry>
-    <title>EL MPD FORTALECE LA REPRESENTACIÓN ESPECIALIZADA DE NIÑAS, NIÑOS Y ADOLESCENTES VÍCTIMAS DE DELITOS</title>
-    <id>https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-fortalece-la-representacion-especializada-de-ninas-ninos-y-adolescentes-victimas-de-delitos</id>
-    <link href="https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-fortalece-la-representacion-especializada-de-ninas-ninos-y-adolescentes-victimas-de-delitos" />
-    <updated>2026-05-21T00:00:00</updated>
     <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
   </entry>
 </feed>

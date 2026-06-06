@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4156/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4156/",
+      "title": "Defensoria Pública de Pernambuco abre inscrições para mutirão de reconhecimento de paternidade “Meu pai tem nome” no Recife",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-06-05T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4155/",
       "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4155/",
       "title": "Defensoria Pública de Pernambuco participa da abertura do 14º Maio Cigano",
@@ -136,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8738097593265871114",
+      "id": "urn:defensorias:-8960975935223739333",
       "url": "",
       "title": "Defensoria Pública de SP obtém decisão no STJ que reconhece ilicitude de provas obtidas após quebra de sigilo médico",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -244,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4477479348159468643",
+      "id": "urn:defensorias:-7713666355063346154",
       "url": "",
       "title": "Defensoria Pública de SP apresenta Relatório de Gestão 2025–2026",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -256,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6771539816272811102",
+      "id": "urn:defensorias:9057079151082956608",
       "url": "",
       "title": "Defensoria Pública obtém liminar para impedir fechamento do Estação Cidadania I",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -376,7 +388,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7065978613552661223",
+      "id": "urn:defensorias:-4250560463348884246",
       "url": "",
       "title": "Defensoria Pública e Câmara Municipal de São Paulo firmam parceria para posto de atendimento jurídico gratuito no Palácio Anchieta",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -544,7 +556,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1682403560475290326",
+      "id": "urn:defensorias:1703881287149164378",
       "url": "",
       "title": "Prefeitura de Itapevi promete plano em 30 dias para regularizar o CMDCA após provocação da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -556,19 +568,7 @@
       ]
     },
     {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4144/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4144/",
-      "title": "Núcleo de Caruaru da Defensoria Pública de Pernambuco recebe estudantes em atividade de imersão na Psicologia Jurídica",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-05-22T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:2464622355808181075",
+      "id": "urn:defensorias:-1273703202962280422",
       "url": "",
       "title": "Defensoria Pública de SP conquista 1º lugar em prêmio nacional do Ministério da Justiça",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -580,7 +580,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1224535703859402896",
+      "id": "urn:defensorias:5885336362696873736",
       "url": "",
       "title": "Justiça determina que Prefeitura e Estado apresentem plano para criação de vagas destinadas a idosos com alta dependência em São José do Rio Preto",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -592,7 +592,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4448995117562054709",
+      "id": "urn:defensorias:-4574247475354583307",
       "url": "",
       "title": "Com recorde de atendimentos e 20 anos de história, Defensoria Pública de SP celebra seu dia nacional",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",

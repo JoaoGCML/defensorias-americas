@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-06-05T10:49:44Z</updated>
+  <updated>2026-06-06T09:28:05Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensora del Pueblo coordina mesas de trabajo con activistas LGBTIQ+ para fortalecer la agenda de derechos humanos</title>
+    <id>http://www.defensoria.gob.ve/?p=19757</id>
+    <link href="http://www.defensoria.gob.ve/?p=19757" />
+    <updated>2026-06-05T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo se reunió con UNICEF en pro de los derechos humanos de la niñez venezolana</title>
     <id>http://www.defensoria.gob.ve/?p=19745</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=19645</id>
     <link href="http://www.defensoria.gob.ve/?p=19645" />
     <updated>2026-05-29T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo coordina traslado a centro médico de José Breijo tras visita técnica y mediación institucional</title>
-    <id>http://www.defensoria.gob.ve/?p=19562</id>
-    <link href="http://www.defensoria.gob.ve/?p=19562" />
-    <updated>2026-05-28T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>

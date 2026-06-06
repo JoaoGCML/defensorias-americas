@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-argentina.json",
   "items": [
     {
+      "id": "https://www.mpd.gov.ar/index.php/noticias-h/finalizacion-de-ampliacion-reforma-y-modernizacion-de-la-sede-del-mpd-en-posadas",
+      "url": "https://www.mpd.gov.ar/index.php/noticias-h/finalizacion-de-ampliacion-reforma-y-modernizacion-de-la-sede-del-mpd-en-posadas",
+      "title": "Nueva sede en Posadas, provincia de Misiones",
+      "summary": "Defensoría General de la Nación (Argentina)",
+      "date_published": "2026-06-05T00:00:00",
+      "tags": [
+        "Argentina",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.mpd.gov.ar/index.php/noticias-h/dos-historias-una-misma-oportunidad-vivir-gracias-a-la-donacion",
       "url": "https://www.mpd.gov.ar/index.php/noticias-h/dos-historias-una-misma-oportunidad-vivir-gracias-a-la-donacion",
       "title": "DOS HISTORIAS, UNA MISMA OPORTUNIDAD: VIVIR GRACIAS A LA DONACIÓN",
@@ -21,18 +33,6 @@
       "title": "LA DGN AVANZA EN UNA ESTRATEGIA INTEGRAL PARA FORTALECER LA REPRESENTACIÓN Y EL ACOMPAÑAMIENTO DE VÍCTIMAS EN TODO EL PAÍS",
       "summary": "Defensoría General de la Nación (Argentina)",
       "date_published": "2026-05-28T00:00:00",
-      "tags": [
-        "Argentina",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-fortalece-la-representacion-especializada-de-ninas-ninos-y-adolescentes-victimas-de-delitos",
-      "url": "https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-fortalece-la-representacion-especializada-de-ninas-ninos-y-adolescentes-victimas-de-delitos",
-      "title": "EL MPD FORTALECE LA REPRESENTACIÓN ESPECIALIZADA DE NIÑAS, NIÑOS Y ADOLESCENTES VÍCTIMAS DE DELITOS",
-      "summary": "Defensoría General de la Nación (Argentina)",
-      "date_published": "2026-05-21T00:00:00",
       "tags": [
         "Argentina",
         "Sudamérica",

@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/101.asp&utm_content=country-nic&utm_term=class-mon",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/101.asp&utm_content=country-nic&utm_term=class-mon",
+      "title": "101/26—CIDH condena la muerte de Brooklyn Rivera, líder indígena miskitu en Nicaragua",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-05T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/100.asp&utm_term=class-inst",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/100.asp&utm_term=class-inst",
+      "title": "100/26—CIDH recibe solicitudes de audiencias públicas para el 197 Período de Sesiones",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-05T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.rindhca.org/grupo-de-trabajo-sobre-los-derechos-humanos-en-la-vejez-y-el-envejecimiento-de-la-rindhca-celebro-su-segunda-sesion-de-trabajo/",
       "url": "https://www.rindhca.org/grupo-de-trabajo-sobre-los-derechos-humanos-en-la-vejez-y-el-envejecimiento-de-la-rindhca-celebro-su-segunda-sesion-de-trabajo/",
       "title": "Grupo de Trabajo sobre los Derechos Humanos en la Vejez y el Envejecimiento de la RINDHCA celebró su segunda sesión de trabajo",
@@ -189,30 +213,6 @@
       "title": "90/26—CIDH otorga medidas cautelares a Breider Murcia Correa en Colombia",
       "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
       "date_published": "2026-05-26T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/089.asp&utm_content=country-usa&utm_term=class-mon",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/089.asp&utm_content=country-usa&utm_term=class-mon",
-      "title": "89/26—Estados Unidos debe proteger la vida de mujeres, niñas, niños y adolescentes contra la violencia doméstica",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-05-20T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/088.asp&utm_content=country-ven&utm_term=class-mc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/088.asp&utm_content=country-ven&utm_term=class-mc",
-      "title": "88/26—CIDH otorga medidas cautelares a Rodolfo José Berrio Rojas y su núcleo familiar en Venezuela",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-05-19T00:00:00",
       "tags": [
         "Regional",
         "Américas",
