@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Norteamérica</title>
   <id>urn:defensorias-americas:prensa:norteamerica</id>
-  <updated>2026-06-08T11:59:56Z</updated>
+  <updated>2026-06-09T10:35:50Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-norteamerica.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Statement - Artificial intelligence should benefit everyone</title>
+    <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/statement-artificial-intelligence-should-benefit-everyone</id>
+    <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/statement-artificial-intelligence-should-benefit-everyone" />
+    <updated>2026-06-08T00:00:00</updated>
+    <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
+  </entry>
   <entry>
     <title>Trajectoires des enfants, des jeunes et des familles des Premières Nations et Inuit en protection de la jeunesse au Québec</title>
     <id>https://protecteurducitoyen.qc.ca/fr/enquetes/rapports-speciaux/rapport-protection-jeunesse-premieres-nations-inuit</id>

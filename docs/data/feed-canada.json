@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.json",
   "items": [
     {
+      "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/statement-artificial-intelligence-should-benefit-everyone",
+      "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/statement-artificial-intelligence-should-benefit-everyone",
+      "title": "Statement - Artificial intelligence should benefit everyone",
+      "summary": "Canadian Human Rights Commission (Canadá)",
+      "date_published": "2026-06-08T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "newsroom"
+      ]
+    },
+    {
       "id": "https://protecteurducitoyen.qc.ca/fr/enquetes/rapports-speciaux/rapport-protection-jeunesse-premieres-nations-inuit",
       "url": "https://protecteurducitoyen.qc.ca/fr/enquetes/rapports-speciaux/rapport-protection-jeunesse-premieres-nations-inuit",
       "title": "Trajectoires des enfants, des jeunes et des familles des Premières Nations et Inuit en protection de la jeunesse au Québec",
