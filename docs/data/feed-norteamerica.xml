@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Norteamérica</title>
   <id>urn:defensorias-americas:prensa:norteamerica</id>
-  <updated>2026-06-09T10:35:50Z</updated>
+  <updated>2026-06-10T10:57:22Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-norteamerica.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Réaction au projet de Règlement sur l’exploitation des résidences privées pour aînés</title>
+    <id>https://protecteurducitoyen.qc.ca/fr/enquetes/reactions-aux-projets-de-loi-et-de-reglement/projet-reglement-exploitation-rpa</id>
+    <link href="https://protecteurducitoyen.qc.ca/fr/enquetes/reactions-aux-projets-de-loi-et-de-reglement/projet-reglement-exploitation-rpa" />
+    <updated>2026-06-09T00:00:00</updated>
+    <summary>Protecteur du citoyen du Québec (Canadá) — nouvelles</summary>
+  </entry>
   <entry>
     <title>Statement - Artificial intelligence should benefit everyone</title>
     <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/statement-artificial-intelligence-should-benefit-everyone</id>
@@ -67,19 +74,5 @@
     <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/neha-report-roadmap-right-housing-women-and-gender-diverse-people" />
     <updated>2026-05-15T00:00:00</updated>
     <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
-  </entry>
-  <entry>
-    <title>Enquête sur l’utilisation de l’IA dans les services publics : appel à mémoires</title>
-    <id>https://protecteurducitoyen.qc.ca/fr/nouvelles/appel-memoires-intelligence-artificielle-services-publics</id>
-    <link href="https://protecteurducitoyen.qc.ca/fr/nouvelles/appel-memoires-intelligence-artificielle-services-publics" />
-    <updated>2026-05-11T00:00:00</updated>
-    <summary>Protecteur du citoyen du Québec (Canadá) — nouvelles</summary>
-  </entry>
-  <entry>
-    <title>Revenu Québec : attention de ne pas suspendre le dossier trop vite</title>
-    <id>https://protecteurducitoyen.qc.ca/fr/enquetes/cas-vecus/revenu-quebec-ne-pas-suspendre-dossier-trop-vite</id>
-    <link href="https://protecteurducitoyen.qc.ca/fr/enquetes/cas-vecus/revenu-quebec-ne-pas-suspendre-dossier-trop-vite" />
-    <updated>2026-05-11T00:00:00</updated>
-    <summary>Protecteur du citoyen du Québec (Canadá) — nouvelles</summary>
   </entry>
 </feed>

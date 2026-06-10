@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-06-09T10:35:50Z</updated>
+  <updated>2026-06-10T10:57:22Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>MONITOREO DEFENSORIAL REALIZA SEGUIMIENTO A PERSONAS HERIDAS, APREHENDIDAS Y MOVILIZACIONES SOCIALES EN EL ALTO Y LA PAZ</title>
+    <id>https://www.defensoria.gob.bo/noticias/monitoreo-defensorial-realiza-seguimiento-a-personas-heridas,-aprehendidas-y-movilizaciones-sociales-en-el-alto-y-la-paz</id>
+    <link href="https://www.defensoria.gob.bo/noticias/monitoreo-defensorial-realiza-seguimiento-a-personas-heridas,-aprehendidas-y-movilizaciones-sociales-en-el-alto-y-la-paz" />
+    <updated>2026-06-09T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>DEFENSOR DEL PUEBLO COORDINA ACCIONES DE MONITOREO EN LA PAZ, ORURO Y COCHABAMBA PARA GARANTIZAR LA ATENCIÓN DE PERSONAS HERIDAS, TRANSPORTISTAS Y APREHENDIDOS</title>
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-coordina-acciones-de-monitoreo-en-la-paz,-oruro-y-cochabamba-para-garantizar-la-atencion-de-personas-heridas,-transportistas-y-aprehendidos</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-coadyuva-en-trabajo-interinstitucional-en-proteccion-de-poblaciones-en-situacion-de-vulnerabilidad-ante-emergencia-y-conflictividad-social</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-coadyuva-en-trabajo-interinstitucional-en-proteccion-de-poblaciones-en-situacion-de-vulnerabilidad-ante-emergencia-y-conflictividad-social" />
     <updated>2026-06-05T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensor del Pueblo alerta afectación a población vulnerable en medio de la conflictividad social por dificultades en alimentación, medicamentos y oxígeno</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-afectacion-a-poblacion-vulnerable-en-medio-de-la-conflictividad-social-por-dificultades-en-alimentacion,-medicamentos-y-oxigeno</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-afectacion-a-poblacion-vulnerable-en-medio-de-la-conflictividad-social-por-dificultades-en-alimentacion,-medicamentos-y-oxigeno" />
-    <updated>2026-06-04T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>

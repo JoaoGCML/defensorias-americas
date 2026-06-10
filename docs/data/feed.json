@@ -4,6 +4,318 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/monitoreo-defensorial-realiza-seguimiento-a-personas-heridas,-aprehendidas-y-movilizaciones-sociales-en-el-alto-y-la-paz",
+      "url": "https://www.defensoria.gob.bo/noticias/monitoreo-defensorial-realiza-seguimiento-a-personas-heridas,-aprehendidas-y-movilizaciones-sociales-en-el-alto-y-la-paz",
+      "title": "MONITOREO DEFENSORIAL REALIZA SEGUIMIENTO A PERSONAS HERIDAS, APREHENDIDAS Y MOVILIZACIONES SOCIALES EN EL ALTO Y LA PAZ",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/ministra-janine-mello-reafirma-compromisso-do-brasil-com-a-inclusao-na-abertura-de-conferencia-da-onu-sobre-direitos-das-pessoas-com-deficiencia",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/ministra-janine-mello-reafirma-compromisso-do-brasil-com-a-inclusao-na-abertura-de-conferencia-da-onu-sobre-direitos-das-pessoas-com-deficiencia",
+      "title": "Ministra Janine Mello reafirma compromisso do Brasil com a inclusão na abertura de conferência da ONU sobre direitos das pessoas com deficiência",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/em-minas-gerais-mdhc-promove-debate-e-ampliacao-de-politicas-publicas-a-populacao-lgbtqia",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/em-minas-gerais-mdhc-promove-debate-e-ampliacao-de-politicas-publicas-a-populacao-lgbtqia",
+      "title": "Em Minas Gerais, MDHC promove debate e ampliação de políticas públicas à população LGBTQIA+",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/em-sao-paulo-mdhc-participa-de-seminario-sobre-a-empregabilidade-de-pessoas-lgbtqia-em-situacao-de-rua",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/em-sao-paulo-mdhc-participa-de-seminario-sobre-a-empregabilidade-de-pessoas-lgbtqia-em-situacao-de-rua",
+      "title": "Em São Paulo, MDHC participa de seminário sobre a empregabilidade de pessoas LGBTQIA+ em situação de rua",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/em-missao-oficial-na-onu-ministra-janine-mello-se-reune-com-brasileiros-migrantes-nos-estados-unidos",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/em-missao-oficial-na-onu-ministra-janine-mello-se-reune-com-brasileiros-migrantes-nos-estados-unidos",
+      "title": "Em missão oficial na ONU, ministra Janine Mello se reúne com brasileiros migrantes nos Estados Unidos",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/endica-abre-inscricoes-para-curso-sobre-erradicacao-do-trabalho-infantil-e-protecao-do-adolescente-trabalhador",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/endica-abre-inscricoes-para-curso-sobre-erradicacao-do-trabalho-infantil-e-protecao-do-adolescente-trabalhador",
+      "title": "Endica abre inscrições para curso sobre erradicação do trabalho infantil e proteção do adolescente trabalhador",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/renedh-conecta-nova-edicao-do-boletim-destaca-a-importancia-da-producao-de-dados-para-o-enfrentamento-a-lgbtqiafobia-no-pais",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/renedh-conecta-nova-edicao-do-boletim-destaca-a-importancia-da-producao-de-dados-para-o-enfrentamento-a-lgbtqiafobia-no-pais",
+      "title": "ReneDH Conecta: nova edição do boletim destaca a importância da produção de dados para o enfrentamento à LGBTQIAfobia no país",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-1985736839479579339",
+      "url": "",
+      "title": "Defensoria Pública de SP lança primeiro Processo Seletivo para Programa de Residência Jurídica",
+      "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4157/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4157/",
+      "title": "DPPE amplia inclusão com atendimento acessível a pessoas com deficiência auditiva",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/06/09/manaus-recebe-defensorias-de-seis-estados-para-lancamento-de-obra-inedita-sobre-justica-climatica-e-socioambiental/",
+      "url": "https://defensoria.am.def.br/2026/06/09/manaus-recebe-defensorias-de-seis-estados-para-lancamento-de-obra-inedita-sobre-justica-climatica-e-socioambiental/",
+      "title": "Manaus sedia lançamento de obra nacional sobre justiça climática e socioambiental",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/06/09/defensoria-do-amazonas-realiza-audiencia-publica-para-construcao-participativa-do-orcamento-de-2027/",
+      "url": "https://defensoria.am.def.br/2026/06/09/defensoria-do-amazonas-realiza-audiencia-publica-para-construcao-participativa-do-orcamento-de-2027/",
+      "title": "Defensoria do Amazonas realiza Audiência Pública para construção participativa do orçamento de 2027",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/06/09/em-silves-defensoria-abre-selecao-para-residencia-juridica-com-bolsa-de-r-25-mil/",
+      "url": "https://defensoria.am.def.br/2026/06/09/em-silves-defensoria-abre-selecao-para-residencia-juridica-com-bolsa-de-r-25-mil/",
+      "title": "Em Silves, Defensoria abre seleção para residência jurídica com bolsa de R$ 2,5 mil",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16788/jefe-de-estudios-de-la-defensoria-de-los-rios-dialogo-sobre-responsabilidad-penal-con-estudiantes-de-valdivia",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16788/jefe-de-estudios-de-la-defensoria-de-los-rios-dialogo-sobre-responsabilidad-penal-con-estudiantes-de-valdivia",
+      "title": "Jefe de Estudios de la Defensoría de Los Ríos dialogó sobre responsabilidad penal con estudiantes de Valdivia",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16787/la-araucania-defensa-penal-juvenil-y-programa-especializado-fortalecen-trabajo-conjunto-en-favor-de-adolescentes",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16787/la-araucania-defensa-penal-juvenil-y-programa-especializado-fortalecen-trabajo-conjunto-en-favor-de-adolescentes",
+      "title": "La Araucanía: defensa penal juvenil y programa especializado fortalecen trabajo conjunto en favor de adolescentes",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16786/defensor-local-de-tocopilla-participo-en-inauguracion-de-planta-hibrida-en-maria-elena",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16786/defensor-local-de-tocopilla-participo-en-inauguracion-de-planta-hibrida-en-maria-elena",
+      "title": "Defensor local de Tocopilla participó en inauguración de planta híbrida en María Elena",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-7968440280371137085",
+      "url": "",
+      "title": "Noticias 9 de junio de 2026 Asistencia institucional a ciudadano uruguayo en situación de vulnerabilidad La Defensoría del Pueblo, a través de la Coor",
+      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://mnp.gov.py/nueva-edicion-de-pasantias-internacionales-con-estudiantes-de-esade-barcelona/",
+      "url": "https://mnp.gov.py/nueva-edicion-de-pasantias-internacionales-con-estudiantes-de-esade-barcelona/",
+      "title": "Nueva edición de pasantías internacionales con estudiantes de ESADE de España",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://mnp.gov.py/5540-2/",
+      "url": "https://mnp.gov.py/5540-2/",
+      "title": "MNP participa en jornada sobre los desafíos del sistema penitenciario paraguayo",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-fortalece-capacidades-en-centro-de-acogida-residencial-para-que-garantice-proteccion-integral-de-ninos-y-adolescentes-en-cajamarca/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-fortalece-capacidades-en-centro-de-acogida-residencial-para-que-garantice-proteccion-integral-de-ninos-y-adolescentes-en-cajamarca/",
+      "title": "Defensoría del Pueblo fortalece capacidades en Centro de Acogida Residencial para que garantice protección integral de niños y adolescentes en Cajamarca",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/pasco-defensoria-del-pueblo-interviene-y-hace-posible-la-restitucion-del-derecho-a-la-salud-de-joven-con-epilepsia-que-quedo-sin-cobertura-medica/",
+      "url": "https://www.defensoria.gob.pe/pasco-defensoria-del-pueblo-interviene-y-hace-posible-la-restitucion-del-derecho-a-la-salud-de-joven-con-epilepsia-que-quedo-sin-cobertura-medica/",
+      "title": "Pasco: Defensoría del Pueblo interviene y hace posible la restitución del derecho a la salud de joven con epilepsia que quedó sin cobertura médica",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-conformo-en-atalaya-el-consejo-provincial-del-programa-rompiendo-cadenas-para-que-se-garantice-proteccion-a-ninos-y-adolescentes/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-conformo-en-atalaya-el-consejo-provincial-del-programa-rompiendo-cadenas-para-que-se-garantice-proteccion-a-ninos-y-adolescentes/",
+      "title": "Defensoría del Pueblo conformó en Atalaya el Consejo Provincial del Programa Rompiendo Cadenas para que se garantice protección a niños y adolescentes",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-acciones-tras-muerte-de-escolar-ocurrida-cerca-de-institucion-educativa-en-puno/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-acciones-tras-muerte-de-escolar-ocurrida-cerca-de-institucion-educativa-en-puno/",
+      "title": "Defensoría del Pueblo supervisa acciones tras muerte de escolar ocurrida cerca de institución educativa en Puno",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-autoridades-locales-a-proteger-instalaciones-de-proteccion-a-peatones-en-diversos-cruces-de-avenidas-del-distrito-comas/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-autoridades-locales-a-proteger-instalaciones-de-proteccion-a-peatones-en-diversos-cruces-de-avenidas-del-distrito-comas/",
+      "title": "Defensoría del Pueblo exhorta a autoridades locales a proteger instalaciones de protección a peatones en diversos cruces de avenidas del distrito de Comas",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://protecteurducitoyen.qc.ca/fr/enquetes/reactions-aux-projets-de-loi-et-de-reglement/projet-reglement-exploitation-rpa",
+      "url": "https://protecteurducitoyen.qc.ca/fr/enquetes/reactions-aux-projets-de-loi-et-de-reglement/projet-reglement-exploitation-rpa",
+      "title": "Réaction au projet de Règlement sur l’exploitation des résidences privées pour aînés",
+      "summary": "Protecteur du citoyen du Québec (Canadá)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "nouvelles"
+      ]
+    },
+    {
+      "id": "https://www.rindhca.org/indh-y-puntos-nacionales-de-contacto-fortalecen-la-cooperacion-regional-en-encuentro-preparatorio-del-x-foro-regional-sobre-empresas-y-derechos-humanos/",
+      "url": "https://www.rindhca.org/indh-y-puntos-nacionales-de-contacto-fortalecen-la-cooperacion-regional-en-encuentro-preparatorio-del-x-foro-regional-sobre-empresas-y-derechos-humanos/",
+      "title": "INDH y Puntos Nacionales de Contacto fortalecen la cooperación regional en encuentro preparatorio del X Foro Regional sobre Empresas y Derechos Humanos",
+      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/103.asp&utm_term=class-inst",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/103.asp&utm_term=class-inst",
+      "title": "103/26—CIDH anuncia audiencias de oficio y diálogo con sociedad civil para el 196° Período de Sesiones",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-coordina-acciones-de-monitoreo-en-la-paz,-oruro-y-cochabamba-para-garantizar-la-atencion-de-personas-heridas,-transportistas-y-aprehendidos",
       "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-coordina-acciones-de-monitoreo-en-la-paz,-oruro-y-cochabamba-para-garantizar-la-atencion-de-personas-heridas,-transportistas-y-aprehendidos",
       "title": "DEFENSOR DEL PUEBLO COORDINA ACCIONES DE MONITOREO EN LA PAZ, ORURO Y COCHABAMBA PARA GARANTIZAR LA ATENCIÓN DE PERSONAS HERIDAS, TRANSPORTISTAS Y APREHENDIDOS",
@@ -76,10 +388,22 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5516264715088538031",
+      "id": "urn:defensorias:3884613764954679426",
       "url": "",
       "title": "Sessão solene na Alesp marca início do segundo mandato de Luciana Jordão na Defensoria Pública de São Paulo",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
+      "date_published": "2026-06-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32713-DPRJ-leva-orientacao-sobre-direitos-LGBTQIA-e-promove-requalificacao-civil-em-acao-na-UFF",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32713-DPRJ-leva-orientacao-sobre-direitos-LGBTQIA-e-promove-requalificacao-civil-em-acao-na-UFF",
+      "title": "DPRJ leva orientação sobre direitos LGBTQIA+ e promove requalificação civil em ação na UFF",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-06-08T00:00:00",
       "tags": [
         "Brasil",
@@ -186,7 +510,7 @@
     {
       "id": "https://www.indh.cl/500-personas-jornadas-judiciales-indh/",
       "url": "https://www.indh.cl/500-personas-jornadas-judiciales-indh/",
-      "title": "Más de 500 personas asisten a las “Primeras Jornadas Judiciales de Derechos Humanos en Valdivia”, organizadas por el Poder Judicial, el INDH y la Universidad Austral de Chile",
+      "title": "Más de 500 personas asisten a las “Primeras Jornadas Judiciales de Derechos Humanos”, organizadas por el Poder Judicial, el INDH y la Universidad Austral de Chile",
       "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
       "date_published": "2026-06-08T00:00:00",
       "tags": [
@@ -498,7 +822,7 @@
     {
       "id": "https://www.mpd.gov.ar/index.php/noticias-h/finalizacion-de-ampliacion-reforma-y-modernizacion-de-la-sede-del-mpd-en-posadas",
       "url": "https://www.mpd.gov.ar/index.php/noticias-h/finalizacion-de-ampliacion-reforma-y-modernizacion-de-la-sede-del-mpd-en-posadas",
-      "title": "Nueva sede en Posadas, provincia de Misiones",
+      "title": "NUEVA SEDE EN LA CIUDAD DE POSADAS",
       "summary": "Defensoría General de la Nación (Argentina)",
       "date_published": "2026-06-05T00:00:00",
       "tags": [
@@ -580,19 +904,7 @@
       ]
     },
     {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16777/tribunal-oral-de-villarrica-absolvio-a-acusado-de-abuso-sexual-infantil-tras-acoger-argumentos-sobre-fiabilidad-de-la-prueba",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16777/tribunal-oral-de-villarrica-absolvio-a-acusado-de-abuso-sexual-infantil-tras-acoger-argumentos-sobre-fiabilidad-de-la-prueba",
-      "title": "Tribunal Oral de Villarrica absolvió a acusado de abuso sexual infantil tras acoger argumentos sobre fiabilidad de la prueba",
-      "summary": "Defensoría Penal Pública (Chile)",
-      "date_published": "2026-06-05T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "sala_prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:4323113874316795142",
+      "id": "urn:defensorias:-4358989343713253066",
       "url": "",
       "title": "EMOL tv | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -604,7 +916,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5163169654448073886",
+      "id": "urn:defensorias:7525651048589358632",
       "url": "",
       "title": "Noticias 5 de junio de 2026 Defensoría del Pueblo articula asistencia integral para una familia en situación de vulnerabilidad en Areguá Representante",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -616,7 +928,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6814186662348249832",
+      "id": "urn:defensorias:4455160641538942373",
       "url": "",
       "title": "Noticias 5 de junio de 2026 Defensora Adjunta participó en la presentación del mediometraje “El precio del pasaje” La defensora adjunta Natalia Sosa p",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -628,7 +940,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3294823585800996798",
+      "id": "urn:defensorias:-8063106761782918799",
       "url": "",
       "title": "Noticias 5 de junio de 2026 Defensor del Pueblo realiza visita de fortalecimiento a las delegaciones de Caaguazú y Oviedo El Defensor del Pueblo, Abg.",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -700,66 +1012,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.gob.pe/caballococha-supervisamos-inicio-de-despliegue-del-material-electoral-a-locales-de-votacion-de-mariscal-ramon-castilla/",
-      "url": "https://www.defensoria.gob.pe/caballococha-supervisamos-inicio-de-despliegue-del-material-electoral-a-locales-de-votacion-de-mariscal-ramon-castilla/",
-      "title": "Caballococha: supervisamos inicio de despliegue del material electoral a locales de votación de Mariscal Ramón Castilla",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-06-05T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/segunda-vuelta-supervisamos-despliegue-del-material-electoral-a-distritos-bajo-jurisdiccion-de-nuestras-oficinas-en-puno-y-tarapoto/",
-      "url": "https://www.defensoria.gob.pe/segunda-vuelta-supervisamos-despliegue-del-material-electoral-a-distritos-bajo-jurisdiccion-de-nuestras-oficinas-en-puno-y-tarapoto/",
-      "title": "Segunda vuelta: supervisamos despliegue del material electoral a distritos bajo jurisdicción de nuestras oficinas en Puno y Tarapoto",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-06-05T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/vraem-acompanamos-traslado-aereo-de-material-electoral-a-distrito-de-dificil-acceso-en-la-region-ayacucho/",
-      "url": "https://www.defensoria.gob.pe/vraem-acompanamos-traslado-aereo-de-material-electoral-a-distrito-de-dificil-acceso-en-la-region-ayacucho/",
-      "title": "Vraem: acompañamos traslado aéreo de material electoral a distrito de difícil acceso en la región Ayacucho",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-06-05T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/arequipa-supervisamos-despliegue-de-material-electoral-a-distrito-altoandino-de-san-juan-de-tarucani/",
-      "url": "https://www.defensoria.gob.pe/arequipa-supervisamos-despliegue-de-material-electoral-a-distrito-altoandino-de-san-juan-de-tarucani/",
-      "title": "Arequipa: supervisamos despliegue de material electoral a distrito altoandino de San Juan de Tarucani",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-06-05T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/segunda-vuelta-participamos-en-verificacion-del-material-electoral-que-sera-distribuido-en-locales-de-votacion-de-datem-del-maranon/",
-      "url": "https://www.defensoria.gob.pe/segunda-vuelta-participamos-en-verificacion-del-material-electoral-que-sera-distribuido-en-locales-de-votacion-de-datem-del-maranon/",
-      "title": "Segunda vuelta: participamos en verificación del material electoral que será distribuido en locales de votación de Datem del Marañón",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-06-05T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "http://www.defensoria.gob.ve/?p=19757",
       "url": "http://www.defensoria.gob.ve/?p=19757",
       "title": "Defensora del Pueblo coordina mesas de trabajo con activistas LGBTIQ+ para fortalecer la agenda de derechos humanos",
@@ -793,18 +1045,6 @@
         "Regional",
         "Américas",
         "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-afectacion-a-poblacion-vulnerable-en-medio-de-la-conflictividad-social-por-dificultades-en-alimentacion,-medicamentos-y-oxigeno",
-      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-afectacion-a-poblacion-vulnerable-en-medio-de-la-conflictividad-social-por-dificultades-en-alimentacion,-medicamentos-y-oxigeno",
-      "title": "Defensor del Pueblo alerta afectación a población vulnerable en medio de la conflictividad social por dificultades en alimentación, medicamentos y oxígeno",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-06-04T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
       ]
     },
     {
@@ -853,18 +1093,6 @@
         "Brasil",
         "Sudamérica",
         "noticias"
-      ]
-    },
-    {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16776/defensoria-regional-de-antofagasta-participo-en-concurrida-plaza-de-justicia",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16776/defensoria-regional-de-antofagasta-participo-en-concurrida-plaza-de-justicia",
-      "title": "Defensoría Regional de Antofagasta participó en concurrida plaza de justicia",
-      "summary": "Defensoría Penal Pública (Chile)",
-      "date_published": "2026-06-04T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "sala_prensa"
       ]
     },
     {
@@ -969,234 +1197,6 @@
       "title": "Brasil destaca proteção de crianças e mulheres com familiares privados de liberdade durante evento da ONU",
       "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
       "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/novo-voo-de-repatriados-dos-eua-sera-recepcionado-pelo-governo-do-brasil-nesta-quarta-feira-3",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/novo-voo-de-repatriados-dos-eua-sera-recepcionado-pelo-governo-do-brasil-nesta-quarta-feira-3",
-      "title": "Novo voo de repatriados dos EUA será recepcionado pelo Governo do Brasil nesta quarta-feira (3)",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/governo-do-brasil-lancara-campanha-de-promocao-e-defesa-dos-direitos-lgbtqia-durante-a-25a-feira-da-diversidade-em-sao-paulo-sp",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/governo-do-brasil-lancara-campanha-de-promocao-e-defesa-dos-direitos-lgbtqia-durante-a-25a-feira-da-diversidade-em-sao-paulo-sp",
-      "title": "Governo do Brasil lançará campanha de promoção e defesa dos direitos LGBTQIA+ durante a 25ª Feira da Diversidade em São Paulo (SP)",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32712-DPRJ-leva-debate-sobre-IA-acesso-a-Justica-e-direitos-do-consumidor-ao-XIV-Forum-de-Lisboa",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32712-DPRJ-leva-debate-sobre-IA-acesso-a-Justica-e-direitos-do-consumidor-ao-XIV-Forum-de-Lisboa",
-      "title": "DPRJ leva debate sobre IA, acesso à Justiça e direitos do consumidor ao XIV Fórum de Lisboa",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4154/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4154/",
-      "title": "DPPE participa do 14º Fórum de Saúde Suplementar de Pernambuco",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/06/03/estudantes-de-psicologia-da-ufam-conhecem-atuacao-multidisciplinar-da-defensoria-do-amazonas/",
-      "url": "https://defensoria.am.def.br/2026/06/03/estudantes-de-psicologia-da-ufam-conhecem-atuacao-multidisciplinar-da-defensoria-do-amazonas/",
-      "title": "Estudantes de Psicologia da Ufam conhecem atuação multidisciplinar da Defensoria do Amazonas",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/06/03/apos-22-anos-de-espera-casal-de-idosos-inicia-processo-de-regularizacao-da-casa-propria/",
-      "url": "https://defensoria.am.def.br/2026/06/03/apos-22-anos-de-espera-casal-de-idosos-inicia-processo-de-regularizacao-da-casa-propria/",
-      "title": "Após 22 anos de espera, casal de idosos inicia processo de regularização da casa própria",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/06/03/defensores-publicos-do-amazonas-ganham-destaque-em-obra-nacional-sobre-justica-climatica/",
-      "url": "https://defensoria.am.def.br/2026/06/03/defensores-publicos-do-amazonas-ganham-destaque-em-obra-nacional-sobre-justica-climatica/",
-      "title": "Defensores do Amazonas têm artigos publicados em obra nacional sobre justiça climática",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16775/unidad-de-estudios-capacito-al-equipo-regional-sobre-las-modificaciones-de-la-ley-de-drogas",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16775/unidad-de-estudios-capacito-al-equipo-regional-sobre-las-modificaciones-de-la-ley-de-drogas",
-      "title": "Unidad de Estudios capacitó al equipo regional sobre las modificaciones de la Ley de Drogas",
-      "summary": "Defensoría Penal Pública (Chile)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "sala_prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:6672893704149419778",
-      "url": "",
-      "title": "Noticias 3 de junio de 2026 Defensoría del Pueblo coordinó jornada de atención integral que benefició a 150 personas en Areguá La Defensoría del Puebl",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-9060110033759123066",
-      "url": "",
-      "title": "Noticias 3 de junio de 2026 Defensoría del Pueblo entrega lotes de medicamentos a sectores vulnerables de la capital La Defensoría del Pueblo, a travé",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/renew-human-rights-based-approach-canadas-housing-strategy-federal-housing",
-      "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/renew-human-rights-based-approach-canadas-housing-strategy-federal-housing",
-      "title": "Renew human rights-based approach to Canada’s housing strategy: Federal Housing Advocate",
-      "summary": "Canadian Human Rights Commission (Canadá)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Canadá",
-        "Norteamérica",
-        "newsroom"
-      ]
-    },
-    {
-      "id": "https://www.rindhca.org/grupo-de-trabajo-sobre-los-derechos-humanos-en-la-vejez-y-el-envejecimiento-de-la-rindhca-celebro-su-segunda-sesion-de-trabajo/",
-      "url": "https://www.rindhca.org/grupo-de-trabajo-sobre-los-derechos-humanos-en-la-vejez-y-el-envejecimiento-de-la-rindhca-celebro-su-segunda-sesion-de-trabajo/",
-      "title": "Grupo de Trabajo sobre los Derechos Humanos en la Vejez y el Envejecimiento de la RINDHCA celebró su segunda sesión de trabajo",
-      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/099.asp&utm_content=country-ecu&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/099.asp&utm_content=country-ecu&utm_term=class-corteidh",
-      "title": "99/26—CIDH envía a la Corte IDH caso sobre detención de mujer embarazada y afectaciones a su hija recién nacida en Ecuador",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/ministra-janine-mello-assina-memorando-de-entendimento-com-acnur-para-fortalecer-protecao-dos-direitos-de-pessoas-refugiadas",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/ministra-janine-mello-assina-memorando-de-entendimento-com-acnur-para-fortalecer-protecao-dos-direitos-de-pessoas-refugiadas",
-      "title": "Ministra Janine Mello assina memorando de entendimento com ACNUR para fortalecer proteção dos direitos de pessoas refugiadas",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-06-02T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/governo-do-brasil-divulga-resultado-do-concurso-dom-phillips-e-bruno-pereira-de-jornalismo-e-comunicacao",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/governo-do-brasil-divulga-resultado-do-concurso-dom-phillips-e-bruno-pereira-de-jornalismo-e-comunicacao",
-      "title": "Governo do Brasil divulga resultado parcial do Concurso Dom Phillips e Bruno Pereira de Jornalismo e Comunicação",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-06-02T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/premio-luana-barbosa-mdhc-divulga-resultado-final-de-habilitacao",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/premio-luana-barbosa-mdhc-divulga-resultado-final-de-habilitacao",
-      "title": "Prêmio Luana Barbosa: MDHC divulga resultado final de habilitação",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-06-02T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/comunidades-indigenas-no-ms-recebem-mdhc-para-o-fortalecimento-da-saude-e-de-direitos-para-as-pessoas-lgbtqia",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/comunidades-indigenas-no-ms-recebem-mdhc-para-o-fortalecimento-da-saude-e-de-direitos-para-as-pessoas-lgbtqia",
-      "title": "Comunidades indígenas no MS recebem MDHC para o fortalecimento da saúde e de direitos para as pessoas LGBTQIA+",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-06-02T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/mdhc-discute-acoes-para-garantia-de-direitos-de-pessoas-lgbtqia-no-sistema-prisional",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/mdhc-discute-acoes-para-garantia-de-direitos-de-pessoas-lgbtqia-no-sistema-prisional",
-      "title": "MDHC discute ações para garantia de direitos de pessoas LGBTQIA+ no sistema prisional",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-06-02T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/governo-do-brasil-institui-grupo-de-trabalho-para-analisar-falhas-do-sistema-de-justica-no-caso-maria-da-penha",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/junho/governo-do-brasil-institui-grupo-de-trabalho-para-analisar-falhas-do-sistema-de-justica-no-caso-maria-da-penha",
-      "title": "Governo do Brasil institui grupo de trabalho para analisar falhas do sistema de justiça no Caso Maria da Penha",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-06-02T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",
