@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Uruguay</title>
   <id>urn:defensorias-americas:prensa:uruguay</id>
-  <updated>2026-06-10T10:57:22Z</updated>
+  <updated>2026-06-11T11:24:16Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Se desarrolló el tercer cineforo sobre derechos humanos y discapacidad</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/se-desarrollo-tercer-cineforo-sobre-derechos-humanos-discapacidad</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/se-desarrollo-tercer-cineforo-sobre-derechos-humanos-discapacidad" />
+    <updated>2026-06-06T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
+  </entry>
   <entry>
     <title>Cineforos en Maldonado y Salto promovieron el intercambio sobre discapacidad y derechos humanos con jóvenes líderes</title>
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/cineforos-maldonado-salto-promovieron-intercambio-sobre-discapacidad-derechos</id>
@@ -66,13 +73,6 @@
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/agustina-palacios-participo-tres-instancias-sobre-capacidad-juridica-acceso</id>
     <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/agustina-palacios-participo-tres-instancias-sobre-capacidad-juridica-acceso" />
     <updated>2026-05-25T00:00:00</updated>
-    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Mariana Mota visitó el Batallón 14 en el marco del Mes de la Memoria</title>
-    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/mariana-mota-visito-batallon-14-marco-del-mes-memoria</id>
-    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/mariana-mota-visito-batallon-14-marco-del-mes-memoria" />
-    <updated>2026-05-21T00:00:00</updated>
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>
 </feed>

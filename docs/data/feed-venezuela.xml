@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-06-10T10:57:22Z</updated>
+  <updated>2026-06-11T11:24:16Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensora del Pueblo llama a trabajar coordinadamente en pro de los privados y privadas de libertad</title>
+    <id>http://www.defensoria.gob.ve/?p=19829</id>
+    <link href="http://www.defensoria.gob.ve/?p=19829" />
+    <updated>2026-06-10T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo realiza visita de seguimiento en caso del ciudadano venezolano-uruguayo José Breijo</title>
     <id>http://www.defensoria.gob.ve/?p=19766</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=19663</id>
     <link href="http://www.defensoria.gob.ve/?p=19663" />
     <updated>2026-06-01T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo establece mesas de trabajo para el acompañamiento institucional de jubilados y pensionados</title>
-    <id>http://www.defensoria.gob.ve/?p=19654</id>
-    <link href="http://www.defensoria.gob.ve/?p=19654" />
-    <updated>2026-05-29T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>
