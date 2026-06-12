@@ -4,9 +4,33 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16794/dpp-y-fundacion-mujer-levantate-comprometen-trabajo-conjunto-en-beneficio-de-las-mujeres-privadas-de-libertad",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16794/dpp-y-fundacion-mujer-levantate-comprometen-trabajo-conjunto-en-beneficio-de-las-mujeres-privadas-de-libertad",
+      "title": "DPP y Fundación Mujer Levántate comprometen trabajo conjunto en beneficio de las mujeres privadas de libertad",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-06-11T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16792/defensoria-regional-de-antofagasta-participo-en-seminario-sobre-el-delito-de-trata-de-personas",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16792/defensoria-regional-de-antofagasta-participo-en-seminario-sobre-el-delito-de-trata-de-personas",
+      "title": "Defensoría Regional de Antofagasta participó en seminario sobre el delito de trata de personas",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-06-11T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
       "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16791/defensoria-del-biobio-realizo-charla-sobre-responsabilidad-penal-adolescente-en-el-ceia-quimahue",
       "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16791/defensoria-del-biobio-realizo-charla-sobre-responsabilidad-penal-adolescente-en-el-ceia-quimahue",
-      "title": "Defensoría del Biobio realizó charla sobre Responsabilidad Penal Adolescente en el CEIA Quimahue",
+      "title": "Defensoría del Biobio realizó charla sobre responsabilidad penal adolescente en el CEIA \"Quimahue\"",
       "summary": "Defensoría Penal Pública (Chile)",
       "date_published": "2026-06-10T00:00:00",
       "tags": [
@@ -40,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4058468370220484869",
+      "id": "urn:defensorias:5690322563008106133",
       "url": "",
       "title": "La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -112,30 +136,6 @@
       ]
     },
     {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16783/defensoria-de-magallanes-y-revista-fem-realizan-taller-de-microcuentos-para-privadas-de-libertad",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16783/defensoria-de-magallanes-y-revista-fem-realizan-taller-de-microcuentos-para-privadas-de-libertad",
-      "title": "Defensoría de Magallanes y Revista Fem realizan taller de microcuentos para privadas de libertad (*)",
-      "summary": "Defensoría Penal Pública (Chile)",
-      "date_published": "2026-06-08T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "sala_prensa"
-      ]
-    },
-    {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16782/lenguaje-claro-y-justicia-penal",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16782/lenguaje-claro-y-justicia-penal",
-      "title": "Lenguaje claro y justicia penal",
-      "summary": "Defensoría Penal Pública (Chile)",
-      "date_published": "2026-06-08T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "sala_prensa"
-      ]
-    },
-    {
       "id": "https://www.indh.cl/500-personas-jornadas-judiciales-indh/",
       "url": "https://www.indh.cl/500-personas-jornadas-judiciales-indh/",
       "title": "Más de 500 personas asisten a las “Primeras Jornadas Judiciales de Derechos Humanos”, organizadas por el Poder Judicial, el INDH y la Universidad Austral de Chile",
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9078814145551931963",
+      "id": "urn:defensorias:6773298435235057040",
       "url": "",
       "title": "EMOL tv | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1046927711679454434",
+      "id": "urn:defensorias:4787590407380908473",
       "url": "",
       "title": "Estudiantes convierten sus testimonios sobre derechos de la niñez en ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5133768645733546380",
+      "id": "urn:defensorias:-2216253365245345825",
       "url": "",
       "title": "EMOL | Según estudio de la Defensoría de la Niñez:...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3532763486777472188",
+      "id": "urn:defensorias:-1328921740902358109",
       "url": "",
       "title": "Según estudio de la Defensoría de la Niñez: Contacto de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -304,7 +304,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:434367373880756491",
+      "id": "urn:defensorias:-1559619879194681706",
       "url": "",
       "title": "CCN Chile | Contacto de niños, niñas y adolescentes con...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5026944802199657393",
+      "id": "urn:defensorias:930261586331880503",
       "url": "",
       "title": "Declaración pública: Defensoría de la Niñez advierte que propuesta legislativa ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -328,7 +328,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1858975831299730375",
+      "id": "urn:defensorias:-2342630718726377390",
       "url": "",
       "title": "Biobiochile.cl | Defensoría de la Niñez alerta grave desprotección por...",
       "summary": "Defensoría de la Niñez (Chile)",
