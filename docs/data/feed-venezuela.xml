@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-06-13T09:57:32Z</updated>
+  <updated>2026-06-14T10:26:16Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo participa en el despliegue interinstitucional convocado para la Reforma de la Justicia Penal</title>
+    <id>http://www.defensoria.gob.ve/?p=19875</id>
+    <link href="http://www.defensoria.gob.ve/?p=19875" />
+    <updated>2026-06-13T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensora del Pueblo llama a trabajar coordinadamente en pro de los privados y privadas de libertad</title>
     <id>http://www.defensoria.gob.ve/?p=19829</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=19745</id>
     <link href="http://www.defensoria.gob.ve/?p=19745" />
     <updated>2026-06-04T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo articuló respuesta de protección a integrantes de la sexo diversidad que denunciaron vejaciones y maltratos por funcionarios PNB en Lara</title>
-    <id>http://www.defensoria.gob.ve/?p=19663</id>
-    <link href="http://www.defensoria.gob.ve/?p=19663" />
-    <updated>2026-06-01T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>

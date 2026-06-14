@@ -4,6 +4,66 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-activa-acciones-humanitarias-para-garantizar-atencion-medica-de-urgencia-a-ninyo-referido-de-potosi-a-la-paz",
+      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-activa-acciones-humanitarias-para-garantizar-atencion-medica-de-urgencia-a-ninyo-referido-de-potosi-a-la-paz",
+      "title": "DEFENSOR DEL PUEBLO ACTIVA ACCIONES HUMANITARIAS PARA GARANTIZAR ATENCIÓN MÉDICA DE URGENCIA A NIÑO REFERIDO DE POTOSÍ A LA PAZ",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-06-13T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-entrega-400-raciones-de-alimentos-a-poblaciones-en-situacion-de-vulnerabilidad-como-resultado-de-gestiones-interinstitucionales",
+      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-entrega-400-raciones-de-alimentos-a-poblaciones-en-situacion-de-vulnerabilidad-como-resultado-de-gestiones-interinstitucionales",
+      "title": "DEFENSORÍA DEL PUEBLO ENTREGA 400 RACIONES DE ALIMENTOS A POBLACIONES EN SITUACIÓN DE VULNERABILIDAD COMO RESULTADO DE GESTIONES INTERINSTITUCIONALES",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-06-13T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-puebloninguna-medida-de-presion-puede-justificar-agresiones-ni-afectar-servicios-de-proteccion-a-personas-en-situacion-de-vulnerabilidad",
+      "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-puebloninguna-medida-de-presion-puede-justificar-agresiones-ni-afectar-servicios-de-proteccion-a-personas-en-situacion-de-vulnerabilidad",
+      "title": "PRONUNCIAMIENTO - DEFENSORÍA DEL PUEBLO: NINGUNA MEDIDA DE PRESIÓN PUEDE JUSTIFICAR AGRESIONES NI AFECTAR SERVICIOS DE PROTECCIÓN A PERSONAS EN SITUACIÓN DE VULNERABILIDAD",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-06-13T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-avance-de-obra-en-el-insn-brena-y-solicita-al-minsa-garantizar-financiamiento-para-culminar-centro-quirurgico/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-avance-de-obra-en-el-insn-brena-y-solicita-al-minsa-garantizar-financiamiento-para-culminar-centro-quirurgico/",
+      "title": "Defensoría del Pueblo supervisa avance de obra en el INSN Breña y solicita al MINSA garantizar financiamiento para culminar centro quirúrgico",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-06-13T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "http://www.defensoria.gob.ve/?p=19875",
+      "url": "http://www.defensoria.gob.ve/?p=19875",
+      "title": "Defensoría del Pueblo participa en el despliegue interinstitucional convocado para la Reforma de la Justicia Penal",
+      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
+      "date_published": "2026-06-13T00:00:00",
+      "tags": [
+        "Venezuela",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-articula-caravana-interinstitucional-de-asistencia-humanitaria-para-transportistas-varados-en-puntos-de-bloqueo",
       "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-articula-caravana-interinstitucional-de-asistencia-humanitaria-para-transportistas-varados-en-puntos-de-bloqueo",
       "title": "DEFENSOR DEL PUEBLO ARTICULA CARAVANA INTERINSTITUCIONAL DE ASISTENCIA HUMANITARIA PARA TRANSPORTISTAS VARADOS EN PUNTOS DE BLOQUEO",
@@ -220,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7847076357093781502",
+      "id": "urn:defensorias:-2845903450202573673",
       "url": "",
       "title": "COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +292,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1779581988246360063",
+      "id": "urn:defensorias:3370125297462055912",
       "url": "",
       "title": "La Voz de la región | Defensor de la Niñez...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -484,7 +544,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4489167589122758932",
+      "id": "urn:defensorias:191736804395364224",
       "url": "",
       "title": "Núcleo de Igualdade Racial da DPESP e Defensoria Pública da União garantem saneamento básico a comunidade quilombola pela via judicial",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -500,6 +560,18 @@
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32726-COINFANCIA-participa-da-campanha-Cartao-Vermelho-ao-Trabalho-Infantil-em-oficinas-de-conscientizacao",
       "title": "COINFÂNCIA participa da campanha Cartão Vermelho ao Trabalho Infantil em oficinas de conscientização",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-06-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4159/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4159/",
+      "title": "DPPE reforça a importância de combater a adultização precoce e proteger a infância",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
       "date_published": "2026-06-11T00:00:00",
       "tags": [
         "Brasil",
@@ -772,6 +844,18 @@
       ]
     },
     {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4158/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4158/",
+      "title": "Defensoria Pública de Pernambuco integra pacto nacional com o TSE para ampliar acesso à Justiça Eleitoral",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-06-10T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.am.def.br/2026/06/10/em-manaus-defensoria-inicia-agendamentos-para-campanha-meu-pai-tem-nome-com-exames-de-dna-gratuitos/",
       "url": "https://defensoria.am.def.br/2026/06/10/em-manaus-defensoria-inicia-agendamentos-para-campanha-meu-pai-tem-nome-com-exames-de-dna-gratuitos/",
       "title": "Em Manaus, Defensoria inicia agendamentos para campanha “Meu Pai Tem Nome” com exames de DNA gratuitos",
@@ -796,7 +880,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1947491746399654823",
+      "id": "urn:defensorias:3923751221760897871",
       "url": "",
       "title": "La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -892,19 +976,7 @@
       ]
     },
     {
-      "id": "https://www.defensoria.gob.bo/noticias/monitoreo-defensorial-realiza-seguimiento-a-personas-heridas,-aprehendidas-y-movilizaciones-sociales-en-el-alto-y-la-paz",
-      "url": "https://www.defensoria.gob.bo/noticias/monitoreo-defensorial-realiza-seguimiento-a-personas-heridas,-aprehendidas-y-movilizaciones-sociales-en-el-alto-y-la-paz",
-      "title": "MONITOREO DEFENSORIAL REALIZA SEGUIMIENTO A PERSONAS HERIDAS, APREHENDIDAS Y MOVILIZACIONES SOCIALES EN EL ALTO Y LA PAZ",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-06-09T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:3163410230471438765",
+      "id": "urn:defensorias:-448993575463068681",
       "url": "",
       "title": "Defensoria Pública de SP lança primeiro Processo Seletivo para Programa de Residência Jurídica",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -920,6 +992,18 @@
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32718-DPRJ-garante-trancamento-de-acao-penal-baseada-em-reconhecimento-fotografico-irregular",
       "title": "DPRJ garante trancamento de ação penal baseada em reconhecimento fotográfico irregular",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4157/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4157/",
+      "title": "DPPE amplia inclusão com atendimento acessível a pessoas com deficiência auditiva",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
       "date_published": "2026-06-09T00:00:00",
       "tags": [
         "Brasil",
@@ -964,7 +1048,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6949070251180899257",
+      "id": "urn:defensorias:338374140600374355",
       "url": "",
       "title": "Noticias 9 de junio de 2026 Asistencia institucional a ciudadano uruguayo en situación de vulnerabilidad La Defensoría del Pueblo, a través de la Coor",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -1048,18 +1132,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-autoridades-locales-a-proteger-instalaciones-de-proteccion-a-peatones-en-diversos-cruces-de-avenidas-del-distrito-comas/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-autoridades-locales-a-proteger-instalaciones-de-proteccion-a-peatones-en-diversos-cruces-de-avenidas-del-distrito-comas/",
-      "title": "Defensoría del Pueblo exhorta a autoridades locales a proteger instalaciones de protección a peatones en diversos cruces de avenidas del distrito de Comas",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-06-09T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://protecteurducitoyen.qc.ca/fr/enquetes/reactions-aux-projets-de-loi-et-de-reglement/projet-reglement-exploitation-rpa",
       "url": "https://protecteurducitoyen.qc.ca/fr/enquetes/reactions-aux-projets-de-loi-et-de-reglement/projet-reglement-exploitation-rpa",
       "title": "Réaction au projet de Règlement sur l’exploitation des résidences privées pour aînés",
@@ -1096,31 +1168,7 @@
       ]
     },
     {
-      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-coordina-acciones-de-monitoreo-en-la-paz,-oruro-y-cochabamba-para-garantizar-la-atencion-de-personas-heridas,-transportistas-y-aprehendidos",
-      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-coordina-acciones-de-monitoreo-en-la-paz,-oruro-y-cochabamba-para-garantizar-la-atencion-de-personas-heridas,-transportistas-y-aprehendidos",
-      "title": "DEFENSOR DEL PUEBLO COORDINA ACCIONES DE MONITOREO EN LA PAZ, ORURO Y COCHABAMBA PARA GARANTIZAR LA ATENCIÓN DE PERSONAS HERIDAS, TRANSPORTISTAS Y APREHENDIDOS",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-06-08T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-formula-observaciones-a-la-ley-de-excepcion-y-llama-a-una-salida-pacifica-al-conflicto",
-      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-formula-observaciones-a-la-ley-de-excepcion-y-llama-a-una-salida-pacifica-al-conflicto",
-      "title": "DEFENSOR DEL PUEBLO FORMULA OBSERVACIONES A LA LEY DE EXCEPCIÓN Y LLAMA A UNA SALIDA PACÍFICA AL CONFLICTO",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-06-08T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-8717564145304001059",
+      "id": "urn:defensorias:-7462126613891550775",
       "url": "",
       "title": "Sessão solene na Alesp marca início do segundo mandato de Luciana Jordão na Defensoria Pública de São Paulo",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1151,54 +1199,6 @@
       "date_published": "2026-06-08T00:00:00",
       "tags": [
         "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/06/08/defensoria-realizara-audiencia-publica-sobre-falta-de-energia-em-comunidades-rurais-de-humaita/",
-      "url": "https://defensoria.am.def.br/2026/06/08/defensoria-realizara-audiencia-publica-sobre-falta-de-energia-em-comunidades-rurais-de-humaita/",
-      "title": "Defensoria realizará audiência pública sobre falta de energia em comunidades rurais de Humaitá",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-06-08T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/06/08/paciente-indigena-em-estado-grave-e-transferida-de-eirunepe-para-manaus-com-ajuda-da-defensoria-publica/",
-      "url": "https://defensoria.am.def.br/2026/06/08/paciente-indigena-em-estado-grave-e-transferida-de-eirunepe-para-manaus-com-ajuda-da-defensoria-publica/",
-      "title": "Paciente indígena em estado grave é transferida de Eirunepé para Manaus com ajuda da Defensoria Pública",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-06-08T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/06/08/defensoria-garante-matricula-de-estudante-do-fies-impedida-de-renovar-vinculo-por-debitos-em-faculdade/",
-      "url": "https://defensoria.am.def.br/2026/06/08/defensoria-garante-matricula-de-estudante-do-fies-impedida-de-renovar-vinculo-por-debitos-em-faculdade/",
-      "title": "Defensoria garante matrícula de estudante do FIES impedida de renovar vínculo por débitos em faculdade",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-06-08T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/500-personas-jornadas-judiciales-indh/",
-      "url": "https://www.indh.cl/500-personas-jornadas-judiciales-indh/",
-      "title": "Más de 500 personas asisten a las “Primeras Jornadas Judiciales de Derechos Humanos”, organizadas por el Poder Judicial, el INDH y la Universidad Austral de Chile",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-06-08T00:00:00",
-      "tags": [
-        "Chile",
         "Sudamérica",
         "noticias"
       ]
