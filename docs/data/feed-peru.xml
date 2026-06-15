@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Perú</title>
   <id>urn:defensorias-americas:prensa:peru</id>
-  <updated>2026-06-14T10:26:16Z</updated>
+  <updated>2026-06-15T13:16:23Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-peru.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Chimbote: en reunión del Comudena asumimos el compromiso de organizar charlas a escolares sobre educación y protección frente a la violencia</title>
+    <id>https://www.defensoria.gob.pe/chimbote-en-reunion-del-comudena-asumimos-el-compromiso-de-organizar-charlas-a-escolares-sobre-educacion-y-proteccion-frente-a-la-violencia/</id>
+    <link href="https://www.defensoria.gob.pe/chimbote-en-reunion-del-comudena-asumimos-el-compromiso-de-organizar-charlas-a-escolares-sobre-educacion-y-proteccion-frente-a-la-violencia/" />
+    <updated>2026-06-14T00:00:00</updated>
+    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo supervisa avance de obra en el INSN Breña y solicita al MINSA garantizar financiamiento para culminar centro quirúrgico</title>
     <id>https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-avance-de-obra-en-el-insn-brena-y-solicita-al-minsa-garantizar-financiamiento-para-culminar-centro-quirurgico/</id>
@@ -139,13 +146,6 @@
     <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
   </entry>
   <entry>
-    <title>Defensoría del Pueblo supervisa acciones tras muerte de escolar ocurrida cerca de institución educativa en Puno</title>
-    <id>https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-acciones-tras-muerte-de-escolar-ocurrida-cerca-de-institucion-educativa-en-puno/</id>
-    <link href="https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-acciones-tras-muerte-de-escolar-ocurrida-cerca-de-institucion-educativa-en-puno/" />
-    <updated>2026-06-09T00:00:00</updated>
-    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
-  </entry>
-  <entry>
     <title>Comunicado n.° 040/DP/2026</title>
     <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/06/Comunicado-n-040-DP.pdf</id>
     <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/06/Comunicado-n-040-DP.pdf" type="application/pdf" />
@@ -199,13 +199,6 @@
     <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Comunicado-033-2026.pdf</id>
     <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Comunicado-033-2026.pdf" type="application/pdf" />
     <updated>2026-05-17T00:00:00</updated>
-    <summary>Defensoría del Pueblo del Perú (Perú) — pronunciamientos</summary>
-  </entry>
-  <entry>
-    <title>Comunicado n.° 032/DP/2026</title>
-    <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Comunicado-032-2026.pdf</id>
-    <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Comunicado-032-2026.pdf" type="application/pdf" />
-    <updated>2026-05-16T00:00:00</updated>
     <summary>Defensoría del Pueblo del Perú (Perú) — pronunciamientos</summary>
   </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-06-14T10:26:16Z</updated>
+  <updated>2026-06-15T13:16:23Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>PRONUNCIAMIENTO DÍA MUNDIAL DE TOMA DE CONCIENCIA DEL ABUSO Y MALTRATO EN LA VEJEZ</title>
+    <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-dia-mundial-de-toma-de-conciencia-del-abuso-y-maltrato-en-la-vejez</id>
+    <link href="https://www.defensoria.gob.bo/noticias/pronunciamiento-dia-mundial-de-toma-de-conciencia-del-abuso-y-maltrato-en-la-vejez" />
+    <updated>2026-06-15T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>DEFENSOR DEL PUEBLO ACTIVA ACCIONES HUMANITARIAS PARA GARANTIZAR ATENCIÓN MÉDICA DE URGENCIA A NIÑO REFERIDO DE POTOSÍ A LA PAZ</title>
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-activa-acciones-humanitarias-para-garantizar-atencion-medica-de-urgencia-a-ninyo-referido-de-potosi-a-la-paz</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-enfoca-acciones-en-acceso-a-la-salud,-abastecimiento-de-combustible-y-garantias-del-debido-proceso</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-enfoca-acciones-en-acceso-a-la-salud,-abastecimiento-de-combustible-y-garantias-del-debido-proceso" />
     <updated>2026-06-11T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>DEFENSORÍA DEL PUEBLO ARTICULA ACCIONES INTERINSTITUCIONALES PARA GARANTIZAR CUMPLIMIENTO DE RESOLUCIÓN CONSTITUCIONAL N° 233/2024 FRENTE A INCENDIOS FORESTALES</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-articula-acciones-interinstitucionales-para-garantizar-cumplimiento-de-resolucion-constitucional-n%C2%B0-233-2024-frente-a-incendios-forestales</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-articula-acciones-interinstitucionales-para-garantizar-cumplimiento-de-resolucion-constitucional-n%C2%B0-233-2024-frente-a-incendios-forestales" />
-    <updated>2026-06-10T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
