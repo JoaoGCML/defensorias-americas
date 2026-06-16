@@ -4,9 +4,57 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16801/la-araucania-proyecto-inocentes-acerco-a-estudiantes-de-derecho-de-la-unap-victoria-a-una-de-las-iniciativas-mas-relevantes-de-la-defensoria-penal-publica",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16801/la-araucania-proyecto-inocentes-acerco-a-estudiantes-de-derecho-de-la-unap-victoria-a-una-de-las-iniciativas-mas-relevantes-de-la-defensoria-penal-publica",
-      "title": "La Araucanía: Proyecto Inocentes acercó a estudiantes de Derecho de la UNAP Victoria a una de las iniciativas más relevantes de la Defensoría Penal Pública",
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16805/defensoria-de-canete-acerca-la-justicia-a-la-comunidad-con-taller-sobre-responsabilidad-penal-adolescente",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16805/defensoria-de-canete-acerca-la-justicia-a-la-comunidad-con-taller-sobre-responsabilidad-penal-adolescente",
+      "title": "Defensoría de Cañete acerca la justicia a la comunidad con taller sobre Responsabilidad Penal Adolescente",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-06-15T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16804/corte-de-apelaciones-de-santiago-concedio-arresto-domiciliario-total-a-angela-vivanco",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16804/corte-de-apelaciones-de-santiago-concedio-arresto-domiciliario-total-a-angela-vivanco",
+      "title": "Corte de Apelaciones de Santiago concedió arresto domiciliario total a Ángela Vivanco",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-06-15T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16803/defensoras-penales-publicas-afianzan-lazos-de-colaboracion-con-el-sernameg",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16803/defensoras-penales-publicas-afianzan-lazos-de-colaboracion-con-el-sernameg",
+      "title": "Defensoras penales públicas afianzan lazos de colaboración con el SernamEG",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-06-15T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16802/las-claves-de-la-defensa-que-dejo-en-libertad-a-sujeto-que-amenazo-a-la-pdi-en-la-serena",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16802/las-claves-de-la-defensa-que-dejo-en-libertad-a-sujeto-que-amenazo-a-la-pdi-en-la-serena",
+      "title": "Las claves de la defensa que dejó en libertad a sujeto que amenazó a la PDI en La Serena (*)",
+      "summary": "Defensoría Penal Pública (Chile)",
+      "date_published": "2026-06-15T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "sala_prensa"
+      ]
+    },
+    {
+      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16801/la-araucania-proyecto-inocentes-acerco-a-estudiantes-de-derecho-a-una-de-las-iniciativas-mas-relevantes-de-la-defensoria",
+      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16801/la-araucania-proyecto-inocentes-acerco-a-estudiantes-de-derecho-a-una-de-las-iniciativas-mas-relevantes-de-la-defensoria",
+      "title": "La Araucanía: \"Proyecto Inocentes\" acercó a estudiantes de derecho a una de las iniciativas más relevantes de la Defensoría",
       "summary": "Defensoría Penal Pública (Chile)",
       "date_published": "2026-06-12T00:00:00",
       "tags": [
@@ -76,19 +124,7 @@
       ]
     },
     {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16795/defensoria-de-la-araucania-fortalece-coordinacion-c0n-medios-de-prensa-de-malleco-para-mejorar-el-acceso-a-la-informacion-judicial",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16795/defensoria-de-la-araucania-fortalece-coordinacion-c0n-medios-de-prensa-de-malleco-para-mejorar-el-acceso-a-la-informacion-judicial",
-      "title": "Defensoría de La Araucanía fortalece coordinación c0n medios de prensa de Malleco para mejorar el acceso a la información judicial",
-      "summary": "Defensoría Penal Pública (Chile)",
-      "date_published": "2026-06-12T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "sala_prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-1230135599350324311",
+      "id": "urn:defensorias:-8820247592993650439",
       "url": "",
       "title": "COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -100,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7370230556722052933",
+      "id": "urn:defensorias:-8840237295482462673",
       "url": "",
       "title": "La Voz de la región | Defensor de la Niñez...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -124,43 +160,7 @@
       ]
     },
     {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16794/dpp-y-fundacion-mujer-levantate-comprometen-trabajo-conjunto-en-beneficio-de-las-mujeres-privadas-de-libertad",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16794/dpp-y-fundacion-mujer-levantate-comprometen-trabajo-conjunto-en-beneficio-de-las-mujeres-privadas-de-libertad",
-      "title": "DPP y Fundación Mujer Levántate comprometen trabajo conjunto en beneficio de las mujeres privadas de libertad",
-      "summary": "Defensoría Penal Pública (Chile)",
-      "date_published": "2026-06-11T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "sala_prensa"
-      ]
-    },
-    {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16792/defensoria-regional-de-antofagasta-participo-en-seminario-sobre-el-delito-de-trata-de-personas",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16792/defensoria-regional-de-antofagasta-participo-en-seminario-sobre-el-delito-de-trata-de-personas",
-      "title": "Defensoría Regional de Antofagasta participó en seminario sobre el delito de trata de personas",
-      "summary": "Defensoría Penal Pública (Chile)",
-      "date_published": "2026-06-11T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "sala_prensa"
-      ]
-    },
-    {
-      "id": "https://www.dpp.cl/sala_prensa/noticias_detalle/16791/defensoria-del-biobio-realizo-charla-sobre-responsabilidad-penal-adolescente-en-el-ceia-quimahue",
-      "url": "https://www.dpp.cl/sala_prensa/noticias_detalle/16791/defensoria-del-biobio-realizo-charla-sobre-responsabilidad-penal-adolescente-en-el-ceia-quimahue",
-      "title": "Defensoría del Biobio realizó charla sobre responsabilidad penal adolescente en el CEIA \"Quimahue\"",
-      "summary": "Defensoría Penal Pública (Chile)",
-      "date_published": "2026-06-10T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "sala_prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:4239834529402188126",
+      "id": "urn:defensorias:-1258675237015930173",
       "url": "",
       "title": "La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5929204784239920936",
+      "id": "urn:defensorias:3236859735428333118",
       "url": "",
       "title": "EMOL tv | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5809795956201277718",
+      "id": "urn:defensorias:577493040128880661",
       "url": "",
       "title": "Estudiantes convierten sus testimonios sobre derechos de la niñez en ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-278682697711899641",
+      "id": "urn:defensorias:8684435662964800101",
       "url": "",
       "title": "EMOL | Según estudio de la Defensoría de la Niñez:...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -328,7 +328,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3554762206757128252",
+      "id": "urn:defensorias:-9069042298340334220",
       "url": "",
       "title": "Según estudio de la Defensoría de la Niñez: Contacto de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -340,7 +340,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4046924224728332928",
+      "id": "urn:defensorias:6894550297154362632",
       "url": "",
       "title": "CCN Chile | Contacto de niños, niñas y adolescentes con...",
       "summary": "Defensoría de la Niñez (Chile)",
