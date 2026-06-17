@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Norteamérica</title>
   <id>urn:defensorias-americas:prensa:norteamerica</id>
-  <updated>2026-06-16T12:13:06Z</updated>
+  <updated>2026-06-17T11:49:50Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-norteamerica.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Building Canada strong means building barrier-free</title>
+    <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/building-canada-strong-means-building-barrier-free</id>
+    <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/building-canada-strong-means-building-barrier-free" />
+    <updated>2026-06-16T00:00:00</updated>
+    <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
+  </entry>
   <entry>
     <title>Caméras dans les CHSLD et autres milieux de vie : ce qui est permis</title>
     <id>https://protecteurducitoyen.qc.ca/fr/conseils/capsules/cameras-chsld-nouvelles-regles</id>
