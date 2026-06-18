@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Norteamérica</title>
   <id>urn:defensorias-americas:prensa:norteamerica</id>
-  <updated>2026-06-17T11:49:50Z</updated>
+  <updated>2026-06-18T11:09:54Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-norteamerica.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Advancing pay equity by making Canada stronger and more inclusive</title>
+    <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/advancing-pay-equity-making-canada-stronger-and-more-inclusive</id>
+    <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/advancing-pay-equity-making-canada-stronger-and-more-inclusive" />
+    <updated>2026-06-17T00:00:00</updated>
+    <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
+  </entry>
   <entry>
     <title>Building Canada strong means building barrier-free</title>
     <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/building-canada-strong-means-building-barrier-free</id>
@@ -80,13 +87,6 @@
     <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/remarks-federal-housing-advocate-forum-ministers-human-rights</id>
     <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/remarks-federal-housing-advocate-forum-ministers-human-rights" />
     <updated>2026-05-21T00:00:00</updated>
-    <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
-  </entry>
-  <entry>
-    <title>Opening remarks for the Chief Commissioner - Day of dialogue: Canadian ministers, human rights commissions, and stakeholders</title>
-    <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/opening-remarks-chief-commissioner-day-dialogue-canadian-ministers-human-rights</id>
-    <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/opening-remarks-chief-commissioner-day-dialogue-canadian-ministers-human-rights" />
-    <updated>2026-05-20T00:00:00</updated>
     <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
   </entry>
 </feed>

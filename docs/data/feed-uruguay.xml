@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Uruguay</title>
   <id>urn:defensorias-americas:prensa:uruguay</id>
-  <updated>2026-06-16T12:13:06Z</updated>
+  <updated>2026-06-18T11:09:54Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Biblioteca de la INDDHH recibe a niñas y niños de hogar de INAU</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/biblioteca-inddhh-recibe-ninas-ninos-hogar-inau</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/biblioteca-inddhh-recibe-ninas-ninos-hogar-inau" />
+    <updated>2026-06-15T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
+  </entry>
   <entry>
     <title>Se desarrolló el tercer cineforo sobre derechos humanos y discapacidad</title>
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/se-desarrollo-tercer-cineforo-sobre-derechos-humanos-discapacidad</id>
@@ -66,13 +73,6 @@
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-convoco-mesa-dialogo-sobre-cuidados-paliativos-acceso-educacion</id>
     <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-convoco-mesa-dialogo-sobre-cuidados-paliativos-acceso-educacion" />
     <updated>2026-05-26T00:00:00</updated>
-    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Agustina Palacios participó en tres instancias sobre capacidad jurídica y acceso a la justicia en Uruguay</title>
-    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/agustina-palacios-participo-tres-instancias-sobre-capacidad-juridica-acceso</id>
-    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/agustina-palacios-participo-tres-instancias-sobre-capacidad-juridica-acceso" />
-    <updated>2026-05-25T00:00:00</updated>
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>
 </feed>
