@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/110.asp&utm_content=country-per&utm_term=class-corteidh",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/110.asp&utm_content=country-per&utm_term=class-corteidh",
+      "title": "110/26—CIDH presenta caso de Perú ante Corte IDH sobre falta de reconocimiento de identidad de género",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-18T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/109.asp&utm_content=country-ven&utm_term=class-corteidh",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/109.asp&utm_content=country-ven&utm_term=class-corteidh",
       "title": "109/26—CIDH presenta caso de Venezuela ante Corte IDH por restricción a libertad de expresión y acceso a la justicia",
@@ -151,18 +163,6 @@
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/101.asp&utm_content=country-nic&utm_term=class-mon",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/101.asp&utm_content=country-nic&utm_term=class-mon",
       "title": "101/26—CIDH condena la muerte de Brooklyn Rivera, líder indígena miskitu en Nicaragua",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-06-05T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/100.asp&utm_term=class-inst",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/100.asp&utm_term=class-inst",
-      "title": "100/26—CIDH recibe solicitudes de audiencias públicas para el 197 Período de Sesiones",
       "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
       "date_published": "2026-06-05T00:00:00",
       "tags": [

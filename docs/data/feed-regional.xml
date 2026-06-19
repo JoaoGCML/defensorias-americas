@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Regional</title>
   <id>urn:defensorias-americas:prensa:regional</id>
-  <updated>2026-06-18T11:09:54Z</updated>
+  <updated>2026-06-19T11:25:07Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>110/26—CIDH presenta caso de Perú ante Corte IDH sobre falta de reconocimiento de identidad de género</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/110.asp&amp;utm_content=country-per&amp;utm_term=class-corteidh</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/110.asp&amp;utm_content=country-per&amp;utm_term=class-corteidh" />
+    <updated>2026-06-18T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>109/26—CIDH presenta caso de Venezuela ante Corte IDH por restricción a libertad de expresión y acceso a la justicia</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/109.asp&amp;utm_content=country-ven&amp;utm_term=class-corteidh</id>
@@ -93,13 +100,6 @@
     <title>101/26—CIDH condena la muerte de Brooklyn Rivera, líder indígena miskitu en Nicaragua</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/101.asp&amp;utm_content=country-nic&amp;utm_term=class-mon</id>
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/101.asp&amp;utm_content=country-nic&amp;utm_term=class-mon" />
-    <updated>2026-06-05T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>100/26—CIDH recibe solicitudes de audiencias públicas para el 197 Período de Sesiones</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/100.asp&amp;utm_term=class-inst</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/100.asp&amp;utm_term=class-inst" />
     <updated>2026-06-05T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>

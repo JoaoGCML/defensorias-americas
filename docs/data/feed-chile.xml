@@ -2,24 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-06-18T11:09:54Z</updated>
+  <updated>2026-06-19T11:25:07Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
+    <title>Tribunal de Santiago declaró culpables a ocho personas que integraban una red para la trata con fines de explotación sexual: INDH actúa como querellante</title>
+    <id>https://www.indh.cl/indh-tribunal-declaro-culpablestrata/</id>
+    <link href="https://www.indh.cl/indh-tribunal-declaro-culpablestrata/" />
+    <updated>2026-06-18T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>INDH de O’Higgins realizará exhibición de “La misteriosa mirada del Flamenco” en la UOH y en la cárcel de Rancagua, en el marco del Día del Orgullo LGBTIQA+</title>
+    <id>https://www.indh.cl/indh-ohiggins-exhibicion/</id>
+    <link href="https://www.indh.cl/indh-ohiggins-exhibicion/" />
+    <updated>2026-06-18T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
     <title>La Tercera | Quesille llama a no adelantarse a “imputar”...</title>
-    <id>urn:defensorias-americas:-6799780004576583199</id>
+    <id>urn:defensorias-americas:4634619905098155671</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio Cooperativa | Caso de menores haitianos: Defensoría de la...</title>
-    <id>urn:defensorias-americas:9113863280442023806</id>
+    <id>urn:defensorias-americas:4946877386455819195</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>EMOL | Caso niños haitianos: Los oficios en que la...</title>
-    <id>urn:defensorias-americas:855852351150287621</id>
+    <id>urn:defensorias-americas:1128969236981367261</id>
     <updated>2026-06-16T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -39,13 +53,13 @@
   </entry>
   <entry>
     <title>COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...</title>
-    <id>urn:defensorias-americas:-8500388867188621994</id>
+    <id>urn:defensorias-americas:-3391345903121969260</id>
     <updated>2026-06-12T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>La Voz de la región | Defensor de la Niñez...</title>
-    <id>urn:defensorias-americas:802640558332817768</id>
+    <id>urn:defensorias-americas:993717827523006511</id>
     <updated>2026-06-12T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -58,7 +72,7 @@
   </entry>
   <entry>
     <title>La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...</title>
-    <id>urn:defensorias-americas:2836354549561207559</id>
+    <id>urn:defensorias-americas:-9066047678555470516</id>
     <updated>2026-06-10T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -78,7 +92,7 @@
   </entry>
   <entry>
     <title>EMOL tv | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:4762557686289168936</id>
+    <id>urn:defensorias-americas:192104924137092095</id>
     <updated>2026-06-05T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -94,14 +108,14 @@
     <id>https://www.indh.cl/indh-arica-tarapaca-discapacidad/</id>
     <link href="https://www.indh.cl/indh-arica-tarapaca-discapacidad/" />
     <updated>2026-06-04T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>INDH de Los Lagos ofició a municipios de Puerto Montt y Calbuco ante denuncias de afectación de humedal y turberas en la zona de Siete Islas</title>
     <id>https://www.indh.cl/indh-lagos-oficio-siete-islas/</id>
     <link href="https://www.indh.cl/indh-lagos-oficio-siete-islas/" />
     <updated>2026-06-04T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>Nueva temporada de “Libres e Iguales”: el programa radial del INDH Los Ríos y Radio de la Universidad Austral que promueve la importancia de los derechos humanos</title>
@@ -111,21 +125,14 @@
     <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
-    <title>De la justicia militar a la justicia civil: Juzgado de Garantía de Punta Arenas acogió argumentos del INDH por muerte de cabo del Ejército</title>
-    <id>https://www.indh.cl/indh-magallanes-justicia-militar/</id>
-    <link href="https://www.indh.cl/indh-magallanes-justicia-militar/" />
-    <updated>2026-06-01T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
     <title>Estudiantes convierten sus testimonios sobre derechos de la niñez en ...</title>
-    <id>urn:defensorias-americas:7757345847991315325</id>
+    <id>urn:defensorias-americas:-155456373590855788</id>
     <updated>2026-05-30T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>EMOL | Según estudio de la Defensoría de la Niñez:...</title>
-    <id>urn:defensorias-americas:7427705696789251913</id>
+    <id>urn:defensorias-americas:-2024711992025964061</id>
     <updated>2026-05-25T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
