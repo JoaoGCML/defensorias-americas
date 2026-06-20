@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-argentina.json",
   "items": [
     {
+      "id": "https://www.mpd.gov.ar/index.php/noticias-h/concursos-para-cubrir-cargos-de-defensor-publico-oficial-federal-en-las-ciudades-de-santa-rosa-y-mendoza",
+      "url": "https://www.mpd.gov.ar/index.php/noticias-h/concursos-para-cubrir-cargos-de-defensor-publico-oficial-federal-en-las-ciudades-de-santa-rosa-y-mendoza",
+      "title": "CONCURSOS PARA CUBRIR CARGOS DE DEFENSOR PÚBLICO OFICIAL FEDERAL EN LAS CIUDADES DE SANTA ROSA Y MENDOZA",
+      "summary": "Defensoría General de la Nación (Argentina)",
+      "date_published": "2026-06-19T00:00:00",
+      "tags": [
+        "Argentina",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.mpd.gov.ar/index.php/noticias-h/finalizacion-de-ampliacion-reforma-y-modernizacion-de-la-sede-del-mpd-en-posadas",
       "url": "https://www.mpd.gov.ar/index.php/noticias-h/finalizacion-de-ampliacion-reforma-y-modernizacion-de-la-sede-del-mpd-en-posadas",
       "title": "NUEVA SEDE EN LA CIUDAD DE POSADAS",
@@ -21,18 +33,6 @@
       "title": "DOS HISTORIAS, UNA MISMA OPORTUNIDAD: VIVIR GRACIAS A LA DONACIÓN",
       "summary": "Defensoría General de la Nación (Argentina)",
       "date_published": "2026-05-30T00:00:00",
-      "tags": [
-        "Argentina",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.mpd.gov.ar/index.php/noticias-h/la-dgn-avanza-en-una-estrategia-integral-para-fortalecer-la-representacion-y-el-acompanamiento-de-victimas-en-todo-el-pais",
-      "url": "https://www.mpd.gov.ar/index.php/noticias-h/la-dgn-avanza-en-una-estrategia-integral-para-fortalecer-la-representacion-y-el-acompanamiento-de-victimas-en-todo-el-pais",
-      "title": "LA DGN AVANZA EN UNA ESTRATEGIA INTEGRAL PARA FORTALECER LA REPRESENTACIÓN Y EL ACOMPAÑAMIENTO DE VÍCTIMAS EN TODO EL PAÍS",
-      "summary": "Defensoría General de la Nación (Argentina)",
-      "date_published": "2026-05-28T00:00:00",
       "tags": [
         "Argentina",
         "Sudamérica",

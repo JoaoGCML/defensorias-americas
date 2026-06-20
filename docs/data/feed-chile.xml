@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-06-19T11:25:07Z</updated>
+  <updated>2026-06-20T10:10:16Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Juzgado de Garantía declaró culpable a funcionario de Carabineros que en 2019 impactó con bomba lacrimógena a observador del INDH</title>
+    <id>https://www.indh.cl/juzgado-observador-indh/</id>
+    <link href="https://www.indh.cl/juzgado-observador-indh/" />
+    <updated>2026-06-19T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
   <entry>
     <title>Tribunal de Santiago declaró culpables a ocho personas que integraban una red para la trata con fines de explotación sexual: INDH actúa como querellante</title>
     <id>https://www.indh.cl/indh-tribunal-declaro-culpablestrata/</id>
@@ -21,19 +28,19 @@
   </entry>
   <entry>
     <title>La Tercera | Quesille llama a no adelantarse a “imputar”...</title>
-    <id>urn:defensorias-americas:4634619905098155671</id>
+    <id>urn:defensorias-americas:1301150090448812840</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio Cooperativa | Caso de menores haitianos: Defensoría de la...</title>
-    <id>urn:defensorias-americas:4946877386455819195</id>
+    <id>urn:defensorias-americas:9093315788333174942</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>EMOL | Caso niños haitianos: Los oficios en que la...</title>
-    <id>urn:defensorias-americas:1128969236981367261</id>
+    <id>urn:defensorias-americas:6267871031441160062</id>
     <updated>2026-06-16T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -53,13 +60,13 @@
   </entry>
   <entry>
     <title>COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...</title>
-    <id>urn:defensorias-americas:-3391345903121969260</id>
+    <id>urn:defensorias-americas:-2126687982941894963</id>
     <updated>2026-06-12T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>La Voz de la región | Defensor de la Niñez...</title>
-    <id>urn:defensorias-americas:993717827523006511</id>
+    <id>urn:defensorias-americas:-8192992611189930492</id>
     <updated>2026-06-12T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -72,7 +79,7 @@
   </entry>
   <entry>
     <title>La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...</title>
-    <id>urn:defensorias-americas:-9066047678555470516</id>
+    <id>urn:defensorias-americas:-8284955329646637877</id>
     <updated>2026-06-10T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -92,7 +99,7 @@
   </entry>
   <entry>
     <title>EMOL tv | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:192104924137092095</id>
+    <id>urn:defensorias-americas:8345088509161393823</id>
     <updated>2026-06-05T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -101,7 +108,7 @@
     <id>https://www.indh.cl/poder-judicial-indh-universidad-austral-jornadas/</id>
     <link href="https://www.indh.cl/poder-judicial-indh-universidad-austral-jornadas/" />
     <updated>2026-06-04T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>Con jornadas en Arica y Tarapacá finaliza ciclo de talleres organizados por el INDH sobre situación de personas con discapacidad en Chile ad portas de examen frente a la ONU</title>
@@ -126,13 +133,13 @@
   </entry>
   <entry>
     <title>Estudiantes convierten sus testimonios sobre derechos de la niñez en ...</title>
-    <id>urn:defensorias-americas:-155456373590855788</id>
+    <id>urn:defensorias-americas:-4859319143292717004</id>
     <updated>2026-05-30T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>EMOL | Según estudio de la Defensoría de la Niñez:...</title>
-    <id>urn:defensorias-americas:-2024711992025964061</id>
+    <id>urn:defensorias-americas:-5426076398465120719</id>
     <updated>2026-05-25T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>

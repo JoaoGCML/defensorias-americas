@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Argentina</title>
   <id>urn:defensorias-americas:prensa:argentina</id>
-  <updated>2026-06-19T11:25:07Z</updated>
+  <updated>2026-06-20T10:10:16Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-argentina.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>CONCURSOS PARA CUBRIR CARGOS DE DEFENSOR PÚBLICO OFICIAL FEDERAL EN LAS CIUDADES DE SANTA ROSA Y MENDOZA</title>
+    <id>https://www.mpd.gov.ar/index.php/noticias-h/concursos-para-cubrir-cargos-de-defensor-publico-oficial-federal-en-las-ciudades-de-santa-rosa-y-mendoza</id>
+    <link href="https://www.mpd.gov.ar/index.php/noticias-h/concursos-para-cubrir-cargos-de-defensor-publico-oficial-federal-en-las-ciudades-de-santa-rosa-y-mendoza" />
+    <updated>2026-06-19T00:00:00</updated>
+    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
+  </entry>
   <entry>
     <title>NUEVA SEDE EN LA CIUDAD DE POSADAS</title>
     <id>https://www.mpd.gov.ar/index.php/noticias-h/finalizacion-de-ampliacion-reforma-y-modernizacion-de-la-sede-del-mpd-en-posadas</id>
@@ -17,13 +24,6 @@
     <id>https://www.mpd.gov.ar/index.php/noticias-h/dos-historias-una-misma-oportunidad-vivir-gracias-a-la-donacion</id>
     <link href="https://www.mpd.gov.ar/index.php/noticias-h/dos-historias-una-misma-oportunidad-vivir-gracias-a-la-donacion" />
     <updated>2026-05-30T00:00:00</updated>
-    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
-  </entry>
-  <entry>
-    <title>LA DGN AVANZA EN UNA ESTRATEGIA INTEGRAL PARA FORTALECER LA REPRESENTACIÓN Y EL ACOMPAÑAMIENTO DE VÍCTIMAS EN TODO EL PAÍS</title>
-    <id>https://www.mpd.gov.ar/index.php/noticias-h/la-dgn-avanza-en-una-estrategia-integral-para-fortalecer-la-representacion-y-el-acompanamiento-de-victimas-en-todo-el-pais</id>
-    <link href="https://www.mpd.gov.ar/index.php/noticias-h/la-dgn-avanza-en-una-estrategia-integral-para-fortalecer-la-representacion-y-el-acompanamiento-de-victimas-en-todo-el-pais" />
-    <updated>2026-05-28T00:00:00</updated>
     <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
   </entry>
 </feed>

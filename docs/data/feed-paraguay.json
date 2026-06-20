@@ -4,11 +4,23 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-paraguay.json",
   "items": [
     {
-      "id": "urn:defensorias:7709903117871474879",
-      "url": "",
-      "title": "Noticias 18 de junio de 2026 Solicitud realizada vía redes sociales permitió activar asistencia en Ypané La Dirección General de Asistencia Social de",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-18T00:00:00",
+      "id": "https://mnp.gov.py/mnp-en-el-lanzamiento-de-la-revista-defensa-y-derechos/",
+      "url": "https://mnp.gov.py/mnp-en-el-lanzamiento-de-la-revista-defensa-y-derechos/",
+      "title": "MNP en el lanzamiento de la revista “Defensa y Derechos”",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-06-19T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://mnp.gov.py/mas-cuidado-y-respeto-para-las-personas-adultas-mayores/",
+      "url": "https://mnp.gov.py/mas-cuidado-y-respeto-para-las-personas-adultas-mayores/",
+      "title": "Más cuidado y respeto para las personas adultas mayores",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-06-19T00:00:00",
       "tags": [
         "Paraguay",
         "Sudamérica",
@@ -21,66 +33,6 @@
       "title": "MNP participa en taller regional sobre salud penitenciaria y cooperación técnica",
       "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
       "date_published": "2026-06-18T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-2185863510043040706",
-      "url": "",
-      "title": "Noticias 17 de junio de 2026 Impulsan mesa interinstitucional para fortalecer la atención a comunidades vulnerables en Villa Hayes Funcionarias de la",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-17T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-5705188874810016994",
-      "url": "",
-      "title": "Noticias 17 de junio de 2026 Trabajo en territorio de la Defensoría del Pueblo logró identificar dos casos de vulnerabilidad La Defensoría del Pueblo,",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-17T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:7822858408074328894",
-      "url": "",
-      "title": "Noticias 15 de junio de 2026 Defensoría del Pueblo brindó asistencia a más de 200 personas en el barrio Caacupemí La Defensoría del Pueblo, a través d",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-15T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-3515794235204047358",
-      "url": "",
-      "title": "Noticias 15 de junio de 2026 La Defensoría del Pueblo se suma a la campaña global “Tarjeta Roja al Trabajo Infantil” y respalda la nueva Estrategia Na",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-15T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:3740494589788736891",
-      "url": "",
-      "title": "Noticias 9 de junio de 2026 Asistencia institucional a ciudadano uruguayo en situación de vulnerabilidad La Defensoría del Pueblo, a través de la Coor",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-09T00:00:00",
       "tags": [
         "Paraguay",
         "Sudamérica",
@@ -124,42 +76,6 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4333839003874644078",
-      "url": "",
-      "title": "Noticias 5 de junio de 2026 Defensoría del Pueblo articula asistencia integral para una familia en situación de vulnerabilidad en Areguá Representante",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-05T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-7380251714587759161",
-      "url": "",
-      "title": "Noticias 5 de junio de 2026 Defensora Adjunta participó en la presentación del mediometraje “El precio del pasaje” La defensora adjunta Natalia Sosa p",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-05T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:7193633106794627391",
-      "url": "",
-      "title": "Noticias 5 de junio de 2026 Defensor del Pueblo realiza visita de fortalecimiento a las delegaciones de Caaguazú y Oviedo El Defensor del Pueblo, Abg.",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-05T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://mnp.gov.py/mnp-y-universidad-catolica-de-itapua-impulsan-alianza-para-abordar-la-prision-preventiva/",
       "url": "https://mnp.gov.py/mnp-y-universidad-catolica-de-itapua-impulsan-alianza-para-abordar-la-prision-preventiva/",
       "title": "MNP y Universidad Católica de Itapúa impulsan alianza para abordar la prisión preventiva",
@@ -172,71 +88,11 @@
       ]
     },
     {
-      "id": "urn:defensorias:165026251125117771",
-      "url": "",
-      "title": "Noticias 3 de junio de 2026 Defensoría del Pueblo coordinó jornada de atención integral que benefició a 150 personas en Areguá La Defensoría del Puebl",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:3089257132232495405",
-      "url": "",
-      "title": "Noticias 3 de junio de 2026 Defensoría del Pueblo entrega lotes de medicamentos a sectores vulnerables de la capital La Defensoría del Pueblo, a travé",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-5939961558998471076",
-      "url": "",
-      "title": "Noticias 2 de junio de 2026 Defensor del Pueblo recibió a representantes de la Asociación Luchadores por la Democracia de Arroyito El Defensor del Pue",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-02T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://mnp.gov.py/mnp-participa-en-reunion-de-la-mesa-de-derechos-humanos-de-la-red-del-pacto-global/",
       "url": "https://mnp.gov.py/mnp-participa-en-reunion-de-la-mesa-de-derechos-humanos-de-la-red-del-pacto-global/",
       "title": "MNP participa en reunión de la Mesa de Derechos Humanos de la Red del Pacto Global",
       "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
       "date_published": "2026-06-01T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://mnp.gov.py/entornos-seguros-y-libres-de-violencia-para-ninos-ninas-y-adolescentes/",
-      "url": "https://mnp.gov.py/entornos-seguros-y-libres-de-violencia-para-ninos-ninas-y-adolescentes/",
-      "title": "Entornos seguros y libres de violencia para niños, niñas y adolescentes",
-      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
-      "date_published": "2026-05-27T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://mnp.gov.py/fortaleciendo-redes-de-vigilancia-y-participacion-ciudadana-en-encarnacion/",
-      "url": "https://mnp.gov.py/fortaleciendo-redes-de-vigilancia-y-participacion-ciudadana-en-encarnacion/",
-      "title": "Fortaleciendo redes de vigilancia y participación ciudadana en Encarnación",
-      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
-      "date_published": "2026-05-26T00:00:00",
       "tags": [
         "Paraguay",
         "Sudamérica",

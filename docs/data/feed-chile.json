@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/juzgado-observador-indh/",
+      "url": "https://www.indh.cl/juzgado-observador-indh/",
+      "title": "Juzgado de Garantía declaró culpable a funcionario de Carabineros que en 2019 impactó con bomba lacrimógena a observador del INDH",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-06-19T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-tribunal-declaro-culpablestrata/",
       "url": "https://www.indh.cl/indh-tribunal-declaro-culpablestrata/",
       "title": "Tribunal de Santiago declaró culpables a ocho personas que integraban una red para la trata con fines de explotación sexual: INDH actúa como querellante",
@@ -28,7 +40,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4634619905098155671",
+      "id": "urn:defensorias:1301150090448812840",
       "url": "",
       "title": "La Tercera | Quesille llama a no adelantarse a “imputar”...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -40,7 +52,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4946877386455819195",
+      "id": "urn:defensorias:9093315788333174942",
       "url": "",
       "title": "Radio Cooperativa | Caso de menores haitianos: Defensoría de la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -52,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1128969236981367261",
+      "id": "urn:defensorias:6267871031441160062",
       "url": "",
       "title": "EMOL | Caso niños haitianos: Los oficios en que la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -88,7 +100,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3391345903121969260",
+      "id": "urn:defensorias:-2126687982941894963",
       "url": "",
       "title": "COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -100,7 +112,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:993717827523006511",
+      "id": "urn:defensorias:-8192992611189930492",
       "url": "",
       "title": "La Voz de la región | Defensor de la Niñez...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -124,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9066047678555470516",
+      "id": "urn:defensorias:-8284955329646637877",
       "url": "",
       "title": "La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:192104924137092095",
+      "id": "urn:defensorias:8345088509161393823",
       "url": "",
       "title": "EMOL tv | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -180,7 +192,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -220,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-155456373590855788",
+      "id": "urn:defensorias:-4859319143292717004",
       "url": "",
       "title": "Estudiantes convierten sus testimonios sobre derechos de la niñez en ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2024711992025964061",
+      "id": "urn:defensorias:-5426076398465120719",
       "url": "",
       "title": "EMOL | Según estudio de la Defensoría de la Niñez:...",
       "summary": "Defensoría de la Niñez (Chile)",

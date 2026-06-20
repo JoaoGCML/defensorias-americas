@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/111.asp&utm_term=class-ef",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/111.asp&utm_term=class-ef",
+      "title": "111/26—CIDH reafirma el derecho fundamental a solicitar y recibir asilo",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-19T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/110.asp&utm_content=country-per&utm_term=class-corteidh",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/110.asp&utm_content=country-per&utm_term=class-corteidh",
       "title": "110/26—CIDH presenta caso de Perú ante Corte IDH sobre falta de reconocimiento de identidad de género",
@@ -153,18 +165,6 @@
       "title": "102/26—CIDH otorga medidas cautelares a Beyker Ferreti Hernández, privado de libertad en Nicaragua",
       "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
       "date_published": "2026-06-08T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/101.asp&utm_content=country-nic&utm_term=class-mon",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/101.asp&utm_content=country-nic&utm_term=class-mon",
-      "title": "101/26—CIDH condena la muerte de Brooklyn Rivera, líder indígena miskitu en Nicaragua",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-06-05T00:00:00",
       "tags": [
         "Regional",
         "Américas",
