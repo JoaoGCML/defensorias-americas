@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-06-22T12:51:39Z</updated>
+  <updated>2026-06-23T10:37:55Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo se suma al “Plan AMA” para fortalecer la protección de personas adultas mayores</title>
+    <id>http://www.defensoria.gob.ve/?p=19991</id>
+    <link href="http://www.defensoria.gob.ve/?p=19991" />
+    <updated>2026-06-22T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensora del Pueblo desde Zulia instó a la humanización del sistema judicial en la Consulta Nacional sobre la Reforma de la Justicia Penal</title>
     <id>http://www.defensoria.gob.ve/?p=19958</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=19915</id>
     <link href="http://www.defensoria.gob.ve/?p=19915" />
     <updated>2026-06-16T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Personal de la Defensoría del Pueblo ha puesto toda su experiencia y conocimiento en el proceso de Reforma de la Justicia Penal</title>
-    <id>http://www.defensoria.gob.ve/?p=19891</id>
-    <link href="http://www.defensoria.gob.ve/?p=19891" />
-    <updated>2026-06-15T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>
