@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.json",
   "items": [
     {
+      "id": "http://www.defensoria.gob.ve/?p=20009",
+      "url": "http://www.defensoria.gob.ve/?p=20009",
+      "title": "Derechos Humanos de refugiados y refugiadas están garantizados a pesar de haber huido de sus países de origen",
+      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
+      "date_published": "2026-06-23T00:00:00",
+      "tags": [
+        "Venezuela",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "http://www.defensoria.gob.ve/?p=19991",
       "url": "http://www.defensoria.gob.ve/?p=19991",
       "title": "Defensoría del Pueblo se suma al “Plan AMA” para fortalecer la protección de personas adultas mayores",
@@ -45,18 +57,6 @@
       "title": "Defensora del Pueblo califica la Reforma de la Justicia Penal como «un movimiento histórico que impacta al país»",
       "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
       "date_published": "2026-06-17T00:00:00",
-      "tags": [
-        "Venezuela",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "http://www.defensoria.gob.ve/?p=19915",
-      "url": "http://www.defensoria.gob.ve/?p=19915",
-      "title": "Defensoría del Pueblo acompaña la Consulta Nacional sobre la Reforma de la Justicia Penal en Aragua",
-      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
-      "date_published": "2026-06-16T00:00:00",
       "tags": [
         "Venezuela",
         "Sudamérica",

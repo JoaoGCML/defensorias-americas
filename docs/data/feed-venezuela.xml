@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-06-23T10:37:55Z</updated>
+  <updated>2026-06-24T10:24:06Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Derechos Humanos de refugiados y refugiadas están garantizados a pesar de haber huido de sus países de origen</title>
+    <id>http://www.defensoria.gob.ve/?p=20009</id>
+    <link href="http://www.defensoria.gob.ve/?p=20009" />
+    <updated>2026-06-23T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo se suma al “Plan AMA” para fortalecer la protección de personas adultas mayores</title>
     <id>http://www.defensoria.gob.ve/?p=19991</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=19931</id>
     <link href="http://www.defensoria.gob.ve/?p=19931" />
     <updated>2026-06-17T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo acompaña la Consulta Nacional sobre la Reforma de la Justicia Penal en Aragua</title>
-    <id>http://www.defensoria.gob.ve/?p=19915</id>
-    <link href="http://www.defensoria.gob.ve/?p=19915" />
-    <updated>2026-06-16T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>

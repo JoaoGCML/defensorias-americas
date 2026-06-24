@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-06-23T10:37:55Z</updated>
+  <updated>2026-06-24T10:24:06Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Corte de Apelaciones de Valparaíso acogió recurso de INDH en favor de mujeres que iban de visita a la cárcel de la ciudad y fueron víctimas de desnudamientos</title>
+    <id>https://www.indh.cl/corte-valparaiso-recurso-indh-visita/</id>
+    <link href="https://www.indh.cl/corte-valparaiso-recurso-indh-visita/" />
+    <updated>2026-06-23T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
   <entry>
     <title>INDH Maule realizó ciclo de reuniones con agrupaciones medioambientales para actualizar el Mapa de Conflictos Socioambientales</title>
     <id>https://www.indh.cl/indh-maule-ciclo-de-reuniones-mapa-de-conflictos/</id>
@@ -14,7 +21,7 @@
   </entry>
   <entry>
     <title>TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:-353845036769355911</id>
+    <id>urn:defensorias-americas:-8694757924159225371</id>
     <updated>2026-06-21T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -41,19 +48,19 @@
   </entry>
   <entry>
     <title>La Tercera | Quesille llama a no adelantarse a “imputar”...</title>
-    <id>urn:defensorias-americas:2462461709447496264</id>
+    <id>urn:defensorias-americas:1365509750378114018</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio Cooperativa | Caso de menores haitianos: Defensoría de la...</title>
-    <id>urn:defensorias-americas:6798927222400326327</id>
+    <id>urn:defensorias-americas:1001684111813870752</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>EMOL | Caso niños haitianos: Los oficios en que la...</title>
-    <id>urn:defensorias-americas:4430262660918032457</id>
+    <id>urn:defensorias-americas:8789892109388941597</id>
     <updated>2026-06-16T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -73,13 +80,13 @@
   </entry>
   <entry>
     <title>COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...</title>
-    <id>urn:defensorias-americas:1542783853532785182</id>
+    <id>urn:defensorias-americas:4873594409581701836</id>
     <updated>2026-06-12T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>La Voz de la región | Defensor de la Niñez...</title>
-    <id>urn:defensorias-americas:1307089680014317256</id>
+    <id>urn:defensorias-americas:-6810563842770384339</id>
     <updated>2026-06-12T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -92,16 +99,9 @@
   </entry>
   <entry>
     <title>La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...</title>
-    <id>urn:defensorias-americas:86375766189184404</id>
+    <id>urn:defensorias-americas:6329844614965061833</id>
     <updated>2026-06-10T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
-  </entry>
-  <entry>
-    <title>Más de 500 personas asisten a las “Primeras Jornadas Judiciales de Derechos Humanos”, organizadas por el Poder Judicial, el INDH y la Universidad Austral de Chile</title>
-    <id>https://www.indh.cl/500-personas-jornadas-judiciales-indh/</id>
-    <link href="https://www.indh.cl/500-personas-jornadas-judiciales-indh/" />
-    <updated>2026-06-08T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>Juzgado de Garantía de Arica dictó condenas por asociación criminal por trata de personas con fines de explotación sexual: INDH actúa como querellante</title>
@@ -112,7 +112,7 @@
   </entry>
   <entry>
     <title>EMOL tv | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:1622964747980354355</id>
+    <id>urn:defensorias-americas:3694875450842549187</id>
     <updated>2026-06-05T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -131,22 +131,9 @@
     <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
-    <title>INDH de Los Lagos ofició a municipios de Puerto Montt y Calbuco ante denuncias de afectación de humedal y turberas en la zona de Siete Islas</title>
-    <id>https://www.indh.cl/indh-lagos-oficio-siete-islas/</id>
-    <link href="https://www.indh.cl/indh-lagos-oficio-siete-islas/" />
-    <updated>2026-06-04T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
     <title>Estudiantes convierten sus testimonios sobre derechos de la niñez en ...</title>
-    <id>urn:defensorias-americas:-2289430105500720596</id>
+    <id>urn:defensorias-americas:-4482455335262539270</id>
     <updated>2026-05-30T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
-  </entry>
-  <entry>
-    <title>EMOL | Según estudio de la Defensoría de la Niñez:...</title>
-    <id>urn:defensorias-americas:-6116719745833686859</id>
-    <updated>2026-05-25T00:00:00</updated>
-    <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
 </feed>
