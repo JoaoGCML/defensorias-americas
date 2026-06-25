@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/114.asp&utm_content=country-nic&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/114.asp&utm_content=country-nic&utm_term=class-mc",
+      "title": "114/26—CIDH otorga medidas cautelares a Ricardo José Mendoza Yrigoyen en Nicaragua",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-24T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/113.asp&utm_content=country-ven&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/113.asp&utm_content=country-ven&utm_term=class-mc",
+      "title": "113/26—CIDH otorga medidas cautelares a Manuel Antonio Sánchez y Rosalba Pereira Ramírez en Venezuela",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-24T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/112.asp&utm_content=country-ven&utm_term=class-mc",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/112.asp&utm_content=country-ven&utm_term=class-mc",
       "title": "112/26—CIDH otorga medidas cautelares a Daniel Enrique Echenagucia, privado de la libertad en Venezuela",
@@ -136,18 +160,6 @@
       ]
     },
     {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/104.asp&utm_content=country-ven&utm_term=class-mon",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/104.asp&utm_content=country-ven&utm_term=class-mon",
-      "title": "104/26—CIDH condena la tortura contra personas privadas de libertad en cárcel de Venezuela",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-06-10T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
       "id": "https://www.rindhca.org/indh-y-puntos-nacionales-de-contacto-fortalecen-la-cooperacion-regional-en-encuentro-preparatorio-del-x-foro-regional-sobre-empresas-y-derechos-humanos/",
       "url": "https://www.rindhca.org/indh-y-puntos-nacionales-de-contacto-fortalecen-la-cooperacion-regional-en-encuentro-preparatorio-del-x-foro-regional-sobre-empresas-y-derechos-humanos/",
       "title": "INDH y Puntos Nacionales de Contacto fortalecen la cooperación regional en encuentro preparatorio del X Foro Regional sobre Empresas y Derechos Humanos",
@@ -157,18 +169,6 @@
         "Regional",
         "Américas",
         "noticias"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/103.asp&utm_term=class-inst",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/103.asp&utm_term=class-inst",
-      "title": "103/26—CIDH anuncia audiencias de oficio y diálogo con sociedad civil para el 196° Período de Sesiones",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-06-09T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
       ]
     },
     {
