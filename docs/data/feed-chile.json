@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/derechos-humanos-rindhca-comisionado-encuentro/",
+      "url": "https://www.indh.cl/derechos-humanos-rindhca-comisionado-encuentro/",
+      "title": "INDH, Red RINDHCA y el Alto Comisionado ONU para los Derechos Humanos realizaron encuentro sobre la protección de las personas en emergencias ambientales",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-06-25T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-con-derechos-shane-cienfuegos/",
+      "url": "https://www.indh.cl/indh-con-derechos-shane-cienfuegos/",
+      "title": "Shane Cienfuegos, activista por los derechos de las disidencias sexuales: “Chile ha avanzado mucho en materias sociales, pero el aparato público se está quedando atrás”",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-06-25T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/corte-valparaiso-recurso-indh-visita/",
       "url": "https://www.indh.cl/corte-valparaiso-recurso-indh-visita/",
       "title": "Corte de Apelaciones de Valparaíso acogió recurso de INDH en favor de mujeres que iban de visita a la cárcel de la ciudad y fueron víctimas de desnudamientos",
@@ -28,7 +52,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1683269129770670419",
+      "id": "urn:defensorias:-9202966698398601636",
       "url": "",
       "title": "TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -76,7 +100,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2495909135357632835",
+      "id": "urn:defensorias:-8810527686972145430",
       "url": "",
       "title": "La Tercera | Quesille llama a no adelantarse a “imputar”...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -88,7 +112,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-218287049272167349",
+      "id": "urn:defensorias:17756068729436427",
       "url": "",
       "title": "Radio Cooperativa | Caso de menores haitianos: Defensoría de la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -100,7 +124,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9196087455635508871",
+      "id": "urn:defensorias:4355254678651720681",
       "url": "",
       "title": "EMOL | Caso niños haitianos: Los oficios en que la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -132,11 +156,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:1089848359048127033",
+      "id": "urn:defensorias:-5913232708055765457",
       "url": "",
       "title": "COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -148,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3088175418266747550",
+      "id": "urn:defensorias:-21023378078979711",
       "url": "",
       "title": "La Voz de la región | Defensor de la Niñez...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,19 +184,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-millaleo-con-derechos/",
-      "url": "https://www.indh.cl/indh-millaleo-con-derechos/",
-      "title": "Salvador Millaleo: “La principal razón para hablar de Derechos Indígenas es el futuro”",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-06-12T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-3805415813925443161",
+      "id": "urn:defensorias:-8191363752482025280",
       "url": "",
       "title": "La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3828169440267838079",
+      "id": "urn:defensorias:401247276984453033",
       "url": "",
       "title": "EMOL tv | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6875788555871492989",
+      "id": "urn:defensorias:8472237026540128203",
       "url": "",
       "title": "Estudiantes convierten sus testimonios sobre derechos de la niñez en ...",
       "summary": "Defensoría de la Niñez (Chile)",

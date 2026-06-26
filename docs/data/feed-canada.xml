@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Canadá</title>
   <id>urn:defensorias-americas:prensa:canada</id>
-  <updated>2026-06-25T10:17:00Z</updated>
+  <updated>2026-06-26T10:24:06Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -81,12 +81,5 @@
     <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/important-milestone-affirms-human-rights-people-experiencing-homelessness" />
     <updated>2026-05-28T00:00:00</updated>
     <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
-  </entry>
-  <entry>
-    <title>Enquête sur la gestion des cas complexes dans les établissements de détention du Québec</title>
-    <id>https://protecteurducitoyen.qc.ca/fr/enquetes/rapports-speciaux/enquete-gestion-cas-complexes-etablissements-detention</id>
-    <link href="https://protecteurducitoyen.qc.ca/fr/enquetes/rapports-speciaux/enquete-gestion-cas-complexes-etablissements-detention" />
-    <updated>2026-05-27T00:00:00</updated>
-    <summary>Protecteur du citoyen du Québec (Canadá) — nouvelles</summary>
   </entry>
 </feed>

@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/116.asp&utm_term=class-dc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/116.asp&utm_term=class-dc",
+      "title": "116/26—75 years after its adoption, the Refugee Convention remains as critical as ever for the protection of refugee and asylum-seeker rights: UN, IACHR and regional human rights experts",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-25T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/115.asp&utm_content=country-mex&utm_term=class-mon",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/115.asp&utm_content=country-mex&utm_term=class-mon",
+      "title": "R115/26—México: RELE condena el asesinato del periodista Luis Ángel López Valdez y llama al Estado redoblar esfuerzos para prevenir la violencia y proteger a la prensa en riesgo",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-25T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/114.asp&utm_content=country-nic&utm_term=class-mc",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/114.asp&utm_content=country-nic&utm_term=class-mc",
       "title": "114/26—CIDH otorga medidas cautelares a Ricardo José Mendoza Yrigoyen en Nicaragua",
@@ -157,6 +181,18 @@
         "Regional",
         "Américas",
         "noticias"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/104.asp&utm_content=country-ven&utm_term=class-mon",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/104.asp&utm_content=country-ven&utm_term=class-mon",
+      "title": "104/26—CIDH condena la tortura contra personas privadas de libertad en cárcel de Venezuela",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-10T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
       ]
     },
     {
