@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-los-rios-sitio-memoria-ex-carcel/",
+      "url": "https://www.indh.cl/indh-los-rios-sitio-memoria-ex-carcel/",
+      "title": "INDH Los Ríos visitó junto a estudiantes en práctica visitó el sitio de memoria Complejo Penitenciario Ex Cárcel de Isla Teja",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-06-26T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/derechos-humanos-rindhca-comisionado-encuentro/",
       "url": "https://www.indh.cl/derechos-humanos-rindhca-comisionado-encuentro/",
       "title": "INDH, Red RINDHCA y el Alto Comisionado ONU para los Derechos Humanos realizaron encuentro sobre la protección de las personas en emergencias ambientales",
@@ -52,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9202966698398601636",
+      "id": "urn:defensorias:5979900668487975321",
       "url": "",
       "title": "TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -100,7 +112,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8810527686972145430",
+      "id": "urn:defensorias:6167904361254108437",
       "url": "",
       "title": "La Tercera | Quesille llama a no adelantarse a “imputar”...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -112,7 +124,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:17756068729436427",
+      "id": "urn:defensorias:-5149821102242094961",
       "url": "",
       "title": "Radio Cooperativa | Caso de menores haitianos: Defensoría de la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -124,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4355254678651720681",
+      "id": "urn:defensorias:-1682415015564475300",
       "url": "",
       "title": "EMOL | Caso niños haitianos: Los oficios en que la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -144,7 +156,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -160,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5913232708055765457",
+      "id": "urn:defensorias:-782499287764712824",
       "url": "",
       "title": "COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-21023378078979711",
+      "id": "urn:defensorias:3478651550593858807",
       "url": "",
       "title": "La Voz de la región | Defensor de la Niñez...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8191363752482025280",
+      "id": "urn:defensorias:1054970687137243881",
       "url": "",
       "title": "La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:401247276984453033",
+      "id": "urn:defensorias:7852549777272816216",
       "url": "",
       "title": "EMOL tv | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,19 +244,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-arica-tarapaca-discapacidad/",
-      "url": "https://www.indh.cl/indh-arica-tarapaca-discapacidad/",
-      "title": "Con jornadas en Arica y Tarapacá finaliza ciclo de talleres organizados por el INDH sobre situación de personas con discapacidad en Chile ad portas de examen frente a la ONU",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-06-04T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:8472237026540128203",
+      "id": "urn:defensorias:3780814147054001480",
       "url": "",
       "title": "Estudiantes convierten sus testimonios sobre derechos de la niñez en ...",
       "summary": "Defensoría de la Niñez (Chile)",

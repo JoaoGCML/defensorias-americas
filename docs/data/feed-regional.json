@@ -4,54 +4,6 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/116.asp&utm_term=class-dc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/116.asp&utm_term=class-dc",
-      "title": "116/26—75 years after its adoption, the Refugee Convention remains as critical as ever for the protection of refugee and asylum-seeker rights: UN, IACHR and regional human rights experts",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-06-25T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/115.asp&utm_content=country-mex&utm_term=class-mon",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/115.asp&utm_content=country-mex&utm_term=class-mon",
-      "title": "R115/26—México: RELE condena el asesinato del periodista Luis Ángel López Valdez y llama al Estado redoblar esfuerzos para prevenir la violencia y proteger a la prensa en riesgo",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-06-25T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/114.asp&utm_content=country-nic&utm_term=class-mc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/114.asp&utm_content=country-nic&utm_term=class-mc",
-      "title": "114/26—CIDH otorga medidas cautelares a Ricardo José Mendoza Yrigoyen en Nicaragua",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-06-24T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/113.asp&utm_content=country-ven&utm_term=class-mc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/113.asp&utm_content=country-ven&utm_term=class-mc",
-      "title": "113/26—CIDH otorga medidas cautelares a Manuel Antonio Sánchez y Rosalba Pereira Ramírez en Venezuela",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-06-24T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/112.asp&utm_content=country-ven&utm_term=class-mc",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/112.asp&utm_content=country-ven&utm_term=class-mc",
       "title": "112/26—CIDH otorga medidas cautelares a Daniel Enrique Echenagucia, privado de la libertad en Venezuela",
@@ -205,6 +157,54 @@
         "Regional",
         "Américas",
         "noticias"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/103.asp&utm_term=class-inst",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/103.asp&utm_term=class-inst",
+      "title": "103/26—CIDH anuncia audiencias de oficio y diálogo con sociedad civil para el 196° Período de Sesiones",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-09T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/102.asp&utm_content=country-nic&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/102.asp&utm_content=country-nic&utm_term=class-mc",
+      "title": "102/26—CIDH otorga medidas cautelares a Beyker Ferreti Hernández, privado de libertad en Nicaragua",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-08T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/101.asp&utm_content=country-nic&utm_term=class-mon",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/101.asp&utm_content=country-nic&utm_term=class-mon",
+      "title": "101/26—CIDH condena la muerte de Brooklyn Rivera, líder indígena miskitu en Nicaragua",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-05T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/100.asp&utm_term=class-inst",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/100.asp&utm_term=class-inst",
+      "title": "100/26—CIDH recibe solicitudes de audiencias públicas para el 197 Período de Sesiones",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-05T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
       ]
     },
     {

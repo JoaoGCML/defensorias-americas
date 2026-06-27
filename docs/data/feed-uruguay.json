@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.json",
   "items": [
     {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/avances-perspectivas-del-repositorio-luisa-cuesta",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/avances-perspectivas-del-repositorio-luisa-cuesta",
+      "title": "Avances y perspectivas del Repositorio Luisa Cuesta",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-06-24T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-mec-udelar-firman-convenio-para-fortalecer-preservacion-acceso",
       "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-mec-udelar-firman-convenio-para-fortalecer-preservacion-acceso",
       "title": "INDDHH, MEC y Udelar firman convenio para fortalecer la preservación y el acceso a archivos",
@@ -103,18 +115,6 @@
       "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-impulsa-grupo-trabajo-sobre-antisemitismo-participacion-organismos",
       "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-impulsa-grupo-trabajo-sobre-antisemitismo-participacion-organismos",
       "title": "INDDHH impulsa grupo de trabajo sobre antisemitismo con participación de organismos públicos, academia y sociedad civil",
-      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
-      "date_published": "2026-05-29T00:00:00",
-      "tags": [
-        "Uruguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/sitio-memoria-ex-sid-recibio-numerosas-visitas-durante-mes-memoria",
-      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/sitio-memoria-ex-sid-recibio-numerosas-visitas-durante-mes-memoria",
-      "title": "El Sitio de Memoria ex SID recibió numerosas visitas durante el mes de la memoria",
       "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
       "date_published": "2026-05-29T00:00:00",
       "tags": [

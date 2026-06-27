@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Perú</title>
   <id>urn:defensorias-americas:prensa:peru</id>
-  <updated>2026-06-26T10:24:06Z</updated>
+  <updated>2026-06-27T09:30:04Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-peru.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>En atención a recomendación de la Defensoría del Pueblo, la Municipalidad de Lima viene instalando muros de contención en la vía Pasamayito</title>
+    <id>https://www.defensoria.gob.pe/en-atencion-a-recomendacion-de-la-defensoria-del-pueblo-la-municipalidad-de-lima-viene-instalando-muros-de-contencion-en-la-via-pasamayito/</id>
+    <link href="https://www.defensoria.gob.pe/en-atencion-a-recomendacion-de-la-defensoria-del-pueblo-la-municipalidad-de-lima-viene-instalando-muros-de-contencion-en-la-via-pasamayito/" />
+    <updated>2026-06-26T00:00:00</updated>
+    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Tarapoto: intervenimos en caso de ciudadana extranjera que requería atención inmediata por problemas de salud</title>
+    <id>https://www.defensoria.gob.pe/tarapoto-intervenimos-en-caso-de-ciudadana-extranjera-que-requeria-atencion-inmediata-por-problemas-de-salud/</id>
+    <link href="https://www.defensoria.gob.pe/tarapoto-intervenimos-en-caso-de-ciudadana-extranjera-que-requeria-atencion-inmediata-por-problemas-de-salud/" />
+    <updated>2026-06-26T00:00:00</updated>
+    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Chiclayo: Defensoría del Pueblo participa en reunión de trabajo con embajadores de los estados miembros de la Unión Europea</title>
+    <id>https://www.defensoria.gob.pe/chiclayo-defensoria-del-pueblo-participa-en-reunion-de-trabajo-con-embajadores-de-los-estados-miembros-de-la-union-europea/</id>
+    <link href="https://www.defensoria.gob.pe/chiclayo-defensoria-del-pueblo-participa-en-reunion-de-trabajo-con-embajadores-de-los-estados-miembros-de-la-union-europea/" />
+    <updated>2026-06-26T00:00:00</updated>
+    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
+  </entry>
   <entry>
     <title>Elecciones Generales 2026: paridad y alternancia en listas aún no garantizan una representación igualitaria en el Congreso y Parlamento Andino</title>
     <id>https://www.defensoria.gob.pe/elecciones-generales-2026-paridad-y-alternancia-en-listas-aun-no-garantizan-una-representacion-igualitaria-en-el-congreso-y-parlamento-andino/</id>
@@ -125,27 +146,6 @@
     <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
   </entry>
   <entry>
-    <title>Loreto: Defensoría del Pueblo impulsa acciones para garantizar cumplimiento de sentencia del TC en favor de Punchana</title>
-    <id>https://www.defensoria.gob.pe/loreto-defensoria-del-pueblo-impulsa-acciones-para-garantizar-cumplimiento-de-sentencia-del-tc-en-favor-de-punchana/</id>
-    <link href="https://www.defensoria.gob.pe/loreto-defensoria-del-pueblo-impulsa-acciones-para-garantizar-cumplimiento-de-sentencia-del-tc-en-favor-de-punchana/" />
-    <updated>2026-06-23T00:00:00</updated>
-    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo exige celeridad y transparencia en investigación por fallecimiento de adolescente en comisaría de Manchay</title>
-    <id>https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-celeridad-y-transparencia-en-investigacion-por-fallecimiento-de-adolescente-en-comisaria-de-manchay/</id>
-    <link href="https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-celeridad-y-transparencia-en-investigacion-por-fallecimiento-de-adolescente-en-comisaria-de-manchay/" />
-    <updated>2026-06-22T00:00:00</updated>
-    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Piura: Defensoría del Pueblo exige activar planes de emergencia ante posibles impactos del fenómeno El Niño en esta región</title>
-    <id>https://www.defensoria.gob.pe/piura-defensoria-del-pueblo-exige-activar-planes-de-emergencia-ante-posibles-impactos-del-fenomeno-el-nino-en-esta-region/</id>
-    <link href="https://www.defensoria.gob.pe/piura-defensoria-del-pueblo-exige-activar-planes-de-emergencia-ante-posibles-impactos-del-fenomeno-el-nino-en-esta-region/" />
-    <updated>2026-06-22T00:00:00</updated>
-    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
-  </entry>
-  <entry>
     <title>Pronunciamiento n.° 004/DP/2026</title>
     <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/06/Pronunciamiento-004-2026.pdf</id>
     <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/06/Pronunciamiento-004-2026.pdf" type="application/pdf" />
@@ -192,13 +192,6 @@
     <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Comunicado-035-2026.pdf</id>
     <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Comunicado-035-2026.pdf" type="application/pdf" />
     <updated>2026-05-29T00:00:00</updated>
-    <summary>Defensoría del Pueblo del Perú (Perú) — pronunciamientos</summary>
-  </entry>
-  <entry>
-    <title>Comunicado n.° 034/DP/2026</title>
-    <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Comunicado-034-2026.pdf</id>
-    <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/05/Comunicado-034-2026.pdf" type="application/pdf" />
-    <updated>2026-05-28T00:00:00</updated>
     <summary>Defensoría del Pueblo del Perú (Perú) — pronunciamientos</summary>
   </entry>
 </feed>
