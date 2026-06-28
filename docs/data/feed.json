@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-gestion-de-los-hospitales-de-tercer-nivel",
+      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-gestion-de-los-hospitales-de-tercer-nivel",
+      "title": "DEFENSORÍA DEL PUEBLO Y GOBERNACIÓN DE LA PAZ COORDINAN ACCIONES PARA FORTALECER LA GESTIÓN DE LOS HOSPITALES DE TERCER NIVEL",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-06-27T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-requiere-informe-a-cancilleria-sobre-la-atencion-a-bolivianos-afectados-por-los-sismos-en-venezuela",
       "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-requiere-informe-a-cancilleria-sobre-la-atencion-a-bolivianos-afectados-por-los-sismos-en-venezuela",
       "title": "DEFENSOR DEL PUEBLO REQUIERE INFORME A CANCILLERÍA SOBRE LA ATENCIÓN A BOLIVIANOS AFECTADOS POR LOS SISMOS EN VENEZUELA",
@@ -376,7 +388,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3986726225164467940",
+      "id": "urn:defensorias:3000791022930889581",
       "url": "",
       "title": "Comunidade de São Bernardo homenageia atuação da Defensoria Pública em processo de regularização fundiária",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -388,7 +400,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6114225416973683221",
+      "id": "urn:defensorias:-5055333545474564653",
       "url": "",
       "title": "Núcleos da Defensoria Pública de SP acompanham caso de violência institucional em escola da Zona Oeste",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -748,7 +760,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1510460347940755924",
+      "id": "urn:defensorias:6897753519228021843",
       "url": "",
       "title": "Mais de 15 mil famílias na capital paulista são beneficiadas após criação do Observatório das Comunidades pela Defensoria paulista",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -760,7 +772,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4473017796638923851",
+      "id": "urn:defensorias:-2077835823919377089",
       "url": "",
       "title": "Justiça autoriza registro de bebê com duas mães após ação da Defensoria em Campinas",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -851,18 +863,6 @@
       "date_published": "2026-06-23T00:00:00",
       "tags": [
         "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:7912406975341584292",
-      "url": "",
-      "title": "Noticias 23 de junio de 2026 La Defensoría del Pueblo e Identificaciones de Villa Hayes coordinan trabajo institucional Con el objetivo de consolidar",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-06-23T00:00:00",
-      "tags": [
-        "Paraguay",
         "Sudamérica",
         "noticias"
       ]
@@ -1084,7 +1084,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5979900668487975321",
+      "id": "urn:defensorias:830322043423487577",
       "url": "",
       "title": "TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -1123,18 +1123,6 @@
       "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-realizara-monitoreo-permanente-de-derechos-humanos-durante-la-vigencia-del-estado-de-excepcion",
       "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-realizara-monitoreo-permanente-de-derechos-humanos-durante-la-vigencia-del-estado-de-excepcion",
       "title": "DEFENSORÍA DEL PUEBLO REALIZARÁ MONITOREO PERMANENTE DE DERECHOS HUMANOS DURANTE LA VIGENCIA DEL ESTADO DE EXCEPCIÓN",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-06-20T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-ante-la-emision-del-decreto-supremo-de-declaratoria-de-estado-de-excepcion",
-      "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-ante-la-emision-del-decreto-supremo-de-declaratoria-de-estado-de-excepcion",
-      "title": "PRONUNCIAMIENTO ANTE LA EMISIÓN DEL DECRETO SUPREMO DE DECLARATORIA DE ESTADO DE EXCEPCIÓN",
       "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
       "date_published": "2026-06-20T00:00:00",
       "tags": [
@@ -1195,6 +1183,18 @@
       "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4170/",
       "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4170/",
       "title": "Defensoria Pública de Pernambuco promove simpósio sobre Direito Ambiental e Saúde Única",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-06-19T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4169/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4169/",
+      "title": "Defensoria Pública de Pernambuco prestigia posse da nova Defensora Pública-Geral Federal, em Brasília",
       "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
       "date_published": "2026-06-19T00:00:00",
       "tags": [
