@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-06-28T09:58:26Z</updated>
+  <updated>2026-06-29T12:00:36Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>PRONUNCIAMIENTO ANTE LOS HECHOS OCURRIDOS EN LA ORGANIZACIÓN CASA DE LA MUJER</title>
+    <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-ante-los-hechos-ocurridos-en-la-organizacion-casa-de-la-mujer</id>
+    <link href="https://www.defensoria.gob.bo/noticias/pronunciamiento-ante-los-hechos-ocurridos-en-la-organizacion-casa-de-la-mujer" />
+    <updated>2026-06-28T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
+  <entry>
+    <title>PRONUNCIAMIENTO DÍA INTERNACIONAL DEL ORGULLO LGBTI+</title>
+    <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-dia-internacional-del-orgullo-lgbti-</id>
+    <link href="https://www.defensoria.gob.bo/noticias/pronunciamiento-dia-internacional-del-orgullo-lgbti-" />
+    <updated>2026-06-28T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>DEFENSORÍA DEL PUEBLO Y GOBERNACIÓN DE LA PAZ COORDINAN ACCIONES PARA FORTALECER LA GESTIÓN DE LOS HOSPITALES DE TERCER NIVEL</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-gestion-de-los-hospitales-de-tercer-nivel</id>
@@ -59,20 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-verifica-desbloqueo-de-vias-estrategicas-en-oruro-y-mantiene-monitoreo-permanente</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-verifica-desbloqueo-de-vias-estrategicas-en-oruro-y-mantiene-monitoreo-permanente" />
     <updated>2026-06-21T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensor del Pueblo presenta primer reporte preliminar sobre el estado de excepción</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-presenta-primer-reporte-preliminar-sobre-el-estado-de-excepcion</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-presenta-primer-reporte-preliminar-sobre-el-estado-de-excepcion" />
-    <updated>2026-06-21T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>DEFENSORÍA DEL PUEBLO REALIZARÁ MONITOREO PERMANENTE DE DERECHOS HUMANOS DURANTE LA VIGENCIA DEL ESTADO DE EXCEPCIÓN</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-realizara-monitoreo-permanente-de-derechos-humanos-durante-la-vigencia-del-estado-de-excepcion</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-realizara-monitoreo-permanente-de-derechos-humanos-durante-la-vigencia-del-estado-de-excepcion" />
-    <updated>2026-06-20T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
