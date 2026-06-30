@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-06-29T12:00:36Z</updated>
+  <updated>2026-06-30T10:32:24Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensor del Pueblo alerta que la falta de normalidad en la distribución de combustibles podría poner en riesgo el ejercicio de derechos</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-que-la-falta-de-normalidad-en-la-distribucion-de-combustibles-podria-poner-en-riesgo-el-ejercicio-de-derechos</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-que-la-falta-de-normalidad-en-la-distribucion-de-combustibles-podria-poner-en-riesgo-el-ejercicio-de-derechos" />
+    <updated>2026-06-29T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>PRONUNCIAMIENTO ANTE LOS HECHOS OCURRIDOS EN LA ORGANIZACIÓN CASA DE LA MUJER</title>
     <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-ante-los-hechos-ocurridos-en-la-organizacion-casa-de-la-mujer</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-reporta-reduccion-de-bloqueos-y-monitorea-el-respeto-de-derechos-humanos-durante-el-estado-de-excepcion</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-reporta-reduccion-de-bloqueos-y-monitorea-el-respeto-de-derechos-humanos-durante-el-estado-de-excepcion" />
     <updated>2026-06-22T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo verifica desbloqueo de vías estratégicas en Oruro y mantiene monitoreo permanente</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-verifica-desbloqueo-de-vias-estrategicas-en-oruro-y-mantiene-monitoreo-permanente</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-verifica-desbloqueo-de-vias-estrategicas-en-oruro-y-mantiene-monitoreo-permanente" />
-    <updated>2026-06-21T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Norteamérica</title>
   <id>urn:defensorias-americas:prensa:norteamerica</id>
-  <updated>2026-06-29T12:00:36Z</updated>
+  <updated>2026-06-30T10:32:24Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-norteamerica.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>A strong and democratic Canada depends on human rights</title>
+    <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/strong-and-democratic-canada-depends-human-rights</id>
+    <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/strong-and-democratic-canada-depends-human-rights" />
+    <updated>2026-06-29T00:00:00</updated>
+    <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
+  </entry>
   <entry>
     <title>Sharing the journey to reconciliation</title>
     <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/sharing-journey-reconciliation</id>
