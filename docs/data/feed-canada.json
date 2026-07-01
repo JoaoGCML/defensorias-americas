@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.json",
   "items": [
     {
+      "id": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/demande-aide-solidarite-sociale",
+      "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/demande-aide-solidarite-sociale",
+      "title": "Demande d’aide sociale ou de solidarité sociale : comment procéder",
+      "summary": "Protecteur du citoyen du Québec (Canadá)",
+      "date_published": "2026-06-30T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "nouvelles"
+      ]
+    },
+    {
       "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/strong-and-democratic-canada-depends-human-rights",
       "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/strong-and-democratic-canada-depends-human-rights",
       "title": "A strong and democratic Canada depends on human rights",
@@ -117,18 +129,6 @@
       "title": "Renew human rights-based approach to Canada’s housing strategy: Federal Housing Advocate",
       "summary": "Canadian Human Rights Commission (Canadá)",
       "date_published": "2026-06-03T00:00:00",
-      "tags": [
-        "Canadá",
-        "Norteamérica",
-        "newsroom"
-      ]
-    },
-    {
-      "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/building-strong-and-accessible-canada-design",
-      "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/building-strong-and-accessible-canada-design",
-      "title": "Building a strong and accessible Canada by design",
-      "summary": "Canadian Human Rights Commission (Canadá)",
-      "date_published": "2026-06-01T00:00:00",
       "tags": [
         "Canadá",
         "Norteamérica",

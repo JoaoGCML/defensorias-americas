@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-06-30T10:32:24Z</updated>
+  <updated>2026-07-01T10:43:41Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Juzgado condena a ex director de Inteligencia del Ejército y a ex ministro de la Corte de Apelaciones por interceptaciones telefónicas ilegales</title>
+    <id>https://www.indh.cl/juzgado-condena-interceptaciones-telefonicas/</id>
+    <link href="https://www.indh.cl/juzgado-condena-interceptaciones-telefonicas/" />
+    <updated>2026-06-30T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Corte de Apelaciones acoge recurso del INDH y ordena solución definitiva para Escuela Ann Sullivan de Valdivia</title>
+    <id>https://www.indh.cl/corte-acoge-recurso-indh-escuela/</id>
+    <link href="https://www.indh.cl/corte-acoge-recurso-indh-escuela/" />
+    <updated>2026-06-30T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
   <entry>
     <title>INDH Los Ríos visitó junto a estudiantes en práctica visitó el sitio de memoria Complejo Penitenciario Ex Cárcel de Isla Teja</title>
     <id>https://www.indh.cl/indh-los-rios-sitio-memoria-ex-carcel/</id>
@@ -42,7 +56,7 @@
   </entry>
   <entry>
     <title>TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:-9158102007571034295</id>
+    <id>urn:defensorias-americas:-1237920406563535869</id>
     <updated>2026-06-21T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -54,34 +68,27 @@
     <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
   </entry>
   <entry>
-    <title>Tribunal de Santiago declaró culpables a ocho personas que integraban una red para la trata con fines de explotación sexual: INDH actúa como querellante</title>
-    <id>https://www.indh.cl/indh-tribunal-declaro-culpablestrata/</id>
-    <link href="https://www.indh.cl/indh-tribunal-declaro-culpablestrata/" />
-    <updated>2026-06-18T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
     <title>INDH de O’Higgins realizará exhibición de “La misteriosa mirada del Flamenco” en la UOH y en la cárcel de Rancagua, en el marco del Día del Orgullo LGBTIQA+</title>
     <id>https://www.indh.cl/indh-ohiggins-exhibicion/</id>
     <link href="https://www.indh.cl/indh-ohiggins-exhibicion/" />
     <updated>2026-06-18T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>La Tercera | Quesille llama a no adelantarse a “imputar”...</title>
-    <id>urn:defensorias-americas:-866285990046185780</id>
+    <id>urn:defensorias-americas:4636810083383023992</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio Cooperativa | Caso de menores haitianos: Defensoría de la...</title>
-    <id>urn:defensorias-americas:-1761732674041713464</id>
+    <id>urn:defensorias-americas:1862802522207020739</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>EMOL | Caso niños haitianos: Los oficios en que la...</title>
-    <id>urn:defensorias-americas:-9034191246555025386</id>
+    <id>urn:defensorias-americas:5072953506601466171</id>
     <updated>2026-06-16T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -101,19 +108,19 @@
   </entry>
   <entry>
     <title>COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...</title>
-    <id>urn:defensorias-americas:-4834681104696212147</id>
+    <id>urn:defensorias-americas:-9209428890738343012</id>
     <updated>2026-06-12T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>La Voz de la región | Defensor de la Niñez...</title>
-    <id>urn:defensorias-americas:-8782493156967522249</id>
+    <id>urn:defensorias-americas:-9200239816705410339</id>
     <updated>2026-06-12T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...</title>
-    <id>urn:defensorias-americas:8541294730957430114</id>
+    <id>urn:defensorias-americas:4845985093240943373</id>
     <updated>2026-06-10T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -126,15 +133,8 @@
   </entry>
   <entry>
     <title>EMOL tv | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:-3812794329937912164</id>
+    <id>urn:defensorias-americas:-5458707289934672808</id>
     <updated>2026-06-05T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
-  </entry>
-  <entry>
-    <title>Poder Judicial, Instituto Nacional de Derechos Humanos y Universidad Austral realizarán las “Primeras Jornadas Judiciales de Derechos Humanos”</title>
-    <id>https://www.indh.cl/poder-judicial-indh-universidad-austral-jornadas/</id>
-    <link href="https://www.indh.cl/poder-judicial-indh-universidad-austral-jornadas/" />
-    <updated>2026-06-04T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
 </feed>

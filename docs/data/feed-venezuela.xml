@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-06-30T10:32:24Z</updated>
+  <updated>2026-07-01T10:43:41Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo se despliega en todo el territorio nacional para proteger los derechos fundamentales de las personas afectadas por el terremoto del 24 de junio</title>
+    <id>http://www.defensoria.gob.ve/?p=20053</id>
+    <link href="http://www.defensoria.gob.ve/?p=20053" />
+    <updated>2026-06-30T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>La Defensora del Pueblo, Eglée González Lobato, realizó un recorrido por el Hospital “Dr. Domingo Luciani”, ubicado en El Llanito, Parroquia Petare, con el objeto de verificar la debida atención a la población infanto juvenil herida o lesionada que fue ingresada a ese centro de salud luego de los fuertes movimientos telúricos que se registraron en el país este 24 de junio.</title>
     <id>http://www.defensoria.gob.ve/?p=20026</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=19991</id>
     <link href="http://www.defensoria.gob.ve/?p=19991" />
     <updated>2026-06-22T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensora del Pueblo desde Zulia instó a la humanización del sistema judicial en la Consulta Nacional sobre la Reforma de la Justicia Penal</title>
-    <id>http://www.defensoria.gob.ve/?p=19958</id>
-    <link href="http://www.defensoria.gob.ve/?p=19958" />
-    <updated>2026-06-21T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>

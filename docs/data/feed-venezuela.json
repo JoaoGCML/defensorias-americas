@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.json",
   "items": [
     {
+      "id": "http://www.defensoria.gob.ve/?p=20053",
+      "url": "http://www.defensoria.gob.ve/?p=20053",
+      "title": "Defensoría del Pueblo se despliega en todo el territorio nacional para proteger los derechos fundamentales de las personas afectadas por el terremoto del 24 de junio",
+      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
+      "date_published": "2026-06-30T00:00:00",
+      "tags": [
+        "Venezuela",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "http://www.defensoria.gob.ve/?p=20026",
       "url": "http://www.defensoria.gob.ve/?p=20026",
       "title": "La Defensora del Pueblo, Eglée González Lobato, realizó un recorrido por el Hospital “Dr. Domingo Luciani”, ubicado en El Llanito, Parroquia Petare, con el objeto de verificar la debida atención a la población infanto juvenil herida o lesionada que fue ingresada a ese centro de salud luego de los fuertes movimientos telúricos que se registraron en el país este 24 de junio.",
@@ -45,18 +57,6 @@
       "title": "Defensoría del Pueblo se suma al “Plan AMA” para fortalecer la protección de personas adultas mayores",
       "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
       "date_published": "2026-06-22T00:00:00",
-      "tags": [
-        "Venezuela",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "http://www.defensoria.gob.ve/?p=19958",
-      "url": "http://www.defensoria.gob.ve/?p=19958",
-      "title": "Defensora del Pueblo desde Zulia instó a la humanización del sistema judicial en la Consulta Nacional sobre la Reforma de la Justicia Penal",
-      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
-      "date_published": "2026-06-21T00:00:00",
       "tags": [
         "Venezuela",
         "Sudamérica",
