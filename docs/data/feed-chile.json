@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-atacama-debate-prevencion-tortura/",
+      "url": "https://www.indh.cl/indh-atacama-debate-prevencion-tortura/",
+      "title": "INDH Atacama realizó debate con académicos y organizaciones sobre los desafíos actuales en la prevención de la tortura",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-07-01T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/juzgado-condena-interceptaciones-telefonicas/",
       "url": "https://www.indh.cl/juzgado-condena-interceptaciones-telefonicas/",
       "title": "Juzgado condena a ex director de Inteligencia del Ejército y a ex ministro de la Corte de Apelaciones por interceptaciones telefónicas ilegales",
@@ -88,7 +100,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1237920406563535869",
+      "id": "urn:defensorias:696422634475867925",
       "url": "",
       "title": "TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -97,18 +109,6 @@
         "Chile",
         "Sudamérica",
         "prensa"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/juzgado-observador-indh/",
-      "url": "https://www.indh.cl/juzgado-observador-indh/",
-      "title": "Juzgado de Garantía declaró culpable a funcionario de Carabineros que en 2019 impactó con bomba lacrimógena a observador del INDH",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-06-19T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
       ]
     },
     {
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4636810083383023992",
+      "id": "urn:defensorias:-7836590204696469374",
       "url": "",
       "title": "La Tercera | Quesille llama a no adelantarse a “imputar”...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1862802522207020739",
+      "id": "urn:defensorias:530099650053846359",
       "url": "",
       "title": "Radio Cooperativa | Caso de menores haitianos: Defensoría de la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5072953506601466171",
+      "id": "urn:defensorias:1255972462798013922",
       "url": "",
       "title": "EMOL | Caso niños haitianos: Los oficios en que la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9209428890738343012",
+      "id": "urn:defensorias:3169753613422886689",
       "url": "",
       "title": "COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9200239816705410339",
+      "id": "urn:defensorias:2364591484479581049",
       "url": "",
       "title": "La Voz de la región | Defensor de la Niñez...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4845985093240943373",
+      "id": "urn:defensorias:-2589090042492768417",
       "url": "",
       "title": "La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,19 +220,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-arica-condenas-trata/",
-      "url": "https://www.indh.cl/indh-arica-condenas-trata/",
-      "title": "Juzgado de Garantía de Arica dictó condenas por asociación criminal por trata de personas con fines de explotación sexual: INDH actúa como querellante",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-06-08T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-5458707289934672808",
+      "id": "urn:defensorias:133559858334032197",
       "url": "",
       "title": "EMOL tv | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
