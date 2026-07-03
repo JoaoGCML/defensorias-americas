@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-07-02T10:10:56Z</updated>
+  <updated>2026-07-03T10:06:02Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Director del INDH expuso en sesión del Consejo de Derechos Humanos de Naciones Unidas que revisó informe de la Relatora Especial sobre el ejercicio de la reunión pacífica en Chile</title>
+    <id>https://www.indh.cl/indh-director-expuso-consejo-naciones-unidas/</id>
+    <link href="https://www.indh.cl/indh-director-expuso-consejo-naciones-unidas/" />
+    <updated>2026-07-02T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
   <entry>
     <title>INDH Atacama realizó debate con académicos y organizaciones sobre los desafíos actuales en la prevención de la tortura</title>
     <id>https://www.indh.cl/indh-atacama-debate-prevencion-tortura/</id>
@@ -59,11 +66,11 @@
     <id>https://www.indh.cl/indh-maule-ciclo-de-reuniones-mapa-de-conflictos/</id>
     <link href="https://www.indh.cl/indh-maule-ciclo-de-reuniones-mapa-de-conflictos/" />
     <updated>2026-06-22T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:696422634475867925</id>
+    <id>urn:defensorias-americas:-502452044687296572</id>
     <updated>2026-06-21T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -76,19 +83,19 @@
   </entry>
   <entry>
     <title>La Tercera | Quesille llama a no adelantarse a “imputar”...</title>
-    <id>urn:defensorias-americas:-7836590204696469374</id>
+    <id>urn:defensorias-americas:-3227291734944338811</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio Cooperativa | Caso de menores haitianos: Defensoría de la...</title>
-    <id>urn:defensorias-americas:530099650053846359</id>
+    <id>urn:defensorias-americas:2154525438494957365</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>EMOL | Caso niños haitianos: Los oficios en que la...</title>
-    <id>urn:defensorias-americas:1255972462798013922</id>
+    <id>urn:defensorias-americas:2964602860138042660</id>
     <updated>2026-06-16T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -108,25 +115,25 @@
   </entry>
   <entry>
     <title>COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...</title>
-    <id>urn:defensorias-americas:3169753613422886689</id>
+    <id>urn:defensorias-americas:1101182972390618152</id>
     <updated>2026-06-12T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>La Voz de la región | Defensor de la Niñez...</title>
-    <id>urn:defensorias-americas:2364591484479581049</id>
+    <id>urn:defensorias-americas:-5499774838375394234</id>
     <updated>2026-06-12T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...</title>
-    <id>urn:defensorias-americas:-2589090042492768417</id>
+    <id>urn:defensorias-americas:-3665510101187349398</id>
     <updated>2026-06-10T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>EMOL tv | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:133559858334032197</id>
+    <id>urn:defensorias-americas:-162438601466822159</id>
     <updated>2026-06-05T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
