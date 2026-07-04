@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-tribunal-culpables-meiggs/",
+      "url": "https://www.indh.cl/indh-tribunal-culpables-meiggs/",
+      "title": "Tribunal de Santiago declaró culpables a 10 carabineros por red de corrupción en Meiggs: INDH obtuvo condena para uniformado acusado de apremios ilegítimos",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-07-03T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-director-expuso-consejo-naciones-unidas/",
       "url": "https://www.indh.cl/indh-director-expuso-consejo-naciones-unidas/",
       "title": "Director del INDH expuso en sesión del Consejo de Derechos Humanos de Naciones Unidas que revisó informe de la Relatora Especial sobre el ejercicio de la reunión pacífica en Chile",
@@ -96,7 +108,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -112,7 +124,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-502452044687296572",
+      "id": "urn:defensorias:-770081908466909647",
       "url": "",
       "title": "TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -136,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3227291734944338811",
+      "id": "urn:defensorias:1126769768776017892",
       "url": "",
       "title": "La Tercera | Quesille llama a no adelantarse a “imputar”...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -148,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2154525438494957365",
+      "id": "urn:defensorias:-2081002441747232902",
       "url": "",
       "title": "Radio Cooperativa | Caso de menores haitianos: Defensoría de la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2964602860138042660",
+      "id": "urn:defensorias:-2280324421453706456",
       "url": "",
       "title": "EMOL | Caso niños haitianos: Los oficios en que la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1101182972390618152",
+      "id": "urn:defensorias:-7005431151709513171",
       "url": "",
       "title": "COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5499774838375394234",
+      "id": "urn:defensorias:-7485669423588325210",
       "url": "",
       "title": "La Voz de la región | Defensor de la Niñez...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3665510101187349398",
+      "id": "urn:defensorias:3248789707998742493",
       "url": "",
       "title": "La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-162438601466822159",
+      "id": "urn:defensorias:-7620906592223806110",
       "url": "",
       "title": "EMOL tv | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",

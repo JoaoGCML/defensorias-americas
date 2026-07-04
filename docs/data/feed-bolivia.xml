@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-07-03T10:06:02Z</updated>
+  <updated>2026-07-04T09:24:56Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>DEFENSORÍA DEL PUEBLO IMPULSA AGENDA DE COHESIÓN SOCIAL PARA SUPERAR LA POLARIZACIÓN Y PREVENIR LA CONFLICTIVIDAD</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-impulsa-agenda-de-cohesion-social-para-superar-la-polarizacion-y-prevenir-la-conflictividad</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-impulsa-agenda-de-cohesion-social-para-superar-la-polarizacion-y-prevenir-la-conflictividad" />
+    <updated>2026-07-03T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo y EPSAS coordinan acciones para fortalecer la protección de los derechos de la población y la calidad del servicio de agua potable</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-epsas-coordinan-acciones-para-fortalecer-la-proteccion-de-los-derechos-de-la-poblacion-y-la-calidad-del-servicio-de-agua-potable</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-gestiona-coordinacion-urgente-y-evita-el-corte-de-energia-electrica-en-el-hospital-de-la-mujer</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-gestiona-coordinacion-urgente-y-evita-el-corte-de-energia-electrica-en-el-hospital-de-la-mujer" />
     <updated>2026-06-30T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensor del Pueblo alerta que la falta de normalidad en la distribución de combustibles podría poner en riesgo el ejercicio de derechos</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-que-la-falta-de-normalidad-en-la-distribucion-de-combustibles-podria-poner-en-riesgo-el-ejercicio-de-derechos</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-que-la-falta-de-normalidad-en-la-distribucion-de-combustibles-podria-poner-en-riesgo-el-ejercicio-de-derechos" />
-    <updated>2026-06-29T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
