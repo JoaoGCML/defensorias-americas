@@ -4,6 +4,54 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-presenta-cuarto-reporte-de-monitoreo-del-estado-de-excepcion-y-reafirma-la-vigilancia-del-respeto-a-los-derechos-humanos",
+      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-presenta-cuarto-reporte-de-monitoreo-del-estado-de-excepcion-y-reafirma-la-vigilancia-del-respeto-a-los-derechos-humanos",
+      "title": "Defensoría del Pueblo presenta cuarto reporte de monitoreo del Estado de Excepción y reafirma la vigilancia del respeto a los derechos humanos",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-07-04T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/comunidades-afectadas-por-derrame-de-petroleo-en-el-rio-amazonas-exigen-una-respuesta-efectiva-del-estado-y-medidas-urgentes-para-atender-la-emergencia/",
+      "url": "https://www.defensoria.gob.pe/comunidades-afectadas-por-derrame-de-petroleo-en-el-rio-amazonas-exigen-una-respuesta-efectiva-del-estado-y-medidas-urgentes-para-atender-la-emergencia/",
+      "title": "Comunidades afectadas por derrame de petróleo en el río Amazonas exigen una respuesta efectiva del Estado y medidas urgentes para atender la emergencia",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-04T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-al-estado-a-adoptar-medidas-efectivas-frente-al-limitado-avance-del-frente-a-contaminacion-por-metales-pesados/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-al-estado-a-adoptar-medidas-efectivas-frente-al-limitado-avance-del-frente-a-contaminacion-por-metales-pesados/",
+      "title": "Defensoría del Pueblo exhorta al estado a adoptar medidas efectivas frente al limitado avance del plan especial multisectorial frente a la contaminación por metales pesados",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-04T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensordelpueblo.gob.do/2026/07/04/defensor-del-pueblo-reclama-justicia-por-muerte-de-joven-en-herrera/",
+      "url": "https://defensordelpueblo.gob.do/2026/07/04/defensor-del-pueblo-reclama-justicia-por-muerte-de-joven-en-herrera/",
+      "title": "Defensor del Pueblo reclama justicia por muerte de joven en Herrera",
+      "summary": "Defensor del Pueblo de la República Dominicana (República Dominicana)",
+      "date_published": "2026-07-04T00:00:00",
+      "tags": [
+        "República Dominicana",
+        "Caribe",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-impulsa-agenda-de-cohesion-social-para-superar-la-polarizacion-y-prevenir-la-conflictividad",
       "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-impulsa-agenda-de-cohesion-social-para-superar-la-polarizacion-y-prevenir-la-conflictividad",
       "title": "DEFENSORÍA DEL PUEBLO IMPULSA AGENDA DE COHESIÓN SOCIAL PARA SUPERAR LA POLARIZACIÓN Y PREVENIR LA CONFLICTIVIDAD",
@@ -100,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8706285820353207578",
+      "id": "urn:defensorias:7351773689925105255",
       "url": "",
       "title": "Noticias 3 de julio de 2026 Defensoría del Pueblo fortalece la cooperación interinstitucional en Villa Hayes La Defensoría del Pueblo llevó a cabo reu",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -292,7 +340,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5085333991523630638",
+      "id": "urn:defensorias:-7212205659142843610",
       "url": "",
       "title": "Noticias 2 de julio de 2026 Defensoría del Pueblo brinda acompañamiento para garantizar el acceso a servicios de salud especializados La Dirección Gen",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -328,7 +376,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7712349566879512627",
+      "id": "urn:defensorias:1186881338291639750",
       "url": "",
       "title": "Defensoria Pública inaugura posto de representação na Câmara Municipal de São Paulo",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -340,7 +388,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7493893047557713252",
+      "id": "urn:defensorias:6543256808715125867",
       "url": "",
       "title": "Defensoria intervém em ação sobre casarão histórico em assentamento de Araraquara e nova audiência de conciliação é marcada para 3 de julho",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -352,7 +400,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7972394987649324932",
+      "id": "urn:defensorias:-1364964801374694192",
       "url": "",
       "title": "Defensoria Pública de SP abre inscrições para mutirão nacional Meu Pai Tem Nome",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -364,7 +412,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6770385522507636231",
+      "id": "urn:defensorias:3791706336845197912",
       "url": "",
       "title": "Defensoria Pública dá continuidade no circuito itinerante DáPraResolver em Osasco",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -496,7 +544,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1756267939121217203",
+      "id": "urn:defensorias:8357055105741289663",
       "url": "",
       "title": "Noticias 1 de julio de 2026 La Defensoría del Pueblo inauguró oficina de la Delegación en Villa Hayes La Defensoría del Pueblo inauguró oficialmente l",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -508,7 +556,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6433433678879788584",
+      "id": "urn:defensorias:500318424186715819",
       "url": "",
       "title": "Noticias 1 de julio de 2026 La Defensoría del Pueblo fortalece su rol regional ante emergencias ambientales Como miembro del Comité de Coordinación de",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -619,18 +667,6 @@
       "id": "https://www.defensoria.gob.bo/noticias/pronunciamientodefensoria-del-pueblo-exige-acciones-inmediatas-ante-el-hallazgo-de-fauna-silvestre-fallecida-en-la-represa-de-hampaturi-y-reafirma-la-vigencia-de-la-sentencia-constitucional-plurinacional-0212-2024-s1",
       "url": "https://www.defensoria.gob.bo/noticias/pronunciamientodefensoria-del-pueblo-exige-acciones-inmediatas-ante-el-hallazgo-de-fauna-silvestre-fallecida-en-la-represa-de-hampaturi-y-reafirma-la-vigencia-de-la-sentencia-constitucional-plurinacional-0212-2024-s1",
       "title": "PRONUNCIAMIENTO: DEFENSORÍA DEL PUEBLO EXIGE ACCIONES INMEDIATAS ANTE EL HALLAZGO DE FAUNA SILVESTRE FALLECIDA EN LA REPRESA DE HAMPATURI Y REAFIRMA LA VIGENCIA DE LA SENTENCIA CONSTITUCIONAL PLURINACIONAL 0212/2024-S1",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-06-30T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-gestiona-coordinacion-urgente-y-evita-el-corte-de-energia-electrica-en-el-hospital-de-la-mujer",
-      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-gestiona-coordinacion-urgente-y-evita-el-corte-de-energia-electrica-en-el-hospital-de-la-mujer",
-      "title": "DEFENSOR DEL PUEBLO GESTIONA COORDINACIÓN URGENTE Y EVITA EL CORTE DE ENERGÍA ELÉCTRICA EN EL HOSPITAL DE LA MUJER",
       "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
       "date_published": "2026-06-30T00:00:00",
       "tags": [
@@ -1120,7 +1156,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7668749094112229727",
+      "id": "urn:defensorias:8784622850776114570",
       "url": "",
       "title": "Comunidade de São Bernardo homenageia atuação da Defensoria Pública em processo de regularização fundiária",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1132,7 +1168,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8109306490516442564",
+      "id": "urn:defensorias:6544092808279468143",
       "url": "",
       "title": "Núcleos da Defensoria Pública de SP acompanham caso de violência institucional em escola da Zona Oeste",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1163,42 +1199,6 @@
       "date_published": "2026-06-25T00:00:00",
       "tags": [
         "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-con-derechos-shane-cienfuegos/",
-      "url": "https://www.indh.cl/indh-con-derechos-shane-cienfuegos/",
-      "title": "Shane Cienfuegos, activista por los derechos de las disidencias sexuales: “Chile ha avanzado mucho en materias sociales, pero el aparato público se está quedando atrás”",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-06-25T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/elecciones-generales-2026-paridad-y-alternancia-en-listas-aun-no-garantizan-una-representacion-igualitaria-en-el-congreso-y-parlamento-andino/",
-      "url": "https://www.defensoria.gob.pe/elecciones-generales-2026-paridad-y-alternancia-en-listas-aun-no-garantizan-una-representacion-igualitaria-en-el-congreso-y-parlamento-andino/",
-      "title": "Elecciones Generales 2026: paridad y alternancia en listas aún no garantizan una representación igualitaria en el Congreso y Parlamento Andino",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-06-25T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-y-la-direccion-de-investigacion-de-lavado-de-activos-y-extincion-de-dominio-de-la-policia-nacional-del-peru-se-reunen-a-fin-de-fortalecer-la-labor-de-la-policia-en-sus-actuacione/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-y-la-direccion-de-investigacion-de-lavado-de-activos-y-extincion-de-dominio-de-la-policia-nacional-del-peru-se-reunen-a-fin-de-fortalecer-la-labor-de-la-policia-en-sus-actuacione/",
-      "title": "Defensoría del Pueblo y la Dirección de Investigación de Lavado de Activos y Extinción de Dominio de la Policía Nacional del Perú se reúnen a fin de fortalecer la labor de la Policía en sus actuaciones con un enfoque de derechos humanos",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-06-25T00:00:00",
-      "tags": [
-        "Perú",
         "Sudamérica",
         "noticias"
       ]
