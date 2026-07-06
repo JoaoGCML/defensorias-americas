@@ -4,6 +4,42 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://mnp.gov.py/presentacion-del-informe-anual-de-gestion-2025-del-mnp-en-ciudad-del-este/",
+      "url": "https://mnp.gov.py/presentacion-del-informe-anual-de-gestion-2025-del-mnp-en-ciudad-del-este/",
+      "title": "El MNP presenta en Ciudad del Este su Informe Anual de Gestión 2025",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-07-06T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/05/em-manaus-mais-de-300-candidatos-participam-de-prova-para-selecao-de-estagio-da-defensoria-do-amazonas/",
+      "url": "https://defensoria.am.def.br/2026/07/05/em-manaus-mais-de-300-candidatos-participam-de-prova-para-selecao-de-estagio-da-defensoria-do-amazonas/",
+      "title": "Em Manaus, mais de 300 candidatos participam de prova para seleção de estágio da Defensoria do Amazonas",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-05T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://mnp.gov.py/del-cine-al-dialogo-una-iniciativa-para-poner-en-el-centro-a-la-mujer-de-la-fila/",
+      "url": "https://mnp.gov.py/del-cine-al-dialogo-una-iniciativa-para-poner-en-el-centro-a-la-mujer-de-la-fila/",
+      "title": "Del cine al diálogo: una iniciativa para poner en el centro a la mujer de la fila",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-07-05T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-presenta-cuarto-reporte-de-monitoreo-del-estado-de-excepcion-y-reafirma-la-vigilancia-del-respeto-a-los-derechos-humanos",
       "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-presenta-cuarto-reporte-de-monitoreo-del-estado-de-excepcion-y-reafirma-la-vigilancia-del-respeto-a-los-derechos-humanos",
       "title": "Defensoría del Pueblo presenta cuarto reporte de monitoreo del Estado de Excepción y reafirma la vigilancia del respeto a los derechos humanos",
@@ -36,18 +72,6 @@
       "tags": [
         "Perú",
         "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensordelpueblo.gob.do/2026/07/04/defensor-del-pueblo-reclama-justicia-por-muerte-de-joven-en-herrera/",
-      "url": "https://defensordelpueblo.gob.do/2026/07/04/defensor-del-pueblo-reclama-justicia-por-muerte-de-joven-en-herrera/",
-      "title": "Defensor del Pueblo reclama justicia por muerte de joven en Herrera",
-      "summary": "Defensor del Pueblo de la República Dominicana (República Dominicana)",
-      "date_published": "2026-07-04T00:00:00",
-      "tags": [
-        "República Dominicana",
-        "Caribe",
         "noticias"
       ]
     },
@@ -148,18 +172,6 @@
       ]
     },
     {
-      "id": "urn:defensorias:7351773689925105255",
-      "url": "",
-      "title": "Noticias 3 de julio de 2026 Defensoría del Pueblo fortalece la cooperación interinstitucional en Villa Hayes La Defensoría del Pueblo llevó a cabo reu",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-03T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://mnp.gov.py/centros-de-tratamiento-de-caaguazu-avanzan-en-la-implementacion-de-recomendaciones-del-mnp/",
       "url": "https://mnp.gov.py/centros-de-tratamiento-de-caaguazu-avanzan-en-la-implementacion-de-recomendaciones-del-mnp/",
       "title": "Centros de tratamiento de Caaguazú avanzan en aplicación de recomendaciones del MNP",
@@ -186,7 +198,7 @@
     {
       "id": "https://www.defensoria.gob.pe/la-defensoria-del-pueblo-saluda-la-proclamacion-de-resultados-de-la-segunda-eleccion-de-la-formula-presidencial-que-reconoce-como-primera-mujer-elegida-como-presidente-constitucional-de-la-republica-d/",
       "url": "https://www.defensoria.gob.pe/la-defensoria-del-pueblo-saluda-la-proclamacion-de-resultados-de-la-segunda-eleccion-de-la-formula-presidencial-que-reconoce-como-primera-mujer-elegida-como-presidente-constitucional-de-la-republica-d/",
-      "title": "La Defensoría del Pueblo saluda la proclamación de resultados de la segunda elección de la fórmula presidencial que reconoce como primera mujer elegida como presidente constitucional de la República después de más de doscientos años de República",
+      "title": "Defensoría del Pueblo saluda la proclamación de resultados de la segunda elección de la fórmula presidencial que reconoce como primera mujer elegida como presidente constitucional de la República después de más de doscientos años de República",
       "summary": "Defensoría del Pueblo del Perú (Perú)",
       "date_published": "2026-07-03T00:00:00",
       "tags": [
@@ -205,6 +217,18 @@
         "Perú",
         "Sudamérica",
         "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Comunicado-041-2026.pdf",
+      "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Comunicado-041-2026.pdf",
+      "title": "Comunicado n.° 041/DP/2026",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-03T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "pronunciamientos"
       ]
     },
     {
@@ -340,18 +364,6 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7212205659142843610",
-      "url": "",
-      "title": "Noticias 2 de julio de 2026 Defensoría del Pueblo brinda acompañamiento para garantizar el acceso a servicios de salud especializados La Dirección Gen",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-02T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-reafirma-que-la-institucion-actua-con-independencia-constitucional-y-sin-atribuciones-coercitivas-en-contextos-de-conflictividad",
       "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-reafirma-que-la-institucion-actua-con-independencia-constitucional-y-sin-atribuciones-coercitivas-en-contextos-de-conflictividad",
       "title": "Defensor del Pueblo reafirma que la institución actúa con independencia constitucional y sin atribuciones coercitivas en contextos de conflictividad",
@@ -376,7 +388,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1186881338291639750",
+      "id": "urn:defensorias:-5477334656900925506",
       "url": "",
       "title": "Defensoria Pública inaugura posto de representação na Câmara Municipal de São Paulo",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -388,7 +400,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6543256808715125867",
+      "id": "urn:defensorias:4277447593834886856",
       "url": "",
       "title": "Defensoria intervém em ação sobre casarão histórico em assentamento de Araraquara e nova audiência de conciliação é marcada para 3 de julho",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -400,7 +412,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1364964801374694192",
+      "id": "urn:defensorias:1122729806039843935",
       "url": "",
       "title": "Defensoria Pública de SP abre inscrições para mutirão nacional Meu Pai Tem Nome",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -412,7 +424,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3791706336845197912",
+      "id": "urn:defensorias:2391176944615573034",
       "url": "",
       "title": "Defensoria Pública dá continuidade no circuito itinerante DáPraResolver em Osasco",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -539,30 +551,6 @@
       "date_published": "2026-07-01T00:00:00",
       "tags": [
         "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:8357055105741289663",
-      "url": "",
-      "title": "Noticias 1 de julio de 2026 La Defensoría del Pueblo inauguró oficina de la Delegación en Villa Hayes La Defensoría del Pueblo inauguró oficialmente l",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-01T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:500318424186715819",
-      "url": "",
-      "title": "Noticias 1 de julio de 2026 La Defensoría del Pueblo fortalece su rol regional ante emergencias ambientales Como miembro del Comité de Coordinación de",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-01T00:00:00",
-      "tags": [
-        "Paraguay",
         "Sudamérica",
         "noticias"
       ]
@@ -904,18 +892,6 @@
       ]
     },
     {
-      "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/strong-and-democratic-canada-depends-human-rights",
-      "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/strong-and-democratic-canada-depends-human-rights",
-      "title": "A strong and democratic Canada depends on human rights",
-      "summary": "Canadian Human Rights Commission (Canadá)",
-      "date_published": "2026-06-29T00:00:00",
-      "tags": [
-        "Canadá",
-        "Norteamérica",
-        "newsroom"
-      ]
-    },
-    {
       "id": "https://www.rindhca.org/instituciones-nacionales-de-derechos-humanos-avanzan-en-la-construccion-de-una-guia-regional-sobre-emergencias-ambientales/",
       "url": "https://www.rindhca.org/instituciones-nacionales-de-derechos-humanos-avanzan-en-la-construccion-de-una-guia-regional-sobre-emergencias-ambientales/",
       "title": "Instituciones Nacionales de Derechos Humanos avanzan en la construcción de una guía regional sobre emergencias ambientales",
@@ -984,18 +960,6 @@
       "tags": [
         "Venezuela",
         "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensordelpueblo.gob.do/2026/06/28/defensor-del-pueblo-llama-a-dialogo-institucional-sobre-codigo-penal-y-libertad-de-expresion/",
-      "url": "https://defensordelpueblo.gob.do/2026/06/28/defensor-del-pueblo-llama-a-dialogo-institucional-sobre-codigo-penal-y-libertad-de-expresion/",
-      "title": "Defensor del Pueblo llama a diálogo institucional sobre Código Penal y libertad de expresión",
-      "summary": "Defensor del Pueblo de la República Dominicana (República Dominicana)",
-      "date_published": "2026-06-28T00:00:00",
-      "tags": [
-        "República Dominicana",
-        "Caribe",
         "noticias"
       ]
     },
@@ -1156,7 +1120,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8784622850776114570",
+      "id": "urn:defensorias:1760646715435744280",
       "url": "",
       "title": "Comunidade de São Bernardo homenageia atuação da Defensoria Pública em processo de regularização fundiária",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1168,22 +1132,10 @@
       ]
     },
     {
-      "id": "urn:defensorias:6544092808279468143",
+      "id": "urn:defensorias:721152626056583960",
       "url": "",
       "title": "Núcleos da Defensoria Pública de SP acompanham caso de violência institucional em escola da Zona Oeste",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
-      "date_published": "2026-06-25T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/06/25/defensoria-publica-abre-processos-seletivos-para-residencia-juridica-e-estagio-em-sao-gabriel-da-cachoeira/",
-      "url": "https://defensoria.am.def.br/2026/06/25/defensoria-publica-abre-processos-seletivos-para-residencia-juridica-e-estagio-em-sao-gabriel-da-cachoeira/",
-      "title": "Defensoria Pública abre processos seletivos para residência jurídica e estágio em São Gabriel da Cachoeira",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-06-25T00:00:00",
       "tags": [
         "Brasil",
@@ -1201,6 +1153,54 @@
         "Chile",
         "Sudamérica",
         "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-con-derechos-shane-cienfuegos/",
+      "url": "https://www.indh.cl/indh-con-derechos-shane-cienfuegos/",
+      "title": "Shane Cienfuegos, activista por los derechos de las disidencias sexuales: “Chile ha avanzado mucho en materias sociales, pero el aparato público se está quedando atrás”",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-06-25T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/elecciones-generales-2026-paridad-y-alternancia-en-listas-aun-no-garantizan-una-representacion-igualitaria-en-el-congreso-y-parlamento-andino/",
+      "url": "https://www.defensoria.gob.pe/elecciones-generales-2026-paridad-y-alternancia-en-listas-aun-no-garantizan-una-representacion-igualitaria-en-el-congreso-y-parlamento-andino/",
+      "title": "Elecciones Generales 2026: paridad y alternancia en listas aún no garantizan una representación igualitaria en el Congreso y Parlamento Andino",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-06-25T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-y-la-direccion-de-investigacion-de-lavado-de-activos-y-extincion-de-dominio-de-la-policia-nacional-del-peru-se-reunen-a-fin-de-fortalecer-la-labor-de-la-policia-en-sus-actuacione/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-y-la-direccion-de-investigacion-de-lavado-de-activos-y-extincion-de-dominio-de-la-policia-nacional-del-peru-se-reunen-a-fin-de-fortalecer-la-labor-de-la-policia-en-sus-actuacione/",
+      "title": "Defensoría del Pueblo y la Dirección de Investigación de Lavado de Activos y Extinción de Dominio de la Policía Nacional del Perú se reúnen a fin de fortalecer la labor de la Policía en sus actuaciones con un enfoque de derechos humanos",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-06-25T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/116.asp&utm_term=class-dc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/116.asp&utm_term=class-dc",
+      "title": "116/26—75 years after its adoption, the Refugee Convention remains as critical as ever for the protection of refugee and asylum-seeker rights: UN, IACHR and regional human rights experts",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-06-25T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
       ]
     }
   ]
