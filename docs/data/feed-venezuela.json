@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.json",
   "items": [
     {
+      "id": "http://www.defensoria.gob.ve/?p=20095",
+      "url": "http://www.defensoria.gob.ve/?p=20095",
+      "title": "Defensoría del Pueblo articula medidas de protección para tres niños en situación de vulnerabilidad y riesgo de violencia",
+      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
+      "date_published": "2026-07-06T00:00:00",
+      "tags": [
+        "Venezuela",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "http://www.defensoria.gob.ve/?p=20053",
       "url": "http://www.defensoria.gob.ve/?p=20053",
       "title": "Defensoría del Pueblo se despliega en todo el territorio nacional para proteger los derechos fundamentales de las personas afectadas por el terremoto del 24 de junio",
@@ -45,18 +57,6 @@
       "title": "Derechos Humanos de refugiados y refugiadas están garantizados a pesar de haber huido de sus países de origen",
       "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
       "date_published": "2026-06-23T00:00:00",
-      "tags": [
-        "Venezuela",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "http://www.defensoria.gob.ve/?p=19991",
-      "url": "http://www.defensoria.gob.ve/?p=19991",
-      "title": "Defensoría del Pueblo se suma al “Plan AMA” para fortalecer la protección de personas adultas mayores",
-      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
-      "date_published": "2026-06-22T00:00:00",
       "tags": [
         "Venezuela",
         "Sudamérica",

@@ -4,11 +4,71 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4186/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4186/",
+      "title": "Defensoria Pública de Pernambuco prestigia homenagem à defensora Leda Pessoa",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-07-06T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/06/projeto-nosso-coracao-tambem-e-azul-abre-processo-seletivo-para-residencia-juridica-voltado-a-pessoas-autistas/",
+      "url": "https://defensoria.am.def.br/2026/07/06/projeto-nosso-coracao-tambem-e-azul-abre-processo-seletivo-para-residencia-juridica-voltado-a-pessoas-autistas/",
+      "title": "Projeto “Nosso Coração também é Azul” abre processo seletivo para residência jurídica voltado a pessoas autistas",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-06T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/06/agendamentos-para-o-mutirao-previdenciario-da-defensoria-em-sao-gabriel-da-cachoeira-seguem-ate-esta-sexta-feira-10-07/",
+      "url": "https://defensoria.am.def.br/2026/07/06/agendamentos-para-o-mutirao-previdenciario-da-defensoria-em-sao-gabriel-da-cachoeira-seguem-ate-esta-sexta-feira-10-07/",
+      "title": "Agendamentos para o Mutirão Previdenciário da Defensoria em São Gabriel da Cachoeira seguem até esta sexta-feira (10/07)",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-06T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/06/apos-seis-meses-sem-agua-familia-consegue-restabelecimento-do-servico-com-apoio-da-defensoria-do-amazonas/",
+      "url": "https://defensoria.am.def.br/2026/07/06/apos-seis-meses-sem-agua-familia-consegue-restabelecimento-do-servico-com-apoio-da-defensoria-do-amazonas/",
+      "title": "Após seis meses sem água, família consegue restabelecimento do serviço com apoio da Defensoria do Amazonas",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-06T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.am.def.br/2026/07/05/em-manaus-mais-de-300-candidatos-participam-de-prova-para-selecao-de-estagio-da-defensoria-do-amazonas/",
       "url": "https://defensoria.am.def.br/2026/07/05/em-manaus-mais-de-300-candidatos-participam-de-prova-para-selecao-de-estagio-da-defensoria-do-amazonas/",
       "title": "Em Manaus, mais de 300 candidatos participam de prova para seleção de estágio da Defensoria do Amazonas",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-07-05T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32792-Defensoria-ministra-workshop-para-equipes-tecnicas-do-TJRJ-sobre-ECA-Digital",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32792-Defensoria-ministra-workshop-para-equipes-tecnicas-do-TJRJ-sobre-ECA-Digital",
+      "title": "Defensoria ministra workshop para equipes técnicas do TJRJ sobre ECA Digital",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-07-03T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",
@@ -160,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5477334656900925506",
+      "id": "urn:defensorias:-8896713120576238628",
       "url": "",
       "title": "Defensoria Pública inaugura posto de representação na Câmara Municipal de São Paulo",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -172,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4277447593834886856",
+      "id": "urn:defensorias:-7947823136595454622",
       "url": "",
       "title": "Defensoria intervém em ação sobre casarão histórico em assentamento de Araraquara e nova audiência de conciliação é marcada para 3 de julho",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -184,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1122729806039843935",
+      "id": "urn:defensorias:1021531155158977980",
       "url": "",
       "title": "Defensoria Pública de SP abre inscrições para mutirão nacional Meu Pai Tem Nome",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -196,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2391176944615573034",
+      "id": "urn:defensorias:8830955782378374247",
       "url": "",
       "title": "Defensoria Pública dá continuidade no circuito itinerante DáPraResolver em Osasco",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -388,43 +448,7 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/06/26/defensoria-do-amazonas-conquista-selo-prata-de-maturidade-digital-durante-congresso-nacional-de-tecnologia/",
-      "url": "https://defensoria.am.def.br/2026/06/26/defensoria-do-amazonas-conquista-selo-prata-de-maturidade-digital-durante-congresso-nacional-de-tecnologia/",
-      "title": "Defensoria conquista Selo Prata de Maturidade Digital durante congresso nacional de tecnologia",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-06-26T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/06/26/defensoria-integra-fiscalizacao-em-instituicao-de-longa-permanencia-para-idosos-na-zona-centro-sul/",
-      "url": "https://defensoria.am.def.br/2026/06/26/defensoria-integra-fiscalizacao-em-instituicao-de-longa-permanencia-para-idosos-na-zona-centro-sul/",
-      "title": "Defensoria integra fiscalização em instituição de longa permanência para idosos",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-06-26T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/06/26/agendamentos-para-mutirao-previdenciario-em-sao-gabriel-da-cachoeira-comecam-nesta-terca-feira-30-06/",
-      "url": "https://defensoria.am.def.br/2026/06/26/agendamentos-para-mutirao-previdenciario-em-sao-gabriel-da-cachoeira-comecam-nesta-terca-feira-30-06/",
-      "title": "Agendamentos para Mutirão Previdenciário em São Gabriel da Cachoeira começam nesta terça-feira (30/06)",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-06-26T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:1760646715435744280",
+      "id": "urn:defensorias:2461022825829555090",
       "url": "",
       "title": "Comunidade de São Bernardo homenageia atuação da Defensoria Pública em processo de regularização fundiária",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -436,7 +460,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:721152626056583960",
+      "id": "urn:defensorias:-2909097419857950264",
       "url": "",
       "title": "Núcleos da Defensoria Pública de SP acompanham caso de violência institucional em escola da Zona Oeste",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -448,7 +472,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:160099384269070242",
+      "id": "urn:defensorias:-1978144044405403071",
       "url": "",
       "title": "Mais de 15 mil famílias na capital paulista são beneficiadas após criação do Observatório das Comunidades pela Defensoria paulista",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -460,7 +484,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4056096886227476090",
+      "id": "urn:defensorias:1906630705578826808",
       "url": "",
       "title": "Justiça autoriza registro de bebê com duas mães após ação da Defensoria em Campinas",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -532,18 +556,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4171/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4171/",
-      "title": "Defensoria Pública de Pernambuco conclui formação de novos defensores públicos",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-06-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.rj.def.br/noticia/detalhes/32746-Defensoria-Publica-e-INSS-promovem-acao-social-na-Central-do-Brasil-nesta-sexta-feira",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32746-Defensoria-Publica-e-INSS-promovem-acao-social-na-Central-do-Brasil-nesta-sexta-feira",
       "title": "Defensoria Pública e INSS promovem ação social na Central do Brasil nesta sexta-feira",
@@ -571,18 +583,6 @@
       "id": "https://defensoria.rj.def.br/noticia/detalhes/32743-Defensoria-do-Rio-articula-retirada-de-enunciados-prejudiciais-aos-usuarios-do-SUS-em-evento-do-CNJ",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32743-Defensoria-do-Rio-articula-retirada-de-enunciados-prejudiciais-aos-usuarios-do-SUS-em-evento-do-CNJ",
       "title": "Defensoria do Rio articula retirada de enunciados prejudiciais aos usuários do SUS em evento do CNJ",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-06-17T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32742-DPRJ-obtem-decisao-que-pede-apresentacao-de-plano-da-DEAM-de-Petropolis-e-aplica-multa-ao-Estado",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32742-DPRJ-obtem-decisao-que-pede-apresentacao-de-plano-da-DEAM-de-Petropolis-e-aplica-multa-ao-Estado",
-      "title": "DPRJ obtém decisão que pede apresentação de plano da DEAM de Petrópolis e aplica multa ao Estado",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-06-17T00:00:00",
       "tags": [
