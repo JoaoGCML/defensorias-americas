@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Argentina</title>
   <id>urn:defensorias-americas:prensa:argentina</id>
-  <updated>2026-07-07T10:27:15Z</updated>
+  <updated>2026-07-08T09:26:45Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-argentina.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>CAPACITACIÓN SOBRE AMPAROS DE SALUD Y MEDIDAS CAUTELARES EN BARILOCHE</title>
+    <id>https://www.mpd.gov.ar/index.php/noticias-h/capacitacion-sobre-amparos-de-salud-y-medidas-cautelares-en-bariloche</id>
+    <link href="https://www.mpd.gov.ar/index.php/noticias-h/capacitacion-sobre-amparos-de-salud-y-medidas-cautelares-en-bariloche" />
+    <updated>2026-07-07T00:00:00</updated>
+    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
+  </entry>
   <entry>
     <title>CONCURSOS PARA CUBRIR CARGOS DE DEFENSOR PÚBLICO OFICIAL FEDERAL EN LAS CIUDADES DE SANTA ROSA Y MENDOZA</title>
     <id>https://www.mpd.gov.ar/index.php/noticias-h/concursos-para-cubrir-cargos-de-defensor-publico-oficial-federal-en-las-ciudades-de-santa-rosa-y-mendoza</id>

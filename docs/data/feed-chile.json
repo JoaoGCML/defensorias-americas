@@ -4,7 +4,55 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "urn:defensorias:5255865771553513048",
+      "id": "urn:defensorias:-2733934007295033099",
+      "url": "",
+      "title": "Sobre Senado en pleno que abordará modificaciones a la Ley ...",
+      "summary": "Defensoría de la Niñez (Chile)",
+      "date_published": "2026-07-07T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-antofagasta-dialogo-literatura/",
+      "url": "https://www.indh.cl/indh-antofagasta-dialogo-literatura/",
+      "title": "INDH Antofagasta, Corporación LGBT+LIBRE y la Biblioteca Regional promovieron diálogo sobre derechos humanos y diversidad a través de la literatura",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-07-07T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/director-indh-visita-antofagasta/",
+      "url": "https://www.indh.cl/director-indh-visita-antofagasta/",
+      "title": "Director del INDH visita la región de Antofagasta: derecho a la vivienda, a la salud y medioambiente fueron los ejes centrales",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-07-07T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/alicia-lira-premio-nacional-2026/",
+      "url": "https://www.indh.cl/alicia-lira-premio-nacional-2026/",
+      "title": "Más de 50 años por la defensa de los derechos humanos: Alicia Lira Matus recibe Premio Nacional de Derechos Humanos 2026 por parte del INDH",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-07-07T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:8498937259119763194",
       "url": "",
       "title": "La Tercera | Columna de opinión: Legislar con la evidencia,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -84,31 +132,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/derechos-humanos-rindhca-comisionado-encuentro/",
-      "url": "https://www.indh.cl/derechos-humanos-rindhca-comisionado-encuentro/",
-      "title": "INDH, Red RINDHCA y el Alto Comisionado ONU para los Derechos Humanos realizaron encuentro sobre la protección de las personas en emergencias ambientales",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-06-25T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-con-derechos-shane-cienfuegos/",
-      "url": "https://www.indh.cl/indh-con-derechos-shane-cienfuegos/",
-      "title": "Shane Cienfuegos, activista por los derechos de las disidencias sexuales: “Chile ha avanzado mucho en materias sociales, pero el aparato público se está quedando atrás”",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-06-25T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -136,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7438792057352819913",
+      "id": "urn:defensorias:5586687936001115461",
       "url": "",
       "title": "TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5594590858366941245",
+      "id": "urn:defensorias:-5756385786907546472",
       "url": "",
       "title": "La Tercera | Quesille llama a no adelantarse a “imputar”...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8633214611238268558",
+      "id": "urn:defensorias:3390878683400805222",
       "url": "",
       "title": "Radio Cooperativa | Caso de menores haitianos: Defensoría de la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:9035085464596909710",
+      "id": "urn:defensorias:-743675778008194122",
       "url": "",
       "title": "EMOL | Caso niños haitianos: Los oficios en que la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,31 +220,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-maule-campana-concurso-literario/",
-      "url": "https://www.indh.cl/indh-maule-campana-concurso-literario/",
-      "title": "INDH Maule despliega intensa campaña regional para promover la tercera versión del concurso literario “Tus derechos en breves palabras”",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-06-16T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-los-rios-seminario-corrupcion/",
-      "url": "https://www.indh.cl/indh-los-rios-seminario-corrupcion/",
-      "title": "Jefa regional de INDH Los Ríos expuso en seminario sobre corrupción en el servicio público convocado por la Corte de Apelaciones de Valdivia",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-06-16T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:7777446208898698972",
+      "id": "urn:defensorias:-616993110334941217",
       "url": "",
       "title": "COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4141208143294751454",
+      "id": "urn:defensorias:-2275350831158471480",
       "url": "",
       "title": "La Voz de la región | Defensor de la Niñez...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5512886478020148630",
+      "id": "urn:defensorias:-4337136283164140468",
       "url": "",
       "title": "La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...",
       "summary": "Defensoría de la Niñez (Chile)",
