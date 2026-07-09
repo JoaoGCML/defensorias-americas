@@ -4,7 +4,91 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
-      "id": "urn:defensorias:-9118810661494579859",
+      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-de-licitacao-coffee-break",
+      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-de-licitacao-coffee-break",
+      "title": "AVISO DE DISPENSA DIRETA DE LICITAÇÃO - coffee break",
+      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
+      "date_published": "2026-07-10T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4190/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4190/",
+      "title": "Defensoria Pública de Pernambuco fortalece política de mediação e conciliação e inicia expansão das centrais para o interior",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-07-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4189/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4189/",
+      "title": "Defensoria Pública de Pernambuco leva atendimento jurídico ao CinPop",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-07-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/08/defensoria-realiza-inspecao-carceraria-nos-municipios-de-caapiranga-e-fonte-boa-e-avalia-condicoes-estruturais-dos-espacos/",
+      "url": "https://defensoria.am.def.br/2026/07/08/defensoria-realiza-inspecao-carceraria-nos-municipios-de-caapiranga-e-fonte-boa-e-avalia-condicoes-estruturais-dos-espacos/",
+      "title": "Defensoria realiza inspeção carcerária nos municípios de Caapiranga e Fonte Boa e avalia condições estruturais dos espaços",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/08/defensoria-promove-audiencia-publica-para-definir-processo-de-regularizacao-dos-comerciantes-do-prosamim-alvorada/",
+      "url": "https://defensoria.am.def.br/2026/07/08/defensoria-promove-audiencia-publica-para-definir-processo-de-regularizacao-dos-comerciantes-do-prosamim-alvorada/",
+      "title": "Defensoria promove audiência pública para definir processo de regularização dos comerciantes do Prosamim Alvorada",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/08/em-itacoatiara-defensoria-realiza-inspecao-em-delegacia-e-assegura-direitos-dos-custodiados/",
+      "url": "https://defensoria.am.def.br/2026/07/08/em-itacoatiara-defensoria-realiza-inspecao-em-delegacia-e-assegura-direitos-dos-custodiados/",
+      "title": "Em Itacoatiara, Defensoria Pública do Amazonas realiza inspeção em delegacia e assegura direitos dos custodiados",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/dpe-rs-promove-roda-de-conversa-sobre-racismo-religioso-em-escola-na-lomba-do-pinheiro-em-porto-alegre",
+      "url": "https://www.defensoria.rs.def.br/dpe-rs-promove-roda-de-conversa-sobre-racismo-religioso-em-escola-na-lomba-do-pinheiro-em-porto-alegre",
+      "title": "DPE/RS promove roda de conversa sobre racismo religioso em escola na Lomba do Pinheiro, em Porto Alegre",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-07-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-6275512655228644271",
       "url": "",
       "title": "Defensoria Pública firma acordo em audiência sobre preservação do Casarão da Fazenda Bela Vista, em Araraquara",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -16,7 +100,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4172691369435992904",
+      "id": "urn:defensorias:4474956084325760197",
       "url": "",
       "title": "Defensoria obtém decisão que afasta cobrança de R$ 165 mil baseada em documentos internos de banco",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -66,7 +150,7 @@
     {
       "id": "https://defensoria.am.def.br/2026/07/07/defensoria-publica-realiza-acao-de-atendimentos-em-caapiranga-ate-sexta-feira-10-07/",
       "url": "https://defensoria.am.def.br/2026/07/07/defensoria-publica-realiza-acao-de-atendimentos-em-caapiranga-ate-sexta-feira-10-07/",
-      "title": "Defensoria Pública do Amazonas realiza ação de atendimentos jurídicos gratuitos em Caapiranga até sexta-feira (10/07)",
+      "title": "Defensoria Pública do Amazonas realiza ação de atendimentos jurídicos gratuitos em Caapiranga até sexta-feira",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-07-07T00:00:00",
       "tags": [
@@ -117,6 +201,18 @@
       "title": "Defensoria Pública reforça frota de veículos com recursos do FUNRIGS",
       "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
       "date_published": "2026-07-07T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32796-Defensoria-Publica-realiza-campanha-com-exame-de-DNA-gratuito-em-Sao-Januario",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32796-Defensoria-Publica-realiza-campanha-com-exame-de-DNA-gratuito-em-Sao-Januario",
+      "title": "Defensoria Pública realiza campanha com exame de DNA gratuito em São Januário",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-07-06T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",
@@ -376,7 +472,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5181288736413967853",
+      "id": "urn:defensorias:-4100993257236862137",
       "url": "",
       "title": "Defensoria Pública inaugura posto de representação na Câmara Municipal de São Paulo",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -388,7 +484,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4917243217316341739",
+      "id": "urn:defensorias:7210823531294962478",
       "url": "",
       "title": "Defensoria intervém em ação sobre casarão histórico em assentamento de Araraquara e nova audiência de conciliação é marcada para 3 de julho",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -400,7 +496,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6948250742864727603",
+      "id": "urn:defensorias:-5378376837553328367",
       "url": "",
       "title": "Defensoria Pública de SP abre inscrições para mutirão nacional Meu Pai Tem Nome",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -412,7 +508,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5566265631585239452",
+      "id": "urn:defensorias:-2386684589325904901",
       "url": "",
       "title": "Defensoria Pública dá continuidade no circuito itinerante DáPraResolver em Osasco",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -427,30 +523,6 @@
       "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4178/",
       "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4178/",
       "title": "Defensoria Pública de Pernambuco abre inscrições para casamento coletivo no Recife",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-07-01T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4176/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4176/",
-      "title": "DPPE reforça a importância de combater a adultização precoce e proteger a infância",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-07-01T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4175/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4175/",
-      "title": "Pessoa com deficiência: saiba como a Defensoria Pública de Pernambuco pode ajudar",
       "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
       "date_published": "2026-07-01T00:00:00",
       "tags": [
@@ -484,54 +556,6 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/07/01/junho-violeta-defensoria-realiza-cursos-de-enfrentamento-a-violencia-contra-a-pessoa-idosa-no-encerramento-da-campanha-nacional/",
-      "url": "https://defensoria.am.def.br/2026/07/01/junho-violeta-defensoria-realiza-cursos-de-enfrentamento-a-violencia-contra-a-pessoa-idosa-no-encerramento-da-campanha-nacional/",
-      "title": "Junho Violeta: Defensoria realiza cursos de enfrentamento à violência contra a pessoa idosa no encerramento da campanha nacional",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-01T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/07/01/na-camara-dos-deputados-defensoria-do-amazonas-cobra-compromisso-da-ambar-energia-com-cronograma-publico-e-prestacao-de-contas/",
-      "url": "https://defensoria.am.def.br/2026/07/01/na-camara-dos-deputados-defensoria-do-amazonas-cobra-compromisso-da-ambar-energia-com-cronograma-publico-e-prestacao-de-contas/",
-      "title": "Na Câmara dos Deputados, Defensoria do Amazonas cobra compromisso da Âmbar Energia com cronograma público e prestação de contas",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-01T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/07/01/defensor-publico-geral-do-amazonas-participa-de-reuniao-do-gt-do-cnj-representando-o-condege/",
-      "url": "https://defensoria.am.def.br/2026/07/01/defensor-publico-geral-do-amazonas-participa-de-reuniao-do-gt-do-cnj-representando-o-condege/",
-      "title": "Defensor público-geral do Amazonas participa de reunião do GT do CNJ, representando o Condege",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-01T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.rs.def.br/defensoria-publica-do-rs-conquista-selo-diamante-em-maturidade-digital",
-      "url": "https://www.defensoria.rs.def.br/defensoria-publica-do-rs-conquista-selo-diamante-em-maturidade-digital",
-      "title": "Defensoria Pública do RS conquista Selo Diamante em Maturidade Digital",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
-      "date_published": "2026-06-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.rj.def.br/noticia/detalhes/32772-DPRJ-conquista-tres-premios-nacionais-em-tecnologia-e-inovacao",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32772-DPRJ-conquista-tres-premios-nacionais-em-tecnologia-e-inovacao",
       "title": "DPRJ conquista três prêmios nacionais em tecnologia e inovação",
@@ -544,7 +568,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4419411801301376120",
+      "id": "urn:defensorias:-2668199882948311357",
       "url": "",
       "title": "Comunidade de São Bernardo homenageia atuação da Defensoria Pública em processo de regularização fundiária",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -556,7 +580,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:9207360900315352105",
+      "id": "urn:defensorias:7353669167071033761",
       "url": "",
       "title": "Núcleos da Defensoria Pública de SP acompanham caso de violência institucional em escola da Zona Oeste",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -621,18 +645,6 @@
       "title": "DPRJ participa de Encontro Estratégico sobre Direito de Família e Sucessões promovido pelo IBDFAM",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-06-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32746-Defensoria-Publica-e-INSS-promovem-acao-social-na-Central-do-Brasil-nesta-sexta-feira",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32746-Defensoria-Publica-e-INSS-promovem-acao-social-na-Central-do-Brasil-nesta-sexta-feira",
-      "title": "Defensoria Pública e INSS promovem ação social na Central do Brasil nesta sexta-feira",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-06-18T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",
