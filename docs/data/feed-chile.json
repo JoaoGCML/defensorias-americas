@@ -4,6 +4,42 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "urn:defensorias:-2427459090342518163",
+      "url": "",
+      "title": "Declaración pública de la Defensoría de la Niñez sobre el ...",
+      "summary": "Defensoría de la Niñez (Chile)",
+      "date_published": "2026-07-09T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-aysen-cuenta-publica-2025/",
+      "url": "https://www.indh.cl/indh-aysen-cuenta-publica-2025/",
+      "title": "INDH Aysén presentó su Cuenta Pública 2025 destacando acciones judiciales de protección y respuesta a más de 500 solicitudes de la ciudadanía",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-07-09T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-capacitaciones-carabineros-curico-talca/",
+      "url": "https://www.indh.cl/indh-capacitaciones-carabineros-curico-talca/",
+      "title": "INDH Maule realizó capacitaciones sobre derechos humanos a personal de Carabineros de Curicó y Talca",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-07-09T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-campana-personas-mayores/",
       "url": "https://www.indh.cl/indh-campana-personas-mayores/",
       "title": "Los derechos son fundamentales en todas las etapas de la vida: INDH RM lanzó campaña “Voces Mayores por sus Derechos”",
@@ -16,7 +52,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2522562775365057415",
+      "id": "urn:defensorias:6894266106758130524",
       "url": "",
       "title": "Sobre Senado en pleno que abordará modificaciones a la Ley ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -28,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-319181079710969575",
+      "id": "urn:defensorias:3541780220706033038",
       "url": "",
       "title": "La Tercera | Defensoría de la Niñez reúne a especialistas...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -76,7 +112,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-612636859790718627",
+      "id": "urn:defensorias:8914970275098437940",
       "url": "",
       "title": "La Tercera | Columna de opinión: Legislar con la evidencia,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -120,19 +156,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/juzgado-condena-interceptaciones-telefonicas/",
-      "url": "https://www.indh.cl/juzgado-condena-interceptaciones-telefonicas/",
-      "title": "Juzgado condena a ex director de Inteligencia del Ejército y a ex ministro de la Corte de Apelaciones por interceptaciones telefónicas ilegales",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-06-30T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -172,19 +196,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-maule-ciclo-de-reuniones-mapa-de-conflictos/",
-      "url": "https://www.indh.cl/indh-maule-ciclo-de-reuniones-mapa-de-conflictos/",
-      "title": "INDH Maule realizó ciclo de reuniones con agrupaciones medioambientales para actualizar el Mapa de Conflictos Socioambientales",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-06-22T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-9175345596601935604",
+      "id": "urn:defensorias:7724805203837562693",
       "url": "",
       "title": "TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,19 +208,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-ohiggins-exhibicion/",
-      "url": "https://www.indh.cl/indh-ohiggins-exhibicion/",
-      "title": "INDH de O’Higgins realizará exhibición de “La misteriosa mirada del Flamenco” en la UOH y en la cárcel de Rancagua, en el marco del Día del Orgullo LGBTIQA+",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-06-18T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-4453902589285567708",
+      "id": "urn:defensorias:-514490613465255509",
       "url": "",
       "title": "La Tercera | Quesille llama a no adelantarse a “imputar”...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3057773612379162372",
+      "id": "urn:defensorias:-7836288847388224474",
       "url": "",
       "title": "Radio Cooperativa | Caso de menores haitianos: Defensoría de la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5761263007013312458",
+      "id": "urn:defensorias:7512092877669430634",
       "url": "",
       "title": "EMOL | Caso niños haitianos: Los oficios en que la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1464460912566251460",
+      "id": "urn:defensorias:-1136510389696509644",
       "url": "",
       "title": "COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,23 +256,11 @@
       ]
     },
     {
-      "id": "urn:defensorias:8843296904069312",
+      "id": "urn:defensorias:3218791038223525240",
       "url": "",
       "title": "La Voz de la región | Defensor de la Niñez...",
       "summary": "Defensoría de la Niñez (Chile)",
       "date_published": "2026-06-12T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-4788513163720860515",
-      "url": "",
-      "title": "La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-06-10T00:00:00",
       "tags": [
         "Chile",
         "Sudamérica",

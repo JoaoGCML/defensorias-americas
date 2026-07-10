@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Uruguay</title>
   <id>urn:defensorias-americas:prensa:uruguay</id>
-  <updated>2026-07-09T10:31:46Z</updated>
+  <updated>2026-07-10T10:25:02Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -17,6 +17,13 @@
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-recibio-relatora-del-grupo-trabajo-sobre-empresas-derechos-humanos</id>
     <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-recibio-relatora-del-grupo-trabajo-sobre-empresas-derechos-humanos" />
     <updated>2026-07-04T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
+  </entry>
+  <entry>
+    <title>La INDDHH compareció ante el Parlamento por proyectos de ley sobre trabajo sexual</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-comparecio-ante-parlamento-proyectos-ley-sobre-trabajo-sexual</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-comparecio-ante-parlamento-proyectos-ley-sobre-trabajo-sexual" />
+    <updated>2026-07-01T00:00:00</updated>
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>
   <entry>
@@ -66,13 +73,6 @@
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/actividad-dia-mundial-toma-conciencia-del-abuso-maltrato-vejez</id>
     <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/actividad-dia-mundial-toma-conciencia-del-abuso-maltrato-vejez" />
     <updated>2026-06-16T00:00:00</updated>
-    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Muestra fotográfica sobre adolescentes y privación de libertad llegó a Facultad de Ciencias Sociales</title>
-    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/muestra-fotografica-sobre-adolescentes-privacion-libertad-llego-facultad</id>
-    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/muestra-fotografica-sobre-adolescentes-privacion-libertad-llego-facultad" />
-    <updated>2026-06-15T00:00:00</updated>
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>
 </feed>

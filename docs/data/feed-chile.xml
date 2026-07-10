@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-07-09T10:31:46Z</updated>
+  <updated>2026-07-10T10:25:02Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Declaración pública de la Defensoría de la Niñez sobre el ...</title>
+    <id>urn:defensorias-americas:-2427459090342518163</id>
+    <updated>2026-07-09T00:00:00</updated>
+    <summary>Defensoría de la Niñez (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>INDH Aysén presentó su Cuenta Pública 2025 destacando acciones judiciales de protección y respuesta a más de 500 solicitudes de la ciudadanía</title>
+    <id>https://www.indh.cl/indh-aysen-cuenta-publica-2025/</id>
+    <link href="https://www.indh.cl/indh-aysen-cuenta-publica-2025/" />
+    <updated>2026-07-09T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>INDH Maule realizó capacitaciones sobre derechos humanos a personal de Carabineros de Curicó y Talca</title>
+    <id>https://www.indh.cl/indh-capacitaciones-carabineros-curico-talca/</id>
+    <link href="https://www.indh.cl/indh-capacitaciones-carabineros-curico-talca/" />
+    <updated>2026-07-09T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
   <entry>
     <title>Los derechos son fundamentales en todas las etapas de la vida: INDH RM lanzó campaña “Voces Mayores por sus Derechos”</title>
     <id>https://www.indh.cl/indh-campana-personas-mayores/</id>
@@ -14,13 +34,13 @@
   </entry>
   <entry>
     <title>Sobre Senado en pleno que abordará modificaciones a la Ley ...</title>
-    <id>urn:defensorias-americas:-2522562775365057415</id>
+    <id>urn:defensorias-americas:6894266106758130524</id>
     <updated>2026-07-07T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>La Tercera | Defensoría de la Niñez reúne a especialistas...</title>
-    <id>urn:defensorias-americas:-319181079710969575</id>
+    <id>urn:defensorias-americas:3541780220706033038</id>
     <updated>2026-07-07T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -47,7 +67,7 @@
   </entry>
   <entry>
     <title>La Tercera | Columna de opinión: Legislar con la evidencia,...</title>
-    <id>urn:defensorias-americas:-612636859790718627</id>
+    <id>urn:defensorias-americas:8914970275098437940</id>
     <updated>2026-07-06T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -70,14 +90,7 @@
     <id>https://www.indh.cl/indh-atacama-debate-prevencion-tortura/</id>
     <link href="https://www.indh.cl/indh-atacama-debate-prevencion-tortura/" />
     <updated>2026-07-01T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Juzgado condena a ex director de Inteligencia del Ejército y a ex ministro de la Corte de Apelaciones por interceptaciones telefónicas ilegales</title>
-    <id>https://www.indh.cl/juzgado-condena-interceptaciones-telefonicas/</id>
-    <link href="https://www.indh.cl/juzgado-condena-interceptaciones-telefonicas/" />
-    <updated>2026-06-30T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>Corte de Apelaciones acoge recurso del INDH y ordena solución definitiva para Escuela Ann Sullivan de Valdivia</title>
@@ -101,59 +114,39 @@
     <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
-    <title>INDH Maule realizó ciclo de reuniones con agrupaciones medioambientales para actualizar el Mapa de Conflictos Socioambientales</title>
-    <id>https://www.indh.cl/indh-maule-ciclo-de-reuniones-mapa-de-conflictos/</id>
-    <link href="https://www.indh.cl/indh-maule-ciclo-de-reuniones-mapa-de-conflictos/" />
-    <updated>2026-06-22T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
     <title>TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:-9175345596601935604</id>
+    <id>urn:defensorias-americas:7724805203837562693</id>
     <updated>2026-06-21T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
-    <title>INDH de O’Higgins realizará exhibición de “La misteriosa mirada del Flamenco” en la UOH y en la cárcel de Rancagua, en el marco del Día del Orgullo LGBTIQA+</title>
-    <id>https://www.indh.cl/indh-ohiggins-exhibicion/</id>
-    <link href="https://www.indh.cl/indh-ohiggins-exhibicion/" />
-    <updated>2026-06-18T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
     <title>La Tercera | Quesille llama a no adelantarse a “imputar”...</title>
-    <id>urn:defensorias-americas:-4453902589285567708</id>
+    <id>urn:defensorias-americas:-514490613465255509</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio Cooperativa | Caso de menores haitianos: Defensoría de la...</title>
-    <id>urn:defensorias-americas:3057773612379162372</id>
+    <id>urn:defensorias-americas:-7836288847388224474</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>EMOL | Caso niños haitianos: Los oficios en que la...</title>
-    <id>urn:defensorias-americas:5761263007013312458</id>
+    <id>urn:defensorias-americas:7512092877669430634</id>
     <updated>2026-06-16T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>COMUNICADO DE PRENSA | Más de 250 adolescentes de distintas...</title>
-    <id>urn:defensorias-americas:-1464460912566251460</id>
+    <id>urn:defensorias-americas:-1136510389696509644</id>
     <updated>2026-06-12T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>La Voz de la región | Defensor de la Niñez...</title>
-    <id>urn:defensorias-americas:8843296904069312</id>
+    <id>urn:defensorias-americas:3218791038223525240</id>
     <updated>2026-06-12T00:00:00</updated>
-    <summary>Defensoría de la Niñez (Chile) — prensa</summary>
-  </entry>
-  <entry>
-    <title>La Tercera | Defensor de la Niñez, Anuar Quesille: Indulto...</title>
-    <id>urn:defensorias-americas:-4788513163720860515</id>
-    <updated>2026-06-10T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
 </feed>
