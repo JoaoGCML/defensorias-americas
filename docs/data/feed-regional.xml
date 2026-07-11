@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Regional</title>
   <id>urn:defensorias-americas:prensa:regional</id>
-  <updated>2026-07-10T10:25:02Z</updated>
+  <updated>2026-07-11T08:48:58Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>124/26—CIDH publica informe de fondo sobre persecución contra integrantes de Cubalex</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/124.asp&amp;utm_content=country-cub&amp;utm_term=class-ifp</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/124.asp&amp;utm_content=country-cub&amp;utm_term=class-ifp" />
+    <updated>2026-07-10T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>Comunicado del Comité de Coordinación de la RINDHCA 05/2026. Ataques, cuestionamientos y anuncios de denuncia penal contra el   Defensor del Pueblo del Estado Plurinacional de Bolivia</title>
     <id>https://www.rindhca.org/comunicado-del-comite-de-coordinacion-de-la-rindhca-05-2026-ataques-cuestionamientos-y-anuncios-de-denuncia-penal-contra-el-defensor-del-pueblo-del-estado-plurinacional-de-bolivia/</id>
@@ -111,24 +118,10 @@
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
   <entry>
-    <title>111/26—CIDH reafirma el derecho fundamental a solicitar y recibir asilo</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/111.asp&amp;utm_term=class-ef</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/111.asp&amp;utm_term=class-ef" />
-    <updated>2026-06-19T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
     <title>RINDHCA participa en el V Congreso Iberoamericano sobre inclusión, educación y vulnerabilidad social</title>
     <id>https://www.rindhca.org/rindhca-participa-en-el-v-congreso-iberoamericano-sobre-inclusion-educacion-y-vulnerabilidad-social/</id>
     <link href="https://www.rindhca.org/rindhca-participa-en-el-v-congreso-iberoamericano-sobre-inclusion-educacion-y-vulnerabilidad-social/" />
     <updated>2026-06-12T00:00:00</updated>
-    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
-  </entry>
-  <entry>
-    <title>RINDHCA impulsa diálogo regional sobre el valor estratégico de la información generada por las INDH en materia de empresas y derechos humanos</title>
-    <id>https://www.rindhca.org/rindhca-impulsa-dialogo-regional-sobre-el-valor-estrategico-de-la-informacion-generada-por-las-indh-en-materia-de-empresas-y-derechos-humanos/</id>
-    <link href="https://www.rindhca.org/rindhca-impulsa-dialogo-regional-sobre-el-valor-estrategico-de-la-informacion-generada-por-las-indh-en-materia-de-empresas-y-derechos-humanos/" />
-    <updated>2026-06-11T00:00:00</updated>
     <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
   </entry>
 </feed>
