@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Uruguay</title>
   <id>urn:defensorias-americas:prensa:uruguay</id>
-  <updated>2026-07-13T10:28:34Z</updated>
+  <updated>2026-07-14T09:06:01Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Irregularidades en residencial de personas mayores genera alarma</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/comunicados/irregularidades-residencial-personas-mayores-genera-alarma</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/comunicados/irregularidades-residencial-personas-mayores-genera-alarma" />
+    <updated>2026-07-13T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — comunicados</summary>
+  </entry>
   <entry>
     <title>INDDHH inicia tareas del grupo de trabajo sobre salud mental y derechos humanos</title>
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-inicia-tareas-del-grupo-trabajo-sobre-salud-mental-derechos-humanos</id>
@@ -24,6 +31,13 @@
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-recibio-relatora-del-grupo-trabajo-sobre-empresas-derechos-humanos</id>
     <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-recibio-relatora-del-grupo-trabajo-sobre-empresas-derechos-humanos" />
     <updated>2026-07-04T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
+  </entry>
+  <entry>
+    <title>La INDDHH visita el barrio Cañitas</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-visita-barrio-canitas</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-visita-barrio-canitas" />
+    <updated>2026-07-03T00:00:00</updated>
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>
   <entry>
@@ -66,13 +80,6 @@
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/avances-perspectivas-del-repositorio-luisa-cuesta</id>
     <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/avances-perspectivas-del-repositorio-luisa-cuesta" />
     <updated>2026-06-24T00:00:00</updated>
-    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
-  </entry>
-  <entry>
-    <title>INDDHH, MEC y Udelar firman convenio para fortalecer la preservación y el acceso a archivos</title>
-    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-mec-udelar-firman-convenio-para-fortalecer-preservacion-acceso</id>
-    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-mec-udelar-firman-convenio-para-fortalecer-preservacion-acceso" />
-    <updated>2026-06-23T00:00:00</updated>
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>
 </feed>

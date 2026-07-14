@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-07-13T10:28:34Z</updated>
+  <updated>2026-07-14T09:06:01Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo despliega puntos fijos de atención en campamentos de La Guaira</title>
+    <id>http://www.defensoria.gob.ve/?p=20143</id>
+    <link href="http://www.defensoria.gob.ve/?p=20143" />
+    <updated>2026-07-13T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo activa Brigada Defensorial Móvil en La Guaira para atender peticiones de las víctimas del doble terremoto del 24 de junio</title>
     <id>http://www.defensoria.gob.ve/?p=20120</id>
@@ -30,13 +37,6 @@
     <title>Defensora del Pueblo recorrió Servicio de Pediatría del Hospital Domingo Luciani en El Llanito</title>
     <id>http://www.defensoria.gob.ve/?p=20026</id>
     <link href="http://www.defensoria.gob.ve/?p=20026" />
-    <updated>2026-06-28T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>La Defensoría del Pueblo exhorta a salvaguardar el derecho a la vivienda de los venezolanos ante los momentos de conmoción y sufrimiento por los que atraviesa Venezuela.</title>
-    <id>http://www.defensoria.gob.ve/?p=20020</id>
-    <link href="http://www.defensoria.gob.ve/?p=20020" />
     <updated>2026-06-28T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>

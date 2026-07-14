@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/126.asp",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/126.asp",
+      "title": "126/26—CIDH anuncia calendario de audiencias públicas del 196° Período de Sesiones en Washington D.C",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-07-13T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/125.asp&utm_content=country-cub&utm_term=class-ifp",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/125.asp&utm_content=country-cub&utm_term=class-ifp",
+      "title": "125/26—CIDH publica informe de fondo sobre detención, condena y criminalización del artista Maykel Castillo en Cuba",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-07-13T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/124.asp&utm_content=country-cub&utm_term=class-ifp",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/124.asp&utm_content=country-cub&utm_term=class-ifp",
       "title": "124/26—CIDH publica informe de fondo sobre persecución contra integrantes de Cubalex",
@@ -165,30 +189,6 @@
       "title": "114/26—CIDH otorga medidas cautelares a Ricardo José Mendoza Yrigoyen en Nicaragua",
       "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
       "date_published": "2026-06-24T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/113.asp&utm_content=country-ven&utm_term=class-mc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/113.asp&utm_content=country-ven&utm_term=class-mc",
-      "title": "113/26—CIDH otorga medidas cautelares a Manuel Antonio Sánchez y Rosalba Pereira Ramírez en Venezuela",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-06-24T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/112.asp&utm_content=country-ven&utm_term=class-mc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/112.asp&utm_content=country-ven&utm_term=class-mc",
-      "title": "112/26—CIDH otorga medidas cautelares a Daniel Enrique Echenagucia, privado de la libertad en Venezuela",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-06-23T00:00:00",
       "tags": [
         "Regional",
         "Américas",

@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.json",
   "items": [
     {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/comunicados/irregularidades-residencial-personas-mayores-genera-alarma",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/comunicados/irregularidades-residencial-personas-mayores-genera-alarma",
+      "title": "Irregularidades en residencial de personas mayores genera alarma",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-07-13T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-inicia-tareas-del-grupo-trabajo-sobre-salud-mental-derechos-humanos",
       "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-inicia-tareas-del-grupo-trabajo-sobre-salud-mental-derechos-humanos",
       "title": "INDDHH inicia tareas del grupo de trabajo sobre salud mental y derechos humanos",
@@ -33,6 +45,18 @@
       "title": "La INDDHH recibió a relatora del Grupo de Trabajo sobre empresas y derechos humanos de Naciones Unidas",
       "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
       "date_published": "2026-07-04T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-visita-barrio-canitas",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-visita-barrio-canitas",
+      "title": "La INDDHH visita el barrio Cañitas",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-07-03T00:00:00",
       "tags": [
         "Uruguay",
         "Sudamérica",
@@ -105,18 +129,6 @@
       "title": "Avances y perspectivas del Repositorio Luisa Cuesta",
       "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
       "date_published": "2026-06-24T00:00:00",
-      "tags": [
-        "Uruguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-mec-udelar-firman-convenio-para-fortalecer-preservacion-acceso",
-      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-mec-udelar-firman-convenio-para-fortalecer-preservacion-acceso",
-      "title": "INDDHH, MEC y Udelar firman convenio para fortalecer la preservación y el acceso a archivos",
-      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
-      "date_published": "2026-06-23T00:00:00",
       "tags": [
         "Uruguay",
         "Sudamérica",
