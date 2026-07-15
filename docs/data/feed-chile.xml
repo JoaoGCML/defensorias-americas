@@ -2,18 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-07-14T09:06:01Z</updated>
+  <updated>2026-07-15T09:10:22Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
+    <title>Comunicado</title>
+    <id>https://www.indh.cl/comunicado-2/</id>
+    <link href="https://www.indh.cl/comunicado-2/" />
+    <updated>2026-07-14T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
     <title>Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:-5353134398295554081</id>
+    <id>urn:defensorias-americas:4446930270982187028</id>
     <updated>2026-07-13T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...</title>
-    <id>urn:defensorias-americas:8725623079791727081</id>
+    <id>urn:defensorias-americas:5970817410952049984</id>
     <updated>2026-07-10T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -47,7 +54,7 @@
   </entry>
   <entry>
     <title>Declaración pública de la Defensoría de la Niñez sobre el ...</title>
-    <id>urn:defensorias-americas:-8786159640174495830</id>
+    <id>urn:defensorias-americas:6378244364180443873</id>
     <updated>2026-07-09T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -74,13 +81,13 @@
   </entry>
   <entry>
     <title>Sobre Senado en pleno que abordará modificaciones a la Ley ...</title>
-    <id>urn:defensorias-americas:101835815287609317</id>
+    <id>urn:defensorias-americas:3483530295352098676</id>
     <updated>2026-07-07T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>La Tercera | Defensoría de la Niñez reúne a especialistas...</title>
-    <id>urn:defensorias-americas:7467703288696890899</id>
+    <id>urn:defensorias-americas:-7394517467594690506</id>
     <updated>2026-07-07T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -89,11 +96,11 @@
     <id>https://www.indh.cl/indh-antofagasta-dialogo-literatura/</id>
     <link href="https://www.indh.cl/indh-antofagasta-dialogo-literatura/" />
     <updated>2026-07-07T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>La Tercera | Columna de opinión: Legislar con la evidencia,...</title>
-    <id>urn:defensorias-americas:310311909136508940</id>
+    <id>urn:defensorias-americas:-8903285094604053941</id>
     <updated>2026-07-06T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -106,25 +113,25 @@
   </entry>
   <entry>
     <title>TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:-3040652140953582173</id>
+    <id>urn:defensorias-americas:-1727759003114416619</id>
     <updated>2026-06-21T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>La Tercera | Quesille llama a no adelantarse a “imputar”...</title>
-    <id>urn:defensorias-americas:7370586857166647335</id>
+    <id>urn:defensorias-americas:-7458208312837111783</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio Cooperativa | Caso de menores haitianos: Defensoría de la...</title>
-    <id>urn:defensorias-americas:-6926308201454166792</id>
+    <id>urn:defensorias-americas:-978938218724915359</id>
     <updated>2026-06-17T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>EMOL | Caso niños haitianos: Los oficios en que la...</title>
-    <id>urn:defensorias-americas:-3253483483344195338</id>
+    <id>urn:defensorias-americas:7606715890924681704</id>
     <updated>2026-06-16T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>

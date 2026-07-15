@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Canadá</title>
   <id>urn:defensorias-americas:prensa:canada</id>
-  <updated>2026-07-14T09:06:01Z</updated>
+  <updated>2026-07-15T09:10:22Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -46,12 +46,5 @@
     <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/building-canada-strong-means-building-barrier-free" />
     <updated>2026-06-16T00:00:00</updated>
     <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
-  </entry>
-  <entry>
-    <title>Caméras dans les CHSLD et autres milieux de vie : ce qui est permis</title>
-    <id>https://protecteurducitoyen.qc.ca/fr/conseils/capsules/cameras-chsld-nouvelles-regles</id>
-    <link href="https://protecteurducitoyen.qc.ca/fr/conseils/capsules/cameras-chsld-nouvelles-regles" />
-    <updated>2026-06-15T00:00:00</updated>
-    <summary>Protecteur du citoyen du Québec (Canadá) — nouvelles</summary>
   </entry>
 </feed>
