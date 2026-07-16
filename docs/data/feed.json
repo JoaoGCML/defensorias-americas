@@ -4,6 +4,282 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-aquisicao-de-ventiladores",
+      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-aquisicao-de-ventiladores",
+      "title": "Aviso de Dispensa: Aquisição de ventiladores",
+      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
+      "date_published": "2026-07-17T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-contratacao-de-empresa-para-sondagem-de-solo",
+      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-contratacao-de-empresa-para-sondagem-de-solo",
+      "title": "AVISO DE DISPENSA - Contratação de empresa para sondagem de solo",
+      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4202/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4202/",
+      "title": "Defensoria Pública de Pernambuco fortalece parceria com Instituto Tavares Buril para ampliar ações de cidadania",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4201/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4201/",
+      "title": "Defensoria Pública de Pernambuco acompanha imissão de posse no Engenho Roncadorzinho, em Barreiros",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4200/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4200/",
+      "title": "Violência patrimonial também é violência: conheça seus direitos",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/15/defensoria-realizara-atendimento-juridico-na-comunidade-nossa-senhora-de-fatima-na-zona-leste-de-manaus/",
+      "url": "https://defensoria.am.def.br/2026/07/15/defensoria-realizara-atendimento-juridico-na-comunidade-nossa-senhora-de-fatima-na-zona-leste-de-manaus/",
+      "title": "Defensoria realizará atendimento jurídico na comunidade Nossa Senhora de Fátima, na Zona Leste",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/15/defensoria-realiza-acao-de-regularizacao-fundiaria-voltada-a-comunidades-da-rds-do-tupe/",
+      "url": "https://defensoria.am.def.br/2026/07/15/defensoria-realiza-acao-de-regularizacao-fundiaria-voltada-a-comunidades-da-rds-do-tupe/",
+      "title": "Defensoria realiza ação de regularização fundiária voltada a comunidades da RDS do Tupé",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/15/em-presidente-figueiredo-defensoria-publica-abre-processo-seletivo-para-estagio-em-direito/",
+      "url": "https://defensoria.am.def.br/2026/07/15/em-presidente-figueiredo-defensoria-publica-abre-processo-seletivo-para-estagio-em-direito/",
+      "title": "Em Presidente Figueiredo, Defensoria Pública abre processo seletivo para estágio em Direito",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/15/parceria-entre-defensoria-e-fundacao-dr-thomas-completa-um-ano-e-reforca-rede-de-protecao-a-pessoa-idosa-na-capital/",
+      "url": "https://defensoria.am.def.br/2026/07/15/parceria-entre-defensoria-e-fundacao-dr-thomas-completa-um-ano-e-reforca-rede-de-protecao-a-pessoa-idosa-na-capital/",
+      "title": "Parceria entre Defensoria e Fundação Dr. Thomas completa um ano e reforça rede de proteção à pessoa idosa na capital",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/dpe-rs-garante-desconto-na-tarifa-de-agua-a-cerca-de-500-residencias-afetadas-por-desabastecimento-em-santa-maria",
+      "url": "https://www.defensoria.rs.def.br/dpe-rs-garante-desconto-na-tarifa-de-agua-a-cerca-de-500-residencias-afetadas-por-desabastecimento-em-santa-maria",
+      "title": "DPE/RS garante desconto na tarifa de água a cerca de 500 residências afetadas por desabastecimento, em Santa Maria",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-araucania-recurso-agua-manio/",
+      "url": "https://www.indh.cl/indh-araucania-recurso-agua-manio/",
+      "title": "INDH de La Araucanía interpuso recurso de protección para que autoridades aseguren el acceso al agua de 2.300 personas en el sector rural Mañío de Temuco",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-patrimonio-curso-museos/",
+      "url": "https://www.indh.cl/indh-patrimonio-curso-museos/",
+      "title": "INDH y Servicio Nacional del Patrimonio Cultural comenzaron curso con personal de museos para introducir estándares de derechos humanos en su trabajo cotidiano",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-5720684273429617463",
+      "url": "",
+      "title": "Noticias 15 de julio de 2026 Una alerta en redes sociales motivó la intervención de la Defensoría del Pueblo en favor de una pareja de adultos mayores",
+      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:940954282872240881",
+      "url": "",
+      "title": "Noticias 15 de julio de 2026 Delegación de la Defensoría del Pueblo de Villa Hayes fortalece coordinación institucional con el INDI Funcionarias de la",
+      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-869102116468423566",
+      "url": "",
+      "title": "Noticias 15 de julio de 2026 Defensor del Pueblo canalizará reclamos de pacientes con enfermedades raras y oncológicas ante Salud Pública El Defensor",
+      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://mnp.gov.py/espacio-de-dialogo-interinstitucional-promovio-compromisos-para-proteger-los-derechos-de-ninas-ninos-y-familias-afectadas-por-el-encierro/",
+      "url": "https://mnp.gov.py/espacio-de-dialogo-interinstitucional-promovio-compromisos-para-proteger-los-derechos-de-ninas-ninos-y-familias-afectadas-por-el-encierro/",
+      "title": "Espacio de diálogo interinstitucional promovió compromisos para proteger los derechos de niñas, niños y familias afectadas por el encierro",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://mnp.gov.py/promueven-estandares-de-trato-digno-y-prevencion-de-malos-tratos-con-agentes-penitenciarios/",
+      "url": "https://mnp.gov.py/promueven-estandares-de-trato-digno-y-prevencion-de-malos-tratos-con-agentes-penitenciarios/",
+      "title": "Promueven estándares de trato digno y prevención de malos tratos con agentes penitenciarios",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-acciones-inmediatas-ante-fenomeno-del-nino-costero-y-supervisa-a-gobiernos-regionales/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-acciones-inmediatas-ante-fenomeno-del-nino-costero-y-supervisa-a-gobiernos-regionales/",
+      "title": "Defensoría del Pueblo exige acciones inmediatas ante fenómeno del niño costero y supervisa a gobiernos regionales",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-interviene-para-restituir-el-derecho-a-la-identidad-de-una-familia-en-situacion-de-vulnerabilidad-en-villa-el-salvador/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-interviene-para-restituir-el-derecho-a-la-identidad-de-una-familia-en-situacion-de-vulnerabilidad-en-villa-el-salvador/",
+      "title": "Defensoría del Pueblo interviene para restituir el derecho a la identidad de una familia en situación de vulnerabilidad en Villa El Salvador",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-a-nivel-nacional-medidas-de-essalud-para-enfrentar-el-desabastecimiento-de-medicamentos-e-insumos-medicos/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-a-nivel-nacional-medidas-de-essalud-para-enfrentar-el-desabastecimiento-de-medicamentos-e-insumos-medicos/",
+      "title": "Defensoría del Pueblo supervisa a nivel nacional medidas de EsSalud para enfrentar el desabastecimiento de medicamentos e insumos médicos",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-logra-evacuacion-aerea-de-emergencia-para-menor-y-gestante-de-comunidad-nativa/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-logra-evacuacion-aerea-de-emergencia-para-menor-y-gestante-de-comunidad-nativa/",
+      "title": "Defensoría del Pueblo logra evacuación aérea de emergencia para menor y gestante de comunidad nativa",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorto-a-las-autoridades-educativas-y-policiales-acelerar-investigacion-en-relacion-al-caso-de-estudiante-victima-de-tocamientos-indebidos-en-colegio-de-comas/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorto-a-las-autoridades-educativas-y-policiales-acelerar-investigacion-en-relacion-al-caso-de-estudiante-victima-de-tocamientos-indebidos-en-colegio-de-comas/",
+      "title": "Defensoría del Pueblo exhortó a las autoridades educativas y policiales acelerar investigación en relación al caso de estudiante víctima de tocamientos indebidos en colegio de Comas",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/piura-defensoria-del-pueblo-supervisa-almacenes-de-indeci-ante-riesgo-inminente-de-lluvias-intensas/",
+      "url": "https://www.defensoria.gob.pe/piura-defensoria-del-pueblo-supervisa-almacenes-de-indeci-ante-riesgo-inminente-de-lluvias-intensas/",
+      "title": "Defensoría del Pueblo supervisa almacenes de INDECI ante riesgo inminente de lluvias intensas",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/sobre-el-proyecto-de-ley-de-esterilizacion-de-mujeres-en-situacion-de-callepronunciamiento-",
       "url": "https://www.defensoria.gob.bo/noticias/sobre-el-proyecto-de-ley-de-esterilizacion-de-mujeres-en-situacion-de-callepronunciamiento-",
       "title": "SOBRE EL PROYECTO DE LEY DE ESTERILIZACIÓN DE MUJERES EN SITUACIÓN DE CALLE (PRONUNCIAMIENTO)",
@@ -40,7 +316,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4892049258463634727",
+      "id": "urn:defensorias:253468036875419408",
       "url": "",
       "title": "Justiça determina construção de acesso viário à comunidade indígena em Ubatuba após ação da Defensoria Pública",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -90,7 +366,7 @@
     {
       "id": "https://defensoria.am.def.br/2026/07/14/campanha-meu-pai-tem-nome-abre-agendamentos-para-atendimentos-juridicos-e-exames-de-dna-no-interior/",
       "url": "https://defensoria.am.def.br/2026/07/14/campanha-meu-pai-tem-nome-abre-agendamentos-para-atendimentos-juridicos-e-exames-de-dna-no-interior/",
-      "title": "Campanha ‘Meu Pai Tem Nome’ abre agendamentos para atendimentos jurídicos e exames de DNA no interior",
+      "title": "Campanha ‘Meu Pai Tem Nome’ abre agendamentos para exames de DNA no interior",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-07-14T00:00:00",
       "tags": [
@@ -160,7 +436,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3638746930546269835",
+      "id": "urn:defensorias:5842602265681087294",
       "url": "",
       "title": "Noticias 14 de julio de 2026 Defensoría del Pueblo gestionó provisión de insumos médicos para cirugía de persona del Chaco La Delegación de la Defenso",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -172,7 +448,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6893998964492858859",
+      "id": "urn:defensorias:5646964740888964181",
       "url": "",
       "title": "Noticias 14 de julio de 2026 Defensoría del Pueblo asistió a adulto mayor en situación de vulnerabilidad en Villa Hayes La Delegación de la Defensoría",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -186,7 +462,7 @@
     {
       "id": "https://mnp.gov.py/5757-2/",
       "url": "https://mnp.gov.py/5757-2/",
-      "title": "Taller fortaleció capacidades para la prevención de malos tratos en el ámbito penitenciario",
+      "title": "Taller fortaleció capacidades para la prevención de malos tratos en el ámbito penitenciario con familiares",
       "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
       "date_published": "2026-07-14T00:00:00",
       "tags": [
@@ -364,7 +640,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6196120271018166186",
+      "id": "urn:defensorias:6947163484338895830",
       "url": "",
       "title": "Defensoria articula ação inédita que leva atendimento de saúde a pessoas privadas de liberdade em CDP de Caraguatatuba",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -376,7 +652,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4589217391314756207",
+      "id": "urn:defensorias:-2566397509156512351",
       "url": "",
       "title": "Defensoria Pública de SP lança cartilha sobre ECA Digital no aniversário do Estatuto da Criança e do Adolescente",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -460,7 +736,31 @@
       ]
     },
     {
-      "id": "urn:defensorias:4446930270982187028",
+      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-contratacao-de-empresa-s-especializada-s-para-prestacao-de-servicos-de-comunicacao-visual-sonorizacao-e-infraestrutura-audiovisual",
+      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-contratacao-de-empresa-s-especializada-s-para-prestacao-de-servicos-de-comunicacao-visual-sonorizacao-e-infraestrutura-audiovisual",
+      "title": "AVISO DE DISPENSA DIRETA - Contratação de empresa(s) especializada(s) para prestação de serviços de comunicação visual, sonorização e infraestrutura audiovisual",
+      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
+      "date_published": "2026-07-13T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-contratacao-de-empresa-para-realizacao-da-cerimonia-de-posse",
+      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-contratacao-de-empresa-para-realizacao-da-cerimonia-de-posse",
+      "title": "AVISO DE DISPENSA DIRETA - Contratação de empresa para realização da cerimônia de posse",
+      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
+      "date_published": "2026-07-13T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-7014584410567246465",
       "url": "",
       "title": "Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -472,7 +772,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2803525502586880563",
+      "id": "urn:defensorias:8752074660362600669",
       "url": "",
       "title": "Noticias 13 de julio de 2026 El Defensor del Pueblo y el Ministro de la SEN coordinan acciones conjuntas en beneficio de la ciudadanía El Defensor del",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -724,7 +1024,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5970817410952049984",
+      "id": "urn:defensorias:-8217006425509042938",
       "url": "",
       "title": "Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -784,7 +1084,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-961307120560847661",
+      "id": "urn:defensorias:3190684971331563861",
       "url": "",
       "title": "Noticias 10 de julio de 2026 Defensor del Pueblo y la UNE-SN avanzan en una agenda de trabajo conjunto El Defensor del Pueblo, Rafael Ávila Macke, man",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -796,7 +1096,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2006762714027656569",
+      "id": "urn:defensorias:2387612614748007828",
       "url": "",
       "title": "Noticias 10 de julio de 2026 Defensoría del Pueblo asiste a familia en situación de vulnerabilidad en Areguá Funcionarias de la Dirección de Asistenci",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -880,54 +1180,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.gob.pe/tras-5-anos-de-espera-adolescente-del-vraem-podra-acceder-a-sus-derechos-gracias-a-la-defensoria-del-pueblo/",
-      "url": "https://www.defensoria.gob.pe/tras-5-anos-de-espera-adolescente-del-vraem-podra-acceder-a-sus-derechos-gracias-a-la-defensoria-del-pueblo/",
-      "title": "Tras 5 años de espera, adolescente del VRAEM podrá acceder a sus derechos gracias a la Defensoría del Pueblo",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-interviene-para-que-nino-acceda-a-su-derecho-a-la-identidad-y-educacion/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-interviene-para-que-nino-acceda-a-su-derecho-a-la-identidad-y-educacion/",
-      "title": "Defensoría del Pueblo interviene para que niño acceda a su derecho a la identidad y educación",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/amazonas-intervencion-de-defensoria-del-pueblo-permitio-que-se-garantice-el-derecho-a-la-identidad-de-cinco-ninos-y-adolescentes-mediante-actuacion-articulada-en-penal-de-chachapoyas/",
-      "url": "https://www.defensoria.gob.pe/amazonas-intervencion-de-defensoria-del-pueblo-permitio-que-se-garantice-el-derecho-a-la-identidad-de-cinco-ninos-y-adolescentes-mediante-actuacion-articulada-en-penal-de-chachapoyas/",
-      "title": "Amazonas: intervención de Defensoría del Pueblo permitió que se garantice el derecho a la identidad de cinco niños y adolescentes mediante actuación articulada en penal de Chachapoyas",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/loreto-defensoria-del-pueblo-fortalece-proteccion-de-ninas-en-situacion-de-alta-vulnerabilidad-mediante-acciones-del-programa-rompiendo-cadenas/",
-      "url": "https://www.defensoria.gob.pe/loreto-defensoria-del-pueblo-fortalece-proteccion-de-ninas-en-situacion-de-alta-vulnerabilidad-mediante-acciones-del-programa-rompiendo-cadenas/",
-      "title": "Loreto: Defensoría del Pueblo fortalece protección de niñas en situación de alta vulnerabilidad mediante acciones del programa Rompiendo Cadenas",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.ombudsman.cw/aanbieding-jaarverslag-2025-van-de-ombudsman-aan-de-voorzitter-van-de-staten-van-curacao",
       "url": "https://www.ombudsman.cw/aanbieding-jaarverslag-2025-van-de-ombudsman-aan-de-voorzitter-van-de-staten-van-curacao",
       "title": "Aanbieding Jaarverslag 2025 van de Ombudsman aan de Voorzitter van de Staten van Curaçao",
@@ -949,258 +1201,6 @@
         "Regional",
         "Américas",
         "comunicados"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32805-Atuacao-conjunta-da-DPRJ-contribui-para-decisao-sobre-aborto-legal",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32805-Atuacao-conjunta-da-DPRJ-contribui-para-decisao-sobre-aborto-legal",
-      "title": "Atuação conjunta da DPRJ contribui para decisão sobre aborto legal",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4192/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4192/",
-      "title": "Defensoria Pública de Pernambuco garante continuidade de tratamento à assistida em Limoeiro",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4191/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4191/",
-      "title": "DPPE alerta para a importância da atenção aos sinais de violência contra crianças e adolescentes",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/07/09/em-manaus-campanha-meu-pai-tem-nome-abre-nova-etapa-de-agendamentos-para-atendimentos-juridicos-na-area-de-familia/",
-      "url": "https://defensoria.am.def.br/2026/07/09/em-manaus-campanha-meu-pai-tem-nome-abre-nova-etapa-de-agendamentos-para-atendimentos-juridicos-na-area-de-familia/",
-      "title": "Em Manaus, campanha “Meu Pai Tem Nome” abre nova etapa de agendamentos para atendimentos jurídicos na área de Família",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/07/09/defensoria-publica-realiza-acoes-de-atendimentos-juridicos-em-amatura-e-tonantins-na-proxima-semana/",
-      "url": "https://defensoria.am.def.br/2026/07/09/defensoria-publica-realiza-acoes-de-atendimentos-juridicos-em-amatura-e-tonantins-na-proxima-semana/",
-      "title": "Defensoria Pública realiza ações de atendimentos jurídicos em Amaturá e Tonantins na próxima semana",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/07/09/defensoria-do-amazonas-explica-mudancas-nas-penas-de-crimes-contra-criancas-e-adolescentes-no-ambiente-virtual/",
-      "url": "https://defensoria.am.def.br/2026/07/09/defensoria-do-amazonas-explica-mudancas-nas-penas-de-crimes-contra-criancas-e-adolescentes-no-ambiente-virtual/",
-      "title": "Defensoria do Amazonas explica mudanças nas penas de crimes contra crianças e adolescentes no ambiente virtual",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.rs.def.br/defensoria-absolve-homem-denunciado-por-furtar-r-160-em-carne-para-alimentar-familia",
-      "url": "https://www.defensoria.rs.def.br/defensoria-absolve-homem-denunciado-por-furtar-r-160-em-carne-para-alimentar-familia",
-      "title": "Defensoria absolve homem denunciado por furtar R$ 160 em carne para alimentar família",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:6378244364180443873",
-      "url": "",
-      "title": "Declaración pública de la Defensoría de la Niñez sobre el ...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-aysen-cuenta-publica-2025/",
-      "url": "https://www.indh.cl/indh-aysen-cuenta-publica-2025/",
-      "title": "INDH Aysén presentó su Cuenta Pública 2025 destacando acciones judiciales de protección y respuesta a más de 500 solicitudes de la ciudadanía",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-capacitaciones-carabineros-curico-talca/",
-      "url": "https://www.indh.cl/indh-capacitaciones-carabineros-curico-talca/",
-      "title": "INDH Maule realizó capacitaciones sobre derechos humanos a personal de Carabineros de Curicó y Talca",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:203189111049509890",
-      "url": "",
-      "title": "Noticias 9 de julio de 2026 Culmina con éxito la capacitación sobre el MECIP en la Defensoría del Pueblo Culminó la capacitación sobre el Sistema de C",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:7238580192163107554",
-      "url": "",
-      "title": "Noticias 9 de julio de 2026 Segunda jornada de capacitación a funcionarios de la Defensoría del Pueblo En el marco del fortalecimiento del Sistema de",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-5919002733637388690",
-      "url": "",
-      "title": "Noticias 9 de julio de 2026 Defensoría del Pueblo verifica la situación de una adulta mayor en Luque La Defensoría del Pueblo, por instrucciones del D",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://mnp.gov.py/el-mnp-fortalece-la-articulacion-institucional-en-alto-parana/",
-      "url": "https://mnp.gov.py/el-mnp-fortalece-la-articulacion-institucional-en-alto-parana/",
-      "title": "El MNP fortalece la articulación institucional en Alto Paraná",
-      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-instala-mesa-de-dialogo-entre-la-comunidad-nativa-las-palmas-y-el-centro-poblado-las-palmas-en-requena-loreto/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-instala-mesa-de-dialogo-entre-la-comunidad-nativa-las-palmas-y-el-centro-poblado-las-palmas-en-requena-loreto/",
-      "title": "Defensoría del Pueblo instala mesa de diálogo entre la comunidad nativa Las Palmas y el Centro Poblado Las Palmas en Requena, Loreto",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-presenta-informe-de-supervision-de-la-segunda-eleccion-presidencial-2026/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-presenta-informe-de-supervision-de-la-segunda-eleccion-presidencial-2026/",
-      "title": "Defensoría del Pueblo presenta informe de supervisión de la segunda vuelta de las Elecciones Generales 2026",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-inicia-tareas-del-grupo-trabajo-sobre-salud-mental-derechos-humanos",
-      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-inicia-tareas-del-grupo-trabajo-sobre-salud-mental-derechos-humanos",
-      "title": "INDDHH inicia tareas del grupo de trabajo sobre salud mental y derechos humanos",
-      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Uruguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-activa-coordinacion-interdepartamental-para-el-seguimiento-de-un-caso-de-presunta-trata-de-ninyas,-ninyos-y-adolescentes-del-pueblo-indigena-ayoreo",
-      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-activa-coordinacion-interdepartamental-para-el-seguimiento-de-un-caso-de-presunta-trata-de-ninyas,-ninyos-y-adolescentes-del-pueblo-indigena-ayoreo",
-      "title": "DEFENSORÍA DEL PUEBLO ACTIVA COORDINACIÓN INTERDEPARTAMENTAL PARA EL SEGUIMIENTO DE UN CASO DE PRESUNTA TRATA DE NIÑAS, NIÑOS Y ADOLESCENTES DEL PUEBLO INDÍGENA AYOREO",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-07-08T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32803-Defensores-do-Samba-acao-que-leva-servicos-da-DPRJ-as-escolas-de-samba-ocorre-neste-sabado-11-",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32803-Defensores-do-Samba-acao-que-leva-servicos-da-DPRJ-as-escolas-de-samba-ocorre-neste-sabado-11-",
-      "title": "Defensores do Samba, ação que leva serviços da DPRJ às escolas de samba, ocorre neste sábado (11)",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-07-08T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32804-DPRJ-participa-do-Encontro-de-Mulheres-Quilombolas-e-reforca-defesa-de-direitos",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32804-DPRJ-participa-do-Encontro-de-Mulheres-Quilombolas-e-reforca-defesa-de-direitos",
-      "title": "DPRJ participa do Encontro de Mulheres Quilombolas e reforça defesa de direitos",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-07-08T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4190/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4190/",
-      "title": "Defensoria Pública de Pernambuco fortalece política de mediação e conciliação e inicia expansão das centrais para o interior",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-07-08T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
       ]
     }
   ]
