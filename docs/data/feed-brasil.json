@@ -4,11 +4,11 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
-      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-aquisicao-de-ventiladores",
-      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-aquisicao-de-ventiladores",
-      "title": "Aviso de Dispensa: Aquisição de ventiladores",
-      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
-      "date_published": "2026-07-17T00:00:00",
+      "id": "urn:defensorias:2856590284335837995",
+      "url": "",
+      "title": "Defensoria abre pré-inscrições do #DáPraResolver em Avaré",
+      "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",
@@ -16,10 +16,82 @@
       ]
     },
     {
-      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-contratacao-de-empresa-para-sondagem-de-solo",
-      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-contratacao-de-empresa-para-sondagem-de-solo",
-      "title": "AVISO DE DISPENSA - Contratação de empresa para sondagem de solo",
-      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
+      "id": "https://defensoria.am.def.br/2026/07/16/apos-viajar-por-sete-dias-indigena-formaliza-pedido-de-pensao-durante-mutirao-previdenciario/",
+      "url": "https://defensoria.am.def.br/2026/07/16/apos-viajar-por-sete-dias-indigena-formaliza-pedido-de-pensao-durante-mutirao-previdenciario/",
+      "title": "Após viajar por sete dias, indígena formaliza pedido de pensão durante Mutirão Previdenciário",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/16/defensoria-publica-realiza-acao-de-atendimentos-juridicos-e-inspecao-carceraria-em-guajara/",
+      "url": "https://defensoria.am.def.br/2026/07/16/defensoria-publica-realiza-acao-de-atendimentos-juridicos-e-inspecao-carceraria-em-guajara/",
+      "title": "Defensoria Pública realiza ação de atendimentos jurídicos e inspeção carcerária em Guajará",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/16/defensoria-inicia-programacao-do-projeto-sementes-do-amazonas-com-curso-de-educacao-ambiental/",
+      "url": "https://defensoria.am.def.br/2026/07/16/defensoria-inicia-programacao-do-projeto-sementes-do-amazonas-com-curso-de-educacao-ambiental/",
+      "title": "Defensoria inicia programação do projeto ‘Sementes do Amazonas’ com curso de educação ambiental",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/16/servidores-da-defensoria-recebem-mencao-honrosa-do-tjam-por-trabalhos-de-especializacao/",
+      "url": "https://defensoria.am.def.br/2026/07/16/servidores-da-defensoria-recebem-mencao-honrosa-do-tjam-por-trabalhos-de-especializacao/",
+      "title": "Servidores da Defensoria recebem menção honrosa do TJAM por trabalhos de especialização",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/16/defensoria-recebe-mocao-de-aplausos-da-camara-municipal-de-presidente-figueiredo-pelo-projeto-meu-pedaco-de-chao/",
+      "url": "https://defensoria.am.def.br/2026/07/16/defensoria-recebe-mocao-de-aplausos-da-camara-municipal-de-presidente-figueiredo-pelo-projeto-meu-pedaco-de-chao/",
+      "title": "Defensoria recebe Moção de Aplausos da Câmara Municipal de Presidente Figueiredo pelo projeto Meu Pedaço de Chão",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/ouvidoria-geral-da-dpe-rs-destaca-importancia-de-dialogo-com-a-sociedade-civil-na-comissao-de-direitos-humanos-do-tjrs",
+      "url": "https://www.defensoria.rs.def.br/ouvidoria-geral-da-dpe-rs-destaca-importancia-de-dialogo-com-a-sociedade-civil-na-comissao-de-direitos-humanos-do-tjrs",
+      "title": "Ouvidoria-Geral da DPE/RS destaca importância de diálogo com a sociedade civil na Comissão de Direitos Humanos do TJRS",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/com-atuacao-da-dpe-rs-70-moradores-recebem-matriculas-de-propriedades-no-passo-das-pedras-em-porto-alegre",
+      "url": "https://www.defensoria.rs.def.br/com-atuacao-da-dpe-rs-70-moradores-recebem-matriculas-de-propriedades-no-passo-das-pedras-em-porto-alegre",
+      "title": "Com atuação da DPE/RS, 70 moradores recebem matrículas de propriedades no Passo das Pedras, em Porto Alegre",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
       "date_published": "2026-07-16T00:00:00",
       "tags": [
         "Brasil",
@@ -124,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:253468036875419408",
+      "id": "urn:defensorias:-6527590470920342776",
       "url": "",
       "title": "Justiça determina construção de acesso viário à comunidade indígena em Ubatuba após ação da Defensoria Pública",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -220,19 +292,7 @@
       ]
     },
     {
-      "id": "https://www.defensoria.rs.def.br/acao-da-defensoria-publica-garante-fornecimento-de-medicamento-de-quase-90-mil-reais-para-idoso-morador-de-veranopolis",
-      "url": "https://www.defensoria.rs.def.br/acao-da-defensoria-publica-garante-fornecimento-de-medicamento-de-quase-90-mil-reais-para-idoso-morador-de-veranopolis",
-      "title": "Ação da Defensoria Pública garante fornecimento de medicamento de quase 90 mil reais para idoso morador de Veranópolis",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
-      "date_published": "2026-07-14T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:6947163484338895830",
+      "id": "urn:defensorias:750667289680150345",
       "url": "",
       "title": "Defensoria articula ação inédita que leva atendimento de saúde a pessoas privadas de liberdade em CDP de Caraguatatuba",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -244,34 +304,10 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2566397509156512351",
+      "id": "urn:defensorias:-3542160798991088007",
       "url": "",
       "title": "Defensoria Pública de SP lança cartilha sobre ECA Digital no aniversário do Estatuto da Criança e do Adolescente",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
-      "date_published": "2026-07-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32814-Justica-determina-regularizacao-do-Conselho-Gestor-do-Fundo-Estadual-de-Habitacao-apos-acao-da-DPRJ",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32814-Justica-determina-regularizacao-do-Conselho-Gestor-do-Fundo-Estadual-de-Habitacao-apos-acao-da-DPRJ",
-      "title": "Justiça determina regularização do Conselho Gestor do Fundo Estadual de Habitação após ação da DPRJ",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-07-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32813-Defensoria-e-CAU-RJ-unem-esforcos-para-fortalecer-cooperativas-de-reciclagem",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32813-Defensoria-e-CAU-RJ-unem-esforcos-para-fortalecer-cooperativas-de-reciclagem",
-      "title": "Defensoria e CAU/RJ unem esforços para fortalecer cooperativas de reciclagem",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-07-13T00:00:00",
       "tags": [
         "Brasil",
@@ -320,30 +356,6 @@
       "url": "https://defensoria.am.def.br/2026/07/13/em-guajara-defensoria-publica-realiza-acao-de-atendimentos-juridicos-a-partir-desta-quarta-feira-15-07/",
       "title": "Em Guajará, Defensoria realiza ação de atendimentos jurídicos a partir desta quarta-feira",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-contratacao-de-empresa-s-especializada-s-para-prestacao-de-servicos-de-comunicacao-visual-sonorizacao-e-infraestrutura-audiovisual",
-      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-contratacao-de-empresa-s-especializada-s-para-prestacao-de-servicos-de-comunicacao-visual-sonorizacao-e-infraestrutura-audiovisual",
-      "title": "AVISO DE DISPENSA DIRETA - Contratação de empresa(s) especializada(s) para prestação de serviços de comunicação visual, sonorização e infraestrutura audiovisual",
-      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
-      "date_published": "2026-07-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-contratacao-de-empresa-para-realizacao-da-cerimonia-de-posse",
-      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-contratacao-de-empresa-para-realizacao-da-cerimonia-de-posse",
-      "title": "AVISO DE DISPENSA DIRETA - Contratação de empresa para realização da cerimônia de posse",
-      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
       "date_published": "2026-07-13T00:00:00",
       "tags": [
         "Brasil",
@@ -448,30 +460,6 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/07/10/defensoria-publica-cobra-e-empresas-de-energia-se-comprometem-a-resolver-apagoes-em-humaita/",
-      "url": "https://defensoria.am.def.br/2026/07/10/defensoria-publica-cobra-e-empresas-de-energia-se-comprometem-a-resolver-apagoes-em-humaita/",
-      "title": "Defensoria Pública cobra e empresas de energia se comprometem a resolver apagões em Humaitá",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.rs.def.br/defensoria-publica-apresenta-panorama-sobre-violencia-de-genero-na-socioeducacao-em-evento-sobre-infancia-e-juventude",
-      "url": "https://www.defensoria.rs.def.br/defensoria-publica-apresenta-panorama-sobre-violencia-de-genero-na-socioeducacao-em-evento-sobre-infancia-e-juventude",
-      "title": "Defensoria Pública apresenta panorama sobre violência de gênero na socioeducação, em evento sobre Infância e Juventude",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.rj.def.br/noticia/detalhes/32805-Atuacao-conjunta-da-DPRJ-contribui-para-decisao-sobre-aborto-legal",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32805-Atuacao-conjunta-da-DPRJ-contribui-para-decisao-sobre-aborto-legal",
       "title": "Atuação conjunta da DPRJ contribui para decisão sobre aborto legal",
@@ -500,42 +488,6 @@
       "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4191/",
       "title": "DPPE alerta para a importância da atenção aos sinais de violência contra crianças e adolescentes",
       "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/07/09/em-manaus-campanha-meu-pai-tem-nome-abre-nova-etapa-de-agendamentos-para-atendimentos-juridicos-na-area-de-familia/",
-      "url": "https://defensoria.am.def.br/2026/07/09/em-manaus-campanha-meu-pai-tem-nome-abre-nova-etapa-de-agendamentos-para-atendimentos-juridicos-na-area-de-familia/",
-      "title": "Em Manaus, campanha “Meu Pai Tem Nome” abre nova etapa de agendamentos para atendimentos jurídicos na área de Família",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/07/09/defensoria-publica-realiza-acoes-de-atendimentos-juridicos-em-amatura-e-tonantins-na-proxima-semana/",
-      "url": "https://defensoria.am.def.br/2026/07/09/defensoria-publica-realiza-acoes-de-atendimentos-juridicos-em-amatura-e-tonantins-na-proxima-semana/",
-      "title": "Defensoria Pública realiza ações de atendimentos jurídicos em Amaturá e Tonantins na próxima semana",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/07/09/defensoria-do-amazonas-explica-mudancas-nas-penas-de-crimes-contra-criancas-e-adolescentes-no-ambiente-virtual/",
-      "url": "https://defensoria.am.def.br/2026/07/09/defensoria-do-amazonas-explica-mudancas-nas-penas-de-crimes-contra-criancas-e-adolescentes-no-ambiente-virtual/",
-      "title": "Defensoria do Amazonas explica mudanças nas penas de crimes contra crianças e adolescentes no ambiente virtual",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-07-09T00:00:00",
       "tags": [
         "Brasil",
@@ -580,19 +532,7 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/07/08/defensoria-realiza-inspecao-carceraria-nos-municipios-de-caapiranga-e-fonte-boa-e-avalia-condicoes-estruturais-dos-espacos/",
-      "url": "https://defensoria.am.def.br/2026/07/08/defensoria-realiza-inspecao-carceraria-nos-municipios-de-caapiranga-e-fonte-boa-e-avalia-condicoes-estruturais-dos-espacos/",
-      "title": "Defensoria realiza inspeção carcerária nos municípios de Caapiranga e Fonte Boa e avalia condições estruturais dos espaços",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-08T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-7204638047117854903",
+      "id": "urn:defensorias:-6035257711246191085",
       "url": "",
       "title": "Defensoria Pública firma acordo em audiência sobre preservação do Casarão da Fazenda Bela Vista, em Araraquara",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -604,7 +544,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5208684142848300078",
+      "id": "urn:defensorias:-5192878108784513713",
       "url": "",
       "title": "Defensoria obtém decisão que afasta cobrança de R$ 165 mil baseada em documentos internos de banco",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -652,7 +592,31 @@
       ]
     },
     {
-      "id": "urn:defensorias:1606391240309059319",
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32794-Defensoria-visita-Quilombo-Ferreira-Diniz-na-Gloria",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32794-Defensoria-visita-Quilombo-Ferreira-Diniz-na-Gloria",
+      "title": "Defensoria visita Quilombo Ferreira Diniz, na Glória",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-07-03T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32792-Defensoria-ministra-workshop-para-equipes-tecnicas-do-TJRJ-sobre-ECA-Digital",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32792-Defensoria-ministra-workshop-para-equipes-tecnicas-do-TJRJ-sobre-ECA-Digital",
+      "title": "Defensoria ministra workshop para equipes técnicas do TJRJ sobre ECA Digital",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-07-03T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-8939898814261387568",
       "url": "",
       "title": "Defensoria Pública inaugura posto de representação na Câmara Municipal de São Paulo",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -664,21 +628,9 @@
       ]
     },
     {
-      "id": "urn:defensorias:1545508591888133150",
+      "id": "urn:defensorias:9167330491289698790",
       "url": "",
       "title": "Defensoria intervém em ação sobre casarão histórico em assentamento de Araraquara e nova audiência de conciliação é marcada para 3 de julho",
-      "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
-      "date_published": "2026-07-01T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:1042984256562366935",
-      "url": "",
-      "title": "Defensoria Pública de SP abre inscrições para mutirão nacional Meu Pai Tem Nome",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
       "date_published": "2026-07-01T00:00:00",
       "tags": [

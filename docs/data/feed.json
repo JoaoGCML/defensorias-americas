@@ -4,11 +4,35 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
-      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-aquisicao-de-ventiladores",
-      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-aquisicao-de-ventiladores",
-      "title": "Aviso de Dispensa: Aquisição de ventiladores",
-      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
-      "date_published": "2026-07-17T00:00:00",
+      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-ratifica-defensa-de-tariquia-y-presenta-recurso-de-casacion",
+      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-ratifica-defensa-de-tariquia-y-presenta-recurso-de-casacion",
+      "title": "DEFENSOR DEL PUEBLO RATIFICA DEFENSA DE TARIQUÍA Y PRESENTA RECURSO DE CASACIÓN",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-de-bolivia-y-nueva-consul-de-argentina-impulsan-agenda-de-coordinacion-en-derechos-humanos",
+      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-de-bolivia-y-nueva-consul-de-argentina-impulsan-agenda-de-coordinacion-en-derechos-humanos",
+      "title": "DEFENSOR DEL PUEBLO DE BOLIVIA Y NUEVA CÓNSUL DE ARGENTINA IMPULSAN AGENDA DE COORDINACIÓN EN DERECHOS HUMANOS",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:2856590284335837995",
+      "url": "",
+      "title": "Defensoria abre pré-inscrições do #DáPraResolver em Avaré",
+      "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",
@@ -16,15 +40,183 @@
       ]
     },
     {
-      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-contratacao-de-empresa-para-sondagem-de-solo",
-      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-contratacao-de-empresa-para-sondagem-de-solo",
-      "title": "AVISO DE DISPENSA - Contratação de empresa para sondagem de solo",
-      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
+      "id": "https://defensoria.am.def.br/2026/07/16/apos-viajar-por-sete-dias-indigena-formaliza-pedido-de-pensao-durante-mutirao-previdenciario/",
+      "url": "https://defensoria.am.def.br/2026/07/16/apos-viajar-por-sete-dias-indigena-formaliza-pedido-de-pensao-durante-mutirao-previdenciario/",
+      "title": "Após viajar por sete dias, indígena formaliza pedido de pensão durante Mutirão Previdenciário",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-07-16T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",
         "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/16/defensoria-publica-realiza-acao-de-atendimentos-juridicos-e-inspecao-carceraria-em-guajara/",
+      "url": "https://defensoria.am.def.br/2026/07/16/defensoria-publica-realiza-acao-de-atendimentos-juridicos-e-inspecao-carceraria-em-guajara/",
+      "title": "Defensoria Pública realiza ação de atendimentos jurídicos e inspeção carcerária em Guajará",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/16/defensoria-inicia-programacao-do-projeto-sementes-do-amazonas-com-curso-de-educacao-ambiental/",
+      "url": "https://defensoria.am.def.br/2026/07/16/defensoria-inicia-programacao-do-projeto-sementes-do-amazonas-com-curso-de-educacao-ambiental/",
+      "title": "Defensoria inicia programação do projeto ‘Sementes do Amazonas’ com curso de educação ambiental",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/16/servidores-da-defensoria-recebem-mencao-honrosa-do-tjam-por-trabalhos-de-especializacao/",
+      "url": "https://defensoria.am.def.br/2026/07/16/servidores-da-defensoria-recebem-mencao-honrosa-do-tjam-por-trabalhos-de-especializacao/",
+      "title": "Servidores da Defensoria recebem menção honrosa do TJAM por trabalhos de especialização",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/16/defensoria-recebe-mocao-de-aplausos-da-camara-municipal-de-presidente-figueiredo-pelo-projeto-meu-pedaco-de-chao/",
+      "url": "https://defensoria.am.def.br/2026/07/16/defensoria-recebe-mocao-de-aplausos-da-camara-municipal-de-presidente-figueiredo-pelo-projeto-meu-pedaco-de-chao/",
+      "title": "Defensoria recebe Moção de Aplausos da Câmara Municipal de Presidente Figueiredo pelo projeto Meu Pedaço de Chão",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/ouvidoria-geral-da-dpe-rs-destaca-importancia-de-dialogo-com-a-sociedade-civil-na-comissao-de-direitos-humanos-do-tjrs",
+      "url": "https://www.defensoria.rs.def.br/ouvidoria-geral-da-dpe-rs-destaca-importancia-de-dialogo-com-a-sociedade-civil-na-comissao-de-direitos-humanos-do-tjrs",
+      "title": "Ouvidoria-Geral da DPE/RS destaca importância de diálogo com a sociedade civil na Comissão de Direitos Humanos do TJRS",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/com-atuacao-da-dpe-rs-70-moradores-recebem-matriculas-de-propriedades-no-passo-das-pedras-em-porto-alegre",
+      "url": "https://www.defensoria.rs.def.br/com-atuacao-da-dpe-rs-70-moradores-recebem-matriculas-de-propriedades-no-passo-das-pedras-em-porto-alegre",
+      "title": "Com atuação da DPE/RS, 70 moradores recebem matrículas de propriedades no Passo das Pedras, em Porto Alegre",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://mnp.gov.py/la-proyeccion-de-la-mujer-de-la-fila-propicio-un-emotivo-encuentro-sobre-cuidados-resistencia-y-derechos/",
+      "url": "https://mnp.gov.py/la-proyeccion-de-la-mujer-de-la-fila-propicio-un-emotivo-encuentro-sobre-cuidados-resistencia-y-derechos/",
+      "title": "La proyección de «La mujer de la fila» propició un emotivo encuentro sobre cuidados, resistencia y derechos",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://mnp.gov.py/dialogo-y-compromiso-para-fortalecer-los-derechos-humanos-en-las-carceles/",
+      "url": "https://mnp.gov.py/dialogo-y-compromiso-para-fortalecer-los-derechos-humanos-en-las-carceles/",
+      "title": "Diálogo y compromiso para fortalecer los derechos humanos en las cárceles",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-servicio-de-limpieza-publica-en-tarapoto-ante-acumulacion-de-residuos-solidos-en-calles-y-avenidas/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-servicio-de-limpieza-publica-en-tarapoto-ante-acumulacion-de-residuos-solidos-en-calles-y-avenidas/",
+      "title": "Defensoría del Pueblo supervisa servicio de limpieza pública en Tarapoto ante acumulación de residuos sólidos en calles y avenidas",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/tingo-maria-defensoria-del-pueblo-supervisa-acciones-para-garantizar-abastecimiento-de-agua-potable-ante-fenomeno-el-nino-costero/",
+      "url": "https://www.defensoria.gob.pe/tingo-maria-defensoria-del-pueblo-supervisa-acciones-para-garantizar-abastecimiento-de-agua-potable-ante-fenomeno-el-nino-costero/",
+      "title": "Tingo María: Defensoría del Pueblo supervisa acciones para garantizar abastecimiento de agua potable ante fenómeno el Niño Costero",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-media-en-conflicto-estudiantil-de-la-facultad-de-derecho-y-ciencia-politica-de-la-universidad-nacional-mayor-de-san-marcos-y-logra-acuerdos/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-media-en-conflicto-estudiantil-de-la-facultad-de-derecho-y-ciencia-politica-de-la-universidad-nacional-mayor-de-san-marcos-y-logra-acuerdos/",
+      "title": "Defensoría del Pueblo media en conflicto estudiantil de la facultad de Derecho y Ciencia Politica de la Universidad Nacional Mayor de San Marcos y logra acuerdos",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-fortalecimiento-de-labores-de-reinsercion-es-clave-para-garantizar-derechos-de-mas-de-105-mil-internos-2/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-fortalecimiento-de-labores-de-reinsercion-es-clave-para-garantizar-derechos-de-mas-de-105-mil-internos-2/",
+      "title": "Piura: Defensoría del Pueblo supervisa medidas preventivas ante anuncio de corte masivo de luz para este sábado",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-fortalecimiento-de-labores-de-reinsercion-es-clave-para-garantizar-derechos-de-mas-de-105-mil-internos/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-fortalecimiento-de-labores-de-reinsercion-es-clave-para-garantizar-derechos-de-mas-de-105-mil-internos/",
+      "title": "Defensoría del Pueblo: fortalecimiento de labores de reinserción es clave para garantizar derechos de más de 105 mil internos",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/128.asp&utm_content=country-nic&utm_term=class-mon",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/128.asp&utm_content=country-nic&utm_term=class-mon",
+      "title": "128/26—CIDH urge a Nicaragua informar sobre el paradero del obispo Abelardo Mata",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-07-16T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
       ]
     },
     {
@@ -148,7 +340,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5720684273429617463",
+      "id": "urn:defensorias:6625227191436437554",
       "url": "",
       "title": "Noticias 15 de julio de 2026 Una alerta en redes sociales motivó la intervención de la Defensoría del Pueblo en favor de una pareja de adultos mayores",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -160,7 +352,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:940954282872240881",
+      "id": "urn:defensorias:1327315550985371961",
       "url": "",
       "title": "Noticias 15 de julio de 2026 Delegación de la Defensoría del Pueblo de Villa Hayes fortalece coordinación institucional con el INDI Funcionarias de la",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -172,7 +364,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-869102116468423566",
+      "id": "urn:defensorias:-569940311332385484",
       "url": "",
       "title": "Noticias 15 de julio de 2026 Defensor del Pueblo canalizará reclamos de pacientes con enfermedades raras y oncológicas ante Salud Pública El Defensor",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -210,7 +402,7 @@
     {
       "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-acciones-inmediatas-ante-fenomeno-del-nino-costero-y-supervisa-a-gobiernos-regionales/",
       "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-acciones-inmediatas-ante-fenomeno-del-nino-costero-y-supervisa-a-gobiernos-regionales/",
-      "title": "Defensoría del Pueblo exige acciones inmediatas ante fenómeno del niño costero y supervisa a gobiernos regionales",
+      "title": "Defensoría del Pueblo exige acciones inmediatas ante fenómeno del Niño Costero y supervisa a gobiernos regionales",
       "summary": "Defensoría del Pueblo del Perú (Perú)",
       "date_published": "2026-07-15T00:00:00",
       "tags": [
@@ -280,6 +472,18 @@
       ]
     },
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/127.asp&utm_content=country-mex&utm_term=class-mon",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/127.asp&utm_content=country-mex&utm_term=class-mon",
+      "title": "R127/26—La RELE expresa preocupación por violencia contra la prensa en México y llama al Estado a cumplir con sus obligaciones de prevención, protección e investigación",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/sobre-el-proyecto-de-ley-de-esterilizacion-de-mujeres-en-situacion-de-callepronunciamiento-",
       "url": "https://www.defensoria.gob.bo/noticias/sobre-el-proyecto-de-ley-de-esterilizacion-de-mujeres-en-situacion-de-callepronunciamiento-",
       "title": "SOBRE EL PROYECTO DE LEY DE ESTERILIZACIÓN DE MUJERES EN SITUACIÓN DE CALLE (PRONUNCIAMIENTO)",
@@ -316,7 +520,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:253468036875419408",
+      "id": "urn:defensorias:-6527590470920342776",
       "url": "",
       "title": "Justiça determina construção de acesso viário à comunidade indígena em Ubatuba após ação da Defensoria Pública",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -412,18 +616,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.rs.def.br/acao-da-defensoria-publica-garante-fornecimento-de-medicamento-de-quase-90-mil-reais-para-idoso-morador-de-veranopolis",
-      "url": "https://www.defensoria.rs.def.br/acao-da-defensoria-publica-garante-fornecimento-de-medicamento-de-quase-90-mil-reais-para-idoso-morador-de-veranopolis",
-      "title": "Ação da Defensoria Pública garante fornecimento de medicamento de quase 90 mil reais para idoso morador de Veranópolis",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
-      "date_published": "2026-07-14T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.indh.cl/comunicado-2/",
       "url": "https://www.indh.cl/comunicado-2/",
       "title": "Comunicado",
@@ -436,7 +628,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5842602265681087294",
+      "id": "urn:defensorias:-2431882120753258431",
       "url": "",
       "title": "Noticias 14 de julio de 2026 Defensoría del Pueblo gestionó provisión de insumos médicos para cirugía de persona del Chaco La Delegación de la Defenso",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -448,7 +640,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5646964740888964181",
+      "id": "urn:defensorias:7676420204715357152",
       "url": "",
       "title": "Noticias 14 de julio de 2026 Defensoría del Pueblo asistió a adulto mayor en situación de vulnerabilidad en Villa Hayes La Delegación de la Defensoría",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -640,7 +832,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6947163484338895830",
+      "id": "urn:defensorias:750667289680150345",
       "url": "",
       "title": "Defensoria articula ação inédita que leva atendimento de saúde a pessoas privadas de liberdade em CDP de Caraguatatuba",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -652,34 +844,10 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2566397509156512351",
+      "id": "urn:defensorias:-3542160798991088007",
       "url": "",
       "title": "Defensoria Pública de SP lança cartilha sobre ECA Digital no aniversário do Estatuto da Criança e do Adolescente",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
-      "date_published": "2026-07-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32814-Justica-determina-regularizacao-do-Conselho-Gestor-do-Fundo-Estadual-de-Habitacao-apos-acao-da-DPRJ",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32814-Justica-determina-regularizacao-do-Conselho-Gestor-do-Fundo-Estadual-de-Habitacao-apos-acao-da-DPRJ",
-      "title": "Justiça determina regularização do Conselho Gestor do Fundo Estadual de Habitação após ação da DPRJ",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-07-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32813-Defensoria-e-CAU-RJ-unem-esforcos-para-fortalecer-cooperativas-de-reciclagem",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32813-Defensoria-e-CAU-RJ-unem-esforcos-para-fortalecer-cooperativas-de-reciclagem",
-      "title": "Defensoria e CAU/RJ unem esforços para fortalecer cooperativas de reciclagem",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-07-13T00:00:00",
       "tags": [
         "Brasil",
@@ -736,31 +904,7 @@
       ]
     },
     {
-      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-contratacao-de-empresa-s-especializada-s-para-prestacao-de-servicos-de-comunicacao-visual-sonorizacao-e-infraestrutura-audiovisual",
-      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-contratacao-de-empresa-s-especializada-s-para-prestacao-de-servicos-de-comunicacao-visual-sonorizacao-e-infraestrutura-audiovisual",
-      "title": "AVISO DE DISPENSA DIRETA - Contratação de empresa(s) especializada(s) para prestação de serviços de comunicação visual, sonorização e infraestrutura audiovisual",
-      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
-      "date_published": "2026-07-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-contratacao-de-empresa-para-realizacao-da-cerimonia-de-posse",
-      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-contratacao-de-empresa-para-realizacao-da-cerimonia-de-posse",
-      "title": "AVISO DE DISPENSA DIRETA - Contratação de empresa para realização da cerimônia de posse",
-      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
-      "date_published": "2026-07-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-7014584410567246465",
+      "id": "urn:defensorias:-7797203737757917157",
       "url": "",
       "title": "Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -772,7 +916,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8752074660362600669",
+      "id": "urn:defensorias:-7024478988947478402",
       "url": "",
       "title": "Noticias 13 de julio de 2026 El Defensor del Pueblo y el Ministro de la SEN coordinan acciones conjuntas en beneficio de la ciudadanía El Defensor del",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -787,18 +931,6 @@
       "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-articula-atencion-de-salud-con-enfoque-intercultural-para-adolescente-indigena-de-condorcanqui/",
       "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-articula-atencion-de-salud-con-enfoque-intercultural-para-adolescente-indigena-de-condorcanqui/",
       "title": "Defensoría del Pueblo articula atención de salud con enfoque intercultural para adolescente indígena de Condorcanqui",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-07-13T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-expresa-su-rechazo-a-todo-acto-de-violencia-contra-las-mujeres-enfatizando-que-se-agrava-cuando-provienen-de-altas-autoridades/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-expresa-su-rechazo-a-todo-acto-de-violencia-contra-las-mujeres-enfatizando-que-se-agrava-cuando-provienen-de-altas-autoridades/",
-      "title": "Defensoría del Pueblo expresa su rechazo a todo acto de violencia contra las mujeres enfatizando que se agrava cuando provienen de altas autoridades",
       "summary": "Defensoría del Pueblo del Perú (Perú)",
       "date_published": "2026-07-13T00:00:00",
       "tags": [
@@ -1000,31 +1132,7 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/07/10/defensoria-publica-cobra-e-empresas-de-energia-se-comprometem-a-resolver-apagoes-em-humaita/",
-      "url": "https://defensoria.am.def.br/2026/07/10/defensoria-publica-cobra-e-empresas-de-energia-se-comprometem-a-resolver-apagoes-em-humaita/",
-      "title": "Defensoria Pública cobra e empresas de energia se comprometem a resolver apagões em Humaitá",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.rs.def.br/defensoria-publica-apresenta-panorama-sobre-violencia-de-genero-na-socioeducacao-em-evento-sobre-infancia-e-juventude",
-      "url": "https://www.defensoria.rs.def.br/defensoria-publica-apresenta-panorama-sobre-violencia-de-genero-na-socioeducacao-em-evento-sobre-infancia-e-juventude",
-      "title": "Defensoria Pública apresenta panorama sobre violência de gênero na socioeducação, em evento sobre Infância e Juventude",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-8217006425509042938",
+      "id": "urn:defensorias:-570013808235159282",
       "url": "",
       "title": "Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -1084,7 +1192,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3190684971331563861",
+      "id": "urn:defensorias:7570746941505698160",
       "url": "",
       "title": "Noticias 10 de julio de 2026 Defensor del Pueblo y la UNE-SN avanzan en una agenda de trabajo conjunto El Defensor del Pueblo, Rafael Ávila Macke, man",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -1093,114 +1201,6 @@
         "Paraguay",
         "Sudamérica",
         "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:2387612614748007828",
-      "url": "",
-      "title": "Noticias 10 de julio de 2026 Defensoría del Pueblo asiste a familia en situación de vulnerabilidad en Areguá Funcionarias de la Dirección de Asistenci",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://mnp.gov.py/mnp-realiza-visita-de-seguimiento-a-la-unidad-de-salud-mental-del-hospital-regional-de-pedro-juan-caballero/",
-      "url": "https://mnp.gov.py/mnp-realiza-visita-de-seguimiento-a-la-unidad-de-salud-mental-del-hospital-regional-de-pedro-juan-caballero/",
-      "title": "MNP realizó visita de seguimiento a la Unidad de Salud Mental del Hospital Regional de Pedro Juan Caballero",
-      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://mnp.gov.py/mnp-dialogo-con-universidades-de-alto-parana-para-fortalecer-la-prevencion-de-la-tortura/",
-      "url": "https://mnp.gov.py/mnp-dialogo-con-universidades-de-alto-parana-para-fortalecer-la-prevencion-de-la-tortura/",
-      "title": "MNP dialogó con universidades de Alto Paraná para fortalecer la prevención de la tortura",
-      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-la-necesidad-de-fortalecer-medidas-para-evitar-el-desabastecimiento-de-medicamentos-en-la-red-asistencial-tarapoto/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-la-necesidad-de-fortalecer-medidas-para-evitar-el-desabastecimiento-de-medicamentos-en-la-red-asistencial-tarapoto/",
-      "title": "Defensoría del Pueblo advierte la necesidad de fortalecer medidas para evitar el desabastecimiento de medicamentos en la Red Asistencial Tarapoto",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-que-limitada-operatividad-de-la-central-de-esterilizacion-del-hospital-tingo-maria-afecta-la-oportunidad-de-cirugias-programadas/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-que-limitada-operatividad-de-la-central-de-esterilizacion-del-hospital-tingo-maria-afecta-la-oportunidad-de-cirugias-programadas/",
-      "title": "Defensoría del Pueblo advierte que limitada operatividad de la Central de Esterilización del Hospital Tingo María afecta la oportunidad de cirugías programadas",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/desaguadero-en-reunion-de-mesa-binacional-con-bolivia-reafirmamos-nuestra-labor-con-la-defensa-de-derechos-de-personas-en-condicion-de-mayor-vulnerabilidad/",
-      "url": "https://www.defensoria.gob.pe/desaguadero-en-reunion-de-mesa-binacional-con-bolivia-reafirmamos-nuestra-labor-con-la-defensa-de-derechos-de-personas-en-condicion-de-mayor-vulnerabilidad/",
-      "title": "Desaguadero: en reunión de mesa binacional con Bolivia reafirmamos nuestra labor con la defensa de derechos de personas en condición de mayor vulnerabilidad",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/piura-defensoria-del-pueblo-superviso-atencion-medica-oportuna-a-persona-interna-del-penal-de-varones/",
-      "url": "https://www.defensoria.gob.pe/piura-defensoria-del-pueblo-superviso-atencion-medica-oportuna-a-persona-interna-del-penal-de-varones/",
-      "title": "Piura: Defensoría del Pueblo supervisó atención médica oportuna a persona interna del penal de varones",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.ombudsman.cw/aanbieding-jaarverslag-2025-van-de-ombudsman-aan-de-voorzitter-van-de-staten-van-curacao",
-      "url": "https://www.ombudsman.cw/aanbieding-jaarverslag-2025-van-de-ombudsman-aan-de-voorzitter-van-de-staten-van-curacao",
-      "title": "Aanbieding Jaarverslag 2025 van de Ombudsman aan de Voorzitter van de Staten van Curaçao",
-      "summary": "Ombudsman van Curaçao (Curaçao)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Curaçao",
-        "Caribe",
-        "news"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/124.asp&utm_content=country-cub&utm_term=class-ifp",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/124.asp&utm_content=country-cub&utm_term=class-ifp",
-      "title": "124/26—CIDH publica informe de fondo sobre persecución contra integrantes de Cubalex",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
       ]
     }
   ]
