@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Uruguay</title>
   <id>urn:defensorias-americas:prensa:uruguay</id>
-  <updated>2026-07-17T09:11:05Z</updated>
+  <updated>2026-07-18T08:49:25Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Hacia una sociedad libre de racismo</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/hacia-sociedad-libre-racismo</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/hacia-sociedad-libre-racismo" />
+    <updated>2026-07-15T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
+  </entry>
   <entry>
     <title>Irregularidades en residencial de personas mayores genera alarma</title>
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/comunicados/irregularidades-residencial-personas-mayores-genera-alarma</id>
@@ -72,13 +79,6 @@
     <title>Segunda mesa interinstitucional en Chuy</title>
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/segunda-mesa-interinstitucional-chuy</id>
     <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/segunda-mesa-interinstitucional-chuy" />
-    <updated>2026-06-24T00:00:00</updated>
-    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Avances y perspectivas del Repositorio Luisa Cuesta</title>
-    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/avances-perspectivas-del-repositorio-luisa-cuesta</id>
-    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/avances-perspectivas-del-repositorio-luisa-cuesta" />
     <updated>2026-06-24T00:00:00</updated>
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>

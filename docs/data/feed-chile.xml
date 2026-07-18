@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-07-17T09:11:05Z</updated>
+  <updated>2026-07-18T08:49:25Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>INDH Los Ríos impartió a funcionarias y funcionarios de instituciones de la región la segunda versión de taller de atención de público con enfoque de derechos humanos</title>
+    <id>https://www.indh.cl/indh-rios-taller-atencion-publico/</id>
+    <link href="https://www.indh.cl/indh-rios-taller-atencion-publico/" />
+    <updated>2026-07-17T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
   <entry>
     <title>INDH de La Araucanía interpuso recurso de protección para que autoridades aseguren el acceso al agua de 2.300 personas en el sector rural Mañío de Temuco</title>
     <id>https://www.indh.cl/indh-araucania-recurso-agua-manio/</id>
@@ -28,13 +35,13 @@
   </entry>
   <entry>
     <title>Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:-7797203737757917157</id>
+    <id>urn:defensorias-americas:6312729785778404150</id>
     <updated>2026-07-13T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...</title>
-    <id>urn:defensorias-americas:-570013808235159282</id>
+    <id>urn:defensorias-americas:5775076954178493708</id>
     <updated>2026-07-10T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -68,7 +75,7 @@
   </entry>
   <entry>
     <title>Declaración pública de la Defensoría de la Niñez sobre el ...</title>
-    <id>urn:defensorias-americas:2387075633218959988</id>
+    <id>urn:defensorias-americas:7909368855311762333</id>
     <updated>2026-07-09T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -77,7 +84,7 @@
     <id>https://www.indh.cl/indh-aysen-cuenta-publica-2025/</id>
     <link href="https://www.indh.cl/indh-aysen-cuenta-publica-2025/" />
     <updated>2026-07-09T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>INDH Maule realizó capacitaciones sobre derechos humanos a personal de Carabineros de Curicó y Talca</title>
@@ -88,13 +95,13 @@
   </entry>
   <entry>
     <title>Sobre Senado en pleno que abordará modificaciones a la Ley ...</title>
-    <id>urn:defensorias-americas:3390033377397419496</id>
+    <id>urn:defensorias-americas:1458842707086832012</id>
     <updated>2026-07-07T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>La Tercera | Defensoría de la Niñez reúne a especialistas...</title>
-    <id>urn:defensorias-americas:788617499056890060</id>
+    <id>urn:defensorias-americas:108142853062667538</id>
     <updated>2026-07-07T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -107,20 +114,13 @@
   </entry>
   <entry>
     <title>La Tercera | Columna de opinión: Legislar con la evidencia,...</title>
-    <id>urn:defensorias-americas:2011391799125969753</id>
+    <id>urn:defensorias-americas:-4360667177986646643</id>
     <updated>2026-07-06T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
-    <title>Director del INDH visita la región de Antofagasta: derecho a la vivienda, a la salud y medioambiente fueron los ejes centrales</title>
-    <id>https://www.indh.cl/director-indh-visita-antofagasta/</id>
-    <link href="https://www.indh.cl/director-indh-visita-antofagasta/" />
-    <updated>2026-07-06T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
     <title>TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:-3209389844498448993</id>
+    <id>urn:defensorias-americas:-40365995607902492</id>
     <updated>2026-06-21T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>

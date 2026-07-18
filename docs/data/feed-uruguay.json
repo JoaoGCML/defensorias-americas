@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.json",
   "items": [
     {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/hacia-sociedad-libre-racismo",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/hacia-sociedad-libre-racismo",
+      "title": "Hacia una sociedad libre de racismo",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/comunicados/irregularidades-residencial-personas-mayores-genera-alarma",
       "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/comunicados/irregularidades-residencial-personas-mayores-genera-alarma",
       "title": "Irregularidades en residencial de personas mayores genera alarma",
@@ -115,18 +127,6 @@
       "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/segunda-mesa-interinstitucional-chuy",
       "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/segunda-mesa-interinstitucional-chuy",
       "title": "Segunda mesa interinstitucional en Chuy",
-      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
-      "date_published": "2026-06-24T00:00:00",
-      "tags": [
-        "Uruguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/avances-perspectivas-del-repositorio-luisa-cuesta",
-      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/avances-perspectivas-del-repositorio-luisa-cuesta",
-      "title": "Avances y perspectivas del Repositorio Luisa Cuesta",
       "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
       "date_published": "2026-06-24T00:00:00",
       "tags": [

@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-rios-taller-atencion-publico/",
+      "url": "https://www.indh.cl/indh-rios-taller-atencion-publico/",
+      "title": "INDH Los Ríos impartió a funcionarias y funcionarios de instituciones de la región la segunda versión de taller de atención de público con enfoque de derechos humanos",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-07-17T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-araucania-recurso-agua-manio/",
       "url": "https://www.indh.cl/indh-araucania-recurso-agua-manio/",
       "title": "INDH de La Araucanía interpuso recurso de protección para que autoridades aseguren el acceso al agua de 2.300 personas en el sector rural Mañío de Temuco",
@@ -40,7 +52,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7797203737757917157",
+      "id": "urn:defensorias:6312729785778404150",
       "url": "",
       "title": "Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -52,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-570013808235159282",
+      "id": "urn:defensorias:5775076954178493708",
       "url": "",
       "title": "Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -112,7 +124,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2387075633218959988",
+      "id": "urn:defensorias:7909368855311762333",
       "url": "",
       "title": "Declaración pública de la Defensoría de la Niñez sobre el ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -132,7 +144,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -148,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3390033377397419496",
+      "id": "urn:defensorias:1458842707086832012",
       "url": "",
       "title": "Sobre Senado en pleno que abordará modificaciones a la Ley ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:788617499056890060",
+      "id": "urn:defensorias:108142853062667538",
       "url": "",
       "title": "La Tercera | Defensoría de la Niñez reúne a especialistas...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2011391799125969753",
+      "id": "urn:defensorias:-4360667177986646643",
       "url": "",
       "title": "La Tercera | Columna de opinión: Legislar con la evidencia,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,19 +208,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/director-indh-visita-antofagasta/",
-      "url": "https://www.indh.cl/director-indh-visita-antofagasta/",
-      "title": "Director del INDH visita la región de Antofagasta: derecho a la vivienda, a la salud y medioambiente fueron los ejes centrales",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-06T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-3209389844498448993",
+      "id": "urn:defensorias:-40365995607902492",
       "url": "",
       "title": "TVN | Entrevista al Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
