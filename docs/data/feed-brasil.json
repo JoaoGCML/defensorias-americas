@@ -4,7 +4,43 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
-      "id": "urn:defensorias:2998586617822377700",
+      "id": "https://defensoria.am.def.br/2026/07/18/defensoria-publica-realiza-atendimentos-juridicos-e-articula-criacao-de-unidade-em-anori/",
+      "url": "https://defensoria.am.def.br/2026/07/18/defensoria-publica-realiza-atendimentos-juridicos-e-articula-criacao-de-unidade-em-anori/",
+      "title": "Defensoria Pública realiza atendimentos jurídicos e articula criação de unidade em Anori",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-18T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/18/moradores-de-comunidades-da-rds-do-tupe-recebem-acao-de-regularizacao-fundiaria-da-defensoria/",
+      "url": "https://defensoria.am.def.br/2026/07/18/moradores-de-comunidades-da-rds-do-tupe-recebem-acao-de-regularizacao-fundiaria-da-defensoria/",
+      "title": "Moradores de comunidades da RDS do Tupé recebem ação de regularização fundiária da Defensoria",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-18T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/07/18/alunas-do-projeto-defensoras-populares-conhecem-atuacao-do-nudem-no-combate-a-violencia-contra-a-mulher/",
+      "url": "https://defensoria.am.def.br/2026/07/18/alunas-do-projeto-defensoras-populares-conhecem-atuacao-do-nudem-no-combate-a-violencia-contra-a-mulher/",
+      "title": "Alunas do Defensoras Populares conhecem atuação do Núcleo de Defesa dos Direitos da Mulher",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-07-18T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-3166770741874933168",
       "url": "",
       "title": "Defensoria encaminha à ANPD relatório sobre políticas de privacidade no comércio eletrônico e propõe diretrizes para o setor",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -136,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:672338288637267745",
+      "id": "urn:defensorias:-7274589184102605113",
       "url": "",
       "title": "17 de julho de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -148,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8804718386901829761",
+      "id": "urn:defensorias:2829610474254572604",
       "url": "",
       "title": "DPCE atualiza cronograma de chamamento para Grupo de Trabalho sobre sistema penitenciário",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -160,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3261348098790095400",
+      "id": "urn:defensorias:8567349630936080677",
       "url": "",
       "title": "Novas certidões marcam recomeços para participantes do Mutirão Transforma em Redenção",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -172,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6881168121284276691",
+      "id": "urn:defensorias:-9193708503431743932",
       "url": "",
       "title": "Prorrogadas até dia 24 as inscrições para mutirão de reconhecimento e investigação de paternidade",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -196,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2384930298176078470",
+      "id": "urn:defensorias:-3775115265903862018",
       "url": "",
       "title": "Defensoria abre pré-inscrições do #DáPraResolver em Avaré",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -256,7 +292,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7989359186770321525",
+      "id": "urn:defensorias:-8957047045400896679",
       "url": "",
       "title": "16 de julho de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -268,7 +304,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5281501815891634445",
+      "id": "urn:defensorias:-4366997884105830637",
       "url": "",
       "title": "Mutirão Transforma garante reconhecimento de identidade a 71 pessoas trans e travestis em Fortaleza",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -388,7 +424,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-723518103063057071",
+      "id": "urn:defensorias:1717543018941599856",
       "url": "",
       "title": "15 de julho de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -400,7 +436,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1397800578124882307",
+      "id": "urn:defensorias:8967562874758547976",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidade de posse em Morada Nova",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -412,7 +448,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7331560371891340123",
+      "id": "urn:defensorias:-1308448560860995007",
       "url": "",
       "title": "Assessoria de Estágio divulga resultados definitivos de seleções simplificadas de residentes jurídicos",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -424,7 +460,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8523923224590178671",
+      "id": "urn:defensorias:-5103425438483575944",
       "url": "",
       "title": "Defensorias do Ceará e da União alinham fluxo para ampliar atendimento a pessoas refugiadas",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -436,7 +472,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8603351323386050279",
+      "id": "urn:defensorias:-2360267115465829948",
       "url": "",
       "title": "Justiça determina construção de acesso viário à comunidade indígena em Ubatuba após ação da Defensoria Pública",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -532,7 +568,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3508330736458200355",
+      "id": "urn:defensorias:-8596696905483660613",
       "url": "",
       "title": "Defensoria articula ação inédita que leva atendimento de saúde a pessoas privadas de liberdade em CDP de Caraguatatuba",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -544,7 +580,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2976118111442285076",
+      "id": "urn:defensorias:-2829412506155639537",
       "url": "",
       "title": "Defensoria Pública de SP lança cartilha sobre ECA Digital no aniversário do Estatuto da Criança e do Adolescente",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -580,31 +616,7 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/07/13/defensoria-publica-garante-indenizacao-de-mais-de-r-400-mil-a-moradores-atingidos-por-desabamento-no-taruma/",
-      "url": "https://defensoria.am.def.br/2026/07/13/defensoria-publica-garante-indenizacao-de-mais-de-r-400-mil-a-moradores-atingidos-por-desabamento-no-taruma/",
-      "title": "Defensoria garante indenização de mais de R$ 400 mil a moradores por desabamento no Tarumã",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/07/13/em-guajara-defensoria-publica-realiza-acao-de-atendimentos-juridicos-a-partir-desta-quarta-feira-15-07/",
-      "url": "https://defensoria.am.def.br/2026/07/13/em-guajara-defensoria-publica-realiza-acao-de-atendimentos-juridicos-a-partir-desta-quarta-feira-15-07/",
-      "title": "Em Guajará, Defensoria realiza ação de atendimentos jurídicos a partir desta quarta-feira",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:2456948385874999935",
+      "id": "urn:defensorias:-1635949976286788856",
       "url": "",
       "title": "13 de julho de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -616,7 +628,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9136424874004762382",
+      "id": "urn:defensorias:-5396443748896728850",
       "url": "",
       "title": "Assessoria de Estágio divulga resultado final e homologação de seleção para estágio de pós-graduação em Direito",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -628,7 +640,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7591704885958379929",
+      "id": "urn:defensorias:1574385481119574826",
       "url": "",
       "title": "Assembleia Legislativa aprova projeto que moderniza a Lei Orgânica da Defensoria Pública do Ceará",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -640,7 +652,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7565457305858009837",
+      "id": "urn:defensorias:6699718238036676417",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Juazeiro do Norte e Crato",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -652,23 +664,11 @@
       ]
     },
     {
-      "id": "urn:defensorias:6342089771571866604",
+      "id": "urn:defensorias:-6103826211372415734",
       "url": "",
       "title": "Defensoria Pública acompanha novo fluxo que assegura manifestação prévia da instituição antes da nomeação de advogados dativos",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
       "date_published": "2026-07-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/07/12/mais-de-500-indigenas-se-reunem-em-autazes-e-apresentam-demandas-a-defensoria-publica/",
-      "url": "https://defensoria.am.def.br/2026/07/12/mais-de-500-indigenas-se-reunem-em-autazes-e-apresentam-demandas-a-defensoria-publica/",
-      "title": "Mais de 500 indígenas se reúnem em Autazes e apresentam demandas à Defensoria Pública",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-07-12T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",
@@ -724,7 +724,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7152961582218841374",
+      "id": "urn:defensorias:-1025846512004272198",
       "url": "",
       "title": "10 de julho de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -784,7 +784,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2325656328220873238",
+      "id": "urn:defensorias:3003167997530831169",
       "url": "",
       "title": "Defensoria Pública firma acordo em audiência sobre preservação do Casarão da Fazenda Bela Vista, em Araraquara",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -796,7 +796,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5534319671731976111",
+      "id": "urn:defensorias:9026723017315254184",
       "url": "",
       "title": "Defensoria obtém decisão que afasta cobrança de R$ 165 mil baseada em documentos internos de banco",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -832,7 +832,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-902473936430804415",
+      "id": "urn:defensorias:4201060725480218086",
       "url": "",
       "title": "Defensoria Pública inaugura posto de representação na Câmara Municipal de São Paulo",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
