@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Regional</title>
   <id>urn:defensorias-americas:prensa:regional</id>
-  <updated>2026-07-20T10:12:50Z</updated>
+  <updated>2026-07-21T09:27:35Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>130/26—CIDH publica acuerdo de solución amistosa sobre destitución disciplinaria de juez en Honduras</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/130.asp&amp;utm_content=country-hnd&amp;utm_term=class-sa</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/130.asp&amp;utm_content=country-hnd&amp;utm_term=class-sa" />
+    <updated>2026-07-20T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>129/26—CIDH publica acuerdo de solución amistosa sobre acceso oportuno a atención médica en Colombia</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/129.asp&amp;utm_content=country-col&amp;utm_term=class-sa</id>
@@ -129,13 +136,6 @@
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/117.asp&amp;utm_content=country-ven&amp;utm_term=class-mon</id>
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/117.asp&amp;utm_content=country-ven&amp;utm_term=class-mon" />
     <updated>2026-06-26T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>116/26—75 años después de su adopción, la Convención sobre los Refugiados sigue siendo tan crucial como siempre para la protección de los derechos de las personas refugiadas y solicitantes de asilo: ONU, CIDH y personas expertas regionales en derechos humanos</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/116.asp&amp;utm_term=class-dc</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/116.asp&amp;utm_term=class-dc" />
-    <updated>2026-06-25T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
 </feed>
