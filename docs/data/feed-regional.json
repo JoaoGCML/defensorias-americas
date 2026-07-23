@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/133.asp&utm_content=country-chl&utm_term=class-sa",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/133.asp&utm_content=country-chl&utm_term=class-sa",
+      "title": "133/26—CIDH publica acuerdo de solución amistosa sobre desaparición forzada de Juan Heredia durante la dictadura en Chile",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-07-22T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.rindhca.org/la-rindhca-y-la-corte-idh-celebraron-la-segunda-sesion-del-diplomado-sobre-derechos-politicos/",
       "url": "https://www.rindhca.org/la-rindhca-y-la-corte-idh-celebraron-la-segunda-sesion-del-diplomado-sobre-derechos-politicos/",
       "title": "La RINDHCA y la Corte IDH celebraron la segunda sesión del Diplomado sobre Derechos Políticos",
@@ -229,18 +241,6 @@
         "Regional",
         "Américas",
         "noticias"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/119.asp&utm_term=class-inst",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/119.asp&utm_term=class-inst",
-      "title": "R119/26—Lanzamiento de la Iniciativa Rickey Singh para la excelencia periodística en las Américas",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-06-26T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
       ]
     }
   ]

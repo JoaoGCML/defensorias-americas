@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Regional</title>
   <id>urn:defensorias-americas:prensa:regional</id>
-  <updated>2026-07-22T09:27:34Z</updated>
+  <updated>2026-07-23T09:25:30Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>133/26—CIDH publica acuerdo de solución amistosa sobre desaparición forzada de Juan Heredia durante la dictadura en Chile</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/133.asp&amp;utm_content=country-chl&amp;utm_term=class-sa</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/133.asp&amp;utm_content=country-chl&amp;utm_term=class-sa" />
+    <updated>2026-07-22T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>La RINDHCA y la Corte IDH celebraron la segunda sesión del Diplomado sobre Derechos Políticos</title>
     <id>https://www.rindhca.org/la-rindhca-y-la-corte-idh-celebraron-la-segunda-sesion-del-diplomado-sobre-derechos-politicos/</id>
@@ -137,12 +144,5 @@
     <link href="https://www.rindhca.org/instituciones-nacionales-de-derechos-humanos-avanzan-en-la-construccion-de-una-guia-regional-sobre-emergencias-ambientales/" />
     <updated>2026-06-29T00:00:00</updated>
     <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
-  </entry>
-  <entry>
-    <title>R119/26—Lanzamiento de la Iniciativa Rickey Singh para la excelencia periodística en las Américas</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/119.asp&amp;utm_term=class-inst</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/119.asp&amp;utm_term=class-inst" />
-    <updated>2026-06-26T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
 </feed>
