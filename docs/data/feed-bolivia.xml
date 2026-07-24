@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-07-23T09:25:30Z</updated>
+  <updated>2026-07-24T09:23:04Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>DEFENSORÍA DEL PUEBLO, GIZ Y EL VICEMINISTERIO DE IGUALDAD DE OPORTUNIDADES PROMUEVEN LA COMUNICACIÓN ESTRATÉGICA PARA FORTALECER LA INSTITUCIONALIDAD DEL ESTADO</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo,-giz-y-el-viceministerio-de-igualdad-de-oportunidades-promueven-la-comunicacion-estrategica-para-fortalecer-la-institucionalidad-del-estado</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo,-giz-y-el-viceministerio-de-igualdad-de-oportunidades-promueven-la-comunicacion-estrategica-para-fortalecer-la-institucionalidad-del-estado" />
+    <updated>2026-07-23T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensor del Pueblo plantea una gobernanza binacional entre Bolivia y Chile para proteger los derechos humanos de las personas migrantes</title>
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-plantea-una-gobernanza-binacional-entre-bolivia-y-chile-para-proteger-los-derechos-humanos-de-las-personas-migrantes</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-de-bolivia-y-nueva-consul-de-argentina-impulsan-agenda-de-coordinacion-en-derechos-humanos</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-de-bolivia-y-nueva-consul-de-argentina-impulsan-agenda-de-coordinacion-en-derechos-humanos" />
     <updated>2026-07-16T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>SOBRE EL PROYECTO DE LEY DE ESTERILIZACIÓN DE MUJERES EN SITUACIÓN DE CALLE (PRONUNCIAMIENTO)</title>
-    <id>https://www.defensoria.gob.bo/noticias/sobre-el-proyecto-de-ley-de-esterilizacion-de-mujeres-en-situacion-de-callepronunciamiento-</id>
-    <link href="https://www.defensoria.gob.bo/noticias/sobre-el-proyecto-de-ley-de-esterilizacion-de-mujeres-en-situacion-de-callepronunciamiento-" />
-    <updated>2026-07-14T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
