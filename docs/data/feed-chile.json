@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/declaracion-del-consejo-del-indh-2/",
+      "url": "https://www.indh.cl/declaracion-del-consejo-del-indh-2/",
+      "title": "Declaración del Consejo del INDH",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-07-24T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/comunicado-3/",
+      "url": "https://www.indh.cl/comunicado-3/",
+      "title": "Comunicado",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-07-24T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-premio-nacional-2026-alicia-lira/",
       "url": "https://www.indh.cl/indh-premio-nacional-2026-alicia-lira/",
       "title": "Presidenta de la Agrupación de Familiares de Ejecutados Políticos (AFEP) Alicia Lira Matus recibió el Premio Nacional de Derechos Humanos 2026",
@@ -52,19 +76,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/comunicado-2/",
-      "url": "https://www.indh.cl/comunicado-2/",
-      "title": "Comunicado",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-14T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:7334700400574700919",
+      "id": "urn:defensorias:-8742915493086185290",
       "url": "",
       "title": "Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -76,7 +88,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3582450306036502888",
+      "id": "urn:defensorias:922750103723942442",
       "url": "",
       "title": "Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -108,7 +120,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -120,7 +132,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -136,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6499960031010261499",
+      "id": "urn:defensorias:2280977820415288676",
       "url": "",
       "title": "Declaración pública de la Defensoría de la Niñez sobre el ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1049510114148059730",
+      "id": "urn:defensorias:5597439255587729953",
       "url": "",
       "title": "Sobre Senado en pleno que abordará modificaciones a la Ley ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8637475501189917499",
+      "id": "urn:defensorias:-5718758351408102276",
       "url": "",
       "title": "La Tercera | Defensoría de la Niñez reúne a especialistas...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3601986103181957424",
+      "id": "urn:defensorias:-9194297845974429811",
       "url": "",
       "title": "La Tercera | Columna de opinión: Legislar con la evidencia,...",
       "summary": "Defensoría de la Niñez (Chile)",

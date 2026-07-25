@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-07-24T09:23:04Z</updated>
+  <updated>2026-07-25T09:03:37Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Declaración del Consejo del INDH</title>
+    <id>https://www.indh.cl/declaracion-del-consejo-del-indh-2/</id>
+    <link href="https://www.indh.cl/declaracion-del-consejo-del-indh-2/" />
+    <updated>2026-07-24T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Comunicado</title>
+    <id>https://www.indh.cl/comunicado-3/</id>
+    <link href="https://www.indh.cl/comunicado-3/" />
+    <updated>2026-07-24T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
   <entry>
     <title>Presidenta de la Agrupación de Familiares de Ejecutados Políticos (AFEP) Alicia Lira Matus recibió el Premio Nacional de Derechos Humanos 2026</title>
     <id>https://www.indh.cl/indh-premio-nacional-2026-alicia-lira/</id>
@@ -34,21 +48,14 @@
     <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
   </entry>
   <entry>
-    <title>Comunicado</title>
-    <id>https://www.indh.cl/comunicado-2/</id>
-    <link href="https://www.indh.cl/comunicado-2/" />
-    <updated>2026-07-14T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
     <title>Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:7334700400574700919</id>
+    <id>urn:defensorias-americas:-8742915493086185290</id>
     <updated>2026-07-13T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...</title>
-    <id>urn:defensorias-americas:-3582450306036502888</id>
+    <id>urn:defensorias-americas:922750103723942442</id>
     <updated>2026-07-10T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -64,14 +71,14 @@
     <id>https://www.indh.cl/indh-rios-reunio-corporacion-sur/</id>
     <link href="https://www.indh.cl/indh-rios-reunio-corporacion-sur/" />
     <updated>2026-07-10T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>INDH Atacama desarrolló jornada de formación y diálogo por el Día del Orgullo LGBTIQA+ en Huasco</title>
     <id>https://www.indh.cl/indh-atacama-jornada-dia-orgullo/</id>
     <link href="https://www.indh.cl/indh-atacama-jornada-dia-orgullo/" />
     <updated>2026-07-10T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>INDH Coquimbo difundió material de lectura y promoción de los derechos humanos en bibliotecas de la región</title>
@@ -82,7 +89,7 @@
   </entry>
   <entry>
     <title>Declaración pública de la Defensoría de la Niñez sobre el ...</title>
-    <id>urn:defensorias-americas:6499960031010261499</id>
+    <id>urn:defensorias-americas:2280977820415288676</id>
     <updated>2026-07-09T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -102,13 +109,13 @@
   </entry>
   <entry>
     <title>Sobre Senado en pleno que abordará modificaciones a la Ley ...</title>
-    <id>urn:defensorias-americas:1049510114148059730</id>
+    <id>urn:defensorias-americas:5597439255587729953</id>
     <updated>2026-07-07T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>La Tercera | Defensoría de la Niñez reúne a especialistas...</title>
-    <id>urn:defensorias-americas:-8637475501189917499</id>
+    <id>urn:defensorias-americas:-5718758351408102276</id>
     <updated>2026-07-07T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -121,7 +128,7 @@
   </entry>
   <entry>
     <title>La Tercera | Columna de opinión: Legislar con la evidencia,...</title>
-    <id>urn:defensorias-americas:-3601986103181957424</id>
+    <id>urn:defensorias-americas:-9194297845974429811</id>
     <updated>2026-07-06T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
