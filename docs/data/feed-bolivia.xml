@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-07-25T09:03:37Z</updated>
+  <updated>2026-07-26T09:13:27Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>MÁS DE 500 DEFENSORAS Y DEFENSORES ESTUDIANTILES APORTARON PROPUESTAS PARA FORTALECER LA PREVENCIÓN DE LA VIOLENCIA EN UNIDADES EDUCATIVAS</title>
+    <id>https://www.defensoria.gob.bo/noticias/mas-de-500-defensoras-y-defensores-estudiantiles-aportaron-propuestas-para-fortalecer-la-prevencion-de-la-violencia-en-unidades-educativas</id>
+    <link href="https://www.defensoria.gob.bo/noticias/mas-de-500-defensoras-y-defensores-estudiantiles-aportaron-propuestas-para-fortalecer-la-prevencion-de-la-violencia-en-unidades-educativas" />
+    <updated>2026-07-25T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>SOBRE LA PROTECCIÓN DE LOS DERECHOS DE LA MADRE TIERRA Y LA PARTICIPACIÓN EN LA FORMULACIÓN DE POLÍTICAS PÚBLICAS (PRONUNCIAMIENTO)</title>
     <id>https://www.defensoria.gob.bo/noticias/sobre-la-proteccion-de-los-derechos-de-la-madre-tierra-y-la-participacion-en-la-formulacion-de-politicas-publicaspronunciamiento-</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-insta-al-gobierno-a-garantizar-la-proteccion-consular-de-ciudadanos-bolivianos-presuntamente-reclutados-mediante-enganyos-para-el-conflicto-belico-en-rusia</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-insta-al-gobierno-a-garantizar-la-proteccion-consular-de-ciudadanos-bolivianos-presuntamente-reclutados-mediante-enganyos-para-el-conflicto-belico-en-rusia" />
     <updated>2026-07-17T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>DEFENSOR DEL PUEBLO RATIFICA DEFENSA DE TARIQUÍA Y PRESENTA RECURSO DE CASACIÓN</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-ratifica-defensa-de-tariquia-y-presenta-recurso-de-casacion</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-ratifica-defensa-de-tariquia-y-presenta-recurso-de-casacion" />
-    <updated>2026-07-16T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
