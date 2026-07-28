@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-07-27T10:44:05Z</updated>
+  <updated>2026-07-28T09:37:45Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>INDH La Araucanía ofició a la Superintendencia de Electricidad y Combustibles por interrupciones de suministro eléctrico que afectaron a más de 24 mil hogares de la región</title>
+    <id>https://www.indh.cl/indh-araucania-superintendencia-electricidad/</id>
+    <link href="https://www.indh.cl/indh-araucania-superintendencia-electricidad/" />
+    <updated>2026-07-27T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Corte de Temuco admitió a trámite recurso de INDH y ordenó restablecer suministro de camiones con agua potable para residentes del sector Mañío</title>
+    <id>https://www.indh.cl/indh-araucania-recurso-agua-manio/</id>
+    <link href="https://www.indh.cl/indh-araucania-recurso-agua-manio/" />
+    <updated>2026-07-27T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>INDH de Los Lagos ofició a Servicio de Salud por caso de violencia obstétrica que afectó a mujer con discapacidad: tuvo que parir en su domicilio por falta de atención</title>
+    <id>https://www.indh.cl/indh-lagos-oficio-salud-violencia-obstetrica/</id>
+    <link href="https://www.indh.cl/indh-lagos-oficio-salud-violencia-obstetrica/" />
+    <updated>2026-07-27T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
   <entry>
     <title>Declaración del Consejo del INDH</title>
     <id>https://www.indh.cl/declaracion-del-consejo-del-indh-2/</id>
@@ -34,13 +55,6 @@
     <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
   </entry>
   <entry>
-    <title>INDH de La Araucanía interpuso recurso de protección para que autoridades aseguren el acceso al agua de 2.300 personas en el sector rural Mañío de Temuco</title>
-    <id>https://www.indh.cl/indh-araucania-recurso-agua-manio/</id>
-    <link href="https://www.indh.cl/indh-araucania-recurso-agua-manio/" />
-    <updated>2026-07-15T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
     <title>INDH y Servicio Nacional del Patrimonio Cultural comenzaron curso con personal de museos para introducir estándares de derechos humanos en su trabajo cotidiano</title>
     <id>https://www.indh.cl/indh-patrimonio-curso-museos/</id>
     <link href="https://www.indh.cl/indh-patrimonio-curso-museos/" />
@@ -49,13 +63,13 @@
   </entry>
   <entry>
     <title>Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:3777542912194747162</id>
+    <id>urn:defensorias-americas:-5136459214541130655</id>
     <updated>2026-07-13T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...</title>
-    <id>urn:defensorias-americas:1251215486341519244</id>
+    <id>urn:defensorias-americas:4557608516889493014</id>
     <updated>2026-07-10T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -64,7 +78,7 @@
     <id>https://www.indh.cl/aula-viva-indh-los-lagos/</id>
     <link href="https://www.indh.cl/aula-viva-indh-los-lagos/" />
     <updated>2026-07-10T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>INDH Los Ríos se reunió con Corporación Sur Memoria y Dignidad, que inició el proceso para incorporarse al Registro de Organizaciones del INDH</title>
@@ -89,7 +103,7 @@
   </entry>
   <entry>
     <title>Declaración pública de la Defensoría de la Niñez sobre el ...</title>
-    <id>urn:defensorias-americas:6367860551204876231</id>
+    <id>urn:defensorias-americas:2863654167169020114</id>
     <updated>2026-07-09T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -109,26 +123,19 @@
   </entry>
   <entry>
     <title>Sobre Senado en pleno que abordará modificaciones a la Ley ...</title>
-    <id>urn:defensorias-americas:-1617806717709299645</id>
+    <id>urn:defensorias-americas:4226552958591718868</id>
     <updated>2026-07-07T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>La Tercera | Defensoría de la Niñez reúne a especialistas...</title>
-    <id>urn:defensorias-americas:8790274317268004708</id>
+    <id>urn:defensorias-americas:-3123401142010218051</id>
     <updated>2026-07-07T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
-    <title>INDH Antofagasta, Corporación LGBT+LIBRE y la Biblioteca Regional promovieron diálogo sobre derechos humanos y diversidad a través de la literatura</title>
-    <id>https://www.indh.cl/indh-antofagasta-dialogo-literatura/</id>
-    <link href="https://www.indh.cl/indh-antofagasta-dialogo-literatura/" />
-    <updated>2026-07-07T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
     <title>La Tercera | Columna de opinión: Legislar con la evidencia,...</title>
-    <id>urn:defensorias-americas:9135593936598516859</id>
+    <id>urn:defensorias-americas:-764302362721465076</id>
     <updated>2026-07-06T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
