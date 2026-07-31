@@ -4,7 +4,19 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "urn:defensorias:7704073034318889256",
+      "id": "https://www.indh.cl/escurrimientos-aguas-indh-antofagasta/",
+      "url": "https://www.indh.cl/escurrimientos-aguas-indh-antofagasta/",
+      "title": "Escurrimientos de aguas servidas en San Pedro de Atacama: INDH Antofagasta informó a las comunidades sobre las gestiones para evitar nuevos episodios",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-07-30T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-5861284781791880599",
       "url": "",
       "title": "Cooperativa | Violencia escolar: Defensor de la Niñez criticó recorte...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -16,7 +28,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3981691143812952070",
+      "id": "urn:defensorias:569647335888181034",
       "url": "",
       "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -112,19 +124,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-patrimonio-curso-museos/",
-      "url": "https://www.indh.cl/indh-patrimonio-curso-museos/",
-      "title": "INDH y Servicio Nacional del Patrimonio Cultural comenzaron curso con personal de museos para introducir estándares de derechos humanos en su trabajo cotidiano",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-15T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-5444139252594210814",
+      "id": "urn:defensorias:-6680430942491106212",
       "url": "",
       "title": "Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2915693193369116690",
+      "id": "urn:defensorias:8657209623129401804",
       "url": "",
       "title": "Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5003324478971149910",
+      "id": "urn:defensorias:8685054956191559609",
       "url": "",
       "title": "Declaración pública de la Defensoría de la Niñez sobre el ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,19 +220,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-capacitaciones-carabineros-curico-talca/",
-      "url": "https://www.indh.cl/indh-capacitaciones-carabineros-curico-talca/",
-      "title": "INDH Maule realizó capacitaciones sobre derechos humanos a personal de Carabineros de Curicó y Talca",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-5317150635064080120",
+      "id": "urn:defensorias:-9137714824761182734",
       "url": "",
       "title": "Sobre Senado en pleno que abordará modificaciones a la Ley ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1528028512760755900",
+      "id": "urn:defensorias:-4109950172726489588",
       "url": "",
       "title": "La Tercera | Defensoría de la Niñez reúne a especialistas...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7812118818103361730",
+      "id": "urn:defensorias:5933507275149996133",
       "url": "",
       "title": "La Tercera | Columna de opinión: Legislar con la evidencia,...",
       "summary": "Defensoría de la Niñez (Chile)",
