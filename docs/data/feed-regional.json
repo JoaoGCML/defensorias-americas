@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/151.asp&utm_term=class-mon",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/151.asp&utm_term=class-mon",
+      "title": "R151/26—La RELE condena los asesinatos periodistas en México y Colombia y llama a los Estados a continuar investigando y tomando medidas urgentes de protección para la prensa",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-07-31T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/150.asp&utm_term=class-ef",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/150.asp&utm_term=class-ef",
+      "title": "150/26—CIDH recuerda los estándares interamericanos sobre los derechos territoriales de las mujeres afrodescendientes",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-07-31T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/149.asp&utm_content=country-slv",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/149.asp&utm_content=country-slv",
       "title": "149/26—CIDH otorga medidas cautelares a Elmer Concepción Romero Yanes en El Salvador",
@@ -117,30 +141,6 @@
       "title": "141/26—CIDH presenta caso a la Corte IDH sobre tortura y muerte de Juan Carlos Aliaga Mera en Perú",
       "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
       "date_published": "2026-07-29T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/140.asp&utm_content=country-gtm&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/140.asp&utm_content=country-gtm&utm_term=class-corteidh",
-      "title": "140/26—CIDH presenta caso a la Corte IDH sobre desaparición forzada y ejecución extrajudicial de los hermanos Caxaj Rodríguez en Guatemala",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-07-28T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/139.asp&utm_content=country-ven",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/139.asp&utm_content=country-ven",
-      "title": "139/26—Venezuela: CIDH y REDESCA llaman a fortalecer la respuesta humanitaria y la protección de derechos tras los terremotos",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-07-28T00:00:00",
       "tags": [
         "Regional",
         "Américas",

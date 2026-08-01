@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-07-31T09:46:20Z</updated>
+  <updated>2026-08-01T09:06:54Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>DEFENSORÍA DEL PUEBLO ACTIVA NUTRIDA AGENDA DE DERECHOS HUMANOS EN LA 30.ª FIL LA PAZ</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-activa-nutrida-agenda-de-derechos-humanos-en-la-30-%C2%AA-fil-la-paz</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-activa-nutrida-agenda-de-derechos-humanos-en-la-30-%C2%AA-fil-la-paz" />
+    <updated>2026-07-31T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>DEFENSORÍA DEL PUEBLO EXHORTA AL ESTADO REACTIVAR POLÍTICAS PÚBLICAS CONTRA LA TRATA DE PERSONAS</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-exhorta-al-estado-reactivar-politicas-publicas-contra-la-trata-de-personas</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/pronunciamientodefensoria-del-pueblo-exhorta-a-la-articulacion-interinstitucional-para-la-atencion-de-la-emergencia-por-incendios-forestales</id>
     <link href="https://www.defensoria.gob.bo/noticias/pronunciamientodefensoria-del-pueblo-exhorta-a-la-articulacion-interinstitucional-para-la-atencion-de-la-emergencia-por-incendios-forestales" />
     <updated>2026-07-21T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo reafirma la necesidad de garantizar la consulta previa y los derechos ambientales en proyectos extractivos</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-reafirma-la-necesidad-de-garantizar-la-consulta-previa-y-los-derechos-ambientales-en-proyectos-extractivos</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-reafirma-la-necesidad-de-garantizar-la-consulta-previa-y-los-derechos-ambientales-en-proyectos-extractivos" />
-    <updated>2026-07-20T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>

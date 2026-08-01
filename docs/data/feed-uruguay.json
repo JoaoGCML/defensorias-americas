@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.json",
   "items": [
     {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/ha-sido-sueno-sarandi-grande",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/ha-sido-sueno-sarandi-grande",
+      "title": "Ha sido un sueño en Sarandí Grande",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-07-29T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/sites/institucion-nacional-derechos-humanos-uruguay/files/2026-07/20260713_residencialCayetano.pdf",
       "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/sites/institucion-nacional-derechos-humanos-uruguay/files/2026-07/20260713_residencialCayetano.pdf",
       "title": "Comunicado ante hechos en el Residencial Cayetano (.pdf 95.56 KB)",
@@ -33,6 +45,18 @@
       "title": "Hacia una sociedad libre de racismo",
       "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
       "date_published": "2026-07-15T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/segunda-sesion-ordinaria-del-consejo-nacional-genero",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/segunda-sesion-ordinaria-del-consejo-nacional-genero",
+      "title": "Segunda sesión ordinaria del Consejo Nacional de Género",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-07-14T00:00:00",
       "tags": [
         "Uruguay",
         "Sudamérica",
