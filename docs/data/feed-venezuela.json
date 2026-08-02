@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.json",
   "items": [
     {
+      "id": "http://www.defensoria.gob.ve/?p=20204",
+      "url": "http://www.defensoria.gob.ve/?p=20204",
+      "title": "Defensoría del Pueblo realizó jornada simultánea de prevención de la trata de personas en Caracas y 13 estados del país",
+      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
+      "date_published": "2026-08-01T00:00:00",
+      "tags": [
+        "Venezuela",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "http://www.defensoria.gob.ve/?p=20178",
       "url": "http://www.defensoria.gob.ve/?p=20178",
       "title": "Defensoría del Pueblo continúa con despliegue de sus brigadas defensoriales en campamentos temporales de Caraballeda, El Junquito y Caracas",
