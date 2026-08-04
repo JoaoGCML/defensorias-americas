@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Regional</title>
   <id>urn:defensorias-americas:prensa:regional</id>
-  <updated>2026-08-03T10:43:51Z</updated>
+  <updated>2026-08-04T09:39:56Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>La RINDHCA inaugura su Encuentro Anual 2026 con un llamado a fortalecer el rol de las INDH frente a las emergencias climáticas</title>
+    <id>https://www.rindhca.org/la-rindhca-inaugura-su-encuentro-anual-2026-con-un-llamado-a-fortalecer-el-rol-de-las-indh-frente-a-las-emergencias-climaticas/</id>
+    <link href="https://www.rindhca.org/la-rindhca-inaugura-su-encuentro-anual-2026-con-un-llamado-a-fortalecer-el-rol-de-las-indh-frente-a-las-emergencias-climaticas/" />
+    <updated>2026-08-03T00:00:00</updated>
+    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
+  </entry>
+  <entry>
+    <title>153/26—CIDH presenta a Corte IDH caso por lesiones a una persona por agentes policiales y falta de acceso a la justicia en Perú</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/153.asp&amp;utm_content=country-per&amp;utm_term=class-corteidh</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/153.asp&amp;utm_content=country-per&amp;utm_term=class-corteidh" />
+    <updated>2026-08-03T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
+  <entry>
+    <title>152/26—Nicaragua: CIDH repudia reforma constitucional dirigida a institucionalizar la permanencia indefinida en el poder</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/152.asp&amp;utm_content=country-nic&amp;utm_term=class-mon</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/152.asp&amp;utm_content=country-nic&amp;utm_term=class-mon" />
+    <updated>2026-08-03T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>R151/26—La RELE condena los asesinatos periodistas en México y Colombia y llama a los Estados a continuar investigando y tomando medidas urgentes de protección para la prensa</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/151.asp&amp;utm_term=class-mon</id>
@@ -72,20 +93,6 @@
     <title>143/26—CIDH presenta a Corte IDH caso por cese arbitrario en el ejercicio de funciones de magistrado de la Corte Suprema en El Salvador</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/143.asp&amp;utm_content=country-slv&amp;utm_term=class-corteidh</id>
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/143.asp&amp;utm_content=country-slv&amp;utm_term=class-corteidh" />
-    <updated>2026-07-29T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>142/26—CIDH anuncia la segunda edición del ciclo de eventos Reflexiones y experiencias para una justicia oportuna en la CIDH y presenta avances en el sistema de peticiones y casos</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/142.asp</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/142.asp" />
-    <updated>2026-07-29T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>141/26—CIDH presenta caso a la Corte IDH sobre tortura y muerte de Juan Carlos Aliaga Mera en Perú</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/141.asp&amp;utm_content=country-per&amp;utm_term=class-corteidh</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/141.asp&amp;utm_content=country-per&amp;utm_term=class-corteidh" />
     <updated>2026-07-29T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
