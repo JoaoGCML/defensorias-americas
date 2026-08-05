@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Uruguay</title>
   <id>urn:defensorias-americas:prensa:uruguay</id>
-  <updated>2026-08-04T09:39:56Z</updated>
+  <updated>2026-08-05T09:37:48Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Día Mundial contra la Trata de Personas</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/dia-mundial-contra-trata-personas-0</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/dia-mundial-contra-trata-personas-0" />
+    <updated>2026-07-31T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
+  </entry>
   <entry>
     <title>Se presentó informe con recomendaciones para fortalecer las políticas educativas desde una perspectiva étnico-racial</title>
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/se-presento-informe-recomendaciones-para-fortalecer-politicas-educativas</id>
@@ -80,13 +87,6 @@
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-inicia-tareas-del-grupo-trabajo-sobre-salud-mental-derechos-humanos</id>
     <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-inicia-tareas-del-grupo-trabajo-sobre-salud-mental-derechos-humanos" />
     <updated>2026-07-09T00:00:00</updated>
-    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
-  </entry>
-  <entry>
-    <title>INDDHH e Intendencia de Florida firman convenio de cooperación</title>
-    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-intendencia-florida-firman-convenio-cooperacion</id>
-    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-intendencia-florida-firman-convenio-cooperacion" />
-    <updated>2026-07-08T00:00:00</updated>
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>
 </feed>

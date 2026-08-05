@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-08-04T09:39:56Z</updated>
+  <updated>2026-08-05T09:37:48Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
+    <title>INDH Atacama realizó una jornada de difusión para prevenir y denunciar la trata de personas</title>
+    <id>https://www.indh.cl/indh-atacama-jornada-prevenir-trata/</id>
+    <link href="https://www.indh.cl/indh-atacama-jornada-prevenir-trata/" />
+    <updated>2026-08-04T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
     <title>Concurso de fotografía invita a niños, niñas y adolescentes de ...</title>
-    <id>urn:defensorias-americas:-7370097749725978863</id>
+    <id>urn:defensorias-americas:-3753868210415019315</id>
     <updated>2026-08-03T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -20,13 +27,13 @@
   </entry>
   <entry>
     <title>Cooperativa | Violencia escolar: Defensor de la Niñez criticó recorte...</title>
-    <id>urn:defensorias-americas:1758717019954313214</id>
+    <id>urn:defensorias-americas:7276518513020957195</id>
     <updated>2026-07-29T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio Universo | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:-6076601994274295493</id>
+    <id>urn:defensorias-americas:1337287254227298583</id>
     <updated>2026-07-29T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -77,17 +84,17 @@
     <id>https://www.indh.cl/indh-rios-taller-atencion-publico/</id>
     <link href="https://www.indh.cl/indh-rios-taller-atencion-publico/" />
     <updated>2026-07-17T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:8749222810267673928</id>
+    <id>urn:defensorias-americas:-322580599163978154</id>
     <updated>2026-07-13T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...</title>
-    <id>urn:defensorias-americas:-4702458140215606853</id>
+    <id>urn:defensorias-americas:2149977816135691501</id>
     <updated>2026-07-10T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -121,33 +128,20 @@
   </entry>
   <entry>
     <title>Declaración pública de la Defensoría de la Niñez sobre el ...</title>
-    <id>urn:defensorias-americas:-8660999391141421062</id>
+    <id>urn:defensorias-americas:4478345262654117544</id>
     <updated>2026-07-09T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
-    <title>INDH Aysén presentó su Cuenta Pública 2025 destacando acciones judiciales de protección y respuesta a más de 500 solicitudes de la ciudadanía</title>
-    <id>https://www.indh.cl/indh-aysen-cuenta-publica-2025/</id>
-    <link href="https://www.indh.cl/indh-aysen-cuenta-publica-2025/" />
-    <updated>2026-07-09T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
     <title>Sobre Senado en pleno que abordará modificaciones a la Ley ...</title>
-    <id>urn:defensorias-americas:-3129773914704078514</id>
+    <id>urn:defensorias-americas:-8518840825949759586</id>
     <updated>2026-07-07T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>La Tercera | Defensoría de la Niñez reúne a especialistas...</title>
-    <id>urn:defensorias-americas:2677659947911197543</id>
+    <id>urn:defensorias-americas:8475267168458085960</id>
     <updated>2026-07-07T00:00:00</updated>
-    <summary>Defensoría de la Niñez (Chile) — prensa</summary>
-  </entry>
-  <entry>
-    <title>La Tercera | Columna de opinión: Legislar con la evidencia,...</title>
-    <id>urn:defensorias-americas:4143105669107527373</id>
-    <updated>2026-07-06T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
 </feed>

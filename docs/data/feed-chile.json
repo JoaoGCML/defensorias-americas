@@ -4,7 +4,19 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "urn:defensorias:-7370097749725978863",
+      "id": "https://www.indh.cl/indh-atacama-jornada-prevenir-trata/",
+      "url": "https://www.indh.cl/indh-atacama-jornada-prevenir-trata/",
+      "title": "INDH Atacama realizó una jornada de difusión para prevenir y denunciar la trata de personas",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-04T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-3753868210415019315",
       "url": "",
       "title": "Concurso de fotografía invita a niños, niñas y adolescentes de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -28,7 +40,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1758717019954313214",
+      "id": "urn:defensorias:7276518513020957195",
       "url": "",
       "title": "Cooperativa | Violencia escolar: Defensor de la Niñez criticó recorte...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -40,7 +52,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6076601994274295493",
+      "id": "urn:defensorias:1337287254227298583",
       "url": "",
       "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -132,11 +144,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:8749222810267673928",
+      "id": "urn:defensorias:-322580599163978154",
       "url": "",
       "title": "Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -148,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4702458140215606853",
+      "id": "urn:defensorias:2149977816135691501",
       "url": "",
       "title": "Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8660999391141421062",
+      "id": "urn:defensorias:4478345262654117544",
       "url": "",
       "title": "Declaración pública de la Defensoría de la Niñez sobre el ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,19 +232,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-aysen-cuenta-publica-2025/",
-      "url": "https://www.indh.cl/indh-aysen-cuenta-publica-2025/",
-      "title": "INDH Aysén presentó su Cuenta Pública 2025 destacando acciones judiciales de protección y respuesta a más de 500 solicitudes de la ciudadanía",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-09T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-3129773914704078514",
+      "id": "urn:defensorias:-8518840825949759586",
       "url": "",
       "title": "Sobre Senado en pleno que abordará modificaciones a la Ley ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,23 +244,11 @@
       ]
     },
     {
-      "id": "urn:defensorias:2677659947911197543",
+      "id": "urn:defensorias:8475267168458085960",
       "url": "",
       "title": "La Tercera | Defensoría de la Niñez reúne a especialistas...",
       "summary": "Defensoría de la Niñez (Chile)",
       "date_published": "2026-07-07T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:4143105669107527373",
-      "url": "",
-      "title": "La Tercera | Columna de opinión: Legislar con la evidencia,...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-07-06T00:00:00",
       "tags": [
         "Chile",
         "Sudamérica",
