@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-08-05T09:37:48Z</updated>
+  <updated>2026-08-06T09:41:06Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo establece mesa de trabajo para atender peticiones de sus jubilados</title>
+    <id>http://www.defensoria.gob.ve/?p=20208</id>
+    <link href="http://www.defensoria.gob.ve/?p=20208" />
+    <updated>2026-08-05T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo realizó jornada simultánea de prevención de la trata de personas en Caracas y 13 estados del país</title>
     <id>http://www.defensoria.gob.ve/?p=20204</id>

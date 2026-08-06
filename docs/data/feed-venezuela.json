@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.json",
   "items": [
     {
+      "id": "http://www.defensoria.gob.ve/?p=20208",
+      "url": "http://www.defensoria.gob.ve/?p=20208",
+      "title": "Defensoría del Pueblo establece mesa de trabajo para atender peticiones de sus jubilados",
+      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
+      "date_published": "2026-08-05T00:00:00",
+      "tags": [
+        "Venezuela",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "http://www.defensoria.gob.ve/?p=20204",
       "url": "http://www.defensoria.gob.ve/?p=20204",
       "title": "Defensoría del Pueblo realizó jornada simultánea de prevención de la trata de personas en Caracas y 13 estados del país",

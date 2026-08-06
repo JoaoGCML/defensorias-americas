@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Américas</title>
   <id>urn:defensorias-americas:prensa:americas</id>
-  <updated>2026-08-05T09:37:48Z</updated>
+  <updated>2026-08-06T09:41:06Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-americas.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>RINDHCA llevó ante la CIDH la situación de las Instituciones Nacionales de Derechos Humanos en las Américas</title>
+    <id>https://www.rindhca.org/rindhca-llevo-ante-la-cidh-la-situacion-de-las-instituciones-nacionales-de-derechos-humanos-en-las-americas/</id>
+    <link href="https://www.rindhca.org/rindhca-llevo-ante-la-cidh-la-situacion-de-las-instituciones-nacionales-de-derechos-humanos-en-las-americas/" />
+    <updated>2026-08-05T00:00:00</updated>
+    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
+  </entry>
   <entry>
     <title>Declaración de la RINDHCA 01/2026 de ciudad Asunción sobre los Derechos Humanos de las Personas y Pueblos Afrodescendientes: Hacia Una Agenda Regional de Igualdad y Justicia Racial</title>
     <id>https://www.rindhca.org/declaracion-de-la-rindhca-01-2026-de-ciudad-asuncion-sobre-los-derechos-humanos-de-las-personas-y-pueblos-afrodescendientes-hacia-una-agenda-regional-de-igualdad-y-justicia-racial/</id>
@@ -109,13 +116,6 @@
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/144.asp&amp;utm_content=country-mex&amp;utm_term=class-corteidh" />
     <updated>2026-07-30T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>RINDHCA realizó la tercera sesión del Diplomado sobre Derechos Políticos en la Jurisprudencia de la Corte Interamericana de Derechos Humanos</title>
-    <id>https://www.rindhca.org/rindhca-realizo-la-tercera-sesion-del-diplomado-sobre-derechos-politicos-en-la-jurisprudencia-de-la-corte-interamericana-de-derechos-humanos/</id>
-    <link href="https://www.rindhca.org/rindhca-realizo-la-tercera-sesion-del-diplomado-sobre-derechos-politicos-en-la-jurisprudencia-de-la-corte-interamericana-de-derechos-humanos/" />
-    <updated>2026-07-29T00:00:00</updated>
-    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
   </entry>
   <entry>
     <title>143/26—CIDH presenta a Corte IDH caso por cese arbitrario en el ejercicio de funciones de magistrado de la Corte Suprema en El Salvador</title>
