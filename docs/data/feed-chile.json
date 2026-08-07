@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-atacama-taller-estandares-convivencia-escolar/",
+      "url": "https://www.indh.cl/indh-atacama-taller-estandares-convivencia-escolar/",
+      "title": "INDH Atacama realizó un taller sobre estándares internacionales aplicados a la convivencia escolar con 60 docentes",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-06T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/director-indh-expone-comision-camara/",
       "url": "https://www.indh.cl/director-indh-expone-comision-camara/",
       "title": "Director del INDH expone observaciones al proyecto que busca reformar al Instituto ante Comisión de Derechos Humanos de la Cámara",
@@ -28,7 +40,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6843361697577368495",
+      "id": "urn:defensorias:6860117177319948026",
       "url": "",
       "title": "Concurso de fotografía invita a niños, niñas y adolescentes de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -52,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-778508815763103807",
+      "id": "urn:defensorias:-2643860318901374223",
       "url": "",
       "title": "Cooperativa | Violencia escolar: Defensor de la Niñez criticó recorte...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -64,7 +76,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3572600056272857900",
+      "id": "urn:defensorias:4426509753490265297",
       "url": "",
       "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -124,18 +136,6 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/comunicado-3/",
-      "url": "https://www.indh.cl/comunicado-3/",
-      "title": "Comunicado",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-24T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.indh.cl/indh-rios-taller-atencion-publico/",
       "url": "https://www.indh.cl/indh-rios-taller-atencion-publico/",
       "title": "INDH Los Ríos impartió a funcionarias y funcionarios de instituciones de la región la segunda versión de taller de atención de público con enfoque de derechos humanos",
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3726256821211162403",
+      "id": "urn:defensorias:2651703326309840318",
       "url": "",
       "title": "Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5280129327154159439",
+      "id": "urn:defensorias:-2586657820736921141",
       "url": "",
       "title": "Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,19 +208,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-coquimbo-material-lectura/",
-      "url": "https://www.indh.cl/indh-coquimbo-material-lectura/",
-      "title": "INDH Coquimbo difundió material de lectura y promoción de los derechos humanos en bibliotecas de la región",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:5305778763091786849",
+      "id": "urn:defensorias:8650089785599931750",
       "url": "",
       "title": "Declaración pública de la Defensoría de la Niñez sobre el ...",
       "summary": "Defensoría de la Niñez (Chile)",
