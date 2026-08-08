@@ -4,6 +4,42 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-antofagasta-escuela-de-formacion/",
+      "url": "https://www.indh.cl/indh-antofagasta-escuela-de-formacion/",
+      "title": "INDH Antofagasta comenzó la Escuela de Formación en Derechos Humanos para dirigentes sociales de la región",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-07T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-los-lagos-jornada-corte/",
+      "url": "https://www.indh.cl/indh-los-lagos-jornada-corte/",
+      "title": "INDH de Los Lagos expuso sobre acceso a la justicia de personas y comunidades indígenas en jornada que organizó la Corte de Apelaciones de Puerto Montt",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-07T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-biobio-cuenta-publica-2025/",
+      "url": "https://www.indh.cl/indh-biobio-cuenta-publica-2025/",
+      "title": "INDH Biobío realizó su Cuenta Pública 2025 destacando la participación de más de mil personas en actividades de promoción de los derechos humanos",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-07T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-atacama-taller-estandares-convivencia-escolar/",
       "url": "https://www.indh.cl/indh-atacama-taller-estandares-convivencia-escolar/",
       "title": "INDH Atacama realizó un taller sobre estándares internacionales aplicados a la convivencia escolar con 60 docentes",
@@ -40,7 +76,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6860117177319948026",
+      "id": "urn:defensorias:2850647279087371489",
       "url": "",
       "title": "Concurso de fotografía invita a niños, niñas y adolescentes de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -64,7 +100,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2643860318901374223",
+      "id": "urn:defensorias:-8675114847418599161",
       "url": "",
       "title": "Cooperativa | Violencia escolar: Defensor de la Niñez criticó recorte...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -76,7 +112,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4426509753490265297",
+      "id": "urn:defensorias:1304210941200680415",
       "url": "",
       "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -100,18 +136,6 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-araucania-recurso-agua-manio/",
-      "url": "https://www.indh.cl/indh-araucania-recurso-agua-manio/",
-      "title": "Corte de Temuco admitió a trámite recurso de INDH y ordenó restablecer suministro de camiones con agua potable para residentes del sector Mañío",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-27T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.indh.cl/indh-lagos-oficio-salud-violencia-obstetrica/",
       "url": "https://www.indh.cl/indh-lagos-oficio-salud-violencia-obstetrica/",
       "title": "INDH de Los Lagos ofició a Servicio de Salud por caso de violencia obstétrica que afectó a mujer con discapacidad: tuvo que parir en su domicilio por falta de atención",
@@ -120,19 +144,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/declaracion-del-consejo-del-indh-2/",
-      "url": "https://www.indh.cl/declaracion-del-consejo-del-indh-2/",
-      "title": "Declaración del Consejo del INDH",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-24T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -148,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2651703326309840318",
+      "id": "urn:defensorias:8012040286188376492",
       "url": "",
       "title": "Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,59 +172,11 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2586657820736921141",
+      "id": "urn:defensorias:4851696648379146995",
       "url": "",
       "title": "Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...",
       "summary": "Defensoría de la Niñez (Chile)",
       "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/aula-viva-indh-los-lagos/",
-      "url": "https://www.indh.cl/aula-viva-indh-los-lagos/",
-      "title": "“Aula Viva”: INDH Los Lagos realiza proyecto que busca fortalecer la defensa ambiental desde la perspectiva de derechos humanos",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-rios-reunio-corporacion-sur/",
-      "url": "https://www.indh.cl/indh-rios-reunio-corporacion-sur/",
-      "title": "INDH Los Ríos se reunió con Corporación Sur Memoria y Dignidad, que inició el proceso para incorporarse al Registro de Organizaciones del INDH",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-atacama-jornada-dia-orgullo/",
-      "url": "https://www.indh.cl/indh-atacama-jornada-dia-orgullo/",
-      "title": "INDH Atacama desarrolló jornada de formación y diálogo por el Día del Orgullo LGBTIQA+ en Huasco",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-10T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:8650089785599931750",
-      "url": "",
-      "title": "Declaración pública de la Defensoría de la Niñez sobre el ...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-07-09T00:00:00",
       "tags": [
         "Chile",
         "Sudamérica",

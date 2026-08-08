@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-08-07T08:15:17Z</updated>
+  <updated>2026-08-08T07:50:57Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>INDH Antofagasta comenzó la Escuela de Formación en Derechos Humanos para dirigentes sociales de la región</title>
+    <id>https://www.indh.cl/indh-antofagasta-escuela-de-formacion/</id>
+    <link href="https://www.indh.cl/indh-antofagasta-escuela-de-formacion/" />
+    <updated>2026-08-07T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>INDH de Los Lagos expuso sobre acceso a la justicia de personas y comunidades indígenas en jornada que organizó la Corte de Apelaciones de Puerto Montt</title>
+    <id>https://www.indh.cl/indh-los-lagos-jornada-corte/</id>
+    <link href="https://www.indh.cl/indh-los-lagos-jornada-corte/" />
+    <updated>2026-08-07T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>INDH Biobío realizó su Cuenta Pública 2025 destacando la participación de más de mil personas en actividades de promoción de los derechos humanos</title>
+    <id>https://www.indh.cl/indh-biobio-cuenta-publica-2025/</id>
+    <link href="https://www.indh.cl/indh-biobio-cuenta-publica-2025/" />
+    <updated>2026-08-07T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
   <entry>
     <title>INDH Atacama realizó un taller sobre estándares internacionales aplicados a la convivencia escolar con 60 docentes</title>
     <id>https://www.indh.cl/indh-atacama-taller-estandares-convivencia-escolar/</id>
@@ -28,7 +49,7 @@
   </entry>
   <entry>
     <title>Concurso de fotografía invita a niños, niñas y adolescentes de ...</title>
-    <id>urn:defensorias-americas:6860117177319948026</id>
+    <id>urn:defensorias-americas:2850647279087371489</id>
     <updated>2026-08-03T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -41,13 +62,13 @@
   </entry>
   <entry>
     <title>Cooperativa | Violencia escolar: Defensor de la Niñez criticó recorte...</title>
-    <id>urn:defensorias-americas:-2643860318901374223</id>
+    <id>urn:defensorias-americas:-8675114847418599161</id>
     <updated>2026-07-29T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio Universo | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:4426509753490265297</id>
+    <id>urn:defensorias-americas:1304210941200680415</id>
     <updated>2026-07-29T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -59,25 +80,11 @@
     <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
   </entry>
   <entry>
-    <title>Corte de Temuco admitió a trámite recurso de INDH y ordenó restablecer suministro de camiones con agua potable para residentes del sector Mañío</title>
-    <id>https://www.indh.cl/indh-araucania-recurso-agua-manio/</id>
-    <link href="https://www.indh.cl/indh-araucania-recurso-agua-manio/" />
-    <updated>2026-07-27T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
     <title>INDH de Los Lagos ofició a Servicio de Salud por caso de violencia obstétrica que afectó a mujer con discapacidad: tuvo que parir en su domicilio por falta de atención</title>
     <id>https://www.indh.cl/indh-lagos-oficio-salud-violencia-obstetrica/</id>
     <link href="https://www.indh.cl/indh-lagos-oficio-salud-violencia-obstetrica/" />
     <updated>2026-07-27T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Declaración del Consejo del INDH</title>
-    <id>https://www.indh.cl/declaracion-del-consejo-del-indh-2/</id>
-    <link href="https://www.indh.cl/declaracion-del-consejo-del-indh-2/" />
-    <updated>2026-07-24T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>INDH Los Ríos impartió a funcionarias y funcionarios de instituciones de la región la segunda versión de taller de atención de público con enfoque de derechos humanos</title>
@@ -88,41 +95,14 @@
   </entry>
   <entry>
     <title>Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:2651703326309840318</id>
+    <id>urn:defensorias-americas:8012040286188376492</id>
     <updated>2026-07-13T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Defensor de la Niñez desarrolló agenda en Antofagasta para fortalecer ...</title>
-    <id>urn:defensorias-americas:-2586657820736921141</id>
+    <id>urn:defensorias-americas:4851696648379146995</id>
     <updated>2026-07-10T00:00:00</updated>
-    <summary>Defensoría de la Niñez (Chile) — noticias</summary>
-  </entry>
-  <entry>
-    <title>“Aula Viva”: INDH Los Lagos realiza proyecto que busca fortalecer la defensa ambiental desde la perspectiva de derechos humanos</title>
-    <id>https://www.indh.cl/aula-viva-indh-los-lagos/</id>
-    <link href="https://www.indh.cl/aula-viva-indh-los-lagos/" />
-    <updated>2026-07-10T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
-    <title>INDH Los Ríos se reunió con Corporación Sur Memoria y Dignidad, que inició el proceso para incorporarse al Registro de Organizaciones del INDH</title>
-    <id>https://www.indh.cl/indh-rios-reunio-corporacion-sur/</id>
-    <link href="https://www.indh.cl/indh-rios-reunio-corporacion-sur/" />
-    <updated>2026-07-10T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
-    <title>INDH Atacama desarrolló jornada de formación y diálogo por el Día del Orgullo LGBTIQA+ en Huasco</title>
-    <id>https://www.indh.cl/indh-atacama-jornada-dia-orgullo/</id>
-    <link href="https://www.indh.cl/indh-atacama-jornada-dia-orgullo/" />
-    <updated>2026-07-10T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
-    <title>Declaración pública de la Defensoría de la Niñez sobre el ...</title>
-    <id>urn:defensorias-americas:8650089785599931750</id>
-    <updated>2026-07-09T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
 </feed>
