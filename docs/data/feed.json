@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-acciones-ante-incendio-forestal-en-canaris/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-acciones-ante-incendio-forestal-en-canaris/",
+      "title": "Defensoría del Pueblo supervisa acciones ante incendio forestal en Cañaris",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-08-08T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.pe/sullana-defensoria-del-pueblo-pide-acelerar-investigaciones-por-muerte-de-comerciante-en-curumuy/",
       "url": "https://www.defensoria.gob.pe/sullana-defensoria-del-pueblo-pide-acelerar-investigaciones-por-muerte-de-comerciante-en-curumuy/",
       "title": "Sullana: Defensoría del Pueblo pide acelerar investigaciones por muerte de comerciante en Curumuy",
@@ -11,6 +23,18 @@
       "date_published": "2026-08-08T00:00:00",
       "tags": [
         "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "http://www.defensoria.gob.ve/?p=20233",
+      "url": "http://www.defensoria.gob.ve/?p=20233",
+      "title": "Defensoría del Pueblo y Gobernación de La Guaira evalúan fases por venir tras sismo del 24 de junio",
+      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
+      "date_published": "2026-08-08T00:00:00",
+      "tags": [
+        "Venezuela",
         "Sudamérica",
         "noticias"
       ]
@@ -40,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2661366231724667883",
+      "id": "urn:defensorias:-2698202836454292277",
       "url": "",
       "title": "Ribeirão Preto está com as inscrições abertas para o circuito de atendimentos #DáPraResolver da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -52,7 +76,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4303399947452861035",
+      "id": "urn:defensorias:-470283668039104493",
       "url": "",
       "title": "Defensoria de SP lança relatório para ampliar atendimento a mulheres em situação de violência doméstica",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -140,18 +164,6 @@
       "url": "https://defensoria.am.def.br/2026/08/07/em-novo-airao-defensoria-publica-realiza-inspecao-carceraria-na-delegacia-do-municipio/",
       "title": "Em Novo Airão, Defensoria Pública realiza inspeção carcerária na delegacia do município",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-07T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.rs.def.br/defensoria-publica-entrega-selo-ao-instituto-contemporaneo-por-parceria-no-combate-a-violencia-contra-as-mulheres",
-      "url": "https://www.defensoria.rs.def.br/defensoria-publica-entrega-selo-ao-instituto-contemporaneo-por-parceria-no-combate-a-violencia-contra-as-mulheres",
-      "title": "Defensoria Pública entrega selo ao Instituto Contemporâneo por parceria no combate à violência contra as mulheres",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
       "date_published": "2026-08-07T00:00:00",
       "tags": [
         "Brasil",
@@ -508,18 +520,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.rs.def.br/defensoria-publica-de-marcelino-ramos-retoma-atividades-em-novo-endereco-nesta-quinta-feira",
-      "url": "https://www.defensoria.rs.def.br/defensoria-publica-de-marcelino-ramos-retoma-atividades-em-novo-endereco-nesta-quinta-feira",
-      "title": "Defensoria Pública de Marcelino Ramos retoma atividades em novo endereço, nesta quinta-feira",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
-      "date_published": "2026-08-06T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.indh.cl/indh-atacama-taller-estandares-convivencia-escolar/",
       "url": "https://www.indh.cl/indh-atacama-taller-estandares-convivencia-escolar/",
       "title": "INDH Atacama realizó un taller sobre estándares internacionales aplicados a la convivencia escolar con 60 docentes",
@@ -532,7 +532,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3230784395273727158",
+      "id": "urn:defensorias:-4576618255962784111",
       "url": "",
       "title": "Noticias 6 de agosto de 2026 Paraguay hizo historia como sede del Encuentro Anual y Asamblea General de la RINDHCA 2026 Los días 3 y 4 de agosto de 20",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -604,7 +604,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4119922378506093014",
+      "id": "urn:defensorias:3715648177659740538",
       "url": "",
       "title": "Unidade São José do Rio Preto da Defensoria pede plano para transformar imóveis abandonados do município em moradia social",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -676,18 +676,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.rs.def.br/visando-combater-a-violencia-de-genero-acordo-entre-dpe-rs-e-famurs-preve-educacao-em-direitos-em-escolas-municipais-gauchas",
-      "url": "https://www.defensoria.rs.def.br/visando-combater-a-violencia-de-genero-acordo-entre-dpe-rs-e-famurs-preve-educacao-em-direitos-em-escolas-municipais-gauchas",
-      "title": "Visando combater a violência de gênero, acordo entre DPE/RS e Famurs prevê educação em direitos em escolas municipais gaúchas",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
-      "date_published": "2026-08-05T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.indh.cl/director-indh-expone-comision-camara/",
       "url": "https://www.indh.cl/director-indh-expone-comision-camara/",
       "title": "Director del INDH expone observaciones al proyecto que busca reformar al Instituto ante Comisión de Derechos Humanos de la Cámara",
@@ -700,7 +688,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1133224666452851408",
+      "id": "urn:defensorias:-6972073621260833003",
       "url": "",
       "title": "Noticias 5 de agosto de 2026 La Defensoría del Pueblo acompañó los avances de la Jornada II de la RINDHCA 2026 en materia ambiental y afrodescendiente",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -880,7 +868,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8156427106078287235",
+      "id": "urn:defensorias:-3332958909779613807",
       "url": "",
       "title": "Noticias 4 de agosto de 2026 La Defensoría del Pueblo lidera en Paraguay el debate regional sobre derechos humanos y emergencias climáticas Bajo el le",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -895,18 +883,6 @@
       "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-al-poder-judicial-a-garantizar-atencion-ininterrumpida-de-casos-de-personas-detenidas-durante-actividades-por-el-dia-del-juez-2/",
       "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-al-poder-judicial-a-garantizar-atencion-ininterrumpida-de-casos-de-personas-detenidas-durante-actividades-por-el-dia-del-juez-2/",
       "title": "Defensoría del Pueblo exhorta al Poder Judicial a garantizar atención ininterrumpida de casos de personas detenidas durante actividades por el día del Juez",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-08-04T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/el-estado-y-la-sociedad-deben-garantizar-proteccion-justicia-y-cero-tolerancia-frente-a-la-violencia-sexual-contra-las-mujeres/",
-      "url": "https://www.defensoria.gob.pe/el-estado-y-la-sociedad-deben-garantizar-proteccion-justicia-y-cero-tolerancia-frente-a-la-violencia-sexual-contra-las-mujeres/",
-      "title": "El Estado y la sociedad deben garantizar protección, justicia y tolerancia cero frente a la violencia sexual contra las mujeres",
       "summary": "Defensoría del Pueblo del Perú (Perú)",
       "date_published": "2026-08-04T00:00:00",
       "tags": [
@@ -1012,7 +988,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8445217472631811798",
+      "id": "urn:defensorias:2845722468077132567",
       "url": "",
       "title": "Defensoria de SP obtém no STJ suspensão de encaminhamento de criança para adoção",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1120,7 +1096,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2850647279087371489",
+      "id": "urn:defensorias:8819057832142849150",
       "url": "",
       "title": "Concurso de fotografía invita a niños, niñas y adolescentes de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -1201,6 +1177,30 @@
         "Regional",
         "Américas",
         "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-insta-a-fortalecer-la-gestion-publica-para-prevenir-el-ciclo-recurrente-de-conflictos",
+      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-insta-a-fortalecer-la-gestion-publica-para-prevenir-el-ciclo-recurrente-de-conflictos",
+      "title": "DEFENSORÍA DEL PUEBLO INSTA A FORTALECER LA GESTIÓN PÚBLICA PARA PREVENIR EL CICLO RECURRENTE DE CONFLICTOS",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-08-01T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32869-DPRJ-obtem-na-Justica-tutela-de-urgencia-que-determina-o-restabelecimento-imediato-de-energia",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32869-DPRJ-obtem-na-Justica-tutela-de-urgencia-que-determina-o-restabelecimento-imediato-de-energia",
+      "title": "DPRJ obtém na Justiça tutela de urgência que determina o restabelecimento imediato de energia",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-08-01T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
       ]
     }
   ]
