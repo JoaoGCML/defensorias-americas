@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-08-10T08:27:46Z</updated>
+  <updated>2026-08-11T08:10:31Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>DEFENSOR DEL PUEBLO INSTA AL ÓRGANO JUDICIAL, RÉGIMEN PENITENCIARIO Y FISCALÍA A ATENDER LA CRISIS ESTRUCTURAL DEL SISTEMA PENITENCIARIO</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-insta-al-organo-judicial,-regimen-penitenciario-y-fiscalia-a-atender-la-crisis-estructural-del-sistema-penitenciario</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-insta-al-organo-judicial,-regimen-penitenciario-y-fiscalia-a-atender-la-crisis-estructural-del-sistema-penitenciario" />
+    <updated>2026-08-10T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>DEFENSORÍA DEL PUEBLO LANZA EL 5TO FESTIVAL CULTURAL DE ARTES EN LENGUA DE SEÑAS BOLIVIANA PARA PROMOVER LOS DERECHOS DE LAS PERSONAS SORDAS</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-lanza-el-5to-festival-cultural-de-artes-en-lengua-de-senyas-boliviana-para-promover-los-derechos-de-las-personas-sordas</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-activa-nutrida-agenda-de-derechos-humanos-en-la-30-%C2%AA-fil-la-paz</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-activa-nutrida-agenda-de-derechos-humanos-en-la-30-%C2%AA-fil-la-paz" />
     <updated>2026-07-31T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>DEFENSORÍA DEL PUEBLO EXHORTA AL ESTADO REACTIVAR POLÍTICAS PÚBLICAS CONTRA LA TRATA DE PERSONAS</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-exhorta-al-estado-reactivar-politicas-publicas-contra-la-trata-de-personas</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-exhorta-al-estado-reactivar-politicas-publicas-contra-la-trata-de-personas" />
-    <updated>2026-07-30T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>

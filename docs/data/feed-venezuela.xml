@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-08-10T08:27:46Z</updated>
+  <updated>2026-08-11T08:10:31Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo dictará Diplomado en Derechos Humanos a bachilleres y personal del Sepinami en Los Teques</title>
+    <id>http://www.defensoria.gob.ve/?p=20239</id>
+    <link href="http://www.defensoria.gob.ve/?p=20239" />
+    <updated>2026-08-10T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo y Gobernación de La Guaira evalúan fases por venir tras sismo del 24 de junio</title>
     <id>http://www.defensoria.gob.ve/?p=20233</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=20178</id>
     <link href="http://www.defensoria.gob.ve/?p=20178" />
     <updated>2026-07-23T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo despliega puntos fijos de atención en campamentos de La Guaira</title>
-    <id>http://www.defensoria.gob.ve/?p=20143</id>
-    <link href="http://www.defensoria.gob.ve/?p=20143" />
-    <updated>2026-07-13T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>

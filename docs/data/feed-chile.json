@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-antofagasta-senama-taller-personas-mayores/",
+      "url": "https://www.indh.cl/indh-antofagasta-senama-taller-personas-mayores/",
+      "title": "INDH de Antofagasta y Senama realizaron taller sobre derechos de las personas mayores",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-10T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-araucania-resultados-arte/",
+      "url": "https://www.indh.cl/indh-araucania-resultados-arte/",
+      "title": "INDH de La Araucanía informa resultados de concurso de “Arte y Derechos Humanos”: ceremonia de premiación se realizará el 18 de agosto en la Universidad de La Frontera",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-10T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-antofagasta-escuela-de-formacion/",
       "url": "https://www.indh.cl/indh-antofagasta-escuela-de-formacion/",
       "title": "INDH Antofagasta comenzó la Escuela de Formación en Derechos Humanos para dirigentes sociales de la región",
@@ -76,7 +100,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4460396928633296117",
+      "id": "urn:defensorias:-8995223767843135279",
       "url": "",
       "title": "Concurso de fotografía invita a niños, niñas y adolescentes de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -96,11 +120,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:3280428786262269968",
+      "id": "urn:defensorias:7645650050412684768",
       "url": "",
       "title": "Cooperativa | Violencia escolar: Defensor de la Niñez criticó recorte...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -112,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6948450358545145762",
+      "id": "urn:defensorias:-795098246468526196",
       "url": "",
       "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -121,18 +145,6 @@
         "Chile",
         "Sudamérica",
         "prensa"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-araucania-superintendencia-electricidad/",
-      "url": "https://www.indh.cl/indh-araucania-superintendencia-electricidad/",
-      "title": "INDH La Araucanía ofició a la Superintendencia de Electricidad y Combustibles por interrupciones de suministro eléctrico que afectaron a más de 24 mil hogares de la región",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-27T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
       ]
     },
     {
@@ -148,19 +160,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-rios-taller-atencion-publico/",
-      "url": "https://www.indh.cl/indh-rios-taller-atencion-publico/",
-      "title": "INDH Los Ríos impartió a funcionarias y funcionarios de instituciones de la región la segunda versión de taller de atención de público con enfoque de derechos humanos",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-17T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-6226911339635459632",
+      "id": "urn:defensorias:6078209342009382989",
       "url": "",
       "title": "Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...",
       "summary": "Defensoría de la Niñez (Chile)",

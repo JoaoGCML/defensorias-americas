@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/155.asp&utm_content=country-gtm&utm_term=class-corteidh",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/155.asp&utm_content=country-gtm&utm_term=class-corteidh",
+      "title": "155/26—CIDH presenta a Corte IDH caso por desaparición y tortura de estudiantes, durante el conflicto armado en Guatemala",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-08-10T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/154.asp&utm_content=country-ven&utm_term=class-corteidh",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/154.asp&utm_content=country-ven&utm_term=class-corteidh",
+      "title": "154/26—CIDH presenta a la Corte IDH caso por detención arbitraria y tortura de Gustavo Carrero, teniente de Fragata, en Venezuela",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-08-10T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.rindhca.org/la-rindhca-y-la-corte-idh-desarrollaron-la-cuarta-sesion-del-diplomado-sobre-derechos-politicos/",
       "url": "https://www.rindhca.org/la-rindhca-y-la-corte-idh-desarrollaron-la-cuarta-sesion-del-diplomado-sobre-derechos-politicos/",
       "title": "La RINDHCA y la Corte IDH desarrollaron la cuarta sesión del Diplomado sobre Derechos Políticos",
@@ -225,30 +249,6 @@
       "title": "141/26—CIDH presenta caso a la Corte IDH sobre tortura y muerte de Juan Carlos Aliaga Mera en Perú",
       "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
       "date_published": "2026-07-29T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/140.asp&utm_content=country-gtm&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/140.asp&utm_content=country-gtm&utm_term=class-corteidh",
-      "title": "140/26—CIDH presenta caso a la Corte IDH sobre desaparición forzada y ejecución extrajudicial de los hermanos Caxaj Rodríguez en Guatemala",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-07-28T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/139.asp&utm_content=country-ven",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/139.asp&utm_content=country-ven",
-      "title": "139/26—Venezuela: CIDH y REDESCA llaman a fortalecer la respuesta humanitaria y la protección de derechos tras los terremotos",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-07-28T00:00:00",
       "tags": [
         "Regional",
         "Américas",

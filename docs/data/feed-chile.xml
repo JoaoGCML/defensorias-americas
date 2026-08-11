@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-08-10T08:27:46Z</updated>
+  <updated>2026-08-11T08:10:31Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>INDH de Antofagasta y Senama realizaron taller sobre derechos de las personas mayores</title>
+    <id>https://www.indh.cl/indh-antofagasta-senama-taller-personas-mayores/</id>
+    <link href="https://www.indh.cl/indh-antofagasta-senama-taller-personas-mayores/" />
+    <updated>2026-08-10T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>INDH de La Araucanía informa resultados de concurso de “Arte y Derechos Humanos”: ceremonia de premiación se realizará el 18 de agosto en la Universidad de La Frontera</title>
+    <id>https://www.indh.cl/indh-araucania-resultados-arte/</id>
+    <link href="https://www.indh.cl/indh-araucania-resultados-arte/" />
+    <updated>2026-08-10T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
   <entry>
     <title>INDH Antofagasta comenzó la Escuela de Formación en Derechos Humanos para dirigentes sociales de la región</title>
     <id>https://www.indh.cl/indh-antofagasta-escuela-de-formacion/</id>
@@ -49,7 +63,7 @@
   </entry>
   <entry>
     <title>Concurso de fotografía invita a niños, niñas y adolescentes de ...</title>
-    <id>urn:defensorias-americas:-4460396928633296117</id>
+    <id>urn:defensorias-americas:-8995223767843135279</id>
     <updated>2026-08-03T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -58,26 +72,19 @@
     <id>https://www.indh.cl/escurrimientos-aguas-indh-antofagasta/</id>
     <link href="https://www.indh.cl/escurrimientos-aguas-indh-antofagasta/" />
     <updated>2026-07-30T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>Cooperativa | Violencia escolar: Defensor de la Niñez criticó recorte...</title>
-    <id>urn:defensorias-americas:3280428786262269968</id>
+    <id>urn:defensorias-americas:7645650050412684768</id>
     <updated>2026-07-29T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio Universo | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:-6948450358545145762</id>
+    <id>urn:defensorias-americas:-795098246468526196</id>
     <updated>2026-07-29T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
-  </entry>
-  <entry>
-    <title>INDH La Araucanía ofició a la Superintendencia de Electricidad y Combustibles por interrupciones de suministro eléctrico que afectaron a más de 24 mil hogares de la región</title>
-    <id>https://www.indh.cl/indh-araucania-superintendencia-electricidad/</id>
-    <link href="https://www.indh.cl/indh-araucania-superintendencia-electricidad/" />
-    <updated>2026-07-27T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>INDH de Los Lagos ofició a Servicio de Salud por caso de violencia obstétrica que afectó a mujer con discapacidad: tuvo que parir en su domicilio por falta de atención</title>
@@ -87,15 +94,8 @@
     <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
-    <title>INDH Los Ríos impartió a funcionarias y funcionarios de instituciones de la región la segunda versión de taller de atención de público con enfoque de derechos humanos</title>
-    <id>https://www.indh.cl/indh-rios-taller-atencion-publico/</id>
-    <link href="https://www.indh.cl/indh-rios-taller-atencion-publico/" />
-    <updated>2026-07-17T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
     <title>Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:-6226911339635459632</id>
+    <id>urn:defensorias-americas:6078209342009382989</id>
     <updated>2026-07-13T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
