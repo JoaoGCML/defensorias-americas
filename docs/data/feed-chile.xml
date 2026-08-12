@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-08-11T08:10:31Z</updated>
+  <updated>2026-08-12T08:18:39Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Protección de la niñez y la juventud: más de 65 personas que trabajan en el sector público con niñas, niños y adolescentes participaron de instancia de formación organizada por el INDH de Antofagasta</title>
+    <id>https://www.indh.cl/indh-antofagasta-proteccion-65-personas/</id>
+    <link href="https://www.indh.cl/indh-antofagasta-proteccion-65-personas/" />
+    <updated>2026-08-11T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
   <entry>
     <title>INDH de Antofagasta y Senama realizaron taller sobre derechos de las personas mayores</title>
     <id>https://www.indh.cl/indh-antofagasta-senama-taller-personas-mayores/</id>
@@ -59,11 +66,11 @@
     <id>https://www.indh.cl/indh-atacama-jornada-prevenir-trata/</id>
     <link href="https://www.indh.cl/indh-atacama-jornada-prevenir-trata/" />
     <updated>2026-08-04T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>Concurso de fotografía invita a niños, niñas y adolescentes de ...</title>
-    <id>urn:defensorias-americas:-8995223767843135279</id>
+    <id>urn:defensorias-americas:3021217655660472852</id>
     <updated>2026-08-03T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -76,27 +83,14 @@
   </entry>
   <entry>
     <title>Cooperativa | Violencia escolar: Defensor de la Niñez criticó recorte...</title>
-    <id>urn:defensorias-americas:7645650050412684768</id>
+    <id>urn:defensorias-americas:-2890167040691559924</id>
     <updated>2026-07-29T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio Universo | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:-795098246468526196</id>
+    <id>urn:defensorias-americas:-101837294905943013</id>
     <updated>2026-07-29T00:00:00</updated>
-    <summary>Defensoría de la Niñez (Chile) — prensa</summary>
-  </entry>
-  <entry>
-    <title>INDH de Los Lagos ofició a Servicio de Salud por caso de violencia obstétrica que afectó a mujer con discapacidad: tuvo que parir en su domicilio por falta de atención</title>
-    <id>https://www.indh.cl/indh-lagos-oficio-salud-violencia-obstetrica/</id>
-    <link href="https://www.indh.cl/indh-lagos-oficio-salud-violencia-obstetrica/" />
-    <updated>2026-07-27T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
-    <title>Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...</title>
-    <id>urn:defensorias-americas:6078209342009382989</id>
-    <updated>2026-07-13T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
 </feed>

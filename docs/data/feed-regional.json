@@ -4,6 +4,54 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/159.asp&utm_content=country-col&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/159.asp&utm_content=country-col&utm_term=class-mc",
+      "title": "159/26—CIDH otorga medidas cautelares a Rodrigo Antonio López Estrada y Jesús Antonio Pacheco Oviedo, en Colombia",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-08-11T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/158.asp&utm_content=country-col&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/158.asp&utm_content=country-col&utm_term=class-mc",
+      "title": "158/26—CIDH otorga medidas cautelares a Rosa Morales Rincón en Colombia",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-08-11T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/157.asp&utm_content=country-col&utm_term=class-corteidh",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/157.asp&utm_content=country-col&utm_term=class-corteidh",
+      "title": "157/26—CIDH presenta caso a la Corte IDH sobre asesinato de Carlos Pizarro, candidato presidencial en Colombia",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-08-11T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/156.asp&utm_content=country-nic&utm_term=class-mp",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/156.asp&utm_content=country-nic&utm_term=class-mp",
+      "title": "156/26—CIDH solicita a Corte IDH ampliar medidas provisionales para Monseñor Juan Abelardo Mata y cuatro personas más en Nicaragua",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-08-11T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/155.asp&utm_content=country-gtm&utm_term=class-corteidh",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/155.asp&utm_content=country-gtm&utm_term=class-corteidh",
       "title": "155/26—CIDH presenta a Corte IDH caso por desaparición y tortura de estudiantes, durante el conflicto armado en Guatemala",
@@ -201,54 +249,6 @@
       "title": "145/26—CIDH da seguimiento y amplía medidas cautelares sobre la familia Rivera Escolar en Colombia",
       "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
       "date_published": "2026-07-30T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/144.asp&utm_content=country-mex&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/144.asp&utm_content=country-mex&utm_term=class-corteidh",
-      "title": "144/26—CIDH presenta caso a la Corte IDH sobre ejecución extrajudicial de Víctor Emmanuel Torres Leyva en México",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-07-30T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/143.asp&utm_content=country-slv&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/143.asp&utm_content=country-slv&utm_term=class-corteidh",
-      "title": "143/26—CIDH presenta a Corte IDH caso por cese arbitrario en el ejercicio de funciones de magistrado de la Corte Suprema en El Salvador",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-07-29T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/142.asp",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/142.asp",
-      "title": "142/26—CIDH anuncia la segunda edición del ciclo de eventos Reflexiones y experiencias para una justicia oportuna en la CIDH y presenta avances en el sistema de peticiones y casos",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-07-29T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/141.asp&utm_content=country-per&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/141.asp&utm_content=country-per&utm_term=class-corteidh",
-      "title": "141/26—CIDH presenta caso a la Corte IDH sobre tortura y muerte de Juan Carlos Aliaga Mera en Perú",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-07-29T00:00:00",
       "tags": [
         "Regional",
         "Américas",

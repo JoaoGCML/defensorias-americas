@@ -4,11 +4,23 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-paraguay.json",
   "items": [
     {
-      "id": "urn:defensorias:7578086405345561733",
-      "url": "",
-      "title": "Noticias 10 de agosto de 2026 Defensoría del Pueblo recabó información sobre el funcionamiento de comedores comunitarios Funcionarios de la Dirección",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-08-10T00:00:00",
+      "id": "https://mnp.gov.py/mnp-recoge-las-voces-de-ninos-ninas-y-adolescentes-en-cuidado-alternativo/",
+      "url": "https://mnp.gov.py/mnp-recoge-las-voces-de-ninos-ninas-y-adolescentes-en-cuidado-alternativo/",
+      "title": "MNP recoge las voces de niños, niñas y adolescentes en cuidado alternativo en Boquerón",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-08-11T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://mnp.gov.py/canindeyu-cine-debate-sobre-las-familias-de-personas-privadas-de-libertad/",
+      "url": "https://mnp.gov.py/canindeyu-cine-debate-sobre-las-familias-de-personas-privadas-de-libertad/",
+      "title": "Canindeyú: cine debate sobre las familias de personas privadas de libertad",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-08-11T00:00:00",
       "tags": [
         "Paraguay",
         "Sudamérica",
@@ -40,18 +52,6 @@
       ]
     },
     {
-      "id": "urn:defensorias:8053680354507296377",
-      "url": "",
-      "title": "Noticias 6 de agosto de 2026 Paraguay hizo historia como sede del Encuentro Anual y Asamblea General de la RINDHCA 2026 Los días 3 y 4 de agosto de 20",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-08-06T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://mnp.gov.py/avanza-diplomado-que-busca-fortalecer-la-formacion-en-justicia-penal-adolescente-con-enfoque-restaurativo/",
       "url": "https://mnp.gov.py/avanza-diplomado-que-busca-fortalecer-la-formacion-en-justicia-penal-adolescente-con-enfoque-restaurativo/",
       "title": "Avanza diplomado que busca fortalecer la formación en justicia penal adolescente con enfoque restaurativo",
@@ -64,35 +64,11 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7113402785102370204",
-      "url": "",
-      "title": "Noticias 5 de agosto de 2026 La Defensoría del Pueblo acompañó los avances de la Jornada II de la RINDHCA 2026 en materia ambiental y afrodescendiente",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-08-05T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://mnp.gov.py/mnp-expuso-en-alto-parana-los-principales-desafios-del-cuidado-alternativo-de-ninas-ninos-y-adolescentes/",
       "url": "https://mnp.gov.py/mnp-expuso-en-alto-parana-los-principales-desafios-del-cuidado-alternativo-de-ninas-ninos-y-adolescentes/",
       "title": "MNP expuso en Alto Paraná los principales desafíos del cuidado alternativo de niñas, niños y adolescentes",
       "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
       "date_published": "2026-08-05T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-4988919252574572605",
-      "url": "",
-      "title": "Noticias 4 de agosto de 2026 La Defensoría del Pueblo lidera en Paraguay el debate regional sobre derechos humanos y emergencias climáticas Bajo el le",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-08-04T00:00:00",
       "tags": [
         "Paraguay",
         "Sudamérica",
@@ -117,126 +93,6 @@
       "title": "El MNP presenta en Canindeyú su Informe Anual de Gestión 2025",
       "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
       "date_published": "2026-08-03T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://mnp.gov.py/con-exito-se-realizo-cine-debate-sobre-la-realidad-de-las-familias-de-personas-privadas-de-libertad/",
-      "url": "https://mnp.gov.py/con-exito-se-realizo-cine-debate-sobre-la-realidad-de-las-familias-de-personas-privadas-de-libertad/",
-      "title": "Con éxito se realizó en Concepción el cine debate sobre la realidad de las familias de personas privadas de libertad",
-      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
-      "date_published": "2026-08-03T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:5633032840803915875",
-      "url": "",
-      "title": "Noticias 31 de julio de 2026 Activa presencia de la Defensoría del Pueblo en Villa Hayes permite atender reclamos de población vulnerable La Delegació",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-31T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://mnp.gov.py/en-concepcion-el-mnp-fortalece-el-dialogo-con-instituciones-y-organizaciones-sociales/",
-      "url": "https://mnp.gov.py/en-concepcion-el-mnp-fortalece-el-dialogo-con-instituciones-y-organizaciones-sociales/",
-      "title": "En Concepción, el MNP fortalece el diálogo con instituciones y organizaciones sociales",
-      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
-      "date_published": "2026-07-31T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:9189691570276186049",
-      "url": "",
-      "title": "Noticias 30 de julio de 2026 Impulsamos campaña de concienciación sobre los derechos de las personas adultas mayores en Villarrica Desde la Defensoría",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-30T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:2199542188741244838",
-      "url": "",
-      "title": "Noticias 30 de julio de 2026 La trata de personas es una forma moderna de esclavitud que debe ser erradicada En el marco del Día Mundial contra la Tra",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-30T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:7759927026116812603",
-      "url": "",
-      "title": "Noticias 28 de julio de 2026 Defensoría del Pueblo fortalece acciones para la desprecarización y estabilidad laboral En el Salón Auditorio de la sede",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-28T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:3483836922033367397",
-      "url": "",
-      "title": "Noticias 23 de julio de 2026 El Defensor del Pueblo y el Intendente de Asunción dialogaron sobre emergencias climáticas con enfoque de DDHH El Defenso",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-23T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:3705103650619568818",
-      "url": "",
-      "title": "Noticias 23 de julio de 2026 Delegación de Caaguazú intervino ante situación de vulnerabilidad de un niño en situación de calle Nuestra Delegación de",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-23T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-4425283751478769373",
-      "url": "",
-      "title": "Noticias 21 de julio de 2026 Intervención de la Defensoría del Pueblo permitió cedulación domiciliaria a adulta mayor en Villa Hayes La Delegación de",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-21T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:9206746804448090079",
-      "url": "",
-      "title": "Noticias 20 de julio de 2026 La Defensoría del Pueblo se suma a la campaña mundial «Iluminate por la Inclusión» de Olimpiadas Especiales En el marco d",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-07-20T00:00:00",
       "tags": [
         "Paraguay",
         "Sudamérica",

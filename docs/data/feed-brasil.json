@@ -4,10 +4,118 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
-      "id": "urn:defensorias:3295954741110953631",
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-do-estudante-educacao-e-direito-fundamental-de-criancas-e-adolescentes",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-do-estudante-educacao-e-direito-fundamental-de-criancas-e-adolescentes",
+      "title": "Dia do Estudante: educação é direito fundamental de crianças e adolescentes",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-08-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/mais-um-voo-de-repatriados-dos-eua-chega-a-confins-nesta-terca-feira-11",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/mais-um-voo-de-repatriados-dos-eua-chega-a-confins-nesta-terca-feira-11",
+      "title": "Mais um voo de repatriados dos EUA chega a Confins nesta terça-feira (11)",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-08-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/protecao-de-defensores-e-comunicadores-considera-especificidades-de-territorios-indigenas",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/protecao-de-defensores-e-comunicadores-considera-especificidades-de-territorios-indigenas",
+      "title": "Proteção de defensores e comunicadores considera especificidades de territórios indígenas",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-08-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4230/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4230/",
+      "title": "DPPE participa do 5ºCurso Sistema Penal e Tutela Internacional de Direitos Humanos de Pernambuco",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-08-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/11/defensoria-publica-e-procon-manaus-recomendam-fim-da-exigencia-de-cpf-para-descontos-em-farmacias/",
+      "url": "https://defensoria.am.def.br/2026/08/11/defensoria-publica-e-procon-manaus-recomendam-fim-da-exigencia-de-cpf-para-descontos-em-farmacias/",
+      "title": "Defensoria Pública e Procon Manaus recomendam fim da exigência de CPF para descontos em farmácias",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/11/gente-da-319-defensoria-realiza-audiencia-publica-e-inicia-articulacao-para-enfrentar-desafios-fundiarios-na-br-319/",
+      "url": "https://defensoria.am.def.br/2026/08/11/gente-da-319-defensoria-realiza-audiencia-publica-e-inicia-articulacao-para-enfrentar-desafios-fundiarios-na-br-319/",
+      "title": "‘Gente da 319’: Defensoria realiza audiência pública e inicia articulação para enfrentar desafios fundiários na BR-319",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/defensoria-publica-orienta-presos-provisorios-sobre-direito-ao-voto-nas-eleicoes-2026",
+      "url": "https://www.defensoria.rs.def.br/defensoria-publica-orienta-presos-provisorios-sobre-direito-ao-voto-nas-eleicoes-2026",
+      "title": "Defensoria Pública orienta presos provisórios sobre direito ao voto nas Eleições 2026",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-08-11T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:5523090828771237816",
       "url": "",
       "title": "Defensoria viabiliza atendente pessoal a homem com deficiência após bloqueio de verbas de São Sebastião",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
+      "date_published": "2026-08-10T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32894-Capacitacao-aproxima-Defensoria-do-interior-e-reune-Regioes-3-e-8-em-Cabo-Frio",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32894-Capacitacao-aproxima-Defensoria-do-interior-e-reune-Regioes-3-e-8-em-Cabo-Frio",
+      "title": "Capacitação aproxima Defensoria do interior e reúne Regiões 3 e 8 em Cabo Frio",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-08-10T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32895-Defensoria-promove-acesso-a-cultura-para-idosos-acolhidos-no-Retiro-dos-Artistas",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32895-Defensoria-promove-acesso-a-cultura-para-idosos-acolhidos-no-Retiro-dos-Artistas",
+      "title": "Defensoria promove acesso à cultura para idosos acolhidos no Retiro dos Artistas",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-08-10T00:00:00",
       "tags": [
         "Brasil",
@@ -76,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7650639872415588617",
+      "id": "urn:defensorias:196282935494057944",
       "url": "",
       "title": "Ribeirão Preto está com as inscrições abertas para o circuito de atendimentos #DáPraResolver da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -88,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:9221896289999021107",
+      "id": "urn:defensorias:-4830738129374183613",
       "url": "",
       "title": "Defensoria de SP lança relatório para ampliar atendimento a mulheres em situação de violência doméstica",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -100,9 +208,9 @@
       ]
     },
     {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32889-DPRJ-realiza-vistoria-para-producao-de-prova-pericial-no-Ninho-do-Urubu",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32889-DPRJ-realiza-vistoria-para-producao-de-prova-pericial-no-Ninho-do-Urubu",
-      "title": "DPRJ realiza vistoria para produção de prova pericial no Ninho do Urubu",
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32892-DPRJ-participa-do-Rio-Innovation-Week-em-palestras-sobre-direitos-da-mulher",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32892-DPRJ-participa-do-Rio-Innovation-Week-em-palestras-sobre-direitos-da-mulher",
+      "title": "DPRJ participa do Rio Innovation Week em palestras sobre direitos da mulher",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-08-07T00:00:00",
       "tags": [
@@ -124,9 +232,9 @@
       ]
     },
     {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32892-DPRJ-participa-do-Rio-Innovation-Week-em-palestras-sobre-direitos-da-mulher",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32892-DPRJ-participa-do-Rio-Innovation-Week-em-palestras-sobre-direitos-da-mulher",
-      "title": "DPRJ participa do Rio Innovation Week em palestras sobre direitos da mulher",
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32889-DPRJ-realiza-vistoria-para-producao-de-prova-pericial-no-Ninho-do-Urubu",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32889-DPRJ-realiza-vistoria-para-producao-de-prova-pericial-no-Ninho-do-Urubu",
+      "title": "DPRJ realiza vistoria para produção de prova pericial no Ninho do Urubu",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-08-07T00:00:00",
       "tags": [
@@ -376,18 +484,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.rs.def.br/defensoria-publica-de-marcelino-ramos-retoma-atividades-em-novo-endereco-nesta-quinta-feira",
-      "url": "https://www.defensoria.rs.def.br/defensoria-publica-de-marcelino-ramos-retoma-atividades-em-novo-endereco-nesta-quinta-feira",
-      "title": "Defensoria Pública de Marcelino Ramos retoma atividades em novo endereço, nesta quinta-feira",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
-      "date_published": "2026-08-06T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/prazo-para-adesao-a-politica-publica-de-equipagem-termina-na-sexta-feira-7",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/prazo-para-adesao-a-politica-publica-de-equipagem-termina-na-sexta-feira-7",
       "title": "Prazo para adesão à política pública de equipagem termina na sexta-feira (7)",
@@ -424,7 +520,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8730195031326004371",
+      "id": "urn:defensorias:-4103814887285279507",
       "url": "",
       "title": "Unidade São José do Rio Preto da Defensoria pede plano para transformar imóveis abandonados do município em moradia social",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -580,7 +676,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5305205415439316147",
+      "id": "urn:defensorias:-6565761644187027614",
       "url": "",
       "title": "Defensoria de SP obtém no STJ suspensão de encaminhamento de criança para adoção",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -595,30 +691,6 @@
       "id": "https://defensoria.rj.def.br/noticia/detalhes/32879-COGPI-realiza-curso-de-capacitacao-em-Angra-dos-Reis-abordando-desastres-naturais",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32879-COGPI-realiza-curso-de-capacitacao-em-Angra-dos-Reis-abordando-desastres-naturais",
       "title": "COGPI realiza curso de capacitação em Angra dos Reis abordando desastres naturais",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-08-03T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32876-DPRJ-promove-seminario-sobre-acesso-a-Justica-para-mulheres-negras-e-Politica-do-Cuidado",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32876-DPRJ-promove-seminario-sobre-acesso-a-Justica-para-mulheres-negras-e-Politica-do-Cuidado",
-      "title": "DPRJ promove seminário sobre acesso à Justiça para mulheres negras e Política do Cuidado",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-08-03T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32874-Historias-de-reconhecimento-marcam-acao-da-campanha-Meu-Pai-Tem-Nome-no-MetroRio",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32874-Historias-de-reconhecimento-marcam-acao-da-campanha-Meu-Pai-Tem-Nome-no-MetroRio",
-      "title": "Histórias de reconhecimento marcam ação da campanha Meu Pai Tem Nome no MetrôRio",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-08-03T00:00:00",
       "tags": [
@@ -657,30 +729,6 @@
       "title": "Defensoria Pública do Amazonas vence prêmio nacional na categoria “Relacionamento com a Mídia”",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-08-03T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/03/rede-de-protecao-a-infancia-conta-com-atuacao-da-defensoria-em-100-dos-casos-de-acolhimento-em-manaus/",
-      "url": "https://defensoria.am.def.br/2026/08/03/rede-de-protecao-a-infancia-conta-com-atuacao-da-defensoria-em-100-dos-casos-de-acolhimento-em-manaus/",
-      "title": "Rede de proteção à infância conta com atuação da Defensoria em 100% dos casos de acolhimento",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-03T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/01/meu-pai-tem-nome-garante-acesso-a-direitos-por-meio-do-reconhecimento-da-parentalidade/",
-      "url": "https://defensoria.am.def.br/2026/08/01/meu-pai-tem-nome-garante-acesso-a-direitos-por-meio-do-reconhecimento-da-parentalidade/",
-      "title": "Campanha ‘Meu Pai Tem Nome’ garante acesso a direitos por meio do reconhecimento da parentalidade",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-01T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",
@@ -736,7 +784,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6328242821594988421",
+      "id": "urn:defensorias:2388385959418411787",
       "url": "",
       "title": "Defensoria Pública e XV de Piracicaba dão continuidade à parceria de divulgação para o mutirão nacional “Meu Pai Tem Nome”",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -748,7 +796,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6426430299107653448",
+      "id": "urn:defensorias:-4052478623515397830",
       "url": "",
       "title": "Santos FC se une à Defensoria Pública para divulgar mutirão \"Meu Pai Tem Nome”",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -760,7 +808,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5823734144031236047",
+      "id": "urn:defensorias:-3606805068158844215",
       "url": "",
       "title": "Defensoria Pública e Palmeiras dão continuidade à parceria de divulgação para o mutirão nacional “Meu Pai Tem Nome”",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -825,54 +873,6 @@
       "title": "Defensoria Pública de Pernambuco forma nova turma de Defensoras e Defensores Populares",
       "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
       "date_published": "2026-07-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4218/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4218/",
-      "title": "Defensoria Pública de Pernambuco garante indenização à família de paciente que faleceu após atraso no fornecimento de medicamento",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-07-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/julho/nota-de-pesar-2013-beto-silva",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/julho/nota-de-pesar-2013-beto-silva",
-      "title": "Nota de pesar – Beto Silva",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-07-28T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/julho/entenda-a-diferenca-entre-denuncia-reclamacao-e-pedido-de-informacao",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/julho/entenda-a-diferenca-entre-denuncia-reclamacao-e-pedido-de-informacao",
-      "title": "Entenda a diferença entre denúncia, reclamação e pedido de informação",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-07-27T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/julho/instituicoes-podem-solicitar-adesao-ao-programa-equipadh-entre-27-de-julho-e-7-de-agosto",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/julho/instituicoes-podem-solicitar-adesao-ao-programa-equipadh-entre-27-de-julho-e-7-de-agosto",
-      "title": "Instituições podem solicitar adesão ao Programa EquipaDH+ entre 27 de julho e 7 de agosto",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-07-27T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",

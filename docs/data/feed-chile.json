@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-antofagasta-proteccion-65-personas/",
+      "url": "https://www.indh.cl/indh-antofagasta-proteccion-65-personas/",
+      "title": "Protección de la niñez y la juventud: más de 65 personas que trabajan en el sector público con niñas, niños y adolescentes participaron de instancia de formación organizada por el INDH de Antofagasta",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-11T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-antofagasta-senama-taller-personas-mayores/",
       "url": "https://www.indh.cl/indh-antofagasta-senama-taller-personas-mayores/",
       "title": "INDH de Antofagasta y Senama realizaron taller sobre derechos de las personas mayores",
@@ -96,11 +108,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:-8995223767843135279",
+      "id": "urn:defensorias:3021217655660472852",
       "url": "",
       "title": "Concurso de fotografía invita a niños, niñas y adolescentes de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -124,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7645650050412684768",
+      "id": "urn:defensorias:-2890167040691559924",
       "url": "",
       "title": "Cooperativa | Violencia escolar: Defensor de la Niñez criticó recorte...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -136,35 +148,11 @@
       ]
     },
     {
-      "id": "urn:defensorias:-795098246468526196",
+      "id": "urn:defensorias:-101837294905943013",
       "url": "",
       "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
       "date_published": "2026-07-29T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "prensa"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-lagos-oficio-salud-violencia-obstetrica/",
-      "url": "https://www.indh.cl/indh-lagos-oficio-salud-violencia-obstetrica/",
-      "title": "INDH de Los Lagos ofició a Servicio de Salud por caso de violencia obstétrica que afectó a mujer con discapacidad: tuvo que parir en su domicilio por falta de atención",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-07-27T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:6078209342009382989",
-      "url": "",
-      "title": "Radio Pauta | El Defensor de la Niñez, Anuar Quesille,...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-07-13T00:00:00",
       "tags": [
         "Chile",
         "Sudamérica",
