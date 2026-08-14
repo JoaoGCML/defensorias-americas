@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-08-13T08:21:50Z</updated>
+  <updated>2026-08-14T08:16:45Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo ha recibido más de 400 peticiones ciudadanas solo en la sede de la Plaza Morelos en Caracas</title>
+    <id>http://www.defensoria.gob.ve/?p=20264</id>
+    <link href="http://www.defensoria.gob.ve/?p=20264" />
+    <updated>2026-08-13T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo establecerá mesa técnica con la Alianza para la Libertad de los Presos Políticos para el seguimiento de casos</title>
     <id>http://www.defensoria.gob.ve/?p=20259</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=20208</id>
     <link href="http://www.defensoria.gob.ve/?p=20208" />
     <updated>2026-08-05T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo realizó jornada simultánea de prevención de la trata de personas en Caracas y 13 estados del país</title>
-    <id>http://www.defensoria.gob.ve/?p=20204</id>
-    <link href="http://www.defensoria.gob.ve/?p=20204" />
-    <updated>2026-08-01T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>
