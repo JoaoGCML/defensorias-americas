@@ -4,11 +4,11 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
-      "id": "https://defensoria.am.def.br/2026/08/15/nao-sabia-nem-tirar-print-aos-72-anos-jozina-peres-conquista-certificado-em-curso-de-inclusao-digital-da-defensoria/",
-      "url": "https://defensoria.am.def.br/2026/08/15/nao-sabia-nem-tirar-print-aos-72-anos-jozina-peres-conquista-certificado-em-curso-de-inclusao-digital-da-defensoria/",
-      "title": "‘Não sabia nem tirar print’: aos 72 anos, Jozina conclui curso de inclusão digital da Defensoria",
+      "id": "https://defensoria.am.def.br/2026/08/16/defensoria-do-amazonas-inicia-mapeamento-fundiario-de-comunidades-da-br-319/",
+      "url": "https://defensoria.am.def.br/2026/08/16/defensoria-do-amazonas-inicia-mapeamento-fundiario-de-comunidades-da-br-319/",
+      "title": "Defensoria do Amazonas inicia mapeamento fundiário de comunidades da BR-319 a partir deste domingo",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-15T00:00:00",
+      "date_published": "2026-08-16T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",
@@ -16,9 +16,21 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/08/15/defensoria-do-amazonas-inicia-mapeamento-fundiario-de-comunidades-da-br-319/",
-      "url": "https://defensoria.am.def.br/2026/08/15/defensoria-do-amazonas-inicia-mapeamento-fundiario-de-comunidades-da-br-319/",
-      "title": "Defensoria do Amazonas inicia mapeamento fundiário de comunidades da BR-319 a partir deste domingo",
+      "id": "https://defensoria.am.def.br/2026/08/16/inscricoes-gratuitas-para-o-curso-defensor-digital-60-encerram-nesta-terca-feira/",
+      "url": "https://defensoria.am.def.br/2026/08/16/inscricoes-gratuitas-para-o-curso-defensor-digital-60-encerram-nesta-terca-feira/",
+      "title": "Inscrições gratuitas para o curso Defensor Digital 60+ encerram nesta terça-feira",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/15/nao-sabia-nem-tirar-print-aos-72-anos-jozina-peres-conquista-certificado-em-curso-de-inclusao-digital-da-defensoria/",
+      "url": "https://defensoria.am.def.br/2026/08/15/nao-sabia-nem-tirar-print-aos-72-anos-jozina-peres-conquista-certificado-em-curso-de-inclusao-digital-da-defensoria/",
+      "title": "‘Não sabia nem tirar print’: aos 72 anos, Jozina conclui curso de inclusão digital da Defensoria",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-08-15T00:00:00",
       "tags": [
@@ -52,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6901618025559910700",
+      "id": "urn:defensorias:4837738564652351212",
       "url": "",
       "title": "NCDH da Defensoria ajuíza ação para impedir a inclusão de incineradores em contratos de limpeza urbana de SP sem licitação pública nem participação popular",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -64,7 +76,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2010753414951504086",
+      "id": "urn:defensorias:811458323115937281",
       "url": "",
       "title": "Meu Pai Tem Nome: Defensoria de SP bate recorde de atendimentos em mutirão de reconhecimento de paternidade",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -124,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6090474876247292440",
+      "id": "urn:defensorias:-5769406925557332608",
       "url": "",
       "title": "14 de agosto de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -136,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7103058647996011294",
+      "id": "urn:defensorias:862241372760748620",
       "url": "",
       "title": "Defensoria em Movimento realiza 257 atendimentos às mulheres do Cariri, durante o Agosto Lilás",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -148,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1923818258266422236",
+      "id": "urn:defensorias:5989840022966753251",
       "url": "",
       "title": "Defensoria Pública abre seleções simplificadas para estudantes de Direito e Ciências Contábeis",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -160,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2013579165239328144",
+      "id": "urn:defensorias:4921994163155930195",
       "url": "",
       "title": "Defensoria faz reunião de acompanhamento de três comunidades na Praia do Futuro",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -208,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5292084876857949100",
+      "id": "urn:defensorias:6149574705733853516",
       "url": "",
       "title": "Aos 20 anos da Lei Maria da Penha, Defensoria garante medidas protetivas, luz e água para mãe e filha em Piracicaba",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -340,7 +352,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1485020234344059654",
+      "id": "urn:defensorias:-6336893258844095443",
       "url": "",
       "title": "13 de agosto de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -352,7 +364,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:52361810951011867",
+      "id": "urn:defensorias:-1570790030654363420",
       "url": "",
       "title": "Defensoria Pública abre inscrições para seleção de mediadores(as) comunitários(as) em dez municípios",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -364,7 +376,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3161265872929123185",
+      "id": "urn:defensorias:-7991443609157874914",
       "url": "",
       "title": "Assessoria de Estágio lança resultado parcial de entrevistas de seleção simplificada de Direito",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -376,7 +388,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3997508875696319349",
+      "id": "urn:defensorias:-6651877327986237560",
       "url": "",
       "title": "Divulgado gabarito preliminar da seleção de pós-graduação em Direito",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -388,7 +400,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3466223855006836459",
+      "id": "urn:defensorias:-4540010052099812903",
       "url": "",
       "title": "Defensoria Pública empossa dois novos defensores públicos e celebra a promoção quatro membros ao Segundo Grau de Jurisdição",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -400,7 +412,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7892004546972271376",
+      "id": "urn:defensorias:-6104504727600692213",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidade de posse em Horizonte",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -412,7 +424,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6204964022777486730",
+      "id": "urn:defensorias:4698310691316231592",
       "url": "",
       "title": "Transição para o PJe ganha novo fluxo para pedidos relacionados à liberdade",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -496,7 +508,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4161957181101724955",
+      "id": "urn:defensorias:3068193051313163454",
       "url": "",
       "title": "12 de agosto de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -508,7 +520,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-481408884888393386",
+      "id": "urn:defensorias:8462614886634436751",
       "url": "",
       "title": "Defensoria lança cartilha “Enquanto houver nós” para valorizar memória, identidade e direitos das comunidades quilombolas",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -520,7 +532,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1794499277964859594",
+      "id": "urn:defensorias:-7153640209248817859",
       "url": "",
       "title": "Assessoria de Estágio divulga pedidos de isenção deferidos para seleção de estagiários de graduação em Direito",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -532,7 +544,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2800460338037640920",
+      "id": "urn:defensorias:-7233868093501360265",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidade de posse em Fortaleza",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -544,7 +556,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5349520130197165007",
+      "id": "urn:defensorias:-4341465041047104903",
       "url": "",
       "title": "Defensoria conversa com estudantes quilombolas sobre identidade, pertencimento e direitos em Salitre",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -700,7 +712,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7392907080372652989",
+      "id": "urn:defensorias:-4602472652709076907",
       "url": "",
       "title": "Defensoria viabiliza atendente pessoal a homem com deficiência após bloqueio de verbas de São Sebastião",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -784,7 +796,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4918715800220569894",
+      "id": "urn:defensorias:5464102662466431627",
       "url": "",
       "title": "Ribeirão Preto está com as inscrições abertas para o circuito de atendimentos #DáPraResolver da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -796,7 +808,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5985452684073021456",
+      "id": "urn:defensorias:1298501703272776235",
       "url": "",
       "title": "Defensoria de SP lança relatório para ampliar atendimento a mulheres em situação de violência doméstica",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -859,18 +871,6 @@
       "id": "https://defensoria.am.def.br/2026/08/07/as-vesperas-do-dia-dos-pais-projeto-da-defensoria-promove-oficina-sobre-paternidade-a-partir-da-literatura-para-socioeducandos/",
       "url": "https://defensoria.am.def.br/2026/08/07/as-vesperas-do-dia-dos-pais-projeto-da-defensoria-promove-oficina-sobre-paternidade-a-partir-da-literatura-para-socioeducandos/",
       "title": "Às vésperas do Dia dos Pais, Defensoria promove oficina sobre paternidade a partir da literatura para socioeducandos",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-07T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/07/defensoria-publica-aciona-estado-para-restabelecer-realizacao-de-exame-oncologico/",
-      "url": "https://defensoria.am.def.br/2026/08/07/defensoria-publica-aciona-estado-para-restabelecer-realizacao-de-exame-oncologico/",
-      "title": "Defensoria Pública aciona Estado para restabelecer realização de exame oncológico",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-08-07T00:00:00",
       "tags": [
@@ -976,7 +976,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:607881224767950978",
+      "id": "urn:defensorias:-378930062319464412",
       "url": "",
       "title": "Unidade São José do Rio Preto da Defensoria pede plano para transformar imóveis abandonados do município em moradia social",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1036,7 +1036,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-84974845059854318",
+      "id": "urn:defensorias:4409787765380342530",
       "url": "",
       "title": "Defensoria de SP obtém no STJ suspensão de encaminhamento de criança para adoção",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
