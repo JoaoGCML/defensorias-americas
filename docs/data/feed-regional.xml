@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Regional</title>
   <id>urn:defensorias-americas:prensa:regional</id>
-  <updated>2026-08-17T07:54:29Z</updated>
+  <updated>2026-08-18T07:38:49Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>163/26—CIDH concluye 196° Período de Sesiones con 30 audiencias públicas</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/163.asp&amp;utm_term=class-inst</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/163.asp&amp;utm_term=class-inst" />
+    <updated>2026-08-17T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>162/26—La CIDH y su REDESCA expresan solidaridad tras el terremoto en Colombia y llaman a fortalecer la respuesta a la emergencia con enfoque de derechos humanos</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/162.asp&amp;utm_content=country-col&amp;utm_term=class-mon</id>
@@ -142,13 +149,6 @@
     <title>149/26—CIDH otorga medidas cautelares a Elmer Concepción Romero Yanes en El Salvador</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/149.asp&amp;utm_content=country-slv</id>
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/149.asp&amp;utm_content=country-slv" />
-    <updated>2026-07-30T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>148/26—CIDH otorga medidas cautelares a Ángel Jesús Véliz y Yasmany Porra, privados de libertad en Cuba</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/148.asp&amp;utm_content=country-cub&amp;utm_term=class-mc</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/148.asp&amp;utm_content=country-cub&amp;utm_term=class-mc" />
     <updated>2026-07-30T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>

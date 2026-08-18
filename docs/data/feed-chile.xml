@@ -2,23 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-08-17T07:54:29Z</updated>
+  <updated>2026-08-18T07:38:49Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
+    <title>Director del INDH expone ante la CIDH sobre los desafíos que enfrentan las instituciones nacionales de derechos humanos en las Américas</title>
+    <id>https://www.indh.cl/director-indh-expone-cidh/</id>
+    <link href="https://www.indh.cl/director-indh-expone-cidh/" />
+    <updated>2026-08-17T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
     <title>Defensoría de la Niñez y el Gobierno Regional recogen propuestas ...</title>
-    <id>urn:defensorias-americas:-5736055411622554568</id>
+    <id>urn:defensorias-americas:3104875230652582250</id>
     <updated>2026-08-14T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>Estudio de la Defensoría de la Niñez: Nueve de cada ...</title>
-    <id>urn:defensorias-americas:8806709512415226849</id>
+    <id>urn:defensorias-americas:1355982036631050077</id>
     <updated>2026-08-14T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
-    <title>INDH de Atacama realizó exhibición de documental sobre contaminación ambiental a estudiantes de cuarto medio del Liceo Fernando Ariztía Ruiz de Paipote</title>
+    <title>INDH de Atacama realizó exhibición de documental sobre contaminación ambiental a estudiantes de tercero medio del Liceo Fernando Ariztía Ruiz de Paipote</title>
     <id>https://www.indh.cl/indh-atacama-documental-paipote/</id>
     <link href="https://www.indh.cl/indh-atacama-documental-paipote/" />
     <updated>2026-08-14T00:00:00</updated>
@@ -40,7 +47,13 @@
   </entry>
   <entry>
     <title>La Tercera | Defensor de la Niñez y proyecto de...</title>
-    <id>urn:defensorias-americas:6148784594873090182</id>
+    <id>urn:defensorias-americas:-4899189560457148385</id>
+    <updated>2026-08-13T00:00:00</updated>
+    <summary>Defensoría de la Niñez (Chile) — prensa</summary>
+  </entry>
+  <entry>
+    <title>Desierto FM | Hospital Día Infanto Adolescente y Defensoría de...</title>
+    <id>urn:defensorias-americas:7773900718324278565</id>
     <updated>2026-08-13T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -60,7 +73,7 @@
   </entry>
   <entry>
     <title>Modificaciones a la Ley de Responsabilidad Penal Adolescente: Análisis de ...</title>
-    <id>urn:defensorias-americas:7412752867269962700</id>
+    <id>urn:defensorias-americas:5152093201142781504</id>
     <updated>2026-08-12T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -75,13 +88,6 @@
     <title>INDH de Antofagasta y Senama realizaron taller sobre derechos de las personas mayores</title>
     <id>https://www.indh.cl/indh-antofagasta-senama-taller-personas-mayores/</id>
     <link href="https://www.indh.cl/indh-antofagasta-senama-taller-personas-mayores/" />
-    <updated>2026-08-10T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
-    <title>INDH de La Araucanía informa resultados de concurso de “Arte y Derechos Humanos”: ceremonia de premiación se realizará el 18 de agosto en la Universidad de La Frontera</title>
-    <id>https://www.indh.cl/indh-araucania-resultados-arte/</id>
-    <link href="https://www.indh.cl/indh-araucania-resultados-arte/" />
     <updated>2026-08-10T00:00:00</updated>
     <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
   </entry>
@@ -108,19 +114,19 @@
   </entry>
   <entry>
     <title>Concurso de fotografía invita a niños, niñas y adolescentes de ...</title>
-    <id>urn:defensorias-americas:3909818015616077179</id>
+    <id>urn:defensorias-americas:7999602100618330184</id>
     <updated>2026-08-03T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>Cooperativa | Violencia escolar: Defensor de la Niñez criticó recorte...</title>
-    <id>urn:defensorias-americas:-97684118702020222</id>
+    <id>urn:defensorias-americas:-2395564482930987626</id>
     <updated>2026-07-29T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio Universo | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:-7070704442081912221</id>
+    <id>urn:defensorias-americas:4574673974673324966</id>
     <updated>2026-07-29T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
