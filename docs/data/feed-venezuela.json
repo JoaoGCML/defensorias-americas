@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.json",
   "items": [
     {
+      "id": "http://www.defensoria.gob.ve/?p=20295",
+      "url": "http://www.defensoria.gob.ve/?p=20295",
+      "title": "Defensoría del Pueblo conforma mesa técnica para seguimiento de incidencias en el sistema eléctrico",
+      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
+      "date_published": "2026-08-18T00:00:00",
+      "tags": [
+        "Venezuela",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "http://www.defensoria.gob.ve/?p=20275",
       "url": "http://www.defensoria.gob.ve/?p=20275",
       "title": "Jubilados de PDVSA y Pequiven solicitaron a la Defensoría del Pueblo mediar para el cumplimiento de sus derechos contractuales",
@@ -45,18 +57,6 @@
       "title": "Defensoría del Pueblo dictará Diplomado en Derechos Humanos a bachilleres y personal del Sepinami en Los Teques",
       "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
       "date_published": "2026-08-10T00:00:00",
-      "tags": [
-        "Venezuela",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "http://www.defensoria.gob.ve/?p=20233",
-      "url": "http://www.defensoria.gob.ve/?p=20233",
-      "title": "Defensoría del Pueblo y Gobernación de La Guaira evalúan fases por venir tras sismo del 24 de junio",
-      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
-      "date_published": "2026-08-08T00:00:00",
       "tags": [
         "Venezuela",
         "Sudamérica",
