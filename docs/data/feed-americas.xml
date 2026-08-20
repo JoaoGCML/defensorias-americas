@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Américas</title>
   <id>urn:defensorias-americas:prensa:americas</id>
-  <updated>2026-08-19T07:39:04Z</updated>
+  <updated>2026-08-20T07:41:55Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-americas.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>RINDHCA y la Corte IDH desarrollan sexta sesión del Diplomado sobre Derechos Políticos</title>
+    <id>https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-sexta-sesion-del-diplomado-sobre-derechos-politicos/</id>
+    <link href="https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-sexta-sesion-del-diplomado-sobre-derechos-politicos/" />
+    <updated>2026-08-19T00:00:00</updated>
+    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
+  </entry>
+  <entry>
+    <title>164/26—CIDH presenta a Corte IDH caso por la falta de revisión judicial del cese de un empleado público durante la dictadura en Argentina</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/164.asp&amp;utm_content=country-arg&amp;utm_term=class-corteidh</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/164.asp&amp;utm_content=country-arg&amp;utm_term=class-corteidh" />
+    <updated>2026-08-19T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>163/26—CIDH concluye 196° Período de Sesiones con 30 audiencias públicas</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/163.asp&amp;utm_term=class-inst</id>
@@ -111,13 +125,6 @@
     <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
   </entry>
   <entry>
-    <title>Reuniones estratégicas fortalecen alianzas de la RINDHCA en la segunda jornada del Encuentro Anual 2026</title>
-    <id>https://www.rindhca.org/reuniones-estrategicas-fortalecen-alianzas-de-la-rindhca-en-la-segunda-jornada-del-encuentro-anual-2026/</id>
-    <link href="https://www.rindhca.org/reuniones-estrategicas-fortalecen-alianzas-de-la-rindhca-en-la-segunda-jornada-del-encuentro-anual-2026/" />
-    <updated>2026-08-04T00:00:00</updated>
-    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
-  </entry>
-  <entry>
     <title>153/26—CIDH presenta a Corte IDH caso por lesiones a una persona por agentes policiales y falta de acceso a la justicia en Perú</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/153.asp&amp;utm_content=country-per&amp;utm_term=class-corteidh</id>
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/153.asp&amp;utm_content=country-per&amp;utm_term=class-corteidh" />
@@ -129,13 +136,6 @@
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/152.asp&amp;utm_content=country-nic&amp;utm_term=class-mon</id>
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/152.asp&amp;utm_content=country-nic&amp;utm_term=class-mon" />
     <updated>2026-08-03T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>R151/26—La RELE condena los asesinatos periodistas en México y Colombia y llama a los Estados a continuar investigando y tomando medidas urgentes de protección para la prensa</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/151.asp&amp;utm_term=class-mon</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/151.asp&amp;utm_term=class-mon" />
-    <updated>2026-07-31T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
 </feed>
