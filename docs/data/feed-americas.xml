@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Américas</title>
   <id>urn:defensorias-americas:prensa:americas</id>
-  <updated>2026-08-20T07:41:55Z</updated>
+  <updated>2026-08-21T07:43:28Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-americas.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>165/26—CIDH presenta caso a la Corte IDH sobre proceso de custodia e investigación de presunto abuso sexual infantil en Argentina</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/165.asp&amp;utm_content=country-arg&amp;utm_term=class-corteidh</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/165.asp&amp;utm_content=country-arg&amp;utm_term=class-corteidh" />
+    <updated>2026-08-20T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>RINDHCA y la Corte IDH desarrollan sexta sesión del Diplomado sobre Derechos Políticos</title>
     <id>https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-sexta-sesion-del-diplomado-sobre-derechos-politicos/</id>
@@ -128,13 +135,6 @@
     <title>153/26—CIDH presenta a Corte IDH caso por lesiones a una persona por agentes policiales y falta de acceso a la justicia en Perú</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/153.asp&amp;utm_content=country-per&amp;utm_term=class-corteidh</id>
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/153.asp&amp;utm_content=country-per&amp;utm_term=class-corteidh" />
-    <updated>2026-08-03T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>152/26—Nicaragua: CIDH repudia reforma constitucional dirigida a institucionalizar la permanencia indefinida en el poder</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/152.asp&amp;utm_content=country-nic&amp;utm_term=class-mon</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/152.asp&amp;utm_content=country-nic&amp;utm_term=class-mon" />
     <updated>2026-08-03T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>

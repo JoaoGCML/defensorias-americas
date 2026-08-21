@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-08-20T07:41:55Z</updated>
+  <updated>2026-08-21T07:43:28Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo instaló mesa técnica con la Alianza por la Libertad de los Presos Políticos para revisar casos individualmente</title>
+    <id>http://www.defensoria.gob.ve/?p=20301</id>
+    <link href="http://www.defensoria.gob.ve/?p=20301" />
+    <updated>2026-08-20T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo conforma mesa técnica para seguimiento de incidencias en el sistema eléctrico</title>
     <id>http://www.defensoria.gob.ve/?p=20295</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=20259</id>
     <link href="http://www.defensoria.gob.ve/?p=20259" />
     <updated>2026-08-11T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo dictará Diplomado en Derechos Humanos a bachilleres y personal del Sepinami en Los Teques</title>
-    <id>http://www.defensoria.gob.ve/?p=20239</id>
-    <link href="http://www.defensoria.gob.ve/?p=20239" />
-    <updated>2026-08-10T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>
