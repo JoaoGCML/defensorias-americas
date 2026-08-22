@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-08-21T07:43:28Z</updated>
+  <updated>2026-08-22T07:32:44Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>PRONUNCIAMIENTO DEFENSORIAL DEFENSORÍA DEL PUEBLO RECHAZA TODA FORMA DE ACOSO Y VIOLENCIA POLÍTICA CONTRA MUJERES AUTORIDADES ELECTAS DE PANDO</title>
+    <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-defensorial-defensoria-del-pueblo-rechaza-toda-forma-de-acoso-y-violencia-politica-contra-mujeres-autoridades-electas-de-pando</id>
+    <link href="https://www.defensoria.gob.bo/noticias/pronunciamiento-defensorial-defensoria-del-pueblo-rechaza-toda-forma-de-acoso-y-violencia-politica-contra-mujeres-autoridades-electas-de-pando" />
+    <updated>2026-08-21T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>DEFENSORÍA DEL PUEBLO REITERA SOSTENIDA CRISIS HUMANITARIA EN CENTROS PENITENCIARIOS Y EXHORTA AL ESTADO A UNA ATENCIÓN URGENTE</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-reitera-sostenida-crisis-humanitaria-en-centros-penitenciarios-y-exhorta-al-estado-a-una-atencion-urgente</id>
@@ -59,13 +66,6 @@
     <id>https://www.defensoria.gob.bo/noticias/comunidad-universitaria-refuerza-ejercicio-y-proteccion-de-sus-derechos-y-espacios-libres-de-violencia-tras-alianza-entre-la-defensoria-del-pueblo-y-la-umsa</id>
     <link href="https://www.defensoria.gob.bo/noticias/comunidad-universitaria-refuerza-ejercicio-y-proteccion-de-sus-derechos-y-espacios-libres-de-violencia-tras-alianza-entre-la-defensoria-del-pueblo-y-la-umsa" />
     <updated>2026-08-14T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo exhorta a municipios a fortalecer la prevención y preparación ante el “Súper Niño” y eventos climáticos adversos</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-exhorta-a-municipios-a-fortalecer-la-prevencion-y-preparacion-ante-elsuper-ninyo%E2%80%9D-y-eventos-climaticos-adversos</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-exhorta-a-municipios-a-fortalecer-la-prevencion-y-preparacion-ante-elsuper-ninyo%E2%80%9D-y-eventos-climaticos-adversos" />
-    <updated>2026-08-13T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>

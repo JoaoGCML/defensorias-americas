@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.json",
   "items": [
     {
+      "id": "http://www.defensoria.gob.ve/?p=20313",
+      "url": "http://www.defensoria.gob.ve/?p=20313",
+      "title": "Defensora del Pueblo se reunió con prestadores de servicios para conocer perspectivas de recuperación turística en Tucacas",
+      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
+      "date_published": "2026-08-21T00:00:00",
+      "tags": [
+        "Venezuela",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "http://www.defensoria.gob.ve/?p=20301",
       "url": "http://www.defensoria.gob.ve/?p=20301",
       "title": "Defensoría del Pueblo instaló mesa técnica con la Alianza por la Libertad de los Presos Políticos para revisar casos individualmente",
@@ -45,18 +57,6 @@
       "title": "Defensoría del Pueblo ha recibido más de 400 peticiones ciudadanas solo en la sede de la Plaza Morelos en Caracas",
       "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
       "date_published": "2026-08-13T00:00:00",
-      "tags": [
-        "Venezuela",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "http://www.defensoria.gob.ve/?p=20259",
-      "url": "http://www.defensoria.gob.ve/?p=20259",
-      "title": "Defensoría del Pueblo establecerá mesa técnica con la Alianza para la Libertad de los Presos Políticos para el seguimiento de casos",
-      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
-      "date_published": "2026-08-11T00:00:00",
       "tags": [
         "Venezuela",
         "Sudamérica",

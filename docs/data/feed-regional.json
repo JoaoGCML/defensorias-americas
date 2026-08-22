@@ -4,6 +4,54 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/169.asp&utm_content=country-pry&utm_term=class-corteidh",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/169.asp&utm_content=country-pry&utm_term=class-corteidh",
+      "title": "169/26—CIDH presenta caso a la Corte IDH sobre violaciones al debido proceso en procedimiento de restitución internacional en Paraguay",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-08-21T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/168.asp&utm_content=country-nic&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/168.asp&utm_content=country-nic&utm_term=class-mc",
+      "title": "168/26—CIDH otorga medidas cautelares a Isaías Castro Ruiz en Nicaragua",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-08-21T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/167.asp&utm_content=country-nic&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/167.asp&utm_content=country-nic&utm_term=class-mc",
+      "title": "167/26—CIDH otorga medidas cautelares a Santos Ariel Rodríguez Lagos en Nicaragua",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-08-21T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/166.asp&utm_content=country-sur&utm_term=class-corteidh",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/166.asp&utm_content=country-sur&utm_term=class-corteidh",
+      "title": "166/26—IACHR refers case to the Inter-American Court concerning violations in parental authority proceedings in Suriname",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-08-21T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/165.asp&utm_content=country-arg&utm_term=class-corteidh",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/165.asp&utm_content=country-arg&utm_term=class-corteidh",
       "title": "165/26—CIDH presenta caso a la Corte IDH sobre proceso de custodia e investigación de presunto abuso sexual infantil en Argentina",
@@ -148,30 +196,6 @@
       ]
     },
     {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/155.asp&utm_content=country-gtm&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/155.asp&utm_content=country-gtm&utm_term=class-corteidh",
-      "title": "155/26—CIDH presenta a Corte IDH caso por desaparición y tortura de estudiantes, durante el conflicto armado en Guatemala",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-08-10T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/154.asp&utm_content=country-ven&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/154.asp&utm_content=country-ven&utm_term=class-corteidh",
-      "title": "154/26—CIDH presenta a la Corte IDH caso por detención arbitraria y tortura de Gustavo Carrero, teniente de Fragata, en Venezuela",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-08-10T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
       "id": "https://www.rindhca.org/la-rindhca-y-la-corte-idh-desarrollaron-la-cuarta-sesion-del-diplomado-sobre-derechos-politicos/",
       "url": "https://www.rindhca.org/la-rindhca-y-la-corte-idh-desarrollaron-la-cuarta-sesion-del-diplomado-sobre-derechos-politicos/",
       "title": "La RINDHCA y la Corte IDH desarrollaron la cuarta sesión del Diplomado sobre Derechos Políticos",
@@ -217,18 +241,6 @@
         "Regional",
         "Américas",
         "noticias"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/153.asp&utm_content=country-per&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/153.asp&utm_content=country-per&utm_term=class-corteidh",
-      "title": "153/26—CIDH presenta a Corte IDH caso por lesiones a una persona por agentes policiales y falta de acceso a la justicia en Perú",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-08-03T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
       ]
     }
   ]
