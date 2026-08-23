@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-08-22T07:32:44Z</updated>
+  <updated>2026-08-23T07:34:13Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Brigada Defensorial en Tucacas acompañará a familias afectadas por los sismos del 24 de junio</title>
+    <id>http://www.defensoria.gob.ve/?p=20322</id>
+    <link href="http://www.defensoria.gob.ve/?p=20322" />
+    <updated>2026-08-22T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensora del Pueblo se reunió con prestadores de servicios para conocer perspectivas de recuperación turística en Tucacas</title>
     <id>http://www.defensoria.gob.ve/?p=20313</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=20275</id>
     <link href="http://www.defensoria.gob.ve/?p=20275" />
     <updated>2026-08-14T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo ha recibido más de 400 peticiones ciudadanas solo en la sede de la Plaza Morelos en Caracas</title>
-    <id>http://www.defensoria.gob.ve/?p=20264</id>
-    <link href="http://www.defensoria.gob.ve/?p=20264" />
-    <updated>2026-08-13T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>

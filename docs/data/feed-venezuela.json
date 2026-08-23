@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.json",
   "items": [
     {
+      "id": "http://www.defensoria.gob.ve/?p=20322",
+      "url": "http://www.defensoria.gob.ve/?p=20322",
+      "title": "Brigada Defensorial en Tucacas acompañará a familias afectadas por los sismos del 24 de junio",
+      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
+      "date_published": "2026-08-22T00:00:00",
+      "tags": [
+        "Venezuela",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "http://www.defensoria.gob.ve/?p=20313",
       "url": "http://www.defensoria.gob.ve/?p=20313",
       "title": "Defensora del Pueblo se reunió con prestadores de servicios para conocer perspectivas de recuperación turística en Tucacas",
@@ -45,18 +57,6 @@
       "title": "Jubilados de PDVSA y Pequiven solicitaron a la Defensoría del Pueblo mediar para el cumplimiento de sus derechos contractuales",
       "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
       "date_published": "2026-08-14T00:00:00",
-      "tags": [
-        "Venezuela",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "http://www.defensoria.gob.ve/?p=20264",
-      "url": "http://www.defensoria.gob.ve/?p=20264",
-      "title": "Defensoría del Pueblo ha recibido más de 400 peticiones ciudadanas solo en la sede de la Plaza Morelos en Caracas",
-      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
-      "date_published": "2026-08-13T00:00:00",
       "tags": [
         "Venezuela",
         "Sudamérica",
