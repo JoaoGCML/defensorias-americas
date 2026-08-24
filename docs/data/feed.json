@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://defensoria.am.def.br/2026/08/23/defensoria-define-sete-frentes-prioritarias-para-fiscalizar-educacao-publica-no-amazonas/",
+      "url": "https://defensoria.am.def.br/2026/08/23/defensoria-define-sete-frentes-prioritarias-para-fiscalizar-educacao-publica-no-amazonas/",
+      "title": "Defensoria define sete frentes prioritárias para fiscalizar educação pública no Amazonas",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-23T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-reporta-avances-en-pago-de-deudas-a-centros-privados-que-atienden-a-pacientes-renales",
       "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-reporta-avances-en-pago-de-deudas-a-centros-privados-que-atienden-a-pacientes-renales",
       "title": "DEFENSORÍA DEL PUEBLO REPORTA AVANCES EN PAGO DE DEUDAS A CENTROS PRIVADOS QUE ATIENDEN A PACIENTES RENALES",
@@ -30,7 +42,7 @@
     {
       "id": "https://defensoria.am.def.br/2026/08/22/defensoria-do-amazonas-inaugura-unidade-especializada-no-atendimento-as-vitimas-de-crimes-e-atos-infracionais/",
       "url": "https://defensoria.am.def.br/2026/08/22/defensoria-do-amazonas-inaugura-unidade-especializada-no-atendimento-as-vitimas-de-crimes-e-atos-infracionais/",
-      "title": "Defensoria do Amazonas inaugura unidade especializada no atendimento às vítimas de crimes e atos infracionais",
+      "title": "Defensoria inaugura unidade especializada no atendimento às vítimas de crimes e atos infracionais",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-08-22T00:00:00",
       "tags": [
@@ -148,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8141351340686655105",
+      "id": "urn:defensorias:-7236348358091626327",
       "url": "",
       "title": "Defensoria realiza sétima edição do #DáPraResolver em Ribeirão Preto com 135 atendimentos",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -268,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3779277510273839515",
+      "id": "urn:defensorias:-572488711507123248",
       "url": "",
       "title": "Noticias 21 de agosto de 2026 Niños y niñas de Tacuaporumí participaron de una jornada sobre sus derechos La Defensoría del Pueblo, representada por l",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -532,7 +544,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1882132191296920638",
+      "id": "urn:defensorias:-7167009478222743215",
       "url": "",
       "title": "20 de agosto de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -544,7 +556,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4834524519257621531",
+      "id": "urn:defensorias:-1914432294531293225",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos para entrevistas de seleções simplificadas de Direito em Morada Nova e Caucaia",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -556,7 +568,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:9147620235586751161",
+      "id": "urn:defensorias:-2270117482208980715",
       "url": "",
       "title": "Assessoria de Estágio divulga resultado parcial da prova objetiva de seleção de pós-graduação de Direito",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -568,7 +580,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3246991659774869975",
+      "id": "urn:defensorias:7302120065772715901",
       "url": "",
       "title": "Defensoria do Ceará realiza palestra sobre legado jurídico do abolicionista Luiz Gama",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -580,7 +592,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4296554577639347034",
+      "id": "urn:defensorias:3303138109575708163",
       "url": "",
       "title": "Defensoría de la Niñez denunció graves hechos que afectarían a ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -592,7 +604,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5983092070528749905",
+      "id": "urn:defensorias:4848267153959693751",
       "url": "",
       "title": "La Tercera | Defensoría de la Niñez denuncia “graves hechos”...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -880,7 +892,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1533259484546945564",
+      "id": "urn:defensorias:1646508762880996603",
       "url": "",
       "title": "19 de agosto de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -892,7 +904,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3978106380422792651",
+      "id": "urn:defensorias:4438183703327788591",
       "url": "",
       "title": "Defensoria marca o Dia Nacional de Luta da População em Situação de Rua com atendimentos na Praça da Estação",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -916,7 +928,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3677189404859390301",
+      "id": "urn:defensorias:-4872181782188871421",
       "url": "",
       "title": "Noticias 19 de agosto de 2026 Presupuesto 2027: Defensor del Pueblo busca fortalecer la atención ciudadana y la modernización institucional El Defenso",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -1180,19 +1192,7 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/08/18/defensoria-do-amazonas-solicita-interdicao-de-lixao-de-iranduba-sob-pena-de-multa-de-r-12-milhoes/",
-      "url": "https://defensoria.am.def.br/2026/08/18/defensoria-do-amazonas-solicita-interdicao-de-lixao-de-iranduba-sob-pena-de-multa-de-r-12-milhoes/",
-      "title": "Defensoria do Amazonas solicita interdição de lixão de Iranduba sob pena de multa de R$ 12 milhões",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-18T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-672601290908553287",
+      "id": "urn:defensorias:8683364221790485866",
       "url": "",
       "title": "18 de agosto de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
