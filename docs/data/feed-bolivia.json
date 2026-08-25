@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-una-degradacion-ambiental-y-exige-acciones-urgentes-al-estado",
+      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-una-degradacion-ambiental-y-exige-acciones-urgentes-al-estado",
+      "title": "Defensor del Pueblo alerta una degradación ambiental y exige acciones urgentes al Estado",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-08-24T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/tratamiento-prioritario-de-la-accion-popular-por-la-acumulacion-de-basura-en-la-paz",
+      "url": "https://www.defensoria.gob.bo/noticias/tratamiento-prioritario-de-la-accion-popular-por-la-acumulacion-de-basura-en-la-paz",
+      "title": "TRATAMIENTO PRIORITARIO DE LA ACCIÓN POPULAR POR LA ACUMULACIÓN DE BASURA EN LA PAZ",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-08-24T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-reporta-avances-en-pago-de-deudas-a-centros-privados-que-atienden-a-pacientes-renales",
       "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-reporta-avances-en-pago-de-deudas-a-centros-privados-que-atienden-a-pacientes-renales",
       "title": "DEFENSORÍA DEL PUEBLO REPORTA AVANCES EN PAGO DE DEUDAS A CENTROS PRIVADOS QUE ATIENDEN A PACIENTES RENALES",
@@ -81,30 +105,6 @@
       "title": "DEFENSORÍA DEL PUEBLO REALIZA SEGUIMIENTO A PROYECTOS ONCOLÓGICOS Y DE INFRAESTRUCTURA HOSPITALARIA PARA GARANTIZAR EL DERECHO A LA SALUD",
       "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
       "date_published": "2026-08-17T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-acompanya-acuerdos-para-viabilizar-atencion-a-pacientes-renales-y-sostenibilidad-del-servicio-de-hemodialisis",
-      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-acompanya-acuerdos-para-viabilizar-atencion-a-pacientes-renales-y-sostenibilidad-del-servicio-de-hemodialisis",
-      "title": "DEFENSORÍA DEL PUEBLO ACOMPAÑA ACUERDOS PARA VIABILIZAR ATENCIÓN A PACIENTES RENALES Y SOSTENIBILIDAD DEL SERVICIO DE HEMODIÁLISIS",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-08-16T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-rechaza-expresiones-racistas,-discriminatorias-y-estigmatizantes-contra-pueblos-indigenas-de-tierras-bajas-y-espacios-educativos",
-      "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-rechaza-expresiones-racistas,-discriminatorias-y-estigmatizantes-contra-pueblos-indigenas-de-tierras-bajas-y-espacios-educativos",
-      "title": "PRONUNCIAMIENTO DEFENSORÍA DEL PUEBLO RECHAZA EXPRESIONES RACISTAS, DISCRIMINATORIAS Y ESTIGMATIZANTES CONTRA PUEBLOS INDÍGENAS DE TIERRAS BAJAS Y ESPACIOS EDUCATIVOS",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-08-14T00:00:00",
       "tags": [
         "Bolivia",
         "Sudamérica",

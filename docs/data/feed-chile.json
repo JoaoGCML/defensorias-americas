@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/seminario-prevencion-trata-indh/",
+      "url": "https://www.indh.cl/seminario-prevencion-trata-indh/",
+      "title": "Más de 90 personas participaron en seminario sobre prevención de trata de personas realizado por el INDH junto a instituciones y organizaciones de La Araucanía",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-24T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-maule-consejo-regional-ninos-ninas/",
       "url": "https://www.indh.cl/indh-maule-consejo-regional-ninos-ninas/",
       "title": "INDH Maule participó en sesión del Consejo Consultivo Regional de Niños, Niñas y Adolescentes que se concentró en temas de educación cívica y participación",
@@ -40,7 +52,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3303138109575708163",
+      "id": "urn:defensorias:5616350153141214704",
       "url": "",
       "title": "Defensoría de la Niñez denunció graves hechos que afectarían a ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -52,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4848267153959693751",
+      "id": "urn:defensorias:6613112731681329946",
       "url": "",
       "title": "La Tercera | Defensoría de la Niñez denuncia “graves hechos”...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -88,7 +100,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6981986292242417035",
+      "id": "urn:defensorias:6970386455479854497",
       "url": "",
       "title": "Adolescentes de regiones protagonizan podcast de la Defensoría de la ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -124,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4256943740893241167",
+      "id": "urn:defensorias:1518905775870431989",
       "url": "",
       "title": "Defensoría de la Niñez y el Gobierno Regional recogen propuestas ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -136,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4723849384466265655",
+      "id": "urn:defensorias:7285000487096595480",
       "url": "",
       "title": "Estudio de la Defensoría de la Niñez: Nueve de cada ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -156,7 +168,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -184,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7825912142239325210",
+      "id": "urn:defensorias:-4822461196064891920",
       "url": "",
       "title": "La Tercera | Defensor de la Niñez y proyecto de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4158161862855988340",
+      "id": "urn:defensorias:-3797515054478210210",
       "url": "",
       "title": "Desierto FM | Hospital Día Infanto Adolescente y Defensoría de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3338409376618168611",
+      "id": "urn:defensorias:-566977659050524096",
       "url": "",
       "title": "Modificaciones a la Ley de Responsabilidad Penal Adolescente: Análisis de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6628224000472950260",
+      "id": "urn:defensorias:-8526519726133357541",
       "url": "",
       "title": "Concurso de fotografía invita a niños, niñas y adolescentes de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6893243042130612402",
+      "id": "urn:defensorias:3946063067930266142",
       "url": "",
       "title": "Cooperativa | Violencia escolar: Defensor de la Niñez criticó recorte...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6872036398848120072",
+      "id": "urn:defensorias:-1382464943838382579",
       "url": "",
       "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
