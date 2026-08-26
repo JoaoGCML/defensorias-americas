@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-08-25T07:44:39Z</updated>
+  <updated>2026-08-26T07:47:43Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>DEFENSORÍA DEL PUEBLO ALERTA SOBRE LA DESPROTECCIÓN ESTATAL DE LA NIÑEZ EN SITUACIÓN DE CALLE Y EXIGE LEY NACIONAL</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-alerta-sobre-la-desproteccion-estatal-de-la-ninyez-en-situacion-de-calle-y-exige-ley-nacional</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-alerta-sobre-la-desproteccion-estatal-de-la-ninyez-en-situacion-de-calle-y-exige-ley-nacional" />
+    <updated>2026-08-25T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensor del Pueblo alerta una degradación ambiental y exige acciones urgentes al Estado</title>
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-una-degradacion-ambiental-y-exige-acciones-urgentes-al-estado</id>
@@ -59,13 +66,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-universidad-salesiana-impulsan-formacion-en-derechos-humanos-para-futuros-profesionales</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-universidad-salesiana-impulsan-formacion-en-derechos-humanos-para-futuros-profesionales" />
     <updated>2026-08-18T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>DEFENSORÍA DEL PUEBLO REALIZA SEGUIMIENTO A PROYECTOS ONCOLÓGICOS Y DE INFRAESTRUCTURA HOSPITALARIA PARA GARANTIZAR EL DERECHO A LA SALUD</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-realiza-seguimiento-a-proyectos-oncologicos-y-de-infraestructura-hospitalaria-para-garantizar-el-derecho-a-la-salud</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-realiza-seguimiento-a-proyectos-oncologicos-y-de-infraestructura-hospitalaria-para-garantizar-el-derecho-a-la-salud" />
-    <updated>2026-08-17T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
