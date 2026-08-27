@@ -4,10 +4,274 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4256/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4256/",
-      "title": "DPPE promove Ação de Cidadania em Afrânio e fortalece interiorização do atendimento",
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voo-procedente-dos-estados-unidos-traz-93-brasileiros-repatriados-a-confins-mg",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voo-procedente-dos-estados-unidos-traz-93-brasileiros-repatriados-a-confins-mg",
+      "title": "Voo procedente dos Estados Unidos traz 93 brasileiros repatriados a Confins (MG)",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-08-27T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4259/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4259/",
+      "title": "Defensoria Pública de Pernambuco participa de ação de cidadania na Imbiribeira",
       "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-08-27T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/27/defensoria-e-ufam-certificam-turma-da-primeira-pos-graduacao-em-pratica-defensorial-do-brasil/",
+      "url": "https://defensoria.am.def.br/2026/08/27/defensoria-e-ufam-certificam-turma-da-primeira-pos-graduacao-em-pratica-defensorial-do-brasil/",
+      "title": "Defensoria e UFAM certificam turma da primeira pós-graduação em Prática Defensorial do Brasil",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-27T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/27/defensoria-publica-cobra-reforma-de-escola-com-estrutura-precaria-na-zona-rural-de-humaita/",
+      "url": "https://defensoria.am.def.br/2026/08/27/defensoria-publica-cobra-reforma-de-escola-com-estrutura-precaria-na-zona-rural-de-humaita/",
+      "title": "Defensoria Pública cobra reforma de escola com estrutura precária na zona rural de Humaitá",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-27T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/saiba-quem-pode-aderir-a-politica-nacional-dos-direitos-das-pessoas-lgbtqia-e-como-solicitar-a-adesao",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/saiba-quem-pode-aderir-a-politica-nacional-dos-direitos-das-pessoas-lgbtqia-e-como-solicitar-a-adesao",
+      "title": "Saiba quem pode aderir à Política Nacional dos Direitos das Pessoas LGBTQIA+ e como solicitar a adesão",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/disque-100-a-denuncia-pode-ser-anonima-tire-suas-principais-duvidas",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/disque-100-a-denuncia-pode-ser-anonima-tire-suas-principais-duvidas",
+      "title": "Disque 100: A denúncia pode ser anônima? Tire suas principais dúvidas",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:1531413271318444728",
+      "url": "",
+      "title": "Escuta promovida pela Defensoria de SP e pela ActionAid leva relatos de comunidades brasileiras à ONU",
+      "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32944-DPRJ-realiza-acao-social-em-quilombos-de-Itabapoana-e-ingressa-com-acoes-para-revisar-contas-de-luz",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32944-DPRJ-realiza-acao-social-em-quilombos-de-Itabapoana-e-ingressa-com-acoes-para-revisar-contas-de-luz",
+      "title": "DPRJ realiza ação social em quilombos de Itabapoana e ingressa com ações para revisar contas de luz",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32943-Defensoria-do-Rio-participa-de-reuniao-no-STF-sobre-Lei-Antifaccao",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32943-Defensoria-do-Rio-participa-de-reuniao-no-STF-sobre-Lei-Antifaccao",
+      "title": "Defensoria do Rio participa de reunião no STF sobre Lei Antifacção",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4258/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4258/",
+      "title": "Defensoria Pública de Pernambuco destaca decisão do STF que amplia alcance das medidas protetivas da Lei Maria da Penha",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4257/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4257/",
+      "title": "Defensoria Pública de Pernambuco promove palestra em alusão ao Agosto Lilás em Caruaru",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/26/papo-por-elas-discute-violencia-de-genero-com-estudantes-da-rede-publica-de-manaus/",
+      "url": "https://defensoria.am.def.br/2026/08/26/papo-por-elas-discute-violencia-de-genero-com-estudantes-da-rede-publica-de-manaus/",
+      "title": "‘Papo por Elas’ discute violência de gênero com estudantes da rede pública de Manaus",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/26/defensoria-garante-transferencia-de-dois-pacientes-em-estado-grave-de-tabatinga-para-manaus/",
+      "url": "https://defensoria.am.def.br/2026/08/26/defensoria-garante-transferencia-de-dois-pacientes-em-estado-grave-de-tabatinga-para-manaus/",
+      "title": "Defensoria garante transferência de dois pacientes em estado grave de Tabatinga para Manaus",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/26/estudantes-de-eirunepe-e-humaita-debatem-mudancas-climaticas-em-acoes-da-defensoria/",
+      "url": "https://defensoria.am.def.br/2026/08/26/estudantes-de-eirunepe-e-humaita-debatem-mudancas-climaticas-em-acoes-da-defensoria/",
+      "title": "Estudantes de Eirunepé e Humaitá debatem mudanças climáticas em ações da Defensoria do Amazonas",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/26/conselho-superior-recebe-candidaturas-para-o-cargo-de-corregedor-geral-ate-31-de-agosto/",
+      "url": "https://defensoria.am.def.br/2026/08/26/conselho-superior-recebe-candidaturas-para-o-cargo-de-corregedor-geral-ate-31-de-agosto/",
+      "title": "Conselho Superior recebe candidaturas para o cargo de Corregedor-Geral até 31 de agosto",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/26/defensoria-prepara-ampliacao-do-projeto-orfaos-do-feminicidio-para-outras-unidades-do-amazonas/",
+      "url": "https://defensoria.am.def.br/2026/08/26/defensoria-prepara-ampliacao-do-projeto-orfaos-do-feminicidio-para-outras-unidades-do-amazonas/",
+      "title": "Defensoria prepara ampliação do projeto ‘Órfãos do Feminicídio’ para outras unidades do Amazonas",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/26/campanha-meu-pai-tem-nome-inicia-agendamento-para-exame-de-dna-gratuito-em-barcelos/",
+      "url": "https://defensoria.am.def.br/2026/08/26/campanha-meu-pai-tem-nome-inicia-agendamento-para-exame-de-dna-gratuito-em-barcelos/",
+      "title": "Campanha ‘Meu Pai Tem Nome’ inicia agendamento para exame de DNA gratuito em Barcelos",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/26/mutirao-previdenciario-chega-a-maues-para-atender-demanda-represada-no-municipio-conhecido-como-a-cidade-da-longevidade/",
+      "url": "https://defensoria.am.def.br/2026/08/26/mutirao-previdenciario-chega-a-maues-para-atender-demanda-represada-no-municipio-conhecido-como-a-cidade-da-longevidade/",
+      "title": "Mutirão Previdenciário chega a Maués para atender demanda represada no município conhecido como ‘a cidade da longevidade’",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/26/defensoria-do-amazonas-realiza-acao-com-atendimentos-juridicos-em-beruri-na-primeira-semana-de-setembro/",
+      "url": "https://defensoria.am.def.br/2026/08/26/defensoria-do-amazonas-realiza-acao-com-atendimentos-juridicos-em-beruri-na-primeira-semana-de-setembro/",
+      "title": "Defensoria realiza ação com atendimentos jurídicos em Beruri na primeira semana de setembro",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/atuacao-interinstitucional-garante-medidas-decorrentes-da-invalidacao-de-mais-de-700-mil-multas-dos-pedagios-free-flow-no-rs",
+      "url": "https://www.defensoria.rs.def.br/atuacao-interinstitucional-garante-medidas-decorrentes-da-invalidacao-de-mais-de-700-mil-multas-dos-pedagios-free-flow-no-rs",
+      "title": "Atuação interinstitucional garante medidas decorrentes da invalidação de mais de 700 mil multas dos pedágios “Free Flow” no RS",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/defensoria-publica-apresenta-numeros-de-atuacao-na-comarca-de-gaurama-entre-2024-e-2025",
+      "url": "https://www.defensoria.rs.def.br/defensoria-publica-apresenta-numeros-de-atuacao-na-comarca-de-gaurama-entre-2024-e-2025",
+      "title": "Defensoria Pública apresenta números de atuação na comarca de Gaurama entre 2024 e 2025",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/escolhida-nova-corregedora-geral-da-defensoria-publica-do-estado",
+      "url": "https://www.defensoria.rs.def.br/escolhida-nova-corregedora-geral-da-defensoria-publica-do-estado",
+      "title": "Escolhida nova corregedora-geral da Defensoria Pública do Estado",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32942-Cuidar-de-Quem-Cuida-DPRJ-participa-de-evento-voltado-para-maes-de-criancas-em-tratamento",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32942-Cuidar-de-Quem-Cuida-DPRJ-participa-de-evento-voltado-para-maes-de-criancas-em-tratamento",
+      "title": "Cuidar de Quem Cuida: DPRJ participa de evento voltado para mães de crianças em tratamento",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-08-25T00:00:00",
       "tags": [
         "Brasil",
@@ -16,10 +280,22 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/08/25/mutirao-previdenciario-chega-a-maues-para-atender-demanda-represada-no-municipio-conhecido-como-a-cidade-da-longevidade/",
-      "url": "https://defensoria.am.def.br/2026/08/25/mutirao-previdenciario-chega-a-maues-para-atender-demanda-represada-no-municipio-conhecido-como-a-cidade-da-longevidade/",
-      "title": "Mutirão Previdenciário chega a Maués para atender demanda represada no município conhecido como ‘a cidade da longevidade’",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32940-Defensoria-destaca-papel-do-Projeto-Inspirar-em-roda-de-conversa-no-Talavera-Bruce",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32940-Defensoria-destaca-papel-do-Projeto-Inspirar-em-roda-de-conversa-no-Talavera-Bruce",
+      "title": "Defensoria destaca papel do Projeto Inspirar em roda de conversa no Talavera Bruce",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-08-25T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4256/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4256/",
+      "title": "DPPE promove Ação de Cidadania em Afrânio e fortalece interiorização do atendimento",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
       "date_published": "2026-08-25T00:00:00",
       "tags": [
         "Brasil",
@@ -44,54 +320,6 @@
       "url": "https://defensoria.am.def.br/2026/08/25/defensoria-do-amazonas-abre-inscricoes-para-residencia-juridica-em-manicore/",
       "title": "Defensoria do Amazonas abre inscrições para residência jurídica em Manicoré",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-25T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.ce.def.br/noticia/defensoria-publica-coletivo-aparece-e-cicv-promovem-roda-de-conversa-para-familiares-de-pessoas-desaparecidas-em-fortaleza/",
-      "url": "https://www.defensoria.ce.def.br/noticia/defensoria-publica-coletivo-aparece-e-cicv-promovem-roda-de-conversa-para-familiares-de-pessoas-desaparecidas-em-fortaleza/",
-      "title": "Arquivos:Notícias",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-25T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:3582941394580199104",
-      "url": "",
-      "title": "25 de agosto de 2026",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-25T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-1797525252252838497",
-      "url": "",
-      "title": "Defensoria Pública, Coletivo Aparece e CICV promovem roda de conversa para familiares de pessoas desaparecidas em Fortaleza",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-25T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:6428395870853083435",
-      "url": "",
-      "title": "A infância precisa de conexão e nem toda conexão depende da internet",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
       "date_published": "2026-08-25T00:00:00",
       "tags": [
         "Brasil",
@@ -196,66 +424,6 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4368122111642231798",
-      "url": "",
-      "title": "24 de agosto de 2026",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-1259019575709486993",
-      "url": "",
-      "title": "Grupo de defensores que atuam na Defesa dos Animais acompanha caso de suspeita de envenenamento de cães em Iguatu",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:6949020422104065237",
-      "url": "",
-      "title": "Em alusão ao Dia do Estagiário, Defensoria do Ceará realiza comemoração aos jovens do Projeto Primeiro Passo",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-8051132014644376041",
-      "url": "",
-      "title": "Defensoria reinaugura sede ampliada na cidade de Quixeramobim",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-1713579187035482856",
-      "url": "",
-      "title": "Responsabilizar para transformar: como projetos buscam prevenir novos casos de violência contra a mulher",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.am.def.br/2026/08/23/defensoria-define-sete-frentes-prioritarias-para-fiscalizar-educacao-publica-no-amazonas/",
       "url": "https://defensoria.am.def.br/2026/08/23/defensoria-define-sete-frentes-prioritarias-para-fiscalizar-educacao-publica-no-amazonas/",
       "title": "Defensoria define sete frentes prioritárias para fiscalizar educação pública no Amazonas",
@@ -352,7 +520,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5810315302071036700",
+      "id": "urn:defensorias:4594858062760994493",
       "url": "",
       "title": "Defensoria realiza sétima edição do #DáPraResolver em Ribeirão Preto com 135 atendimentos",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -496,30 +664,6 @@
       ]
     },
     {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32927-STF-acolhe-atuacao-da-DPRJ-e-garante-repasse-para-compra-de-medicamentos-a-paciente-de-Nova-Friburgo",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32927-STF-acolhe-atuacao-da-DPRJ-e-garante-repasse-para-compra-de-medicamentos-a-paciente-de-Nova-Friburgo",
-      "title": "STF acolhe atuação da DPRJ e garante repasse para compra de medicamentos a paciente de Nova Friburgo",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-08-20T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32931-DPRJ-promove-evento-sobre-Primeira-Infancia-e-fortalece-articulacao-da-rede-de-protecao",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32931-DPRJ-promove-evento-sobre-Primeira-Infancia-e-fortalece-articulacao-da-rede-de-protecao",
-      "title": "DPRJ promove evento sobre Primeira Infância e fortalece articulação da rede de proteção",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-08-20T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4245/",
       "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4245/",
       "title": "Defensoria Pública promove diálogo sobre violência contra a mulher em parceria com o CREAS Cordeiro",
@@ -536,78 +680,6 @@
       "url": "https://defensoria.am.def.br/2026/08/20/defensoria-do-amazonas-explica-mudancas-na-ampliacao-das-medidas-protetivas-da-lei-maria-da-penha/",
       "title": "Defensoria explica mudanças na ampliação das medidas protetivas da Lei Maria da Penha",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-20T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/20/moradores-temem-desabamento-apos-rachaduras-em-residencial-de-manaus/",
-      "url": "https://defensoria.am.def.br/2026/08/20/moradores-temem-desabamento-apos-rachaduras-em-residencial-de-manaus/",
-      "title": "Moradores temem desabamento após rachaduras em residencial de Manaus",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-20T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/20/defensoria-disponibiliza-canal-para-receber-relatos-sobre-aumento-nas-contas-de-energia-no-amazonas/",
-      "url": "https://defensoria.am.def.br/2026/08/20/defensoria-disponibiliza-canal-para-receber-relatos-sobre-aumento-nas-contas-de-energia-no-amazonas/",
-      "title": "Defensoria disponibiliza canal para receber relatos sobre aumento nas contas de energia no Amazonas",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-20T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-4368415029148745314",
-      "url": "",
-      "title": "20 de agosto de 2026",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-20T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:9080256876219572205",
-      "url": "",
-      "title": "Assessoria de Estágio convoca candidatos para entrevistas de seleções simplificadas de Direito em Morada Nova e Caucaia",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-20T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-910687256900430480",
-      "url": "",
-      "title": "Assessoria de Estágio divulga resultado parcial da prova objetiva de seleção de pós-graduação de Direito",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-20T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-7519042604893708297",
-      "url": "",
-      "title": "Defensoria do Ceará realiza palestra sobre legado jurídico do abolicionista Luiz Gama",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
       "date_published": "2026-08-20T00:00:00",
       "tags": [
         "Brasil",
@@ -664,198 +736,6 @@
       ]
     },
     {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32921-Defensoria-firma-acordo-com-FAETEC-para-concurso-publico-com-829-vagas",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32921-Defensoria-firma-acordo-com-FAETEC-para-concurso-publico-com-829-vagas",
-      "title": "Defensoria firma acordo com FAETEC para concurso público com 829 vagas",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4244/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4244/",
-      "title": "DPPE e TJPE assinam acordo de cooperação técnica para implantação e execução do Grupo Reflexivo para homens",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4243/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4243/",
-      "title": "DPPE promove reunião de alinhamento com o Cremepe",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4242/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4242/",
-      "title": "Defensoria Pública de Pernambuco realiza mutirão do projeto Meu Pai Tem Nome em Caruaru",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/19/aos-69-anos-maria-do-rosario-quer-aprender-a-chamar-uber-e-fazer-videochamadas-sozinha/",
-      "url": "https://defensoria.am.def.br/2026/08/19/aos-69-anos-maria-do-rosario-quer-aprender-a-chamar-uber-e-fazer-videochamadas-sozinha/",
-      "title": "Aos 69 anos, Maria do Rosário quer aprender a chamar Uber e fazer videochamadas sozinha",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/19/dignidade-menstrual-defensoria-arrecada-absorventes-e-itens-de-higiene-para-meninas-da-casa-mamae-margarida/",
-      "url": "https://defensoria.am.def.br/2026/08/19/dignidade-menstrual-defensoria-arrecada-absorventes-e-itens-de-higiene-para-meninas-da-casa-mamae-margarida/",
-      "title": "Defensoria arrecada absorventes e itens de higiene para meninas da Casa Mamãe Margarida",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/19/durante-acoes-nos-municipios-de-carauari-e-itamarati-defensoria-publica-realiza-mais-de-150-atendimentos/",
-      "url": "https://defensoria.am.def.br/2026/08/19/durante-acoes-nos-municipios-de-carauari-e-itamarati-defensoria-publica-realiza-mais-de-150-atendimentos/",
-      "title": "Durante ações nos municípios de Carauari e Itamarati, Defensoria realiza mais de 150 atendimentos",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/19/defensoria-apura-falhas-estruturais-nos-servicos-oftalmologicos-da-rede-publica-do-amazonas/",
-      "url": "https://defensoria.am.def.br/2026/08/19/defensoria-apura-falhas-estruturais-nos-servicos-oftalmologicos-da-rede-publica-do-amazonas/",
-      "title": "Defensoria apura falhas estruturais nos serviços oftalmológicos da rede pública do Amazonas",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/19/no-dia-nacional-de-luta-da-populacao-em-situacao-de-rua-defensoria-do-amazonas-reforca-atendimento-prioritario/",
-      "url": "https://defensoria.am.def.br/2026/08/19/no-dia-nacional-de-luta-da-populacao-em-situacao-de-rua-defensoria-do-amazonas-reforca-atendimento-prioritario/",
-      "title": "No Dia Nacional de Luta da População em Situação de Rua, Defensoria reforça atendimento prioritário",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/19/defensoria-do-amazonas-integra-forum-nacional-para-fortalecer-atuacao-no-congresso-e-tribunais-superiores/",
-      "url": "https://defensoria.am.def.br/2026/08/19/defensoria-do-amazonas-integra-forum-nacional-para-fortalecer-atuacao-no-congresso-e-tribunais-superiores/",
-      "title": "Defensoria do Amazonas integra fórum nacional para fortalecer atuação no Congresso e Tribunais Superiores",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/19/defensoria-itinerante-oferece-quatro-dias-de-atendimento-juridico-gratuito-em-tefe/",
-      "url": "https://defensoria.am.def.br/2026/08/19/defensoria-itinerante-oferece-quatro-dias-de-atendimento-juridico-gratuito-em-tefe/",
-      "title": "‘Defensoria Itinerante’ oferece quatro dias de atendimento jurídico gratuito em Tefé",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-603463318481258820",
-      "url": "",
-      "title": "19 de agosto de 2026",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-1783517966066475736",
-      "url": "",
-      "title": "Defensoria marca o Dia Nacional de Luta da População em Situação de Rua com atendimentos na Praça da Estação",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32920-DPRJ-recebe-comitiva-do-Piaui-para-troca-de-experiencias-sobre-gestao-tecnologia-e-atendimento",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32920-DPRJ-recebe-comitiva-do-Piaui-para-troca-de-experiencias-sobre-gestao-tecnologia-e-atendimento",
-      "title": "DPRJ recebe comitiva do Piauí para troca de experiências sobre gestão, tecnologia e atendimento",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-08-18T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-3031048075579996925",
-      "url": "",
-      "title": "18 de agosto de 2026",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-18T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-2183081267173564335",
-      "url": "",
-      "title": "DPCE divulga lista de inscritos para seleção de estagiários em Direito para atuação em Caucaia",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-08-18T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/curso-de-especializacao-em-acessibilidade-cultural-abre-inscricoes-para-250-vagas-gratuitas",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/curso-de-especializacao-em-acessibilidade-cultural-abre-inscricoes-para-250-vagas-gratuitas",
       "title": "Curso de Especialização em Acessibilidade Cultural abre inscrições para 250 vagas gratuitas",
@@ -880,7 +760,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5292158632085357051",
+      "id": "urn:defensorias:254092997387457481",
       "url": "",
       "title": "NCDH da Defensoria ajuíza ação para impedir a inclusão de incineradores em contratos de limpeza urbana de SP sem licitação pública nem participação popular",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -892,7 +772,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2886873193190551772",
+      "id": "urn:defensorias:-4483801378977922523",
       "url": "",
       "title": "Meu Pai Tem Nome: Defensoria de SP bate recorde de atendimentos em mutirão de reconhecimento de paternidade",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -940,7 +820,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4911793748417617233",
+      "id": "urn:defensorias:-8453157781097167294",
       "url": "",
       "title": "Aos 20 anos da Lei Maria da Penha, Defensoria garante medidas protetivas, luz e água para mãe e filha em Piracicaba",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -964,43 +844,7 @@
       ]
     },
     {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/direitos-humanos-no-cotidiano-entenda-o-que-sao-e-como-buscar-seus-direitos",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/direitos-humanos-no-cotidiano-entenda-o-que-sao-e-como-buscar-seus-direitos",
-      "title": "Direitos humanos no cotidiano: entenda o que são e como buscar seus direitos",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-08-12T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-do-estudante-educacao-e-direito-fundamental-de-criancas-e-adolescentes",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-do-estudante-educacao-e-direito-fundamental-de-criancas-e-adolescentes",
-      "title": "Dia do Estudante: educação é direito fundamental de crianças e adolescentes",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-08-11T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/mais-um-voo-de-repatriados-dos-eua-chega-a-confins-nesta-terca-feira-11",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/mais-um-voo-de-repatriados-dos-eua-chega-a-confins-nesta-terca-feira-11",
-      "title": "Mais um voo de repatriados dos EUA chega a Confins nesta terça-feira (11)",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-08-11T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:8934335078061195269",
+      "id": "urn:defensorias:7944899108200814791",
       "url": "",
       "title": "Defensoria viabiliza atendente pessoal a homem com deficiência após bloqueio de verbas de São Sebastião",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1012,7 +856,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2787406499600766710",
+      "id": "urn:defensorias:3342731567471870141",
       "url": "",
       "title": "Ribeirão Preto está com as inscrições abertas para o circuito de atendimentos #DáPraResolver da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1024,23 +868,11 @@
       ]
     },
     {
-      "id": "urn:defensorias:6042138817544624007",
+      "id": "urn:defensorias:8201630282897954549",
       "url": "",
       "title": "Defensoria de SP lança relatório para ampliar atendimento a mulheres em situação de violência doméstica",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
       "date_published": "2026-08-07T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:6676353887459367468",
-      "url": "",
-      "title": "Unidade São José do Rio Preto da Defensoria pede plano para transformar imóveis abandonados do município em moradia social",
-      "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
-      "date_published": "2026-08-05T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",

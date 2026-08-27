@@ -4,6 +4,78 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "urn:defensorias:-6327130201185133604",
+      "url": "",
+      "title": "Radio Futuro | “Una tormenta perfecta”: la cruda advertencia del...",
+      "summary": "Defensoría de la Niñez (Chile)",
+      "date_published": "2026-08-27T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "prensa"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-medioambiente-indh-los-lagos-aula-viva-san-juan/",
+      "url": "https://www.indh.cl/indh-medioambiente-indh-los-lagos-aula-viva-san-juan/",
+      "title": "Cuidado del medioambiente: INDH Los Lagos realizó trabajo en terreno junto a estudiantes de liceo rural de San Juan de la Costa",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-27T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:2959347585772524844",
+      "url": "",
+      "title": "Radio San Joaquín | Concurso fotográfico en San Joaquín invita...",
+      "summary": "Defensoría de la Niñez (Chile)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "prensa"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-tribunal-sentencia-pdi/",
+      "url": "https://www.indh.cl/indh-tribunal-sentencia-pdi/",
+      "title": "INDH actuó como querellante: tribunal sentenció a dos funcionarios de la PDI que persiguieron y dispararon a personas sin motivo justificado",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-recurso-proteccion-pgu-aysen/",
+      "url": "https://www.indh.cl/indh-recurso-proteccion-pgu-aysen/",
+      "title": "Tras recurso de protección del INDH: Persona de 77 años logra acceder a PGU en Coyhaique",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/corte-temuco-gendarmeria-capacitacion-indh/",
+      "url": "https://www.indh.cl/corte-temuco-gendarmeria-capacitacion-indh/",
+      "title": "Corte de Apelaciones de Temuco ordena a Gendarmería de Chile que el personal que custodia detenidos en tribunales tenga capacitación impartida por el INDH",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-26T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-maule-clinica-juridica-universidad-talca/",
       "url": "https://www.indh.cl/indh-maule-clinica-juridica-universidad-talca/",
       "title": "INDH Maule realizó taller sobre actuación en casos de vulneración de derechos a estudiantes de la Clínica Jurídica de la Universidad de Talca",
@@ -60,11 +132,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:-2244095129538659430",
+      "id": "urn:defensorias:445675451788081932",
       "url": "",
       "title": "Defensoría de la Niñez denunció graves hechos que afectarían a ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -76,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4080072732317531706",
+      "id": "urn:defensorias:-5823475817231141479",
       "url": "",
       "title": "La Tercera | Defensoría de la Niñez denuncia “graves hechos”...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -88,31 +160,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-araucania-premiacion-arte-derechos-humanos/",
-      "url": "https://www.indh.cl/indh-araucania-premiacion-arte-derechos-humanos/",
-      "title": "INDH de La Araucanía realiza premiación a estudiantes que participaron del concurso “Arte y Derechos Humanos”",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-08-20T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-informe-comite-onu-discapacidad/",
-      "url": "https://www.indh.cl/indh-informe-comite-onu-discapacidad/",
-      "title": "INDH presentó informe complementario ante Comité ONU que examina cumplimiento de obligaciones del Estado de Chile hacia las personas con discapacidad",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-7676428371827100909",
+      "id": "urn:defensorias:3994940312442286143",
       "url": "",
       "title": "Adolescentes de regiones protagonizan podcast de la Defensoría de la ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -132,11 +180,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:-1693600342044701397",
+      "id": "urn:defensorias:7675229233009600512",
       "url": "",
       "title": "Defensoría de la Niñez y el Gobierno Regional recogen propuestas ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -148,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5524779322225514682",
+      "id": "urn:defensorias:-3584754852043233363",
       "url": "",
       "title": "Estudio de la Defensoría de la Niñez: Nueve de cada ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,19 +232,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-maule-taller-gendarmeria/",
-      "url": "https://www.indh.cl/indh-maule-taller-gendarmeria/",
-      "title": "INDH Maule realizó taller sobre igualdad y no discriminación dirigido a personal de Gendarmería",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-08-14T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-1780141599747266859",
+      "id": "urn:defensorias:4071399614144671745",
       "url": "",
       "title": "La Tercera | Defensor de la Niñez y proyecto de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8045721480681693905",
+      "id": "urn:defensorias:2916335618636244687",
       "url": "",
       "title": "Desierto FM | Hospital Día Infanto Adolescente y Defensoría de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2276831620678053087",
+      "id": "urn:defensorias:9069600791993377548",
       "url": "",
       "title": "Modificaciones a la Ley de Responsabilidad Penal Adolescente: Análisis de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8823632934229431937",
+      "id": "urn:defensorias:4069687604888223591",
       "url": "",
       "title": "Concurso de fotografía invita a niños, niñas y adolescentes de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:743718110689843429",
+      "id": "urn:defensorias:5187392656273655184",
       "url": "",
       "title": "Cooperativa | Violencia escolar: Defensor de la Niñez criticó recorte...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,7 +292,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-420683125099127563",
+      "id": "urn:defensorias:8246055147508849077",
       "url": "",
       "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
