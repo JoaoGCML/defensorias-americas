@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Sudamérica</title>
   <id>urn:defensorias-americas:prensa:sudamerica</id>
-  <updated>2026-08-28T19:18:22Z</updated>
+  <updated>2026-08-29T12:59:51Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-sudamerica.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -11,6 +11,20 @@
     <link href="https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-rechaza-la-vandalizacion-de-una-muestra-fotografica-que-visibiliza-una-practica-contemporanea-del-pueblo-crucenyo" />
     <updated>2026-08-28T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Dia Internacional das Vítimas de Desaparecimentos Forçados mobiliza contra a violência e alerta para a sua atualidade</title>
+    <id>https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-internacional-das-vitimas-de-desaparecimentos-forcados-mobiliza-contra-a-violencia-e-alerta-para-a-sua-atualidade</id>
+    <link href="https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-internacional-das-vitimas-de-desaparecimentos-forcados-mobiliza-contra-a-violencia-e-alerta-para-a-sua-atualidade" />
+    <updated>2026-08-28T00:00:00</updated>
+    <summary>Ministério dos Direitos Humanos e da Cidadania (Brasil) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Dia Nacional da Visibilidade Lésbica evidencia a existência, a luta e os desafios dessa população</title>
+    <id>https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-nacional-da-visibilidade-lesbica-evidencia-a-existencia-a-luta-e-os-desafios-dessa-populacao</id>
+    <link href="https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-nacional-da-visibilidade-lesbica-evidencia-a-existencia-a-luta-e-os-desafios-dessa-populacao" />
+    <updated>2026-08-28T00:00:00</updated>
+    <summary>Ministério dos Direitos Humanos e da Cidadania (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Dia Nacional de Combate ao Escalpelamento reforça cuidados para prevenir acidentes em embarcações</title>
@@ -25,6 +39,13 @@
     <link href="https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/profissionais-do-disque-100-participam-de-capacitacao-sobre-racismo-religioso-e-intolerancia-religiosa" />
     <updated>2026-08-28T00:00:00</updated>
     <summary>Ministério dos Direitos Humanos e da Cidadania (Brasil) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Defensoria Pública de Pernambuco celebra casamentos em cerimônia coletiva no Recife</title>
+    <id>https://www.defensoria.pe.def.br/noticias/detalhe/4260/</id>
+    <link href="https://www.defensoria.pe.def.br/noticias/detalhe/4260/" />
+    <updated>2026-08-28T00:00:00</updated>
+    <summary>Defensoria Pública do Estado de Pernambuco (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Encontro debate Inteligência Artificial e proteção de dados em Manaus</title>
@@ -55,11 +76,51 @@
     <summary>Defensoria Pública do Estado do Amazonas (Brasil) — noticias</summary>
   </entry>
   <entry>
+    <title>Galeria de ex-Corregedores-Gerais da Defensoria Pública do RS é inaugurada durante 95ª Reunião do CNCG</title>
+    <id>https://www.defensoria.rs.def.br/galeria-de-ex-corregedores-gerais-da-defensoria-publica-do-rs-e-inaugurada-durante-95-reuniao-do-cncg</id>
+    <link href="https://www.defensoria.rs.def.br/galeria-de-ex-corregedores-gerais-da-defensoria-publica-do-rs-e-inaugurada-durante-95-reuniao-do-cncg" />
+    <updated>2026-08-28T00:00:00</updated>
+    <summary>Defensoria Pública do Estado do Rio Grande do Sul (Brasil) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Defensoría de la Niñez evalúa recuperación tras incendios en Biobío ...</title>
+    <id>urn:defensorias-americas:2698771476700912424</id>
+    <updated>2026-08-28T00:00:00</updated>
+    <summary>Defensoría de la Niñez (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Estudiantes de siete regiones co-diseñaron nueva Escuela de Liderazgo de ...</title>
+    <id>urn:defensorias-americas:9061780066459013131</id>
+    <updated>2026-08-28T00:00:00</updated>
+    <summary>Defensoría de la Niñez (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Director del INDH visita la región de La Araucanía: seguridad, derechos humanos y acceso a la justicia fueron los ejes principales</title>
+    <id>https://www.indh.cl/director-indh-visita-araucania/</id>
+    <link href="https://www.indh.cl/director-indh-visita-araucania/" />
+    <updated>2026-08-28T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
     <title>Culmina la segunda edición de pasantías internacionales de estudiantes de ESADE en el MNP</title>
     <id>https://mnp.gov.py/culmina-la-segunda-edicion-de-pasantias-internacionales-de-estudiantes-de-esade-en-el-mnp/</id>
     <link href="https://mnp.gov.py/culmina-la-segunda-edicion-de-pasantias-internacionales-de-estudiantes-de-esade-en-el-mnp/" />
     <updated>2026-08-28T00:00:00</updated>
     <summary>Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Defensoría del Pueblo inaugura nueva sede en La Oroya para acercar la defensa de derechos a más de 32 mil ciudadanos</title>
+    <id>https://www.defensoria.gob.pe/defensoria-del-pueblo-inaugura-nueva-sede-en-la-oroya-para-acercar-la-defensa-de-derechos-a-mas-de-32-mil-ciudadanos/</id>
+    <link href="https://www.defensoria.gob.pe/defensoria-del-pueblo-inaugura-nueva-sede-en-la-oroya-para-acercar-la-defensa-de-derechos-a-mas-de-32-mil-ciudadanos/" />
+    <updated>2026-08-28T00:00:00</updated>
+    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Defensoría del Pueblo advierte que municipios de Chucuito carecen de planes ni de almacenes adecuados para afrontar sequías por fenómeno El Niño</title>
+    <id>https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-que-municipios-de-chucuito-carecen-de-planes-ni-de-almacenes-adecuados-para-afrontar-sequias-por-fenomeno-el-nino/</id>
+    <link href="https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-que-municipios-de-chucuito-carecen-de-planes-ni-de-almacenes-adecuados-para-afrontar-sequias-por-fenomeno-el-nino/" />
+    <updated>2026-08-28T00:00:00</updated>
+    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
   </entry>
   <entry>
     <title>Defensoría del Pueblo reitera rechazo a toda forma de quebrar el orden democrático en el país</title>
@@ -74,6 +135,13 @@
     <link href="https://www.defensoria.gob.pe/defensoria-del-pueblo-brinda-atencion-y-apoyo-a-familiares-de-peruanos-en-rusia-durante-manifestacion-en-lima/" />
     <updated>2026-08-28T00:00:00</updated>
     <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Comunicado n.° 049/DP/2026</title>
+    <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/08/Comunicado-049-2026.pdf</id>
+    <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/08/Comunicado-049-2026.pdf" type="application/pdf" />
+    <updated>2026-08-28T00:00:00</updated>
+    <summary>Defensoría del Pueblo del Perú (Perú) — pronunciamientos</summary>
   </entry>
   <entry>
     <title>DEFENSOR DEL PUEBLO AFIRMA QUE TUTELA SOBRE EL SERVICIO DE RECOJO DE BASURA SIENTA UN PRECEDENTE Y CONSTITUYE UNA GARANTÍA DE NO REPETICIÓN</title>
@@ -154,7 +222,7 @@
   </entry>
   <entry>
     <title>Radio Futuro | “Una tormenta perfecta”: la cruda advertencia del...</title>
-    <id>urn:defensorias-americas:-4438361077039739442</id>
+    <id>urn:defensorias-americas:673357566538632977</id>
     <updated>2026-08-27T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -244,7 +312,7 @@
   </entry>
   <entry>
     <title>Escuta promovida pela Defensoria de SP e pela ActionAid leva relatos de comunidades brasileiras à ONU</title>
-    <id>urn:defensorias-americas:-6079743764899989835</id>
+    <id>urn:defensorias-americas:-6571777330202916585</id>
     <updated>2026-08-26T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -340,15 +408,8 @@
     <summary>Defensoria Pública do Estado do Rio Grande do Sul (Brasil) — noticias</summary>
   </entry>
   <entry>
-    <title>Defensoria Pública apresenta números de atuação na comarca de Gaurama entre 2024 e 2025</title>
-    <id>https://www.defensoria.rs.def.br/defensoria-publica-apresenta-numeros-de-atuacao-na-comarca-de-gaurama-entre-2024-e-2025</id>
-    <link href="https://www.defensoria.rs.def.br/defensoria-publica-apresenta-numeros-de-atuacao-na-comarca-de-gaurama-entre-2024-e-2025" />
-    <updated>2026-08-26T00:00:00</updated>
-    <summary>Defensoria Pública do Estado do Rio Grande do Sul (Brasil) — noticias</summary>
-  </entry>
-  <entry>
     <title>Radio San Joaquín | Concurso fotográfico en San Joaquín invita...</title>
-    <id>urn:defensorias-americas:-1556787943607712225</id>
+    <id>urn:defensorias-americas:2462861823672633675</id>
     <updated>2026-08-26T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -375,19 +436,19 @@
   </entry>
   <entry>
     <title>Noticias 26 de agosto de 2026 Defensoría del Pueblo promueve la prevención del acoso escolar en Capiatá La Defensoría del Pueblo, a través de la Coord</title>
-    <id>urn:defensorias-americas:8941469360241067867</id>
+    <id>urn:defensorias-americas:5735218345725648476</id>
     <updated>2026-08-26T00:00:00</updated>
     <summary>Defensoría del Pueblo del Paraguay (Paraguay) — noticias</summary>
   </entry>
   <entry>
     <title>Noticias 26 de agosto de 2026 La Defensoría del Pueblo celebró el Día del Niño en la Escuela Fe y Alegría del Bañado Norte En el marco de las celebrac</title>
-    <id>urn:defensorias-americas:6059959109617813362</id>
+    <id>urn:defensorias-americas:-3502676103852679016</id>
     <updated>2026-08-26T00:00:00</updated>
     <summary>Defensoría del Pueblo del Paraguay (Paraguay) — noticias</summary>
   </entry>
   <entry>
     <title>Noticias 26 de agosto de 2026 Defensoría del Pueblo capacita a sus servidores sobre la nueva Ley de Función Pública y Servicio Civil La Defensoría del</title>
-    <id>urn:defensorias-americas:7895047840030834009</id>
+    <id>urn:defensorias-americas:8119273933845754508</id>
     <updated>2026-08-26T00:00:00</updated>
     <summary>Defensoría del Pueblo del Paraguay (Paraguay) — noticias</summary>
   </entry>
@@ -463,7 +524,7 @@
   </entry>
   <entry>
     <title>Noticias 25 de agosto de 2026 Defensoría del Pueblo gestionó la donación de suplementos nutricionales La Defensoría del pueblo, a través de su Direcci</title>
-    <id>urn:defensorias-americas:-6418248096815562514</id>
+    <id>urn:defensorias-americas:-6409443646033087842</id>
     <updated>2026-08-25T00:00:00</updated>
     <summary>Defensoría del Pueblo del Paraguay (Paraguay) — noticias</summary>
   </entry>
@@ -567,7 +628,7 @@
   </entry>
   <entry>
     <title>Noticias 24 de agosto de 2026 Defensoría del Pueblo acompaña actividades por el Día del Niño en el departamento del Guairá En conmemoración por el Día</title>
-    <id>urn:defensorias-americas:-391979261690024360</id>
+    <id>urn:defensorias-americas:1275113278469053325</id>
     <updated>2026-08-24T00:00:00</updated>
     <summary>Defensoría del Pueblo del Paraguay (Paraguay) — noticias</summary>
   </entry>
@@ -607,13 +668,6 @@
     <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
   </entry>
   <entry>
-    <title>Defensoría del Pueblo capacita a funcionarios de municipio provincial de Datem del Marañón ante proximidad de inicio de procesos de transferencia de gestión</title>
-    <id>https://www.defensoria.gob.pe/defensoria-del-pueblo-capacita-a-funcionarios-de-municipio-provincial-de-datem-del-maranon-ante-proximidad-de-inicio-de-procesos-de-transferencia-de-gestion/</id>
-    <link href="https://www.defensoria.gob.pe/defensoria-del-pueblo-capacita-a-funcionarios-de-municipio-provincial-de-datem-del-maranon-ante-proximidad-de-inicio-de-procesos-de-transferencia-de-gestion/" />
-    <updated>2026-08-24T00:00:00</updated>
-    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
-  </entry>
-  <entry>
     <title>Defensoria define sete frentes prioritárias para fiscalizar educação pública no Amazonas</title>
     <id>https://defensoria.am.def.br/2026/08/23/defensoria-define-sete-frentes-prioritarias-para-fiscalizar-educacao-publica-no-amazonas/</id>
     <link href="https://defensoria.am.def.br/2026/08/23/defensoria-define-sete-frentes-prioritarias-para-fiscalizar-educacao-publica-no-amazonas/" />
@@ -635,65 +689,10 @@
     <summary>Defensoria Pública do Estado do Amazonas (Brasil) — noticias</summary>
   </entry>
   <entry>
-    <title>Defensoría del Pueblo intervino ante hallazgo de recién nacida en el Rímac y exhorta al MIMP y Ministerio Público, actuar con celeridad a fin de garantizar su protección integral y una investigación célere</title>
-    <id>https://www.defensoria.gob.pe/defensoria-del-pueblo-intervino-ante-hallazgo-de-recien-nacida-en-el-rimac-y-exhorta-al-ministerio-de-la-mujer-y-poblaciones-vulnerables-y-ministerio-publico-actuar-con-celeridad-a-fin-de-garantizar/</id>
-    <link href="https://www.defensoria.gob.pe/defensoria-del-pueblo-intervino-ante-hallazgo-de-recien-nacida-en-el-rimac-y-exhorta-al-ministerio-de-la-mujer-y-poblaciones-vulnerables-y-ministerio-publico-actuar-con-celeridad-a-fin-de-garantizar/" />
-    <updated>2026-08-22T00:00:00</updated>
-    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
-  </entry>
-  <entry>
     <title>Brigada Defensorial en Tucacas acompañará a familias afectadas por los sismos del 24 de junio</title>
     <id>http://www.defensoria.gob.ve/?p=20322</id>
     <link href="http://www.defensoria.gob.ve/?p=20322" />
     <updated>2026-08-22T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>SE REALIZÓ LA “JORNADA SOBRE ACCESO A LA JUSTICIA DE LOS PUEBLOS INDÍGENAS Y EL ROL DEL FACILITADOR INTERCULTURAL”</title>
-    <id>https://www.mpd.gov.ar/index.php/noticias-h/se-realizo-la-jornada-sobre-acceso-a-la-justicia-de-los-pueblos-indigenas-y-el-rol-del-facilitador-intercultural</id>
-    <link href="https://www.mpd.gov.ar/index.php/noticias-h/se-realizo-la-jornada-sobre-acceso-a-la-justicia-de-los-pueblos-indigenas-y-el-rol-del-facilitador-intercultural" />
-    <updated>2026-08-21T00:00:00</updated>
-    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Você sabe como denunciar a violência contra pessoas idosas?</title>
-    <id>https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voce-sabe-como-denunciar-a-violencia-contra-pessoas-idosas</id>
-    <link href="https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voce-sabe-como-denunciar-a-violencia-contra-pessoas-idosas" />
-    <updated>2026-08-21T00:00:00</updated>
-    <summary>Ministério dos Direitos Humanos e da Cidadania (Brasil) — noticias</summary>
-  </entry>
-  <entry>
-    <title>ECA Digital: conheça as regras de proteção de crianças e adolescentes no ambiente online</title>
-    <id>https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/eca-digital-conheca-as-regras-de-protecao-de-criancas-e-adolescentes-no-ambiente-online</id>
-    <link href="https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/eca-digital-conheca-as-regras-de-protecao-de-criancas-e-adolescentes-no-ambiente-online" />
-    <updated>2026-08-21T00:00:00</updated>
-    <summary>Ministério dos Direitos Humanos e da Cidadania (Brasil) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Dia Nacional da Pessoa com Deficiência Intelectual reforça luta por inclusão e respeito</title>
-    <id>https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-nacional-da-pessoa-com-deficiencia-intelectual-reforca-luta-por-inclusao-e-respeito</id>
-    <link href="https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-nacional-da-pessoa-com-deficiencia-intelectual-reforca-luta-por-inclusao-e-respeito" />
-    <updated>2026-08-21T00:00:00</updated>
-    <summary>Ministério dos Direitos Humanos e da Cidadania (Brasil) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Instituições têm até hoje (21) para aderir ao programa de equipagem para políticas públicas de direitos humanos</title>
-    <id>https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/instituicoes-tem-ate-hoje-21-para-aderir-ao-programa-de-equipagem-para-politicas-publicas-de-direitos-humanos</id>
-    <link href="https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/instituicoes-tem-ate-hoje-21-para-aderir-ao-programa-de-equipagem-para-politicas-publicas-de-direitos-humanos" />
-    <updated>2026-08-21T00:00:00</updated>
-    <summary>Ministério dos Direitos Humanos e da Cidadania (Brasil) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoria realiza sétima edição do #DáPraResolver em Ribeirão Preto com 135 atendimentos</title>
-    <id>urn:defensorias-americas:8740029256501660322</id>
-    <updated>2026-08-21T00:00:00</updated>
-    <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
-  </entry>
-  <entry>
-    <title>DPRJ participa de encontro do Comitê Estadual de Enfrentamento aos Efeitos do El Niño</title>
-    <id>https://defensoria.rj.def.br/noticia/detalhes/32932-DPRJ-participa-de-encontro-do-Comite-Estadual-de-Enfrentamento-aos-Efeitos-do-El-Nino</id>
-    <link href="https://defensoria.rj.def.br/noticia/detalhes/32932-DPRJ-participa-de-encontro-do-Comite-Estadual-de-Enfrentamento-aos-Efeitos-do-El-Nino" />
-    <updated>2026-08-21T00:00:00</updated>
-    <summary>Defensoria Pública do Estado do Rio de Janeiro (Brasil) — noticias</summary>
   </entry>
 </feed>

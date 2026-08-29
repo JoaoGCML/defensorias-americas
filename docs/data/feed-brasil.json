@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-internacional-das-vitimas-de-desaparecimentos-forcados-mobiliza-contra-a-violencia-e-alerta-para-a-sua-atualidade",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-internacional-das-vitimas-de-desaparecimentos-forcados-mobiliza-contra-a-violencia-e-alerta-para-a-sua-atualidade",
+      "title": "Dia Internacional das Vítimas de Desaparecimentos Forçados mobiliza contra a violência e alerta para a sua atualidade",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-08-28T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-nacional-da-visibilidade-lesbica-evidencia-a-existencia-a-luta-e-os-desafios-dessa-populacao",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-nacional-da-visibilidade-lesbica-evidencia-a-existencia-a-luta-e-os-desafios-dessa-populacao",
+      "title": "Dia Nacional da Visibilidade Lésbica evidencia a existência, a luta e os desafios dessa população",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-08-28T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-nacional-de-combate-ao-escalpelamento-reforca-cuidados-para-prevenir-acidentes-em-embarcacoes",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-nacional-de-combate-ao-escalpelamento-reforca-cuidados-para-prevenir-acidentes-em-embarcacoes",
       "title": "Dia Nacional de Combate ao Escalpelamento reforça cuidados para prevenir acidentes em embarcações",
@@ -20,6 +44,18 @@
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/profissionais-do-disque-100-participam-de-capacitacao-sobre-racismo-religioso-e-intolerancia-religiosa",
       "title": "Profissionais do Disque 100 participam de capacitação sobre racismo religioso e intolerância religiosa",
       "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-08-28T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4260/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4260/",
+      "title": "Defensoria Pública de Pernambuco celebra casamentos em cerimônia coletiva no Recife",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
       "date_published": "2026-08-28T00:00:00",
       "tags": [
         "Brasil",
@@ -68,6 +104,18 @@
       "url": "https://defensoria.am.def.br/2026/08/28/projeto-da-defensoria-do-amazonas-para-orfaos-do-feminicidio-recebe-selo-nacional-do-forum-brasileiro-de-seguranca-publica/",
       "title": "Projeto da Defensoria do Amazonas para órfãos do feminicídio recebe selo nacional do Fórum Brasileiro de Segurança Pública",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-28T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/galeria-de-ex-corregedores-gerais-da-defensoria-publica-do-rs-e-inaugurada-durante-95-reuniao-do-cncg",
+      "url": "https://www.defensoria.rs.def.br/galeria-de-ex-corregedores-gerais-da-defensoria-publica-do-rs-e-inaugurada-durante-95-reuniao-do-cncg",
+      "title": "Galeria de ex-Corregedores-Gerais da Defensoria Pública do RS é inaugurada durante 95ª Reunião do CNCG",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
       "date_published": "2026-08-28T00:00:00",
       "tags": [
         "Brasil",
@@ -196,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6079743764899989835",
+      "id": "urn:defensorias:-6571777330202916585",
       "url": "",
       "title": "Escuta promovida pela Defensoria de SP e pela ActionAid leva relatos de comunidades brasileiras à ONU",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -355,18 +403,6 @@
       "id": "https://www.defensoria.rs.def.br/atuacao-interinstitucional-garante-medidas-decorrentes-da-invalidacao-de-mais-de-700-mil-multas-dos-pedagios-free-flow-no-rs",
       "url": "https://www.defensoria.rs.def.br/atuacao-interinstitucional-garante-medidas-decorrentes-da-invalidacao-de-mais-de-700-mil-multas-dos-pedagios-free-flow-no-rs",
       "title": "Atuação interinstitucional garante medidas decorrentes da invalidação de mais de 700 mil multas dos pedágios “Free Flow” no RS",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
-      "date_published": "2026-08-26T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.rs.def.br/defensoria-publica-apresenta-numeros-de-atuacao-na-comarca-de-gaurama-entre-2024-e-2025",
-      "url": "https://www.defensoria.rs.def.br/defensoria-publica-apresenta-numeros-de-atuacao-na-comarca-de-gaurama-entre-2024-e-2025",
-      "title": "Defensoria Pública apresenta números de atuação na comarca de Gaurama entre 2024 e 2025",
       "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
       "date_published": "2026-08-26T00:00:00",
       "tags": [
@@ -604,7 +640,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8740029256501660322",
+      "id": "urn:defensorias:-1078347553161614542",
       "url": "",
       "title": "Defensoria realiza sétima edição do #DáPraResolver em Ribeirão Preto com 135 atendimentos",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -700,18 +736,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4245/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4245/",
-      "title": "Defensoria Pública promove diálogo sobre violência contra a mulher em parceria com o CREAS Cordeiro",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-08-20T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/novo-voo-de-repatriados-dos-eua-chega-a-confins-mg-nesta-quinta-feira-20",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/novo-voo-de-repatriados-dos-eua-chega-a-confins-mg-nesta-quinta-feira-20",
       "title": "Novo voo de repatriados dos EUA chega a Confins (MG) nesta quinta-feira (20)",
@@ -784,7 +808,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7124228063389193653",
+      "id": "urn:defensorias:-1015760850869039926",
       "url": "",
       "title": "NCDH da Defensoria ajuíza ação para impedir a inclusão de incineradores em contratos de limpeza urbana de SP sem licitação pública nem participação popular",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -796,7 +820,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2916229092807344577",
+      "id": "urn:defensorias:8009145324392783035",
       "url": "",
       "title": "Meu Pai Tem Nome: Defensoria de SP bate recorde de atendimentos em mutirão de reconhecimento de paternidade",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -808,31 +832,7 @@
       ]
     },
     {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/setima-edicao-do-formadh-debate-encarceramento-e-atencao-a-pessoa-egressa",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/setima-edicao-do-formadh-debate-encarceramento-e-atencao-a-pessoa-egressa",
-      "title": "Sétima edição do FormaDH debate encarceramento e atenção à pessoa egressa",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-08-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/saiba-quem-tem-direito-a-pensao-especial-por-hanseniase",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/saiba-quem-tem-direito-a-pensao-especial-por-hanseniase",
-      "title": "Saiba quem tem direito à pensão especial por hanseníase",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-08-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:9069004697064112913",
+      "id": "urn:defensorias:-2581076906761345621",
       "url": "",
       "title": "Aos 20 anos da Lei Maria da Penha, Defensoria garante medidas protetivas, luz e água para mãe e filha em Piracicaba",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -844,7 +844,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1118190750314654719",
+      "id": "urn:defensorias:1646675115059478768",
       "url": "",
       "title": "Defensoria viabiliza atendente pessoal a homem com deficiência após bloqueio de verbas de São Sebastião",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -856,7 +856,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5907274731925139404",
+      "id": "urn:defensorias:5606393685750742713",
       "url": "",
       "title": "Ribeirão Preto está com as inscrições abertas para o circuito de atendimentos #DáPraResolver da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -868,7 +868,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2190965692456267378",
+      "id": "urn:defensorias:-1639582746346505606",
       "url": "",
       "title": "Defensoria de SP lança relatório para ampliar atendimento a mulheres em situação de violência doméstica",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
