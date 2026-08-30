@@ -4,6 +4,66 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/500-personas-adultas-mayores-fortalecen-la-defensa-de-los-derechos-humanos-como-promotoras-y-promotores",
+      "url": "https://www.defensoria.gob.bo/noticias/500-personas-adultas-mayores-fortalecen-la-defensa-de-los-derechos-humanos-como-promotoras-y-promotores",
+      "title": "500 personas adultas mayores fortalecen la defensa de los derechos humanos como promotoras y promotores",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-08-29T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4260/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4260/",
+      "title": "Defensoria Pública de Pernambuco celebra casamentos em cerimônia coletiva no Recife",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-08-29T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/29/ha-mais-de-20-anos-sem-certidao-de-nascimento-casal-consegue-dar-entrada-na-documentacao-durante-acao-da-defensoria/",
+      "url": "https://defensoria.am.def.br/2026/08/29/ha-mais-de-20-anos-sem-certidao-de-nascimento-casal-consegue-dar-entrada-na-documentacao-durante-acao-da-defensoria/",
+      "title": "Há mais de 20 anos sem certidão de nascimento, casal consegue dar entrada na documentação durante ação da Defensoria",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-29T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-deficiencias-en-la-infraestructura-centro-materno-infantil-tahuantinsuyo-bajo-y-solicita-medidas-de-mejora/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-deficiencias-en-la-infraestructura-centro-materno-infantil-tahuantinsuyo-bajo-y-solicita-medidas-de-mejora/",
+      "title": "Defensoría del Pueblo advierte deficiencias en la infraestructura centro materno infantil “Tahuantinsuyo Bajo” y solicita medidas de mejora",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-08-29T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-identificar-ubicar-y-capturar-a-responsables-del-asesinato-de-lideresa-de-olla-comun/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-identificar-ubicar-y-capturar-a-responsables-del-asesinato-de-lideresa-de-olla-comun/",
+      "title": "Defensoría del Pueblo exige identificar, ubicar y capturar a responsables del asesinato de lideresa de olla común",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-08-29T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-rechaza-la-vandalizacion-de-una-muestra-fotografica-que-visibiliza-una-practica-contemporanea-del-pueblo-crucenyo",
       "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-rechaza-la-vandalizacion-de-una-muestra-fotografica-que-visibiliza-una-practica-contemporanea-del-pueblo-crucenyo",
       "title": "PRONUNCIAMIENTO DEFENSORÍA DEL PUEBLO RECHAZA LA VANDALIZACIÓN DE UNA MUESTRA FOTOGRÁFICA QUE VISIBILIZA UNA PRÁCTICA CONTEMPORÁNEA DEL PUEBLO CRUCEÑO",
@@ -64,18 +124,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4260/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4260/",
-      "title": "Defensoria Pública de Pernambuco celebra casamentos em cerimônia coletiva no Recife",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-08-28T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.am.def.br/2026/08/28/encontro-debate-inteligencia-artificial-e-protecao-de-dados-em-manaus/",
       "url": "https://defensoria.am.def.br/2026/08/28/encontro-debate-inteligencia-artificial-e-protecao-de-dados-em-manaus/",
       "title": "Encontro debate Inteligência Artificial e proteção de dados em Manaus",
@@ -114,7 +162,7 @@
     {
       "id": "https://defensoria.am.def.br/2026/08/28/projeto-da-defensoria-do-amazonas-para-orfaos-do-feminicidio-recebe-selo-nacional-do-forum-brasileiro-de-seguranca-publica/",
       "url": "https://defensoria.am.def.br/2026/08/28/projeto-da-defensoria-do-amazonas-para-orfaos-do-feminicidio-recebe-selo-nacional-do-forum-brasileiro-de-seguranca-publica/",
-      "title": "Projeto da Defensoria do Amazonas para órfãos do feminicídio recebe selo nacional do Fórum Brasileiro de Segurança Pública",
+      "title": "Projeto da Defensoria para órfãos do feminicídio recebe selo nacional do Fórum Brasileiro de Segurança Pública",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-08-28T00:00:00",
       "tags": [
@@ -136,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2698771476700912424",
+      "id": "urn:defensorias:1983180622755101302",
       "url": "",
       "title": "Defensoría de la Niñez evalúa recuperación tras incendios en Biobío ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -148,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:9061780066459013131",
+      "id": "urn:defensorias:-3488839584557467350",
       "url": "",
       "title": "Estudiantes de siete regiones co-diseñaron nueva Escuela de Liderazgo de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -400,7 +448,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:673357566538632977",
+      "id": "urn:defensorias:6321984921811809467",
       "url": "",
       "title": "Radio Futuro | “Una tormenta perfecta”: la cruda advertencia del...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -592,7 +640,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6571777330202916585",
+      "id": "urn:defensorias:-856259393197595662",
       "url": "",
       "title": "Escuta promovida pela Defensoria de SP e pela ActionAid leva relatos de comunidades brasileiras à ONU",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -760,7 +808,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2462861823672633675",
+      "id": "urn:defensorias:8934906850171380135",
       "url": "",
       "title": "Radio San Joaquín | Concurso fotográfico en San Joaquín invita...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -808,7 +856,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5735218345725648476",
+      "id": "urn:defensorias:3083636607115814137",
       "url": "",
       "title": "Noticias 26 de agosto de 2026 Defensoría del Pueblo promueve la prevención del acoso escolar en Capiatá La Defensoría del Pueblo, a través de la Coord",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -820,7 +868,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3502676103852679016",
+      "id": "urn:defensorias:5158795681268315517",
       "url": "",
       "title": "Noticias 26 de agosto de 2026 La Defensoría del Pueblo celebró el Día del Niño en la Escuela Fe y Alegría del Bañado Norte En el marco de las celebrac",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -832,7 +880,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8119273933845754508",
+      "id": "urn:defensorias:-8399301798571121248",
       "url": "",
       "title": "Noticias 26 de agosto de 2026 Defensoría del Pueblo capacita a sus servidores sobre la nueva Ley de Función Pública y Servicio Civil La Defensoría del",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -1012,7 +1060,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6409443646033087842",
+      "id": "urn:defensorias:5872188778108829855",
       "url": "",
       "title": "Noticias 25 de agosto de 2026 Defensoría del Pueblo gestionó la donación de suplementos nutricionales La Defensoría del pueblo, a través de su Direcci",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -1148,54 +1196,6 @@
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32939-Administracao-Superior-promove-encontro-com-defensores-as-aposentados-as-",
       "title": "Administração Superior promove encontro com defensores(as) aposentados(as)",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-08-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4255/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4255/",
-      "title": "NUDEM leva ações do Agosto Lilás a Carpina e reforça combate à violência contra a mulher",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-08-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4252/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4252/",
-      "title": "Ouvidoria da Defensoria Pública de Pernambuco recebe ouvidor da OAB-PE para diálogo institucional",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-08-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4251/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4251/",
-      "title": "Defensoria Pública de Pernambuco realiza Casamento Coletivo na próxima sexta-feira (28)",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-08-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/24/em-maues-defensoria-do-amazonas-inicia-atendimentos-do-mutirao-previdenciario-nesta-terca-feira/",
-      "url": "https://defensoria.am.def.br/2026/08/24/em-maues-defensoria-do-amazonas-inicia-atendimentos-do-mutirao-previdenciario-nesta-terca-feira/",
-      "title": "Em Maués, Defensoria inicia atendimentos do Mutirão Previdenciário nesta terça-feira",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-08-24T00:00:00",
       "tags": [
         "Brasil",

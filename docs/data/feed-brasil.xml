@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Brasil</title>
   <id>urn:defensorias-americas:prensa:brasil</id>
-  <updated>2026-08-29T12:59:51Z</updated>
+  <updated>2026-08-30T12:39:22Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoria Pública de Pernambuco celebra casamentos em cerimônia coletiva no Recife</title>
+    <id>https://www.defensoria.pe.def.br/noticias/detalhe/4260/</id>
+    <link href="https://www.defensoria.pe.def.br/noticias/detalhe/4260/" />
+    <updated>2026-08-29T00:00:00</updated>
+    <summary>Defensoria Pública do Estado de Pernambuco (Brasil) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Há mais de 20 anos sem certidão de nascimento, casal consegue dar entrada na documentação durante ação da Defensoria</title>
+    <id>https://defensoria.am.def.br/2026/08/29/ha-mais-de-20-anos-sem-certidao-de-nascimento-casal-consegue-dar-entrada-na-documentacao-durante-acao-da-defensoria/</id>
+    <link href="https://defensoria.am.def.br/2026/08/29/ha-mais-de-20-anos-sem-certidao-de-nascimento-casal-consegue-dar-entrada-na-documentacao-durante-acao-da-defensoria/" />
+    <updated>2026-08-29T00:00:00</updated>
+    <summary>Defensoria Pública do Estado do Amazonas (Brasil) — noticias</summary>
+  </entry>
   <entry>
     <title>Dia Internacional das Vítimas de Desaparecimentos Forçados mobiliza contra a violência e alerta para a sua atualidade</title>
     <id>https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-internacional-das-vitimas-de-desaparecimentos-forcados-mobiliza-contra-a-violencia-e-alerta-para-a-sua-atualidade</id>
@@ -34,13 +48,6 @@
     <summary>Ministério dos Direitos Humanos e da Cidadania (Brasil) — noticias</summary>
   </entry>
   <entry>
-    <title>Defensoria Pública de Pernambuco celebra casamentos em cerimônia coletiva no Recife</title>
-    <id>https://www.defensoria.pe.def.br/noticias/detalhe/4260/</id>
-    <link href="https://www.defensoria.pe.def.br/noticias/detalhe/4260/" />
-    <updated>2026-08-28T00:00:00</updated>
-    <summary>Defensoria Pública do Estado de Pernambuco (Brasil) — noticias</summary>
-  </entry>
-  <entry>
     <title>Encontro debate Inteligência Artificial e proteção de dados em Manaus</title>
     <id>https://defensoria.am.def.br/2026/08/28/encontro-debate-inteligencia-artificial-e-protecao-de-dados-em-manaus/</id>
     <link href="https://defensoria.am.def.br/2026/08/28/encontro-debate-inteligencia-artificial-e-protecao-de-dados-em-manaus/" />
@@ -62,7 +69,7 @@
     <summary>Defensoria Pública do Estado do Amazonas (Brasil) — noticias</summary>
   </entry>
   <entry>
-    <title>Projeto da Defensoria do Amazonas para órfãos do feminicídio recebe selo nacional do Fórum Brasileiro de Segurança Pública</title>
+    <title>Projeto da Defensoria para órfãos do feminicídio recebe selo nacional do Fórum Brasileiro de Segurança Pública</title>
     <id>https://defensoria.am.def.br/2026/08/28/projeto-da-defensoria-do-amazonas-para-orfaos-do-feminicidio-recebe-selo-nacional-do-forum-brasileiro-de-seguranca-publica/</id>
     <link href="https://defensoria.am.def.br/2026/08/28/projeto-da-defensoria-do-amazonas-para-orfaos-do-feminicidio-recebe-selo-nacional-do-forum-brasileiro-de-seguranca-publica/" />
     <updated>2026-08-28T00:00:00</updated>
@@ -147,7 +154,7 @@
   </entry>
   <entry>
     <title>Escuta promovida pela Defensoria de SP e pela ActionAid leva relatos de comunidades brasileiras à ONU</title>
-    <id>urn:defensorias-americas:-6571777330202916585</id>
+    <id>urn:defensorias-americas:-856259393197595662</id>
     <updated>2026-08-26T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -341,13 +348,6 @@
     <summary>Defensoria Pública do Estado do Amazonas (Brasil) — noticias</summary>
   </entry>
   <entry>
-    <title>Defensoria orienta famílias sobre guarda compartilhada e convivência após separação</title>
-    <id>https://defensoria.am.def.br/2026/08/22/defensoria-do-amazonas-orienta-familias-sobre-guarda-compartilhada-e-convivencia-com-os-filhos-apos-separacao/</id>
-    <link href="https://defensoria.am.def.br/2026/08/22/defensoria-do-amazonas-orienta-familias-sobre-guarda-compartilhada-e-convivencia-com-os-filhos-apos-separacao/" />
-    <updated>2026-08-22T00:00:00</updated>
-    <summary>Defensoria Pública do Estado do Amazonas (Brasil) — noticias</summary>
-  </entry>
-  <entry>
     <title>Você sabe como denunciar a violência contra pessoas idosas?</title>
     <id>https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voce-sabe-como-denunciar-a-violencia-contra-pessoas-idosas</id>
     <link href="https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voce-sabe-como-denunciar-a-violencia-contra-pessoas-idosas" />
@@ -377,7 +377,7 @@
   </entry>
   <entry>
     <title>Defensoria realiza sétima edição do #DáPraResolver em Ribeirão Preto com 135 atendimentos</title>
-    <id>urn:defensorias-americas:-1078347553161614542</id>
+    <id>urn:defensorias-americas:-8021535194156588138</id>
     <updated>2026-08-21T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -474,37 +474,37 @@
   </entry>
   <entry>
     <title>NCDH da Defensoria ajuíza ação para impedir a inclusão de incineradores em contratos de limpeza urbana de SP sem licitação pública nem participação popular</title>
-    <id>urn:defensorias-americas:-1015760850869039926</id>
+    <id>urn:defensorias-americas:-8904642231558249584</id>
     <updated>2026-08-14T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Meu Pai Tem Nome: Defensoria de SP bate recorde de atendimentos em mutirão de reconhecimento de paternidade</title>
-    <id>urn:defensorias-americas:8009145324392783035</id>
+    <id>urn:defensorias-americas:4592044204764442318</id>
     <updated>2026-08-14T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Aos 20 anos da Lei Maria da Penha, Defensoria garante medidas protetivas, luz e água para mãe e filha em Piracicaba</title>
-    <id>urn:defensorias-americas:-2581076906761345621</id>
+    <id>urn:defensorias-americas:-2220030450363245054</id>
     <updated>2026-08-13T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Defensoria viabiliza atendente pessoal a homem com deficiência após bloqueio de verbas de São Sebastião</title>
-    <id>urn:defensorias-americas:1646675115059478768</id>
+    <id>urn:defensorias-americas:-4560575897975435369</id>
     <updated>2026-08-10T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Ribeirão Preto está com as inscrições abertas para o circuito de atendimentos #DáPraResolver da Defensoria</title>
-    <id>urn:defensorias-americas:5606393685750742713</id>
+    <id>urn:defensorias-americas:5588939341920138940</id>
     <updated>2026-08-07T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Defensoria de SP lança relatório para ampliar atendimento a mulheres em situação de violência doméstica</title>
-    <id>urn:defensorias-americas:-1639582746346505606</id>
+    <id>urn:defensorias-americas:1747235847043109694</id>
     <updated>2026-08-07T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>

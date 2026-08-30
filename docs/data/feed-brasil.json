@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4260/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4260/",
+      "title": "Defensoria Pública de Pernambuco celebra casamentos em cerimônia coletiva no Recife",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-08-29T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/29/ha-mais-de-20-anos-sem-certidao-de-nascimento-casal-consegue-dar-entrada-na-documentacao-durante-acao-da-defensoria/",
+      "url": "https://defensoria.am.def.br/2026/08/29/ha-mais-de-20-anos-sem-certidao-de-nascimento-casal-consegue-dar-entrada-na-documentacao-durante-acao-da-defensoria/",
+      "title": "Há mais de 20 anos sem certidão de nascimento, casal consegue dar entrada na documentação durante ação da Defensoria",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-29T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-internacional-das-vitimas-de-desaparecimentos-forcados-mobiliza-contra-a-violencia-e-alerta-para-a-sua-atualidade",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/dia-internacional-das-vitimas-de-desaparecimentos-forcados-mobiliza-contra-a-violencia-e-alerta-para-a-sua-atualidade",
       "title": "Dia Internacional das Vítimas de Desaparecimentos Forçados mobiliza contra a violência e alerta para a sua atualidade",
@@ -52,18 +76,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4260/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4260/",
-      "title": "Defensoria Pública de Pernambuco celebra casamentos em cerimônia coletiva no Recife",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-08-28T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.am.def.br/2026/08/28/encontro-debate-inteligencia-artificial-e-protecao-de-dados-em-manaus/",
       "url": "https://defensoria.am.def.br/2026/08/28/encontro-debate-inteligencia-artificial-e-protecao-de-dados-em-manaus/",
       "title": "Encontro debate Inteligência Artificial e proteção de dados em Manaus",
@@ -102,7 +114,7 @@
     {
       "id": "https://defensoria.am.def.br/2026/08/28/projeto-da-defensoria-do-amazonas-para-orfaos-do-feminicidio-recebe-selo-nacional-do-forum-brasileiro-de-seguranca-publica/",
       "url": "https://defensoria.am.def.br/2026/08/28/projeto-da-defensoria-do-amazonas-para-orfaos-do-feminicidio-recebe-selo-nacional-do-forum-brasileiro-de-seguranca-publica/",
-      "title": "Projeto da Defensoria do Amazonas para órfãos do feminicídio recebe selo nacional do Fórum Brasileiro de Segurança Pública",
+      "title": "Projeto da Defensoria para órfãos do feminicídio recebe selo nacional do Fórum Brasileiro de Segurança Pública",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-08-28T00:00:00",
       "tags": [
@@ -244,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6571777330202916585",
+      "id": "urn:defensorias:-856259393197595662",
       "url": "",
       "title": "Escuta promovida pela Defensoria de SP e pela ActionAid leva relatos de comunidades brasileiras à ONU",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -580,18 +592,6 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/08/22/defensoria-do-amazonas-orienta-familias-sobre-guarda-compartilhada-e-convivencia-com-os-filhos-apos-separacao/",
-      "url": "https://defensoria.am.def.br/2026/08/22/defensoria-do-amazonas-orienta-familias-sobre-guarda-compartilhada-e-convivencia-com-os-filhos-apos-separacao/",
-      "title": "Defensoria orienta famílias sobre guarda compartilhada e convivência após separação",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-22T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voce-sabe-como-denunciar-a-violencia-contra-pessoas-idosas",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voce-sabe-como-denunciar-a-violencia-contra-pessoas-idosas",
       "title": "Você sabe como denunciar a violência contra pessoas idosas?",
@@ -640,7 +640,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1078347553161614542",
+      "id": "urn:defensorias:-8021535194156588138",
       "url": "",
       "title": "Defensoria realiza sétima edição do #DáPraResolver em Ribeirão Preto com 135 atendimentos",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -808,7 +808,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1015760850869039926",
+      "id": "urn:defensorias:-8904642231558249584",
       "url": "",
       "title": "NCDH da Defensoria ajuíza ação para impedir a inclusão de incineradores em contratos de limpeza urbana de SP sem licitação pública nem participação popular",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -820,7 +820,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8009145324392783035",
+      "id": "urn:defensorias:4592044204764442318",
       "url": "",
       "title": "Meu Pai Tem Nome: Defensoria de SP bate recorde de atendimentos em mutirão de reconhecimento de paternidade",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -832,7 +832,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2581076906761345621",
+      "id": "urn:defensorias:-2220030450363245054",
       "url": "",
       "title": "Aos 20 anos da Lei Maria da Penha, Defensoria garante medidas protetivas, luz e água para mãe e filha em Piracicaba",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -844,7 +844,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1646675115059478768",
+      "id": "urn:defensorias:-4560575897975435369",
       "url": "",
       "title": "Defensoria viabiliza atendente pessoal a homem com deficiência após bloqueio de verbas de São Sebastião",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -856,7 +856,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5606393685750742713",
+      "id": "urn:defensorias:5588939341920138940",
       "url": "",
       "title": "Ribeirão Preto está com as inscrições abertas para o circuito de atendimentos #DáPraResolver da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -868,7 +868,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1639582746346505606",
+      "id": "urn:defensorias:1747235847043109694",
       "url": "",
       "title": "Defensoria de SP lança relatório para ampliar atendimento a mulheres em situação de violência doméstica",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",

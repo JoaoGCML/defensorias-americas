@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-08-29T12:59:51Z</updated>
+  <updated>2026-08-30T12:39:22Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>500 personas adultas mayores fortalecen la defensa de los derechos humanos como promotoras y promotores</title>
+    <id>https://www.defensoria.gob.bo/noticias/500-personas-adultas-mayores-fortalecen-la-defensa-de-los-derechos-humanos-como-promotoras-y-promotores</id>
+    <link href="https://www.defensoria.gob.bo/noticias/500-personas-adultas-mayores-fortalecen-la-defensa-de-los-derechos-humanos-como-promotoras-y-promotores" />
+    <updated>2026-08-29T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>PRONUNCIAMIENTO DEFENSORÍA DEL PUEBLO RECHAZA LA VANDALIZACIÓN DE UNA MUESTRA FOTOGRÁFICA QUE VISIBILIZA UNA PRÁCTICA CONTEMPORÁNEA DEL PUEBLO CRUCEÑO</title>
     <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-rechaza-la-vandalizacion-de-una-muestra-fotografica-que-visibiliza-una-practica-contemporanea-del-pueblo-crucenyo</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/tratamiento-prioritario-de-la-accion-popular-por-la-acumulacion-de-basura-en-la-paz</id>
     <link href="https://www.defensoria.gob.bo/noticias/tratamiento-prioritario-de-la-accion-popular-por-la-acumulacion-de-basura-en-la-paz" />
     <updated>2026-08-24T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>DEFENSORÍA DEL PUEBLO REPORTA AVANCES EN PAGO DE DEUDAS A CENTROS PRIVADOS QUE ATIENDEN A PACIENTES RENALES</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-reporta-avances-en-pago-de-deudas-a-centros-privados-que-atienden-a-pacientes-renales</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-reporta-avances-en-pago-de-deudas-a-centros-privados-que-atienden-a-pacientes-renales" />
-    <updated>2026-08-22T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
