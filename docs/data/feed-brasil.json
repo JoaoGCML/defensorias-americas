@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/capacitismo-o-que-e-como-identificar-e-como-combater-a-discriminacao-no-dia-a-dia",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/capacitismo-o-que-e-como-identificar-e-como-combater-a-discriminacao-no-dia-a-dia",
+      "title": "Capacitismo: o que é, como identificar e como combater a discriminação no dia a dia",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-08-31T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32947-Defensoria-participa-de-acao-do-CadMovel-e-orienta-populacao-do-Morro-dos-Prazeres",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32947-Defensoria-participa-de-acao-do-CadMovel-e-orienta-populacao-do-Morro-dos-Prazeres",
+      "title": "Defensoria participa de ação do CadMóvel e orienta população do Morro dos Prazeres",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-08-31T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.rj.def.br/noticia/detalhes/32949-Mais-de-7-5-mil-candidatos-participam-do-XXIX-Concurso-da-Defensoria-Publica-do-Rio",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32949-Mais-de-7-5-mil-candidatos-participam-do-XXIX-Concurso-da-Defensoria-Publica-do-Rio",
       "title": "Mais de 7,5 mil candidatos participam do XXIX Concurso da Defensoria Pública do Rio",
@@ -32,6 +56,54 @@
       "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4261/",
       "title": "Defensoria Pública de Pernambuco atua para suspender reintegração de posse que poderia atingir comunidade indígena Kapinawá em Ibimirim",
       "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-08-31T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/31/defensoria-ouve-moradores-de-humaita-para-cobrar-continuidade-de-melhorias-na-rede-eletrica/",
+      "url": "https://defensoria.am.def.br/2026/08/31/defensoria-ouve-moradores-de-humaita-para-cobrar-continuidade-de-melhorias-na-rede-eletrica/",
+      "title": "Defensoria ouve moradores de Humaitá para cobrar continuidade de melhorias na rede elétrica",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-31T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/31/durante-acao-no-municipio-de-borba-defensoria-realiza-mais-de-80-atendimentos-juridicos/",
+      "url": "https://defensoria.am.def.br/2026/08/31/durante-acao-no-municipio-de-borba-defensoria-realiza-mais-de-80-atendimentos-juridicos/",
+      "title": "Durante ação no município de Borba, Defensoria realiza mais de 80 atendimentos jurídicos",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-31T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/31/eventos-na-ponte-jornalista-phelippe-daou-levam-defensoria-a-apurar-impactos-no-transito/",
+      "url": "https://defensoria.am.def.br/2026/08/31/eventos-na-ponte-jornalista-phelippe-daou-levam-defensoria-a-apurar-impactos-no-transito/",
+      "title": "Eventos na Ponte Jornalista Phelippe Daou levam Defensoria a apurar impactos no trânsito",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-08-31T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/08/31/mutirao-previdenciario-da-defensoria-encerra-em-maues-com-400-pessoas-atendidas/",
+      "url": "https://defensoria.am.def.br/2026/08/31/mutirao-previdenciario-da-defensoria-encerra-em-maues-com-400-pessoas-atendidas/",
+      "title": "Mutirão Previdenciário da Defensoria encerra em Maués com 400 pessoas atendidas",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-08-31T00:00:00",
       "tags": [
         "Brasil",
@@ -328,7 +400,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8709545639635662411",
+      "id": "urn:defensorias:-7111596149953217206",
       "url": "",
       "title": "Escuta promovida pela Defensoria de SP e pela ActionAid leva relatos de comunidades brasileiras à ONU",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -472,18 +544,6 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/08/26/defensoria-do-amazonas-realiza-acao-com-atendimentos-juridicos-em-beruri-na-primeira-semana-de-setembro/",
-      "url": "https://defensoria.am.def.br/2026/08/26/defensoria-do-amazonas-realiza-acao-com-atendimentos-juridicos-em-beruri-na-primeira-semana-de-setembro/",
-      "title": "Defensoria realiza ação com atendimentos jurídicos em Beruri na primeira semana de setembro",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-26T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.rj.def.br/noticia/detalhes/32942-Cuidar-de-Quem-Cuida-DPRJ-participa-de-evento-voltado-para-maes-de-criancas-em-tratamento",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32942-Cuidar-de-Quem-Cuida-DPRJ-participa-de-evento-voltado-para-maes-de-criancas-em-tratamento",
       "title": "Cuidar de Quem Cuida: DPRJ participa de evento voltado para mães de crianças em tratamento",
@@ -520,30 +580,6 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/08/25/popularizacao-da-inteligencia-artificial-acende-alerta-sobre-exposicao-de-dados-no-servico-publico/",
-      "url": "https://defensoria.am.def.br/2026/08/25/popularizacao-da-inteligencia-artificial-acende-alerta-sobre-exposicao-de-dados-no-servico-publico/",
-      "title": "Popularização da IA acende alerta sobre exposição de dados no serviço público",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-25T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/25/defensoria-do-amazonas-abre-inscricoes-para-residencia-juridica-em-manicore/",
-      "url": "https://defensoria.am.def.br/2026/08/25/defensoria-do-amazonas-abre-inscricoes-para-residencia-juridica-em-manicore/",
-      "title": "Defensoria do Amazonas abre inscrições para residência jurídica em Manicoré",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-08-25T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/educadores-populares-lgbtqia-guarani-kaiowa-concluem-curso-em-direitos-humanos-saude-e-agroecologia",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/educadores-populares-lgbtqia-guarani-kaiowa-concluem-curso-em-direitos-humanos-saude-e-agroecologia",
       "title": "Educadores populares LGBTQIA+ Guarani-Kaiowá concluem curso em direitos humanos, saúde e agroecologia",
@@ -559,18 +595,6 @@
       "id": "https://defensoria.rj.def.br/noticia/detalhes/32937-Defensoria-Publica-participa-de-capacitacao-de-instrutores-do-PROERD",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32937-Defensoria-Publica-participa-de-capacitacao-de-instrutores-do-PROERD",
       "title": "Defensoria Pública participa de capacitação de instrutores do PROERD",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-08-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32936-DPRJ-participa-de-audiencia-publica-no-STF-sobre-Lei-Antifaccao",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32936-DPRJ-participa-de-audiencia-publica-no-STF-sobre-Lei-Antifaccao",
-      "title": "DPRJ participa de audiência pública no STF sobre Lei Antifacção",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-08-24T00:00:00",
       "tags": [
@@ -608,18 +632,6 @@
       "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4251/",
       "title": "Defensoria Pública de Pernambuco realiza Casamento Coletivo na próxima sexta-feira (28)",
       "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-08-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/08/24/em-maues-defensoria-do-amazonas-inicia-atendimentos-do-mutirao-previdenciario-nesta-terca-feira/",
-      "url": "https://defensoria.am.def.br/2026/08/24/em-maues-defensoria-do-amazonas-inicia-atendimentos-do-mutirao-previdenciario-nesta-terca-feira/",
-      "title": "Em Maués, Defensoria inicia atendimentos do Mutirão Previdenciário nesta terça-feira",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-08-24T00:00:00",
       "tags": [
         "Brasil",
@@ -676,7 +688,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7012447452453689385",
+      "id": "urn:defensorias:1329608815974830888",
       "url": "",
       "title": "Defensoria realiza sétima edição do #DáPraResolver em Ribeirão Preto com 135 atendimentos",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -796,19 +808,7 @@
       ]
     },
     {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/formacao-gratuita-reune-cinco-cursos-sobre-direitos-das-pessoas-com-deficiencia",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/formacao-gratuita-reune-cinco-cursos-sobre-direitos-das-pessoas-com-deficiencia",
-      "title": "Formação gratuita reúne cinco cursos sobre direitos das pessoas com deficiência",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-08-14T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-844206419642409156",
+      "id": "urn:defensorias:-8708650677870061490",
       "url": "",
       "title": "NCDH da Defensoria ajuíza ação para impedir a inclusão de incineradores em contratos de limpeza urbana de SP sem licitação pública nem participação popular",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -820,7 +820,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-137595894476511815",
+      "id": "urn:defensorias:-4817321898833470821",
       "url": "",
       "title": "Meu Pai Tem Nome: Defensoria de SP bate recorde de atendimentos em mutirão de reconhecimento de paternidade",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -832,7 +832,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6136269703273688468",
+      "id": "urn:defensorias:6877130837900127200",
       "url": "",
       "title": "Aos 20 anos da Lei Maria da Penha, Defensoria garante medidas protetivas, luz e água para mãe e filha em Piracicaba",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -844,7 +844,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7977384266648048288",
+      "id": "urn:defensorias:3489915854199682264",
       "url": "",
       "title": "Defensoria viabiliza atendente pessoal a homem com deficiência após bloqueio de verbas de São Sebastião",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -856,7 +856,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7248890636101158427",
+      "id": "urn:defensorias:1322147400152015861",
       "url": "",
       "title": "Ribeirão Preto está com as inscrições abertas para o circuito de atendimentos #DáPraResolver da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -868,7 +868,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5312192936214145139",
+      "id": "urn:defensorias:5596685950699356574",
       "url": "",
       "title": "Defensoria de SP lança relatório para ampliar atendimento a mulheres em situação de violência doméstica",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",

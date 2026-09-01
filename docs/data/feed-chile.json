@@ -4,7 +4,31 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "urn:defensorias:-3651501717516574642",
+      "id": "https://www.indh.cl/indh-atacama-jornada-elizabeth-lira/",
+      "url": "https://www.indh.cl/indh-atacama-jornada-elizabeth-lira/",
+      "title": "INDH de Atacama realizó jornada con Premio Nacional de Derechos Humanos, Elizabeth Lira, en el marco de la conmemoración del Día de las Víctimas de Desapariciones Forzadas",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-31T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-magallanes-conversatorio-50-vicaria/",
+      "url": "https://www.indh.cl/indh-magallanes-conversatorio-50-vicaria/",
+      "title": "INDH Magallanes realizó conversatorio por los 50 años de la Vicaría de la Solidaridad junto al Obispado de Punta Arenas",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-08-31T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-2377836596974033235",
       "url": "",
       "title": "Biobio.cl | La emergencia dejó de ser la excepción: en...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -16,7 +40,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2098210639058620004",
+      "id": "urn:defensorias:-3608242985377411866",
       "url": "",
       "title": "Defensoría de la Niñez evalúa recuperación tras incendios en Biobío ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -28,7 +52,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8426456752322304862",
+      "id": "urn:defensorias:-1482513460995939460",
       "url": "",
       "title": "Estudiantes de siete regiones co-diseñaron nueva Escuela de Liderazgo de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -52,7 +76,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4688593771714725740",
+      "id": "urn:defensorias:8654762333497308178",
       "url": "",
       "title": "Radio Futuro | “Una tormenta perfecta”: la cruda advertencia del...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -76,7 +100,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2500640875618303509",
+      "id": "urn:defensorias:-6188384106050822854",
       "url": "",
       "title": "Radio San Joaquín | Concurso fotográfico en San Joaquín invita...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -136,18 +160,6 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/seminario-prevencion-trata-indh/",
-      "url": "https://www.indh.cl/seminario-prevencion-trata-indh/",
-      "title": "Más de 90 personas participaron en seminario sobre prevención de trata de personas realizado por el INDH junto a instituciones y organizaciones de La Araucanía",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-08-24T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.indh.cl/indh-maule-consejo-regional-ninos-ninas/",
       "url": "https://www.indh.cl/indh-maule-consejo-regional-ninos-ninas/",
       "title": "INDH Maule participó en sesión del Consejo Consultivo Regional de Niños, Niñas y Adolescentes que se concentró en temas de educación cívica y participación",
@@ -156,7 +168,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -184,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5510760848963214772",
+      "id": "urn:defensorias:-8874326186800819498",
       "url": "",
       "title": "Defensoría de la Niñez denunció graves hechos que afectarían a ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2375476317196752724",
+      "id": "urn:defensorias:-8067978216896815334",
       "url": "",
       "title": "La Tercera | Defensoría de la Niñez denuncia “graves hechos”...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-241668713627248973",
+      "id": "urn:defensorias:-7517706087289493358",
       "url": "",
       "title": "Adolescentes de regiones protagonizan podcast de la Defensoría de la ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4418408641059106677",
+      "id": "urn:defensorias:-8234210958162874104",
       "url": "",
       "title": "Defensoría de la Niñez y el Gobierno Regional recogen propuestas ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:998628944839455542",
+      "id": "urn:defensorias:-5654722152295590374",
       "url": "",
       "title": "Estudio de la Defensoría de la Niñez: Nueve de cada ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,31 +268,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-atacama-documental-paipote/",
-      "url": "https://www.indh.cl/indh-atacama-documental-paipote/",
-      "title": "INDH de Atacama realizó exhibición de documental sobre contaminación ambiental a estudiantes de tercero medio del Liceo Fernando Ariztía Ruiz de Paipote",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-08-14T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-valparaiso-expuso-universidad/",
-      "url": "https://www.indh.cl/indh-valparaiso-expuso-universidad/",
-      "title": "INDH de Valparaíso expuso sobre derechos humanos en la Universidad de Valparaíso",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-08-14T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:5866079618314499161",
+      "id": "urn:defensorias:-6870623206701441430",
       "url": "",
       "title": "La Tercera | Defensor de la Niñez y proyecto de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -292,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6219006144900477259",
+      "id": "urn:defensorias:4749692506316136713",
       "url": "",
       "title": "Desierto FM | Hospital Día Infanto Adolescente y Defensoría de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -304,7 +292,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7204644037700062639",
+      "id": "urn:defensorias:2590016624431876194",
       "url": "",
       "title": "Modificaciones a la Ley de Responsabilidad Penal Adolescente: Análisis de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -316,7 +304,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6880476916427544202",
+      "id": "urn:defensorias:5961727350974501494",
       "url": "",
       "title": "Concurso de fotografía invita a niños, niñas y adolescentes de ...",
       "summary": "Defensoría de la Niñez (Chile)",
