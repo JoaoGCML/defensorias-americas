@@ -4,6 +4,42 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.json",
   "items": [
     {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/se-presento-compendio-regional-buenas-practicas-sobre-derechos-personas",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/se-presento-compendio-regional-buenas-practicas-sobre-derechos-personas",
+      "title": "Se presentó compendio regional de buenas prácticas sobre derechos de las personas afrodescendientes",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-08-31T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-realizo-su-15-asamblea-nacional-derechos-humanos",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-realizo-su-15-asamblea-nacional-derechos-humanos",
+      "title": "INDDHH realizó su 15° Asamblea Nacional de Derechos Humanos",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-08-28T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inicio-ciclo-talleres-mi-mirada-nuestra-voz",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inicio-ciclo-talleres-mi-mirada-nuestra-voz",
+      "title": "Inició ciclo de talleres \"Mi mirada, nuestra voz\"",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-08-19T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/conversatorio-promovio-dialogo-sobre-derechos-pueblos-indigenas-uruguay",
       "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/conversatorio-promovio-dialogo-sobre-derechos-pueblos-indigenas-uruguay",
       "title": "Conversatorio promovió el diálogo sobre los derechos de los pueblos indígenas en Uruguay",
@@ -37,6 +73,30 @@
         "Uruguay",
         "Sudamérica",
         "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/se-realizo-cierre-formacion-jovenes-lideres-derechos-humanos",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/se-realizo-cierre-formacion-jovenes-lideres-derechos-humanos",
+      "title": "Se realizó el cierre de la formación de jóvenes líderes en derechos humanos",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-08-08T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-presento-proceso-denuncia-organizaciones-trabajan-infancias",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-presento-proceso-denuncia-organizaciones-trabajan-infancias",
+      "title": "INDDHH presentó proceso de denuncia a organizaciones que trabajan con infancias y adolescencias",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-08-07T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
       ]
     }
   ]

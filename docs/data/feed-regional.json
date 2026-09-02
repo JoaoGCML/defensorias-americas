@@ -4,6 +4,42 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-octava-sesion-del-diplomado-sobre-derechos-politicos/",
+      "url": "https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-octava-sesion-del-diplomado-sobre-derechos-politicos/",
+      "title": "RINDHCA y la Corte IDH desarrollan octava sesión del Diplomado sobre Derechos Políticos",
+      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
+      "date_published": "2026-09-01T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/183.asp&utm_content=country-usa&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/183.asp&utm_content=country-usa&utm_term=class-mc",
+      "title": "183/26—IACHR grants precautionary measures in favor of Brittany Holberg on death row in the United States",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-09-01T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/182.asp&utm_content=country-ven&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/182.asp&utm_content=country-ven&utm_term=class-mc",
+      "title": "182/26—CIDH otorga medidas cautelares cinco personas privadas de libertad en Venezuela",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-09-01T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/181.asp&utm_content=country-ecu&utm_term=class-mon",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/181.asp&utm_content=country-ecu&utm_term=class-mon",
       "title": "181/26—CIDH llama a Ecuador a garantizar la participación política plural en las elecciones seccionales",
@@ -196,42 +232,6 @@
       ]
     },
     {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/167.asp&utm_content=country-nic&utm_term=class-mc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/167.asp&utm_content=country-nic&utm_term=class-mc",
-      "title": "167/26—CIDH otorga medidas cautelares a Santos Ariel Rodríguez Lagos en Nicaragua",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-08-21T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/166.asp&utm_content=country-sur&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/166.asp&utm_content=country-sur&utm_term=class-corteidh",
-      "title": "166/26—CIDH presenta a Corte IDH caso por violaciones de derechos en proceso judicial sobre la autoridad parental en Surinam",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-08-21T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/165.asp&utm_content=country-arg&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/165.asp&utm_content=country-arg&utm_term=class-corteidh",
-      "title": "165/26—CIDH presenta caso a la Corte IDH sobre proceso de custodia e investigación de presunto abuso sexual infantil en Argentina",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-08-20T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
       "id": "https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-sexta-sesion-del-diplomado-sobre-derechos-politicos/",
       "url": "https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-sexta-sesion-del-diplomado-sobre-derechos-politicos/",
       "title": "RINDHCA y la Corte IDH desarrollan sexta sesión del Diplomado sobre Derechos Políticos",
@@ -241,18 +241,6 @@
         "Regional",
         "Américas",
         "noticias"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/164.asp&utm_content=country-arg&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/164.asp&utm_content=country-arg&utm_term=class-corteidh",
-      "title": "164/26—CIDH presenta a Corte IDH caso por la falta de revisión judicial del cese de un empleado público durante la dictadura en Argentina",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
       ]
     },
     {
@@ -273,18 +261,6 @@
       "title": "La RINDHCA y la Corte IDH desarrollaron la cuarta sesión del Diplomado sobre Derechos Políticos",
       "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
       "date_published": "2026-08-09T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.rindhca.org/rindhca-llevo-ante-la-cidh-la-situacion-de-las-instituciones-nacionales-de-derechos-humanos-en-las-americas/",
-      "url": "https://www.rindhca.org/rindhca-llevo-ante-la-cidh-la-situacion-de-las-instituciones-nacionales-de-derechos-humanos-en-las-americas/",
-      "title": "RINDHCA llevó ante la CIDH la situación de las Instituciones Nacionales de Derechos Humanos en las Américas",
-      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
-      "date_published": "2026-08-05T00:00:00",
       "tags": [
         "Regional",
         "Américas",

@@ -4,7 +4,19 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-paraguay.json",
   "items": [
     {
-      "id": "urn:defensorias:1168765192531436100",
+      "id": "https://mnp.gov.py/mnp-presenta-salvaguardas-para-la-proteccion-de-personas-en-situacion-de-consumo-problematico-de-drogas/",
+      "url": "https://mnp.gov.py/mnp-presenta-salvaguardas-para-la-proteccion-de-personas-en-situacion-de-consumo-problematico-de-drogas/",
+      "title": "MNP presenta salvaguardas para la protección de personas en situación de consumo problemático de drogas",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-09-01T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:282805643308746019",
       "url": "",
       "title": "Noticias 31 de agosto de 2026 Defensoría del Pueblo realizó charlas sobre derechos de la niñez en Benjamín Aceval La Delegación de Villa Hayes de la D",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -16,7 +28,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3171805356233524200",
+      "id": "urn:defensorias:-5911667038341041206",
       "url": "",
       "title": "Noticias 31 de agosto de 2026 Defensoría del Pueblo realiza intervención en favor de dos adultos mayores en Mariano Roque Alonso La Defensoría del Pue",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -52,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2965872574540500377",
+      "id": "urn:defensorias:-7808515777010055573",
       "url": "",
       "title": "Noticias 26 de agosto de 2026 Defensoría del Pueblo promueve la prevención del acoso escolar en Capiatá La Defensoría del Pueblo, a través de la Coord",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -64,7 +76,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5202233749241037238",
+      "id": "urn:defensorias:-245760293403276653",
       "url": "",
       "title": "Noticias 26 de agosto de 2026 La Defensoría del Pueblo celebró el Día del Niño en la Escuela Fe y Alegría del Bañado Norte En el marco de las celebrac",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -76,7 +88,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8375535780579092240",
+      "id": "urn:defensorias:4635626890363033530",
       "url": "",
       "title": "Noticias 26 de agosto de 2026 Defensoría del Pueblo capacita a sus servidores sobre la nueva Ley de Función Pública y Servicio Civil La Defensoría del",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -88,7 +100,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-703424824747690954",
+      "id": "urn:defensorias:-8762139140250289581",
       "url": "",
       "title": "Noticias 25 de agosto de 2026 Defensoría del Pueblo gestionó la donación de suplementos nutricionales La Defensoría del pueblo, a través de su Direcci",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -112,7 +124,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1136474709229541349",
+      "id": "urn:defensorias:-1104606172080422056",
       "url": "",
       "title": "Noticias 24 de agosto de 2026 Defensoría del Pueblo acompaña actividades por el Día del Niño en el departamento del Guairá En conmemoración por el Día",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -124,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6457688609510304913",
+      "id": "urn:defensorias:-9136912999768421585",
       "url": "",
       "title": "Noticias 21 de agosto de 2026 Niños y niñas de Tacuaporumí participaron de una jornada sobre sus derechos La Defensoría del Pueblo, representada por l",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -160,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7246162451311467171",
+      "id": "urn:defensorias:-2468931438135980497",
       "url": "",
       "title": "Noticias 19 de agosto de 2026 Presupuesto 2027: Defensor del Pueblo busca fortalecer la atención ciudadana y la modernización institucional El Defenso",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -172,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8519230638843448269",
+      "id": "urn:defensorias:2469391077944826892",
       "url": "",
       "title": "Noticias 18 de agosto de 2026 Defensoría del Pueblo acompañó a familia en situación de vulnerabilidad en el barrio Santa Ana La Defensoría del Pueblo,",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -196,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5285583405430849712",
+      "id": "urn:defensorias:8293010154195165503",
       "url": "",
       "title": "Noticias 17 de agosto de 2026 La Defensoría del Pueblo acompaña la Declaración de Ciudad Asunción por la igualdad y la justicia racial En la asamblea",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -220,19 +232,7 @@
       ]
     },
     {
-      "id": "https://mnp.gov.py/mnp-y-facijs-unican-suscriben-convenio-para-fortalecer-la-formacion-en-derechos-humanos-y-la-prevencion-de-la-tortura/",
-      "url": "https://mnp.gov.py/mnp-y-facijs-unican-suscriben-convenio-para-fortalecer-la-formacion-en-derechos-humanos-y-la-prevencion-de-la-tortura/",
-      "title": "MNP y FACIJS – UNICAN suscriben convenio para fortalecer la formación en derechos humanos y la prevención de la tortura",
-      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
-      "date_published": "2026-08-14T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-2762298457371527470",
+      "id": "urn:defensorias:-2206957186315369675",
       "url": "",
       "title": "Noticias 13 de agosto de 2026 Defensoría del Pueblo brinda asistencia a víctima de violencia contra la mujer Representantes de la Defensoría del Puebl",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-09-01T12:25:38Z</updated>
+  <updated>2026-09-02T12:00:06Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo logra tutela constitucional para impulsar la Reglamentación de la Ley 1686, con participación de las víctimas de Senkata y Sacaba</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-logra-tutela-constitucional-para-impulsar-la-reglamentacion-de-la-ley-1686,-con-participacion-de-las-victimas-de-senkata-y-sacaba</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-logra-tutela-constitucional-para-impulsar-la-reglamentacion-de-la-ley-1686,-con-participacion-de-las-victimas-de-senkata-y-sacaba" />
+    <updated>2026-09-01T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>DEFENSORÍA DEL PUEBLO COADYUVA EN LA REACTIVACIÓN DE ATENCIONES DE SALUD A PERSONAS CON VIH/SIDA EN LA PAZ</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-coadyuva-en-la-reactivacion-de-atenciones-de-salud-a-personas-con-vih-sida-en-la-paz</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-alerta-sobre-la-desproteccion-estatal-de-la-ninyez-en-situacion-de-calle-y-exige-ley-nacional</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-alerta-sobre-la-desproteccion-estatal-de-la-ninyez-en-situacion-de-calle-y-exige-ley-nacional" />
     <updated>2026-08-25T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensor del Pueblo alerta una degradación ambiental y exige acciones urgentes al Estado</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-una-degradacion-ambiental-y-exige-acciones-urgentes-al-estado</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-una-degradacion-ambiental-y-exige-acciones-urgentes-al-estado" />
-    <updated>2026-08-24T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
