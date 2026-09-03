@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-09-02T12:00:06Z</updated>
+  <updated>2026-09-03T11:58:54Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo impulsa brigadas exploratorias y promoverá mesa técnica con la Red de Apoyo de La Guaira</title>
+    <id>http://www.defensoria.gob.ve/?p=20344</id>
+    <link href="http://www.defensoria.gob.ve/?p=20344" />
+    <updated>2026-09-02T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Brigada Defensorial en Tucacas acompañará a familias afectadas por los sismos del 24 de junio</title>
     <id>http://www.defensoria.gob.ve/?p=20322</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=20295</id>
     <link href="http://www.defensoria.gob.ve/?p=20295" />
     <updated>2026-08-18T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Jubilados de PDVSA y Pequiven solicitaron a la Defensoría del Pueblo mediar para el cumplimiento de sus derechos contractuales</title>
-    <id>http://www.defensoria.gob.ve/?p=20275</id>
-    <link href="http://www.defensoria.gob.ve/?p=20275" />
-    <updated>2026-08-14T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>

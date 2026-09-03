@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Argentina</title>
   <id>urn:defensorias-americas:prensa:argentina</id>
-  <updated>2026-09-02T12:00:06Z</updated>
+  <updated>2026-09-03T11:58:54Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-argentina.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>EL MPD CREA UNA UNIDAD PARA COORDINAR LA IMPLEMENTACIÓN DEL NUEVO RÉGIMEN PENAL JUVENIL</title>
+    <id>https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-crea-una-unidad-para-coordinar-la-implementacion-del-nuevo-regimen-penal-juvenil</id>
+    <link href="https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-crea-una-unidad-para-coordinar-la-implementacion-del-nuevo-regimen-penal-juvenil" />
+    <updated>2026-09-02T00:00:00</updated>
+    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
+  </entry>
   <entry>
     <title>ENTRÓ EN VIGENCIA EL CPPF EN LA JURISDICCIÓN POSADAS</title>
     <id>https://www.mpd.gov.ar/index.php/noticias-h/entro-en-vigencia-el-cppf-en-la-jurisdiccion-posadas</id>
@@ -17,13 +24,6 @@
     <id>https://www.mpd.gov.ar/index.php/noticias-h/se-realizo-la-jornada-sobre-acceso-a-la-justicia-de-los-pueblos-indigenas-y-el-rol-del-facilitador-intercultural</id>
     <link href="https://www.mpd.gov.ar/index.php/noticias-h/se-realizo-la-jornada-sobre-acceso-a-la-justicia-de-los-pueblos-indigenas-y-el-rol-del-facilitador-intercultural" />
     <updated>2026-08-21T00:00:00</updated>
-    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
-  </entry>
-  <entry>
-    <title>EL DEFENSOR GENERAL DE LA NACIÓN INTERINO EXPUSO ANTE LA BICAMERAL DE SEGUIMIENTO Y CONTROL DEL MINISTERIO PÚBLICO</title>
-    <id>https://www.mpd.gov.ar/index.php/noticias-h/el-defensor-general-de-la-nacion-interino-expuso-ante-la-bicameral-de-seguimiento-y-control-del-ministerio-publico</id>
-    <link href="https://www.mpd.gov.ar/index.php/noticias-h/el-defensor-general-de-la-nacion-interino-expuso-ante-la-bicameral-de-seguimiento-y-control-del-ministerio-publico" />
-    <updated>2026-08-20T00:00:00</updated>
     <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
   </entry>
 </feed>

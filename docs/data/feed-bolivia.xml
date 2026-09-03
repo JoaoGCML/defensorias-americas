@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-09-02T12:00:06Z</updated>
+  <updated>2026-09-03T11:58:54Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensor del Pueblo alerta por creciente violencia en cárceles de Bolivia y exhorta al Estado a fortalecer la prevención de la tortura</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-por-creciente-violencia-en-carceles-de-bolivia-y-exhorta-al-estado-a-fortalecer-la-prevencion-de-la-tortura</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-por-creciente-violencia-en-carceles-de-bolivia-y-exhorta-al-estado-a-fortalecer-la-prevencion-de-la-tortura" />
+    <updated>2026-09-02T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo logra tutela constitucional para impulsar la Reglamentación de la Ley 1686, con participación de las víctimas de Senkata y Sacaba</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-logra-tutela-constitucional-para-impulsar-la-reglamentacion-de-la-ley-1686,-con-participacion-de-las-victimas-de-senkata-y-sacaba</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-dia-de-la-dignidad-de-las-personas-adultas-mayores</id>
     <link href="https://www.defensoria.gob.bo/noticias/pronunciamiento-dia-de-la-dignidad-de-las-personas-adultas-mayores" />
     <updated>2026-08-26T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>DEFENSORÍA DEL PUEBLO ALERTA SOBRE LA DESPROTECCIÓN ESTATAL DE LA NIÑEZ EN SITUACIÓN DE CALLE Y EXIGE LEY NACIONAL</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-alerta-sobre-la-desproteccion-estatal-de-la-ninyez-en-situacion-de-calle-y-exige-ley-nacional</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-alerta-sobre-la-desproteccion-estatal-de-la-ninyez-en-situacion-de-calle-y-exige-ley-nacional" />
-    <updated>2026-08-25T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
