@@ -4,7 +4,43 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "urn:defensorias:1983918034183427070",
+      "id": "https://www.indh.cl/indh-los-lagos-dia-victimas-memoria/",
+      "url": "https://www.indh.cl/indh-los-lagos-dia-victimas-memoria/",
+      "title": "Día Internacional de las Víctimas de Desapariciones Forzadas: INDH Los Lagos realizó jornadas para relevar la importancia de la memoria",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-03T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-la-araucania-dia-victimas/",
+      "url": "https://www.indh.cl/indh-la-araucania-dia-victimas/",
+      "title": "INDH La Araucanía conmemoró Día de las Víctimas de Desapariciones Forzadas con conversatorio en el que participó Alicia Lira, Premio Nacional de Derechos Humanos",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-03T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-estefani-diaz-profesora-y-narradora/",
+      "url": "https://www.indh.cl/indh-estefani-diaz-profesora-y-narradora/",
+      "title": "Estefani Díaz, profesora y narradora oral: “Hay todavía poca conciencia de lo grave que es el uso de las pantallas en menores de 12 años”",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-03T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-7917492541169468606",
       "url": "",
       "title": "El Mercurio | «La protección no puede comenzar cuando ya...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -52,7 +88,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5947914581498766698",
+      "id": "urn:defensorias:762980065231426541",
       "url": "",
       "title": "Defensoría de la Niñez solicita que proyecto sobre instrumentalización de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -96,7 +132,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -108,11 +144,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:-8155551025428729113",
+      "id": "urn:defensorias:-8223607712356266098",
       "url": "",
       "title": "Biobio.cl | La emergencia dejó de ser la excepción: en...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -124,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3594322022847504488",
+      "id": "urn:defensorias:8821891197405497999",
       "url": "",
       "title": "Defensoría de la Niñez evalúa recuperación tras incendios en Biobío ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -136,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1887408058411295144",
+      "id": "urn:defensorias:-4945343643713999849",
       "url": "",
       "title": "Estudiantes de siete regiones co-diseñaron nueva Escuela de Liderazgo de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -148,19 +184,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/director-indh-visita-araucania/",
-      "url": "https://www.indh.cl/director-indh-visita-araucania/",
-      "title": "Director del INDH visita la región de La Araucanía: seguridad, derechos humanos y acceso a la justicia fueron los ejes principales",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-08-28T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:6419884100741550065",
+      "id": "urn:defensorias:1377766871116690484",
       "url": "",
       "title": "Radio Futuro | “Una tormenta perfecta”: la cruda advertencia del...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2046620756545524592",
+      "id": "urn:defensorias:-4465194262647558576",
       "url": "",
       "title": "Radio San Joaquín | Concurso fotográfico en San Joaquín invita...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,19 +220,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-maule-clinica-juridica-universidad-talca/",
-      "url": "https://www.indh.cl/indh-maule-clinica-juridica-universidad-talca/",
-      "title": "INDH Maule realizó taller sobre actuación en casos de vulneración de derechos a estudiantes de la Clínica Jurídica de la Universidad de Talca",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-08-25T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-8829486245575245632",
+      "id": "urn:defensorias:2077890571055169642",
       "url": "",
       "title": "Defensoría de la Niñez denunció graves hechos que afectarían a ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5659145234111944093",
+      "id": "urn:defensorias:-2900067220619874941",
       "url": "",
       "title": "La Tercera | Defensoría de la Niñez denuncia “graves hechos”...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6995733778163029815",
+      "id": "urn:defensorias:8688830934747925878",
       "url": "",
       "title": "Adolescentes de regiones protagonizan podcast de la Defensoría de la ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1215953228329041561",
+      "id": "urn:defensorias:1915496687560217685",
       "url": "",
       "title": "Defensoría de la Niñez y el Gobierno Regional recogen propuestas ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8420725793576757451",
+      "id": "urn:defensorias:4435985456442479927",
       "url": "",
       "title": "Estudio de la Defensoría de la Niñez: Nueve de cada ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -268,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2919906842675945270",
+      "id": "urn:defensorias:4128363487681340567",
       "url": "",
       "title": "La Tercera | Defensor de la Niñez y proyecto de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -280,7 +292,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9143727232434249865",
+      "id": "urn:defensorias:-8399982054011773565",
       "url": "",
       "title": "Desierto FM | Hospital Día Infanto Adolescente y Defensoría de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -292,7 +304,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7315213066384332300",
+      "id": "urn:defensorias:-4176462874987261126",
       "url": "",
       "title": "Modificaciones a la Ley de Responsabilidad Penal Adolescente: Análisis de ...",
       "summary": "Defensoría de la Niñez (Chile)",

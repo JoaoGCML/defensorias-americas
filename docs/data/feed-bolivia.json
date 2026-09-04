@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/declaracion-de-santa-cruz-plantea-una-agenda-regional-para-prevenir-la-tortura-y-proteger-los-derechos-de-las-personas-privadas-de-libertad",
+      "url": "https://www.defensoria.gob.bo/noticias/declaracion-de-santa-cruz-plantea-una-agenda-regional-para-prevenir-la-tortura-y-proteger-los-derechos-de-las-personas-privadas-de-libertad",
+      "title": "Declaración de Santa Cruz plantea una agenda regional para prevenir la tortura y proteger los derechos de las personas privadas de libertad",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-09-03T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/bolivia-sede-internacionalnueve-paises-reflexionan-sobre-la-crisis-carcelaria-y-el-rol-de-los-mnp-en-america-latina",
+      "url": "https://www.defensoria.gob.bo/noticias/bolivia-sede-internacionalnueve-paises-reflexionan-sobre-la-crisis-carcelaria-y-el-rol-de-los-mnp-en-america-latina",
+      "title": "BOLIVIA SEDE INTERNACIONAL: NUEVE PAÍSES REFLEXIONAN SOBRE LA CRISIS CARCELARIA Y EL ROL DE LOS MNP EN AMÉRICA LATINA",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-09-03T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-por-creciente-violencia-en-carceles-de-bolivia-y-exhorta-al-estado-a-fortalecer-la-prevencion-de-la-tortura",
       "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-por-creciente-violencia-en-carceles-de-bolivia-y-exhorta-al-estado-a-fortalecer-la-prevencion-de-la-tortura",
       "title": "Defensor del Pueblo alerta por creciente violencia en cárceles de Bolivia y exhorta al Estado a fortalecer la prevención de la tortura",
@@ -93,30 +117,6 @@
       "title": "DEFENSORÍA DEL PUEBLO FORTALECE CONOCIMIENTOS EN DERECHOS HUMANOS A MEDIO CENTENAR DE SERVIDORES PÚBLICOS DE LA CÁMARA DE DIPUTADOS",
       "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
       "date_published": "2026-08-27T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/sala-constitucional-ordena-restituir-y-garantizar-el-servicio-de-recojo-de-residuos-solidos-en-la-paz",
-      "url": "https://www.defensoria.gob.bo/noticias/sala-constitucional-ordena-restituir-y-garantizar-el-servicio-de-recojo-de-residuos-solidos-en-la-paz",
-      "title": "Sala Constitucional ordena restituir y garantizar el servicio de recojo de residuos sólidos en La Paz",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-08-26T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-dia-de-la-dignidad-de-las-personas-adultas-mayores",
-      "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-dia-de-la-dignidad-de-las-personas-adultas-mayores",
-      "title": "PRONUNCIAMIENTO DÍA DE LA DIGNIDAD DE LAS PERSONAS ADULTAS MAYORES",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-08-26T00:00:00",
       "tags": [
         "Bolivia",
         "Sudamérica",

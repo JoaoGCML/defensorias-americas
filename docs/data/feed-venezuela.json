@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.json",
   "items": [
     {
+      "id": "http://www.defensoria.gob.ve/?p=20351",
+      "url": "http://www.defensoria.gob.ve/?p=20351",
+      "title": "Defensora del Pueblo aboga por una reforma judicial con enfoque de género y celeridad procesal",
+      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
+      "date_published": "2026-09-03T00:00:00",
+      "tags": [
+        "Venezuela",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "http://www.defensoria.gob.ve/?p=20344",
       "url": "http://www.defensoria.gob.ve/?p=20344",
       "title": "Defensoría del Pueblo impulsa brigadas exploratorias y promoverá mesa técnica con la Red de Apoyo de La Guaira",
@@ -45,18 +57,6 @@
       "title": "Defensoría del Pueblo instaló mesa técnica con la Alianza por la Libertad de los Presos Políticos para revisar casos individualmente",
       "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
       "date_published": "2026-08-20T00:00:00",
-      "tags": [
-        "Venezuela",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "http://www.defensoria.gob.ve/?p=20295",
-      "url": "http://www.defensoria.gob.ve/?p=20295",
-      "title": "Defensoría del Pueblo conforma mesa técnica para seguimiento de incidencias en el sistema eléctrico",
-      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
-      "date_published": "2026-08-18T00:00:00",
       "tags": [
         "Venezuela",
         "Sudamérica",
