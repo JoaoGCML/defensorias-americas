@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-09-04T12:00:47Z</updated>
+  <updated>2026-09-05T11:10:12Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo y Naciones Unidas fortalecen cooperación para la protección de los derechos humanos en Venezuela</title>
+    <id>http://www.defensoria.gob.ve/?p=20624</id>
+    <link href="http://www.defensoria.gob.ve/?p=20624" />
+    <updated>2026-09-04T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensora del Pueblo aboga por una reforma judicial con enfoque de género y celeridad procesal</title>
     <id>http://www.defensoria.gob.ve/?p=20351</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=20313</id>
     <link href="http://www.defensoria.gob.ve/?p=20313" />
     <updated>2026-08-21T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo instaló mesa técnica con la Alianza por la Libertad de los Presos Políticos para revisar casos individualmente</title>
-    <id>http://www.defensoria.gob.ve/?p=20301</id>
-    <link href="http://www.defensoria.gob.ve/?p=20301" />
-    <updated>2026-08-20T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>
