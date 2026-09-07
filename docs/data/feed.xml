@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas</title>
   <id>urn:defensorias-americas:prensa:all</id>
-  <updated>2026-09-06T11:33:28Z</updated>
+  <updated>2026-09-07T13:20:11Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -11,6 +11,26 @@
     <link href="https://defensoria.al.def.br/index.php/noticias/escala-de-plantao-civel-e-criminal-04-a-07-09-2026" />
     <updated>2026-09-07T00:00:00</updated>
     <summary>Defensoria Pública do Estado de Alagoas (Brasil) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Noticias 7 de septiembre de 2026 Defensoría del Pueblo y CODENI coordinaron acciones en favor de niños en Santa Rosa del Aguaray A partir de una situa</title>
+    <id>urn:defensorias-americas:5050191152072241460</id>
+    <updated>2026-09-07T00:00:00</updated>
+    <summary>Defensoría del Pueblo del Paraguay (Paraguay) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Viacha: Defensoría del Pueblo coordina respuesta interinstitucional y monitorea atención médica de personas afectadas en El Alto y La Paz</title>
+    <id>https://www.defensoria.gob.bo/noticias/viachadefensoria-del-pueblo-coordina-respuesta-interinstitucional-y-monitorea-atencion-medica-de-personas-afectadas-en-el-alto-y-la-paz</id>
+    <link href="https://www.defensoria.gob.bo/noticias/viachadefensoria-del-pueblo-coordina-respuesta-interinstitucional-y-monitorea-atencion-medica-de-personas-afectadas-en-el-alto-y-la-paz" />
+    <updated>2026-09-05T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
+  <entry>
+    <title>VIACHA: DEFENSOR DEL PUEBLO EXPRESA SOLIDARIDAD CON LAS FAMILIAS Y EXIGE ESCLARECIMIENTO DE LOS HECHOS Y GARANTÍAS DE NO REPETICIÓN</title>
+    <id>https://www.defensoria.gob.bo/noticias/viachadefensor-del-pueblo-expresa-solidaridad-con-las-familias-y-exige-esclarecimiento-de-los-hechos-y-garantias-de-no-repeticion</id>
+    <link href="https://www.defensoria.gob.bo/noticias/viachadefensor-del-pueblo-expresa-solidaridad-con-las-familias-y-exige-esclarecimiento-de-los-hechos-y-garantias-de-no-repeticion" />
+    <updated>2026-09-05T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
   <entry>
     <title>Defensoria apresenta uso da tecnologia para ampliar atendimento jurídico na ExpoJud Latam</title>
@@ -41,8 +61,15 @@
     <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
   </entry>
   <entry>
+    <title>DEFENSORÍA DEL PUEBLO REALIZA SEGUIMIENTO A PERSONAS AFECTADAS POR EXPLOSIONES EN EL REGIMIENTO BOLÍVAR DE VIACHA</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-realiza-seguimiento-a-personas-afectadas-por-explosiones-en-el-regimiento-bolivar-de-viacha</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-realiza-seguimiento-a-personas-afectadas-por-explosiones-en-el-regimiento-bolivar-de-viacha" />
+    <updated>2026-09-04T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
+  <entry>
     <title>Praia Grande recebe mutirão #DáPraResolver da Defensoria Pública no dia 12 de setembro</title>
-    <id>urn:defensorias-americas:-5433320672656921090</id>
+    <id>urn:defensorias-americas:7341126901267918286</id>
     <updated>2026-09-04T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -125,13 +152,13 @@
   </entry>
   <entry>
     <title>Noticias 4 de septiembre de 2026 Defensoría del Pueblo acompañó homenaje a los agentes de la Policía Nacional El Defensor del Pueblo, Abog. Mgtr. Rafa</title>
-    <id>urn:defensorias-americas:4469669568530064571</id>
+    <id>urn:defensorias-americas:-6878437742898280057</id>
     <updated>2026-09-04T00:00:00</updated>
     <summary>Defensoría del Pueblo del Paraguay (Paraguay) — noticias</summary>
   </entry>
   <entry>
     <title>Noticias 4 de septiembre de 2026 Defensoría del Pueblo fortalece capacidades en fiscalización ambiental Durante la semana, funcionarios de la Defensor</title>
-    <id>urn:defensorias-americas:996613676413470271</id>
+    <id>urn:defensorias-americas:6792853822438284329</id>
     <updated>2026-09-04T00:00:00</updated>
     <summary>Defensoría del Pueblo del Paraguay (Paraguay) — noticias</summary>
   </entry>
@@ -176,6 +203,20 @@
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/187.asp&amp;utm_term=class-ef" />
     <updated>2026-09-04T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
+  <entry>
+    <title>Declaración de Santa Cruz plantea una agenda regional para prevenir la tortura y proteger los derechos de las personas privadas de libertad</title>
+    <id>https://www.defensoria.gob.bo/noticias/declaracion-de-santa-cruz-plantea-una-agenda-regional-para-prevenir-la-tortura-y-proteger-los-derechos-de-las-personas-privadas-de-libertad</id>
+    <link href="https://www.defensoria.gob.bo/noticias/declaracion-de-santa-cruz-plantea-una-agenda-regional-para-prevenir-la-tortura-y-proteger-los-derechos-de-las-personas-privadas-de-libertad" />
+    <updated>2026-09-03T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
+  <entry>
+    <title>BOLIVIA SEDE INTERNACIONAL: NUEVE PAÍSES REFLEXIONAN SOBRE LA CRISIS CARCELARIA Y EL ROL DE LOS MNP EN AMÉRICA LATINA</title>
+    <id>https://www.defensoria.gob.bo/noticias/bolivia-sede-internacionalnueve-paises-reflexionan-sobre-la-crisis-carcelaria-y-el-rol-de-los-mnp-en-america-latina</id>
+    <link href="https://www.defensoria.gob.bo/noticias/bolivia-sede-internacionalnueve-paises-reflexionan-sobre-la-crisis-carcelaria-y-el-rol-de-los-mnp-en-america-latina" />
+    <updated>2026-09-03T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
   <entry>
     <title>Edital seleciona projetos para fortalecer proteção de crianças e adolescentes</title>
@@ -291,13 +332,13 @@
   </entry>
   <entry>
     <title>Noticias 3 de septiembre de 2026 Formación continua: Funcionarios de la Defensoría se actualizan sobre la Ley de la Función Pública y del Servicio Civ</title>
-    <id>urn:defensorias-americas:231803290396986865</id>
+    <id>urn:defensorias-americas:7293864291024108897</id>
     <updated>2026-09-03T00:00:00</updated>
     <summary>Defensoría del Pueblo del Paraguay (Paraguay) — noticias</summary>
   </entry>
   <entry>
     <title>Noticias 3 de septiembre de 2026 Trabajo en territorio: La Defensoría acompaña a la comunidad Ava Guaraní Yvapovondy La Defensoría del Pueblo visitó a</title>
-    <id>urn:defensorias-americas:6882700002685466273</id>
+    <id>urn:defensorias-americas:-8594493346098503751</id>
     <updated>2026-09-03T00:00:00</updated>
     <summary>Defensoría del Pueblo del Paraguay (Paraguay) — noticias</summary>
   </entry>
@@ -370,6 +411,13 @@
     <link href="https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-crea-una-unidad-para-coordinar-la-implementacion-del-nuevo-regimen-penal-juvenil" />
     <updated>2026-09-02T00:00:00</updated>
     <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Defensor del Pueblo alerta por creciente violencia en cárceles de Bolivia y exhorta al Estado a fortalecer la prevención de la tortura</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-por-creciente-violencia-en-carceles-de-bolivia-y-exhorta-al-estado-a-fortalecer-la-prevencion-de-la-tortura</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-por-creciente-violencia-en-carceles-de-bolivia-y-exhorta-al-estado-a-fortalecer-la-prevencion-de-la-tortura" />
+    <updated>2026-09-02T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
   <entry>
     <title>Voo com brasileiros repatriados dos EUA chegará ao Aeroporto Internacional de Belo Horizonte nesta quarta-feira (2)</title>
@@ -471,7 +519,7 @@
   </entry>
   <entry>
     <title>El Mercurio | «La protección no puede comenzar cuando ya...</title>
-    <id>urn:defensorias-americas:-3979548784072640446</id>
+    <id>urn:defensorias-americas:-8166277252070856336</id>
     <updated>2026-09-02T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -498,7 +546,7 @@
   </entry>
   <entry>
     <title>Noticias 2 de septiembre de 2026 Ciudad Mujer Móvil: Defensoría del Pueblo presente en Villa Hayes para la promoción de los derechos La Defensoría del</title>
-    <id>urn:defensorias-americas:7072749907171661174</id>
+    <id>urn:defensorias-americas:6740486329949826725</id>
     <updated>2026-09-02T00:00:00</updated>
     <summary>Defensoría del Pueblo del Paraguay (Paraguay) — noticias</summary>
   </entry>
@@ -545,6 +593,13 @@
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
   <entry>
+    <title>Defensoría del Pueblo logra tutela constitucional para impulsar la Reglamentación de la Ley 1686, con participación de las víctimas de Senkata y Sacaba</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-logra-tutela-constitucional-para-impulsar-la-reglamentacion-de-la-ley-1686,-con-participacion-de-las-victimas-de-senkata-y-sacaba</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-logra-tutela-constitucional-para-impulsar-la-reglamentacion-de-la-ley-1686,-con-participacion-de-las-victimas-de-senkata-y-sacaba" />
+    <updated>2026-09-01T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
+  <entry>
     <title>Violência institucional: saiba o que é e como denunciar</title>
     <id>https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/violencia-institucional-saiba-o-que-e-e-como-denunciar</id>
     <link href="https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/violencia-institucional-saiba-o-que-e-e-como-denunciar" />
@@ -560,7 +615,7 @@
   </entry>
   <entry>
     <title>STJ absolve mãe em cárcere após atuação do Núcleo Especializado se Situação Carcerária da Defensoria de São Paulo (NESC)</title>
-    <id>urn:defensorias-americas:3937650406713786014</id>
+    <id>urn:defensorias-americas:-5130478908902892019</id>
     <updated>2026-09-01T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -601,7 +656,7 @@
   </entry>
   <entry>
     <title>Defensoría de la Niñez solicita que proyecto sobre instrumentalización de ...</title>
-    <id>urn:defensorias-americas:6460464258939400741</id>
+    <id>urn:defensorias-americas:2632414336993089168</id>
     <updated>2026-09-01T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -639,61 +694,5 @@
     <link href="https://www.defensoria.gob.pe/defensoria-del-pueblo-ha-solicitado-al-ministerio-publico-y-al-ministerio-del-interior-el-despliegue-inmediato-de-equipos-especializados-para-la-investigacion-por-la-complejidad-de-los-hechos-ocurrido/" />
     <updated>2026-09-01T00:00:00</updated>
     <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Comunicado n.° 051/DP/2026</title>
-    <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-051-2026.pdf</id>
-    <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-051-2026.pdf" type="application/pdf" />
-    <updated>2026-09-01T00:00:00</updated>
-    <summary>Defensoría del Pueblo del Perú (Perú) — pronunciamientos</summary>
-  </entry>
-  <entry>
-    <title>Defensor del Pueblo publica Diagnóstico Integral sobre Desapariciones No Voluntarias en el país</title>
-    <id>https://defensordelpueblo.gob.do/2026/09/01/defensor-del-pueblo-publica-diagnostico-integral-sobre-desapariciones-no-voluntarias-en-el-pais/</id>
-    <link href="https://defensordelpueblo.gob.do/2026/09/01/defensor-del-pueblo-publica-diagnostico-integral-sobre-desapariciones-no-voluntarias-en-el-pais/" />
-    <updated>2026-09-01T00:00:00</updated>
-    <summary>Defensor del Pueblo de la República Dominicana (República Dominicana) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Alberta Ombudsman Releases the 2025-2026 Annual Report, Detailing Another Record-Breaking Year of Complaints</title>
-    <id>https://www.ombudsman.ab.ca/alberta-ombudsman-releases-the-2025-2026-annual-report-detailing-another-record-breaking-year-of-complaints/</id>
-    <link href="https://www.ombudsman.ab.ca/alberta-ombudsman-releases-the-2025-2026-annual-report-detailing-another-record-breaking-year-of-complaints/" />
-    <updated>2026-09-01T00:00:00</updated>
-    <summary>Alberta Ombudsman (Canadá) — news</summary>
-  </entry>
-  <entry>
-    <title>Public Interest Disclosure Commissioner Marks 15 Years of Whistleblower Legislation.</title>
-    <id>https://ombudsman.sk.ca/news/2026/2026-09-01/public-interest-disclosure-commissioner-marks-15-years-of-whistleblower-legislation/</id>
-    <link href="https://ombudsman.sk.ca/news/2026/2026-09-01/public-interest-disclosure-commissioner-marks-15-years-of-whistleblower-legislation/" />
-    <updated>2026-09-01T00:00:00</updated>
-    <summary>Saskatchewan Ombudsman (Canadá) — news</summary>
-  </entry>
-  <entry>
-    <title>RINDHCA y la Corte IDH desarrollan octava sesión del Diplomado sobre Derechos Políticos</title>
-    <id>https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-octava-sesion-del-diplomado-sobre-derechos-politicos/</id>
-    <link href="https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-octava-sesion-del-diplomado-sobre-derechos-politicos/" />
-    <updated>2026-09-01T00:00:00</updated>
-    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
-  </entry>
-  <entry>
-    <title>183/26—IACHR grants precautionary measures in favor of Brittany Holberg on death row in the United States</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/183.asp&amp;utm_content=country-usa&amp;utm_term=class-mc</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/183.asp&amp;utm_content=country-usa&amp;utm_term=class-mc" />
-    <updated>2026-09-01T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>182/26—CIDH otorga medidas cautelares cinco personas privadas de libertad en Venezuela</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/182.asp&amp;utm_content=country-ven&amp;utm_term=class-mc</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/182.asp&amp;utm_content=country-ven&amp;utm_term=class-mc" />
-    <updated>2026-09-01T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>Capacitismo: o que é, como identificar e como combater a discriminação no dia a dia</title>
-    <id>https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/capacitismo-o-que-e-como-identificar-e-como-combater-a-discriminacao-no-dia-a-dia</id>
-    <link href="https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/capacitismo-o-que-e-como-identificar-e-como-combater-a-discriminacao-no-dia-a-dia" />
-    <updated>2026-08-31T00:00:00</updated>
-    <summary>Ministério dos Direitos Humanos e da Cidadania (Brasil) — noticias</summary>
   </entry>
 </feed>
