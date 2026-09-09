@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-novena-sesion-del-diplomado-sobre-derechos-politicos/",
+      "url": "https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-novena-sesion-del-diplomado-sobre-derechos-politicos/",
+      "title": "RINDHCA y la Corte IDH desarrollan novena sesión del Diplomado sobre Derechos Políticos",
+      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
+      "date_published": "2026-09-09T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.rindhca.org/miembros-de-la-rindhca-en-coordinacion-con-ganhri-se-reunen-con-la-relatora-especial-de-la-onu-sobre-la-promocion-y-proteccion-de-los-derechos-humanos-en-el-contexto-del-cambio-climatico-sra-elisa/",
       "url": "https://www.rindhca.org/miembros-de-la-rindhca-en-coordinacion-con-ganhri-se-reunen-con-la-relatora-especial-de-la-onu-sobre-la-promocion-y-proteccion-de-los-derechos-humanos-en-el-contexto-del-cambio-climatico-sra-elisa/",
       "title": "Miembros de la RINDHCA en coordinación con GANHRI, se reúnen con la Relatora Especial de la ONU sobre la promoción y protección de los derechos humanos en el contexto del cambio climático, Sra. Elisa Morgera",
@@ -253,18 +265,6 @@
         "Regional",
         "Américas",
         "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-sexta-sesion-del-diplomado-sobre-derechos-politicos/",
-      "url": "https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-sexta-sesion-del-diplomado-sobre-derechos-politicos/",
-      "title": "RINDHCA y la Corte IDH desarrollan sexta sesión del Diplomado sobre Derechos Políticos",
-      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
-      "date_published": "2026-08-19T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "noticias"
       ]
     }
   ]

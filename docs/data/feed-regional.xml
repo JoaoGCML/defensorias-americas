@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Regional</title>
   <id>urn:defensorias-americas:prensa:regional</id>
-  <updated>2026-09-08T12:01:14Z</updated>
+  <updated>2026-09-09T12:11:37Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>RINDHCA y la Corte IDH desarrollan novena sesión del Diplomado sobre Derechos Políticos</title>
+    <id>https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-novena-sesion-del-diplomado-sobre-derechos-politicos/</id>
+    <link href="https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-novena-sesion-del-diplomado-sobre-derechos-politicos/" />
+    <updated>2026-09-09T00:00:00</updated>
+    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
+  </entry>
   <entry>
     <title>Miembros de la RINDHCA en coordinación con GANHRI, se reúnen con la Relatora Especial de la ONU sobre la promoción y protección de los derechos humanos en el contexto del cambio climático, Sra. Elisa Morgera</title>
     <id>https://www.rindhca.org/miembros-de-la-rindhca-en-coordinacion-con-ganhri-se-reunen-con-la-relatora-especial-de-la-onu-sobre-la-promocion-y-proteccion-de-los-derechos-humanos-en-el-contexto-del-cambio-climatico-sra-elisa/</id>
@@ -151,12 +158,5 @@
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/171.asp&amp;utm_content=country-usa&amp;utm_term=class-mon" />
     <updated>2026-08-24T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>RINDHCA y la Corte IDH desarrollan sexta sesión del Diplomado sobre Derechos Políticos</title>
-    <id>https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-sexta-sesion-del-diplomado-sobre-derechos-politicos/</id>
-    <link href="https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-sexta-sesion-del-diplomado-sobre-derechos-politicos/" />
-    <updated>2026-08-19T00:00:00</updated>
-    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
   </entry>
 </feed>
