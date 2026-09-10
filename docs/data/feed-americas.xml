@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Américas</title>
   <id>urn:defensorias-americas:prensa:americas</id>
-  <updated>2026-09-09T12:11:37Z</updated>
+  <updated>2026-09-10T12:06:03Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-americas.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -11,6 +11,20 @@
     <link href="https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-novena-sesion-del-diplomado-sobre-derechos-politicos/" />
     <updated>2026-09-09T00:00:00</updated>
     <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
+  </entry>
+  <entry>
+    <title>189/26—CIDH solicita a Corte IDH ampliar medidas provisionales para tres personas privadas de libertad y familiares de una de ellas en Nicaragua</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/189.asp&amp;utm_content=country-nic&amp;utm_term=class-mp</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/189.asp&amp;utm_content=country-nic&amp;utm_term=class-mp" />
+    <updated>2026-09-09T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
+  <entry>
+    <title>188/26—CIDH y su REDESCA expresan solidaridad tras el sismo en Perú y dan seguimiento a sus impactos</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/188.asp</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/188.asp" />
+    <updated>2026-09-09T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
   <entry>
     <title>Miembros de la RINDHCA en coordinación con GANHRI, se reúnen con la Relatora Especial de la ONU sobre la promoción y protección de los derechos humanos en el contexto del cambio climático, Sra. Elisa Morgera</title>
@@ -143,20 +157,6 @@
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/173.asp&amp;utm_content=country-ven&amp;utm_term=class-corteidh</id>
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/173.asp&amp;utm_content=country-ven&amp;utm_term=class-corteidh" />
     <updated>2026-08-25T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>172/26—CIDH presenta caso a la Corte IDH sobre falta de investigación de amenazas y agresiones contra defensor trans e intersex en Venezuela</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/172.asp&amp;utm_content=country-ven&amp;utm_term=class-corteidh</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/172.asp&amp;utm_content=country-ven&amp;utm_term=class-corteidh" />
-    <updated>2026-08-24T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>171/26—Estados Unidos: La CIDH expresa su preocupación por el fin del Estatus de Protección Temporal para personas de nacionalidad haitiana</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/171.asp&amp;utm_content=country-usa&amp;utm_term=class-mon</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/171.asp&amp;utm_content=country-usa&amp;utm_term=class-mon" />
-    <updated>2026-08-24T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
 </feed>
