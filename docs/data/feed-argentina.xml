@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Argentina</title>
   <id>urn:defensorias-americas:prensa:argentina</id>
-  <updated>2026-09-10T12:06:03Z</updated>
+  <updated>2026-09-11T12:04:21Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-argentina.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>NUEVAS DEPENDENCIAS ESPECIALIZADAS PARA LA IMPLEMENTACIÓN DEL RÉGIMEN PENAL JUVENIL</title>
+    <id>https://www.mpd.gov.ar/index.php/noticias-h/nuevas-dependencias-especializadas-para-la-implementacion-del-regimen-penal-juvenil</id>
+    <link href="https://www.mpd.gov.ar/index.php/noticias-h/nuevas-dependencias-especializadas-para-la-implementacion-del-regimen-penal-juvenil" />
+    <updated>2026-09-10T00:00:00</updated>
+    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
+  </entry>
   <entry>
     <title>EL DEFENSOR GENERAL DE LA NACIÓN MANTUVO UNA REUNIÓN DE TRABAJO CON LA UIRPJ Y LAS NUEVAS UNIDADES DE DEFENSA CREADAS POR LA LEY 27.801</title>
     <id>https://www.mpd.gov.ar/index.php/noticias-h/el-defensor-general-de-la-nacion-mantuvo-una-reunion-de-trabajo-con-la-uirpj-y-las-nuevas-unidades-de-defensa-creadas-por-la-ley-27-801</id>
@@ -17,13 +24,6 @@
     <id>https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-crea-una-unidad-para-coordinar-la-implementacion-del-nuevo-regimen-penal-juvenil</id>
     <link href="https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-crea-una-unidad-para-coordinar-la-implementacion-del-nuevo-regimen-penal-juvenil" />
     <updated>2026-09-02T00:00:00</updated>
-    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
-  </entry>
-  <entry>
-    <title>ENTRÓ EN VIGENCIA EL CPPF EN LA JURISDICCIÓN POSADAS</title>
-    <id>https://www.mpd.gov.ar/index.php/noticias-h/entro-en-vigencia-el-cppf-en-la-jurisdiccion-posadas</id>
-    <link href="https://www.mpd.gov.ar/index.php/noticias-h/entro-en-vigencia-el-cppf-en-la-jurisdiccion-posadas" />
-    <updated>2026-08-25T00:00:00</updated>
     <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
   </entry>
 </feed>

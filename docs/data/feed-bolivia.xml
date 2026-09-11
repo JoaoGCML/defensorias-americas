@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-09-10T12:06:03Z</updated>
+  <updated>2026-09-11T12:04:21Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>PRONUNCIAMIENTO DEFENSORÍA DEL PUEBLO EXHORTA A RESGUARDAR LOS DERECHOS LABORALES DE LAS Y LOS GUARDAPARQUES: SIN GUARDAPARQUES NO HAY PROTECCIÓN DE LA MADRE TIERRA</title>
+    <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-exhorta-a-resguardar-los-derechos-laborales-de-las-y-los-guardaparquessin-guardaparques-no-hay-proteccion-de-la-madre-tierra</id>
+    <link href="https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-exhorta-a-resguardar-los-derechos-laborales-de-las-y-los-guardaparquessin-guardaparques-no-hay-proteccion-de-la-madre-tierra" />
+    <updated>2026-09-10T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo solicita información oficial sobre daños y personas afectadas por explosiones en Viacha</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-solicita-informacion-oficial-sobre-danyos-y-personas-afectadas-por-explosiones-en-viacha</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-realiza-seguimiento-a-personas-afectadas-por-explosiones-en-el-regimiento-bolivar-de-viacha</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-realiza-seguimiento-a-personas-afectadas-por-explosiones-en-el-regimiento-bolivar-de-viacha" />
     <updated>2026-09-04T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Declaración de Santa Cruz plantea una agenda regional para prevenir la tortura y proteger los derechos de las personas privadas de libertad</title>
-    <id>https://www.defensoria.gob.bo/noticias/declaracion-de-santa-cruz-plantea-una-agenda-regional-para-prevenir-la-tortura-y-proteger-los-derechos-de-las-personas-privadas-de-libertad</id>
-    <link href="https://www.defensoria.gob.bo/noticias/declaracion-de-santa-cruz-plantea-una-agenda-regional-para-prevenir-la-tortura-y-proteger-los-derechos-de-las-personas-privadas-de-libertad" />
-    <updated>2026-09-03T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
