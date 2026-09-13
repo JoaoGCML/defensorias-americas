@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-09-12T11:30:57Z</updated>
+  <updated>2026-09-13T12:35:04Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Eglée González Lobato impulsa la visión de género y los derechos indígenas en la reforma de la justicia penal</title>
+    <id>http://www.defensoria.gob.ve/?p=20708</id>
+    <link href="http://www.defensoria.gob.ve/?p=20708" />
+    <updated>2026-09-12T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo y ACNUR realizaron formación especializada para reforzar la protección de personas refugiadas y solicitantes de asilo</title>
     <id>http://www.defensoria.gob.ve/?p=20657</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=20624</id>
     <link href="http://www.defensoria.gob.ve/?p=20624" />
     <updated>2026-09-04T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensora del Pueblo aboga por una reforma judicial con enfoque de género y celeridad procesal</title>
-    <id>http://www.defensoria.gob.ve/?p=20351</id>
-    <link href="http://www.defensoria.gob.ve/?p=20351" />
-    <updated>2026-09-03T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>
