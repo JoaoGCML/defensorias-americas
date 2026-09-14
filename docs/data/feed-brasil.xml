@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Brasil</title>
   <id>urn:defensorias-americas:prensa:brasil</id>
-  <updated>2026-09-13T12:35:04Z</updated>
+  <updated>2026-09-14T13:43:28Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>MDHC participa de reunião sobre o Caso Fábrica de Fogos em Salvador (BA)</title>
+    <id>https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/mdhc-participa-de-reuniao-sobre-o-caso-fabrica-de-fogos-em-salvador-ba</id>
+    <link href="https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/mdhc-participa-de-reuniao-sobre-o-caso-fabrica-de-fogos-em-salvador-ba" />
+    <updated>2026-09-14T00:00:00</updated>
+    <summary>Ministério dos Direitos Humanos e da Cidadania (Brasil) — noticias</summary>
+  </entry>
   <entry>
     <title>Escala de Plantão Cível e Criminal - 12 e 13.09.2026</title>
     <id>https://defensoria.al.def.br/index.php/noticias/escala-de-plantao-civel-e-criminal-12-e-13-09-2026</id>
@@ -14,7 +21,7 @@
   </entry>
   <entry>
     <title>Mutirão, previsto para este sábado (12/9), não acontecerá em razão das condições climáticas adversas na região</title>
-    <id>urn:defensorias-americas:-3992501962891609276</id>
+    <id>urn:defensorias-americas:2994549368248934756</id>
     <updated>2026-09-12T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -38,6 +45,13 @@
     <link href="https://defensoria.am.def.br/2026/09/12/defensoria-contribui-para-politicas-de-enfrentamento-a-violencia-contra-mulheres-indigenas/" />
     <updated>2026-09-12T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Amazonas (Brasil) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Defensoria Pública promove encontro para debater Política Antimanicomial</title>
+    <id>https://defensoria.rj.def.br/noticia/detalhes/32994-Defensoria-Publica-promove-encontro-para-debater-Politica-Antimanicomial</id>
+    <link href="https://defensoria.rj.def.br/noticia/detalhes/32994-Defensoria-Publica-promove-encontro-para-debater-Politica-Antimanicomial" />
+    <updated>2026-09-11T00:00:00</updated>
+    <summary>Defensoria Pública do Estado do Rio de Janeiro (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Defensoria realiza atendimentos na comunidade Canoas, em Presidente Figueiredo</title>
@@ -237,13 +251,13 @@
   </entry>
   <entry>
     <title>Justiça reconhece falha da Enel durante apagão e afirma que ciclone não afasta responsabilidade da concessionária</title>
-    <id>urn:defensorias-americas:1604752596231232625</id>
+    <id>urn:defensorias-americas:-4142386701442794908</id>
     <updated>2026-09-08T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>TJ-SP aumenta em 200% indenização a adolescente vítima de negligência em serviço de acolhimento institucional de Ribeirão Preto após ação da Defensoria</title>
-    <id>urn:defensorias-americas:-3622338758528276249</id>
+    <id>urn:defensorias-americas:7520434345478561764</id>
     <updated>2026-09-08T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -333,7 +347,7 @@
   </entry>
   <entry>
     <title>Praia Grande recebe mutirão #DáPraResolver da Defensoria Pública no dia 12 de setembro</title>
-    <id>urn:defensorias-americas:4310826026674238417</id>
+    <id>urn:defensorias-americas:2645692959765273905</id>
     <updated>2026-09-04T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -348,13 +362,6 @@
     <title>DPRJ obtém concessão provisória de aluguel social a famílias de Parque Vila Nova, em Duque de Caxias</title>
     <id>https://defensoria.rj.def.br/noticia/detalhes/32960-DPRJ-obtem-concessao-provisoria-de-aluguel-social-a-familias-de-Parque-Vila-Nova-em-Duque-de-Caxias</id>
     <link href="https://defensoria.rj.def.br/noticia/detalhes/32960-DPRJ-obtem-concessao-provisoria-de-aluguel-social-a-familias-de-Parque-Vila-Nova-em-Duque-de-Caxias" />
-    <updated>2026-09-04T00:00:00</updated>
-    <summary>Defensoria Pública do Estado do Rio de Janeiro (Brasil) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoria promove encontro sobre religiões de matriz africana e acesso à Justiça</title>
-    <id>https://defensoria.rj.def.br/noticia/detalhes/32965-Defensoria-promove-encontro-sobre-religioes-de-matriz-africana-e-acesso-a-Justica</id>
-    <link href="https://defensoria.rj.def.br/noticia/detalhes/32965-Defensoria-promove-encontro-sobre-religioes-de-matriz-africana-e-acesso-a-Justica" />
     <updated>2026-09-04T00:00:00</updated>
     <summary>Defensoria Pública do Estado do Rio de Janeiro (Brasil) — noticias</summary>
   </entry>
@@ -451,7 +458,7 @@
   </entry>
   <entry>
     <title>STJ absolve mãe em cárcere após atuação do Núcleo Especializado se Situação Carcerária da Defensoria de São Paulo (NESC)</title>
-    <id>urn:defensorias-americas:7280670829444304319</id>
+    <id>urn:defensorias-americas:6143702225360120243</id>
     <updated>2026-09-01T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
@@ -491,21 +498,14 @@
     <summary>Ministério dos Direitos Humanos e da Cidadania (Brasil) — noticias</summary>
   </entry>
   <entry>
-    <title>Voo procedente dos Estados Unidos traz 93 brasileiros repatriados a Confins (MG)</title>
-    <id>https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voo-procedente-dos-estados-unidos-traz-93-brasileiros-repatriados-a-confins-mg</id>
-    <link href="https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voo-procedente-dos-estados-unidos-traz-93-brasileiros-repatriados-a-confins-mg" />
-    <updated>2026-08-27T00:00:00</updated>
-    <summary>Ministério dos Direitos Humanos e da Cidadania (Brasil) — noticias</summary>
-  </entry>
-  <entry>
     <title>Escuta promovida pela Defensoria de SP e pela ActionAid leva relatos de comunidades brasileiras à ONU</title>
-    <id>urn:defensorias-americas:6602679187490286988</id>
+    <id>urn:defensorias-americas:-7427712990721357104</id>
     <updated>2026-08-26T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>
   <entry>
     <title>Defensoria realiza sétima edição do #DáPraResolver em Ribeirão Preto com 135 atendimentos</title>
-    <id>urn:defensorias-americas:-63027248589353016</id>
+    <id>urn:defensorias-americas:7312516227383518055</id>
     <updated>2026-08-21T00:00:00</updated>
     <summary>Defensoria Pública do Estado de São Paulo (Brasil) — noticias</summary>
   </entry>

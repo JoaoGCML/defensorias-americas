@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/mdhc-participa-de-reuniao-sobre-o-caso-fabrica-de-fogos-em-salvador-ba",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/mdhc-participa-de-reuniao-sobre-o-caso-fabrica-de-fogos-em-salvador-ba",
+      "title": "MDHC participa de reunião sobre o Caso Fábrica de Fogos em Salvador (BA)",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-09-14T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.al.def.br/index.php/noticias/escala-de-plantao-civel-e-criminal-12-e-13-09-2026",
       "url": "https://defensoria.al.def.br/index.php/noticias/escala-de-plantao-civel-e-criminal-12-e-13-09-2026",
       "title": "Escala de Plantão Cível e Criminal - 12 e 13.09.2026",
@@ -16,7 +28,19 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3992501962891609276",
+      "id": "https://defensordelpueblo.gob.do/2026/09/13/defensor-del-pueblo-y-ucne-acuerda-fortalecer-educacion-y-promocion-de-derechos-fundamentales/",
+      "url": "https://defensordelpueblo.gob.do/2026/09/13/defensor-del-pueblo-y-ucne-acuerda-fortalecer-educacion-y-promocion-de-derechos-fundamentales/",
+      "title": "Defensor del Pueblo y UCNE acuerda fortalecer educación y promoción de derechos fundamentales",
+      "summary": "Defensor del Pueblo de la República Dominicana (República Dominicana)",
+      "date_published": "2026-09-13T00:00:00",
+      "tags": [
+        "República Dominicana",
+        "Caribe",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:2994549368248934756",
       "url": "",
       "title": "Mutirão, previsto para este sábado (12/9), não acontecerá em razão das condições climáticas adversas na região",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -95,6 +119,18 @@
       "date_published": "2026-09-11T00:00:00",
       "tags": [
         "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32994-Defensoria-Publica-promove-encontro-para-debater-Politica-Antimanicomial",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32994-Defensoria-Publica-promove-encontro-para-debater-Politica-Antimanicomial",
+      "title": "Defensoria Pública promove encontro para debater Política Antimanicomial",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-09-11T00:00:00",
+      "tags": [
+        "Brasil",
         "Sudamérica",
         "noticias"
       ]
@@ -203,18 +239,6 @@
       "date_published": "2026-09-11T00:00:00",
       "tags": [
         "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:6711372048690397722",
-      "url": "",
-      "title": "Noticias 11 de septiembre de 2026 Defensoría del Pueblo estuvo en Alto Paraná con Ciudad Mujer Móvil La Defensoría del Pueblo, a través de su Delegaci",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-09-11T00:00:00",
-      "tags": [
-        "Paraguay",
         "Sudamérica",
         "noticias"
       ]
@@ -496,7 +520,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5695713583955997646",
+      "id": "urn:defensorias:-1777535423659894637",
       "url": "",
       "title": "CIDH concede audiencia solicitada por la Defensoría de la Niñez ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -527,30 +551,6 @@
       "date_published": "2026-09-10T00:00:00",
       "tags": [
         "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-3983758801807492852",
-      "url": "",
-      "title": "Noticias 10 de septiembre de 2026 La CIDH y la Defensoría exploran nuevas oportunidades de capacitación Fortalecer las capacidades del equipo técnico",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-09-10T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:999700587838958295",
-      "url": "",
-      "title": "Noticias 10 de septiembre de 2026 Defensoría del Pueblo fortalece la formación de sus servidores en jornadas de capacitación La Defensoría del Pueblo",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-09-10T00:00:00",
-      "tags": [
-        "Paraguay",
         "Sudamérica",
         "noticias"
       ]
@@ -700,7 +700,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:13059375483511411",
+      "id": "urn:defensorias:-5933268716319248221",
       "url": "",
       "title": "Actualización de indicadores de la Defensoría de la Niñez: 17 ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -712,7 +712,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4131790806116837598",
+      "id": "urn:defensorias:-4383411443325800308",
       "url": "",
       "title": "La Tercera | Tras caso de niños haitianos: Defensor de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -743,30 +743,6 @@
       "date_published": "2026-09-09T00:00:00",
       "tags": [
         "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:3707541307125142453",
-      "url": "",
-      "title": "Noticias 9 de septiembre de 2026 Defensoría del Pueblo y el INE avanzan en un sistema de datos para fortalecer la protección de DDHH Nuestra instituci",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-09-09T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:2408293854071467906",
-      "url": "",
-      "title": "Noticias 9 de septiembre de 2026 Defensoría del Pueblo promovió 1.438 amparos para garantizar el acceso a medicamentos Entre mayo de 2025 y agosto de",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-09-09T00:00:00",
-      "tags": [
-        "Paraguay",
         "Sudamérica",
         "noticias"
       ]
@@ -880,7 +856,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1604752596231232625",
+      "id": "urn:defensorias:-4142386701442794908",
       "url": "",
       "title": "Justiça reconhece falha da Enel durante apagão e afirma que ciclone não afasta responsabilidade da concessionária",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -892,7 +868,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3622338758528276249",
+      "id": "urn:defensorias:7520434345478561764",
       "url": "",
       "title": "TJ-SP aumenta em 200% indenização a adolescente vítima de negligência em serviço de acolhimento institucional de Ribeirão Preto após ação da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1012,18 +988,6 @@
       ]
     },
     {
-      "id": "urn:defensorias:396172459847774174",
-      "url": "",
-      "title": "Noticias 8 de septiembre de 2026 Acompañamos a 76 familias indígenas de la Comunidad Tarumandymi Llegamos hasta la Comunidad Mbya Guaraní Tarumandymi",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-09-08T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.defensoria.gob.pe/el-programa-de-pueblos-indigenas-de-la-defensoria-del-pueblo-participo-en-la-feria-llapanchikpaq-justicia-2026/",
       "url": "https://www.defensoria.gob.pe/el-programa-de-pueblos-indigenas-de-la-defensoria-del-pueblo-participo-en-la-feria-llapanchikpaq-justicia-2026/",
       "title": "El Programa de Pueblos Indígenas de la Defensoría del Pueblo participó en la feria “Llapanchikpaq Justicia 2026”",
@@ -1108,7 +1072,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7566131162295571952",
+      "id": "urn:defensorias:-1250137231867902251",
       "url": "",
       "title": "Radio Duna | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -1127,18 +1091,6 @@
       "date_published": "2026-09-07T00:00:00",
       "tags": [
         "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:5959531613509472156",
-      "url": "",
-      "title": "Noticias 7 de septiembre de 2026 Defensoría del Pueblo y CODENI coordinaron acciones en favor de niños en Santa Rosa del Aguaray A partir de una situa",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-09-07T00:00:00",
-      "tags": [
-        "Paraguay",
         "Sudamérica",
         "noticias"
       ]
@@ -1199,6 +1151,54 @@
       "date_published": "2026-09-05T00:00:00",
       "tags": [
         "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/09/05/defensoria-do-amazonas-apresenta-uso-da-tecnologia-para-ampliar-atendimento-juridico-no-interior-na-expojud-latam-2026/",
+      "url": "https://defensoria.am.def.br/2026/09/05/defensoria-do-amazonas-apresenta-uso-da-tecnologia-para-ampliar-atendimento-juridico-no-interior-na-expojud-latam-2026/",
+      "title": "Defensoria apresenta uso da tecnologia para ampliar atendimento jurídico na ExpoJud Latam",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-09-05T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/09/05/dia-da-amazonia-em-meio-aos-efeitos-do-super-el-nino-estudantes-da-capital-e-do-interior-do-amazonas-participam-de-projeto-de-educacao-ambiental/",
+      "url": "https://defensoria.am.def.br/2026/09/05/dia-da-amazonia-em-meio-aos-efeitos-do-super-el-nino-estudantes-da-capital-e-do-interior-do-amazonas-participam-de-projeto-de-educacao-ambiental/",
+      "title": "Dia da Amazônia: Em meio aos efeitos do Super El Niño, estudantes da capital e do interior do Amazonas participam de projeto de educação ambiental",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-09-05T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/dia-internacional-de-la-mujer-indigena-defensoria-del-pueblo-reafirma-su-compromiso-con-la-proteccion-de-sus-derechos/",
+      "url": "https://www.defensoria.gob.pe/dia-internacional-de-la-mujer-indigena-defensoria-del-pueblo-reafirma-su-compromiso-con-la-proteccion-de-sus-derechos/",
+      "title": "Día Internacional de la Mujer Indígena: Defensoría del Pueblo reafirma su compromiso con la protección de sus derechos",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-09-05T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/ucayali-defensoria-del-pueblo-supervisa-capacidad-de-respuesta-de-gobiernos-locales-ante-incremento-de-incendios-forestales/",
+      "url": "https://www.defensoria.gob.pe/ucayali-defensoria-del-pueblo-supervisa-capacidad-de-respuesta-de-gobiernos-locales-ante-incremento-de-incendios-forestales/",
+      "title": "Ucayali: Defensoría del Pueblo supervisa capacidad de respuesta de gobiernos locales ante incremento de incendios forestales",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-09-05T00:00:00",
+      "tags": [
+        "Perú",
         "Sudamérica",
         "noticias"
       ]

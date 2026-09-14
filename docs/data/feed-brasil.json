@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/mdhc-participa-de-reuniao-sobre-o-caso-fabrica-de-fogos-em-salvador-ba",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/mdhc-participa-de-reuniao-sobre-o-caso-fabrica-de-fogos-em-salvador-ba",
+      "title": "MDHC participa de reunião sobre o Caso Fábrica de Fogos em Salvador (BA)",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-09-14T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.al.def.br/index.php/noticias/escala-de-plantao-civel-e-criminal-12-e-13-09-2026",
       "url": "https://defensoria.al.def.br/index.php/noticias/escala-de-plantao-civel-e-criminal-12-e-13-09-2026",
       "title": "Escala de Plantão Cível e Criminal - 12 e 13.09.2026",
@@ -16,7 +28,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3992501962891609276",
+      "id": "urn:defensorias:2994549368248934756",
       "url": "",
       "title": "Mutirão, previsto para este sábado (12/9), não acontecerá em razão das condições climáticas adversas na região",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -57,6 +69,18 @@
       "title": "Defensoria contribui para políticas de enfrentamento à violência contra mulheres indígenas",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-09-12T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/32994-Defensoria-Publica-promove-encontro-para-debater-Politica-Antimanicomial",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/32994-Defensoria-Publica-promove-encontro-para-debater-Politica-Antimanicomial",
+      "title": "Defensoria Pública promove encontro para debater Política Antimanicomial",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-09-11T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",
@@ -400,7 +424,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1604752596231232625",
+      "id": "urn:defensorias:-4142386701442794908",
       "url": "",
       "title": "Justiça reconhece falha da Enel durante apagão e afirma que ciclone não afasta responsabilidade da concessionária",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -412,7 +436,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3622338758528276249",
+      "id": "urn:defensorias:7520434345478561764",
       "url": "",
       "title": "TJ-SP aumenta em 200% indenização a adolescente vítima de negligência em serviço de acolhimento institucional de Ribeirão Preto após ação da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -568,7 +592,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4310826026674238417",
+      "id": "urn:defensorias:2645692959765273905",
       "url": "",
       "title": "Praia Grande recebe mutirão #DáPraResolver da Defensoria Pública no dia 12 de setembro",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -595,18 +619,6 @@
       "id": "https://defensoria.rj.def.br/noticia/detalhes/32960-DPRJ-obtem-concessao-provisoria-de-aluguel-social-a-familias-de-Parque-Vila-Nova-em-Duque-de-Caxias",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/32960-DPRJ-obtem-concessao-provisoria-de-aluguel-social-a-familias-de-Parque-Vila-Nova-em-Duque-de-Caxias",
       "title": "DPRJ obtém concessão provisória de aluguel social a famílias de Parque Vila Nova, em Duque de Caxias",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-09-04T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/32965-Defensoria-promove-encontro-sobre-religioes-de-matriz-africana-e-acesso-a-Justica",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/32965-Defensoria-promove-encontro-sobre-religioes-de-matriz-africana-e-acesso-a-Justica",
-      "title": "Defensoria promove encontro sobre religiões de matriz africana e acesso à Justiça",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-09-04T00:00:00",
       "tags": [
@@ -772,7 +784,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7280670829444304319",
+      "id": "urn:defensorias:6143702225360120243",
       "url": "",
       "title": "STJ absolve mãe em cárcere após atuação do Núcleo Especializado se Situação Carcerária da Defensoria de São Paulo (NESC)",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -844,19 +856,7 @@
       ]
     },
     {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voo-procedente-dos-estados-unidos-traz-93-brasileiros-repatriados-a-confins-mg",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voo-procedente-dos-estados-unidos-traz-93-brasileiros-repatriados-a-confins-mg",
-      "title": "Voo procedente dos Estados Unidos traz 93 brasileiros repatriados a Confins (MG)",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-08-27T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:6602679187490286988",
+      "id": "urn:defensorias:-7427712990721357104",
       "url": "",
       "title": "Escuta promovida pela Defensoria de SP e pela ActionAid leva relatos de comunidades brasileiras à ONU",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -868,7 +868,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-63027248589353016",
+      "id": "urn:defensorias:7312516227383518055",
       "url": "",
       "title": "Defensoria realiza sétima edição do #DáPraResolver em Ribeirão Preto com 135 atendimentos",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
