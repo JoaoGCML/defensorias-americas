@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Canadá</title>
   <id>urn:defensorias-americas:prensa:canada</id>
-  <updated>2026-09-14T13:43:28Z</updated>
+  <updated>2026-09-15T12:30:37Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Alberta Ombudsman Releases the 2025-2026 Annual Report, Detailing Another Record-Breaking Year of Complaints</title>
+    <id>https://www.ombudsman.ab.ca/alberta-ombudsman-releases-the-2025-2026-annual-report-detailing-another-record-breaking-year-of-complaints/</id>
+    <link href="https://www.ombudsman.ab.ca/alberta-ombudsman-releases-the-2025-2026-annual-report-detailing-another-record-breaking-year-of-complaints/" />
+    <updated>2026-09-01T00:00:00</updated>
+    <summary>Alberta Ombudsman (Canadá) — news</summary>
+  </entry>
   <entry>
     <title>Flooding Resource List</title>
     <id>https://ombudsman.sk.ca/app/uploads/2026/09/Flooding-Resource-List.pdf</id>
@@ -18,6 +25,13 @@
     <link href="https://ombudsman.sk.ca/news/2026/2026-09-01/public-interest-disclosure-commissioner-marks-15-years-of-whistleblower-legislation/" />
     <updated>2026-09-01T00:00:00</updated>
     <summary>Saskatchewan Ombudsman (Canadá) — news</summary>
+  </entry>
+  <entry>
+    <title>New report calls for improved emergency responses for First Nations</title>
+    <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/new-report-calls-improved-emergency-responses-first-nations</id>
+    <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/new-report-calls-improved-emergency-responses-first-nations" />
+    <updated>2026-08-24T00:00:00</updated>
+    <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
   </entry>
   <entry>
     <title>Ombudsman Saskatchewan announces new Accessibility and Inclusion Unit during Disability Pride Month</title>
