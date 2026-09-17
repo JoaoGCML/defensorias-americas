@@ -4,7 +4,31 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "urn:defensorias:2520683597889022019",
+      "id": "https://www.indh.cl/indh-la-araucania-oficio-16-personas-mayores/",
+      "url": "https://www.indh.cl/indh-la-araucania-oficio-16-personas-mayores/",
+      "title": "INDH La Araucanía ofició a Senama, Seremi de Salud y Municipalidad de Pitrufquén por muerte de 16 personas mayores en residencia",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-16T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-valparaiso-festival-ojo-de-pescado/",
+      "url": "https://www.indh.cl/indh-valparaiso-festival-ojo-de-pescado/",
+      "title": "INDH Valparaíso colaboró para que funciones del Festival Internacional de Cine Ojo de Pescado fueran accesibles para personas sordas",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-16T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-8527253038830281355",
       "url": "",
       "title": "Informe de Defensoría de la Niñez y UNICEF: 46% de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -40,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7342933239171044458",
+      "id": "urn:defensorias:-1967088236307265361",
       "url": "",
       "title": "24 Horas | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -52,7 +76,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2139652586516509453",
+      "id": "urn:defensorias:-8491624325758920851",
       "url": "",
       "title": "CNN Chile | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -112,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4114078269201411075",
+      "id": "urn:defensorias:1108234347983273906",
       "url": "",
       "title": "CIDH concede audiencia solicitada por la Defensoría de la Niñez ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -132,7 +156,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -144,11 +168,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:4674685882618943470",
+      "id": "urn:defensorias:-1446400624130121039",
       "url": "",
       "title": "Actualización de indicadores de la Defensoría de la Niñez: 17 ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5079951095003109371",
+      "id": "urn:defensorias:8472693995762992255",
       "url": "",
       "title": "La Tercera | Tras caso de niños haitianos: Defensor de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,19 +208,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-tarapaca-60-personas-seminario-trata-de-personas/",
-      "url": "https://www.indh.cl/indh-tarapaca-60-personas-seminario-trata-de-personas/",
-      "title": "Más de 60 personas participaron en seminario sobre trata de personas y trabajo forzoso organizado por INDH Tarapacá",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-09-09T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-3664014772286811409",
+      "id": "urn:defensorias:-5408285321846805037",
       "url": "",
       "title": "Radio Duna | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5482540347601623472",
+      "id": "urn:defensorias:7783413685405294293",
       "url": "",
       "title": "El Mercurio | «La protección no puede comenzar cuando ya...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4560450743858549079",
+      "id": "urn:defensorias:3133460725789861701",
       "url": "",
       "title": "Defensoría de la Niñez solicita que proyecto sobre instrumentalización de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2196766955842404765",
+      "id": "urn:defensorias:3154362455146279611",
       "url": "",
       "title": "Biobio.cl | La emergencia dejó de ser la excepción: en...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8434712307499300390",
+      "id": "urn:defensorias:-1263518058926387098",
       "url": "",
       "title": "Defensoría de la Niñez evalúa recuperación tras incendios en Biobío ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5344192469032167528",
+      "id": "urn:defensorias:-1273786226027477040",
       "url": "",
       "title": "Estudiantes de siete regiones co-diseñaron nueva Escuela de Liderazgo de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -268,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6733097675073886736",
+      "id": "urn:defensorias:-524177438621333418",
       "url": "",
       "title": "Radio Futuro | “Una tormenta perfecta”: la cruda advertencia del...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -280,7 +292,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1341412341700549979",
+      "id": "urn:defensorias:-2308204936954907835",
       "url": "",
       "title": "Radio San Joaquín | Concurso fotográfico en San Joaquín invita...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -292,7 +304,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6925549704003341837",
+      "id": "urn:defensorias:-8587501671062387303",
       "url": "",
       "title": "Defensoría de la Niñez denunció graves hechos que afectarían a ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -304,7 +316,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5097188538791520422",
+      "id": "urn:defensorias:-6843378449092241051",
       "url": "",
       "title": "La Tercera | Defensoría de la Niñez denuncia “graves hechos”...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -313,18 +325,6 @@
         "Chile",
         "Sudamérica",
         "prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-3725082623836637246",
-      "url": "",
-      "title": "Adolescentes de regiones protagonizan podcast de la Defensoría de la ...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-08-18T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
       ]
     }
   ]
