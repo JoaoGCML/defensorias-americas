@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Regional</title>
   <id>urn:defensorias-americas:prensa:regional</id>
-  <updated>2026-09-17T12:27:43Z</updated>
+  <updated>2026-09-18T12:07:03Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>RINDHCA participa en Taller Regional sobre la Protección de los Defensores de Derechos Humanos, en Coordinación  con la AECID y la Fundación Carolina en Santacruz de la Sierra, Bolivia</title>
+    <id>https://www.rindhca.org/rindhca-participa-en-taller-regional-sobre-la-proteccion-de-los-defensores-de-derechos-humanos-en-coordinacion-con-la-aecid-y-la-fundacion-carolina-en-santacruz-de-la-sierra-bolivia/</id>
+    <link href="https://www.rindhca.org/rindhca-participa-en-taller-regional-sobre-la-proteccion-de-los-defensores-de-derechos-humanos-en-coordinacion-con-la-aecid-y-la-fundacion-carolina-en-santacruz-de-la-sierra-bolivia/" />
+    <updated>2026-09-17T00:00:00</updated>
+    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
+  </entry>
   <entry>
     <title>194/26—CIDH solicita a Corte IDH medidas provisionales para nueve personas privadas de libertad en Nicaragua</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/194.asp&amp;utm_content=country-nic&amp;utm_term=class-mp</id>
@@ -20,9 +27,9 @@
     <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
   </entry>
   <entry>
-    <title>193/26—Joint Declaration on Protecting Freedoms of Peaceful Assembly and of Association Under Threat by Growing Securitization and Surveillance</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/193.asp&amp;utm_term=class-dc</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/193.asp&amp;utm_term=class-dc" />
+    <title>193/26—Protección de las libertades de reunión pacífica y de asociación amenazadas por la creciente securitización y vigilancia</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/193.asp&amp;utm_term=class-dc</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/193.asp&amp;utm_term=class-dc" />
     <updated>2026-09-15T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
@@ -158,12 +165,5 @@
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/178.asp&amp;utm_term=class-inst" />
     <updated>2026-08-27T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>RINDHCA y la Corte IDH profundizan en la protección de los derechos políticos de minorías y grupos en situación de vulnerabilidad</title>
-    <id>https://www.rindhca.org/rindhca-y-la-corte-idh-profundizan-en-la-proteccion-de-los-derechos-politicos-de-minorias-y-grupos-en-situacion-de-vulnerabilidad/</id>
-    <link href="https://www.rindhca.org/rindhca-y-la-corte-idh-profundizan-en-la-proteccion-de-los-derechos-politicos-de-minorias-y-grupos-en-situacion-de-vulnerabilidad/" />
-    <updated>2026-08-25T00:00:00</updated>
-    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
   </entry>
 </feed>

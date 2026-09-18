@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-09-17T12:27:43Z</updated>
+  <updated>2026-09-18T12:07:03Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensor del Pueblo demanda atender las causas estructurales de la conflictividad y garantizar los derechos humanos</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-demanda-atender-las-causas-estructurales-de-la-conflictividad-y-garantizar-los-derechos-humanos</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-demanda-atender-las-causas-estructurales-de-la-conflictividad-y-garantizar-los-derechos-humanos" />
+    <updated>2026-09-18T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo acompaña diálogo entre guardaparques y el Ministro de Producción Sostenible, Medio Ambiente y Agua para garantizar estabilidad laboral</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-acompanya-dialogo-entre-guardaparques-y-el-ministro-de-produccion-sostenible,-medio-ambiente-y-agua-para-garantizar-estabilidad-laboral</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-coadyuva-en-la-reunificacion-familiar-de-adolescente-herido-en-la-explosion-de-viacha</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-coadyuva-en-la-reunificacion-familiar-de-adolescente-herido-en-la-explosion-de-viacha" />
     <updated>2026-09-09T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>DEFENSOR DEL PUEBLO: EL ESTADO DEBE RESPONDER CON VERDAD, JUSTICIA Y REPARACIÓN ANTE FALLECIDOS, HERIDOS Y AFECTADOS POR EXPLOSIONES EN VIACHA</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensor-del-puebloel-estado-debe-responder-con-verdad,-justicia-y-reparacion-ante-fallecidos,-heridos-y-afectados-por-explosiones-en-viacha</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-puebloel-estado-debe-responder-con-verdad,-justicia-y-reparacion-ante-fallecidos,-heridos-y-afectados-por-explosiones-en-viacha" />
-    <updated>2026-09-08T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>

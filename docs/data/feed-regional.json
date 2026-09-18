@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.rindhca.org/rindhca-participa-en-taller-regional-sobre-la-proteccion-de-los-defensores-de-derechos-humanos-en-coordinacion-con-la-aecid-y-la-fundacion-carolina-en-santacruz-de-la-sierra-bolivia/",
+      "url": "https://www.rindhca.org/rindhca-participa-en-taller-regional-sobre-la-proteccion-de-los-defensores-de-derechos-humanos-en-coordinacion-con-la-aecid-y-la-fundacion-carolina-en-santacruz-de-la-sierra-bolivia/",
+      "title": "RINDHCA participa en Taller Regional sobre la Protección de los Defensores de Derechos Humanos, en Coordinación  con la AECID y la Fundación Carolina en Santacruz de la Sierra, Bolivia",
+      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
+      "date_published": "2026-09-17T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/194.asp&utm_content=country-nic&utm_term=class-mp",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/194.asp&utm_content=country-nic&utm_term=class-mp",
       "title": "194/26—CIDH solicita a Corte IDH medidas provisionales para nueve personas privadas de libertad en Nicaragua",
@@ -28,9 +40,9 @@
       ]
     },
     {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/193.asp&utm_term=class-dc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/193.asp&utm_term=class-dc",
-      "title": "193/26—Joint Declaration on Protecting Freedoms of Peaceful Assembly and of Association Under Threat by Growing Securitization and Surveillance",
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/193.asp&utm_term=class-dc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/193.asp&utm_term=class-dc",
+      "title": "193/26—Protección de las libertades de reunión pacífica y de asociación amenazadas por la creciente securitización y vigilancia",
       "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
       "date_published": "2026-09-15T00:00:00",
       "tags": [
@@ -265,18 +277,6 @@
         "Regional",
         "Américas",
         "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.rindhca.org/rindhca-y-la-corte-idh-profundizan-en-la-proteccion-de-los-derechos-politicos-de-minorias-y-grupos-en-situacion-de-vulnerabilidad/",
-      "url": "https://www.rindhca.org/rindhca-y-la-corte-idh-profundizan-en-la-proteccion-de-los-derechos-politicos-de-minorias-y-grupos-en-situacion-de-vulnerabilidad/",
-      "title": "RINDHCA y la Corte IDH profundizan en la protección de los derechos políticos de minorías y grupos en situación de vulnerabilidad",
-      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
-      "date_published": "2026-08-25T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "noticias"
       ]
     }
   ]
