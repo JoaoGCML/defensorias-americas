@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Norteamérica</title>
   <id>urn:defensorias-americas:prensa:norteamerica</id>
-  <updated>2026-09-18T12:07:03Z</updated>
+  <updated>2026-09-19T11:49:33Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-norteamerica.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Pay equity builds a stronger Canada</title>
+    <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/pay-equity-builds-stronger-canada</id>
+    <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/pay-equity-builds-stronger-canada" />
+    <updated>2026-09-18T00:00:00</updated>
+    <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
+  </entry>
   <entry>
     <title>Alberta Ombudsman Releases the 2025-2026 Annual Report, Detailing Another Record-Breaking Year of Complaints</title>
     <id>https://www.ombudsman.ab.ca/alberta-ombudsman-releases-the-2025-2026-annual-report-detailing-another-record-breaking-year-of-complaints/</id>
@@ -32,12 +39,5 @@
     <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/new-report-calls-improved-emergency-responses-first-nations" />
     <updated>2026-08-24T00:00:00</updated>
     <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
-  </entry>
-  <entry>
-    <title>Ombudsman Saskatchewan announces new Accessibility and Inclusion Unit during Disability Pride Month</title>
-    <id>https://ombudsman.sk.ca/news/2026/2026-08-20/ombudsman-saskatchewan-announces-new-accessibility-and-inclusion-unit-during-disability-pride-month/</id>
-    <link href="https://ombudsman.sk.ca/news/2026/2026-08-20/ombudsman-saskatchewan-announces-new-accessibility-and-inclusion-unit-during-disability-pride-month/" />
-    <updated>2026-08-20T00:00:00</updated>
-    <summary>Saskatchewan Ombudsman (Canadá) — news</summary>
   </entry>
 </feed>

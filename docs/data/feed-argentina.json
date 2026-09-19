@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-argentina.json",
   "items": [
     {
+      "id": "https://www.mpd.gov.ar/index.php/noticias-h/acto-inaugural-por-la-entrada-en-vigencia-del-sistema-acusatorio-en-la-jurisdiccion-de-la-plata",
+      "url": "https://www.mpd.gov.ar/index.php/noticias-h/acto-inaugural-por-la-entrada-en-vigencia-del-sistema-acusatorio-en-la-jurisdiccion-de-la-plata",
+      "title": "ACTO INAUGURAL POR LA ENTRADA EN VIGENCIA DEL SISTEMA ACUSATORIO EN LA JURISDICCIÓN DE LA PLATA",
+      "summary": "Defensoría General de la Nación (Argentina)",
+      "date_published": "2026-09-18T00:00:00",
+      "tags": [
+        "Argentina",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.mpd.gov.ar/index.php/noticias-h/nuevas-dependencias-especializadas-para-la-implementacion-del-regimen-penal-juvenil",
       "url": "https://www.mpd.gov.ar/index.php/noticias-h/nuevas-dependencias-especializadas-para-la-implementacion-del-regimen-penal-juvenil",
       "title": "NUEVAS DEPENDENCIAS ESPECIALIZADAS PARA LA IMPLEMENTACIÓN DEL RÉGIMEN PENAL JUVENIL",
@@ -21,18 +33,6 @@
       "title": "EL DEFENSOR GENERAL DE LA NACIÓN MANTUVO UNA REUNIÓN DE TRABAJO CON LA UIRPJ Y LAS NUEVAS UNIDADES DE DEFENSA CREADAS POR LA LEY 27.801",
       "summary": "Defensoría General de la Nación (Argentina)",
       "date_published": "2026-09-07T00:00:00",
-      "tags": [
-        "Argentina",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-crea-una-unidad-para-coordinar-la-implementacion-del-nuevo-regimen-penal-juvenil",
-      "url": "https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-crea-una-unidad-para-coordinar-la-implementacion-del-nuevo-regimen-penal-juvenil",
-      "title": "EL MPD CREA UNA UNIDAD PARA COORDINAR LA IMPLEMENTACIÓN DEL NUEVO RÉGIMEN PENAL JUVENIL",
-      "summary": "Defensoría General de la Nación (Argentina)",
-      "date_published": "2026-09-02T00:00:00",
       "tags": [
         "Argentina",
         "Sudamérica",

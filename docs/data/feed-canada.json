@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.json",
   "items": [
     {
+      "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/pay-equity-builds-stronger-canada",
+      "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/pay-equity-builds-stronger-canada",
+      "title": "Pay equity builds a stronger Canada",
+      "summary": "Canadian Human Rights Commission (Canadá)",
+      "date_published": "2026-09-18T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "newsroom"
+      ]
+    },
+    {
       "id": "https://www.ombudsman.ab.ca/alberta-ombudsman-releases-the-2025-2026-annual-report-detailing-another-record-breaking-year-of-complaints/",
       "url": "https://www.ombudsman.ab.ca/alberta-ombudsman-releases-the-2025-2026-annual-report-detailing-another-record-breaking-year-of-complaints/",
       "title": "Alberta Ombudsman Releases the 2025-2026 Annual Report, Detailing Another Record-Breaking Year of Complaints",
@@ -49,18 +61,6 @@
         "Canadá",
         "Norteamérica",
         "newsroom"
-      ]
-    },
-    {
-      "id": "https://ombudsman.sk.ca/news/2026/2026-08-20/ombudsman-saskatchewan-announces-new-accessibility-and-inclusion-unit-during-disability-pride-month/",
-      "url": "https://ombudsman.sk.ca/news/2026/2026-08-20/ombudsman-saskatchewan-announces-new-accessibility-and-inclusion-unit-during-disability-pride-month/",
-      "title": "Ombudsman Saskatchewan announces new Accessibility and Inclusion Unit during Disability Pride Month",
-      "summary": "Saskatchewan Ombudsman (Canadá)",
-      "date_published": "2026-08-20T00:00:00",
-      "tags": [
-        "Canadá",
-        "Norteamérica",
-        "news"
       ]
     }
   ]
