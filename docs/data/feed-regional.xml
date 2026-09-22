@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Regional</title>
   <id>urn:defensorias-americas:prensa:regional</id>
-  <updated>2026-09-21T13:42:18Z</updated>
+  <updated>2026-09-22T12:25:19Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
-    <title>195/26—IACHR urges the United States to refrain from applying the death penalty against Christa Pike, beneficiary of precautionary measures</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/195.asp&amp;utm_content=country-usa</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/en/iachr/media_center/PReleases/2026/195.asp&amp;utm_content=country-usa" />
+    <title>196/26—CIDH anuncia cinco finalistas para la ronda de entrevistas del concurso para titular de la RELE</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/196.asp&amp;utm_term=class-inst</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/196.asp&amp;utm_term=class-inst" />
+    <updated>2026-09-21T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
+  <entry>
+    <title>195/26—CIDH insta a Estados Unidos a no aplicar la pena de muerte a la beneficiaria de medidas cautelares Christa Pike</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/195.asp&amp;utm_content=country-usa</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/195.asp&amp;utm_content=country-usa" />
     <updated>2026-09-18T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
@@ -150,13 +157,6 @@
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/181.asp&amp;utm_content=country-ecu&amp;utm_term=class-mon</id>
     <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/181.asp&amp;utm_content=country-ecu&amp;utm_term=class-mon" />
     <updated>2026-08-31T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>180/26—CIDH invita a participar en consulta pública sobre el fortalecimiento de la gestión de casos en etapa de transición</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/180.asp&amp;utm_term=class-cpub</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/180.asp&amp;utm_term=class-cpub" />
-    <updated>2026-08-28T00:00:00</updated>
     <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
 </feed>
