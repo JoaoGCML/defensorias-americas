@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Argentina</title>
   <id>urn:defensorias-americas:prensa:argentina</id>
-  <updated>2026-09-22T12:25:19Z</updated>
+  <updated>2026-09-23T12:36:50Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-argentina.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>EL MPD Y EL MPF AVANZAN EN LA INTEGRACIÓN DE SUS SISTEMAS INFORMÁTICOS PARA FORTALECER EL SISTEMA ACUSATORIO</title>
+    <id>https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-y-el-mpf-avanzan-en-la-integracion-de-sus-sistemas-informaticos-para-fortalecer-el-sistema-acusatorio</id>
+    <link href="https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-y-el-mpf-avanzan-en-la-integracion-de-sus-sistemas-informaticos-para-fortalecer-el-sistema-acusatorio" />
+    <updated>2026-09-22T00:00:00</updated>
+    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
+  </entry>
   <entry>
     <title>HOY COMIENZA A REGIR EL CPPF EN LA JURISDICCIÓN DE LA PLATA</title>
     <id>https://www.mpd.gov.ar/index.php/noticias-h/hoy-comienza-a-regir-el-cppf-en-la-jurisdiccion-de-la-plata</id>
@@ -17,13 +24,6 @@
     <id>https://www.mpd.gov.ar/index.php/noticias-h/acto-inaugural-por-la-entrada-en-vigencia-del-sistema-acusatorio-en-la-jurisdiccion-de-la-plata</id>
     <link href="https://www.mpd.gov.ar/index.php/noticias-h/acto-inaugural-por-la-entrada-en-vigencia-del-sistema-acusatorio-en-la-jurisdiccion-de-la-plata" />
     <updated>2026-09-18T00:00:00</updated>
-    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
-  </entry>
-  <entry>
-    <title>NUEVAS DEPENDENCIAS ESPECIALIZADAS PARA LA IMPLEMENTACIÓN DEL RÉGIMEN PENAL JUVENIL</title>
-    <id>https://www.mpd.gov.ar/index.php/noticias-h/nuevas-dependencias-especializadas-para-la-implementacion-del-regimen-penal-juvenil</id>
-    <link href="https://www.mpd.gov.ar/index.php/noticias-h/nuevas-dependencias-especializadas-para-la-implementacion-del-regimen-penal-juvenil" />
-    <updated>2026-09-10T00:00:00</updated>
     <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
   </entry>
 </feed>

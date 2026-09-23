@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.json",
   "items": [
     {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-cidh-fortalecen-cooperacion-derechos-humanos",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-cidh-fortalecen-cooperacion-derechos-humanos",
+      "title": "La INDDHH y la CIDH fortalecen la cooperación en derechos humanos",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-09-21T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/autoridades-departamentales-todo-pais-participaron-ii-encuentro-nacional",
       "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/autoridades-departamentales-todo-pais-participaron-ii-encuentro-nacional",
       "title": "Autoridades departamentales de todo el país participaron en el II Encuentro Nacional sobre Derechos Humanos",
@@ -33,6 +45,30 @@
       "title": "Cuidados paliativos y educación: la articulación interinstitucional avanza con una instancia de formación",
       "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
       "date_published": "2026-09-14T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/se-realizaron-conversatorios-treinta-tres-sobre-derechos-poblacion",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/se-realizaron-conversatorios-treinta-tres-sobre-derechos-poblacion",
+      "title": "Se realizaron conversatorios en Treinta y Tres sobre los derechos de la población con discapacidad",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-09-09T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/ha-sido-sueno-se-presento-rocha",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/ha-sido-sueno-se-presento-rocha",
+      "title": "“Ha sido un sueño” se presentó en Rocha",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-09-09T00:00:00",
       "tags": [
         "Uruguay",
         "Sudamérica",

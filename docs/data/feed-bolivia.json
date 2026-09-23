@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/conversatorios-en-democraciadefensor-del-pueblo-plantea-que-los-ajustes-economicos-incluyan-medidas-de-proteccion-a-poblaciones-vulnerables",
+      "url": "https://www.defensoria.gob.bo/noticias/conversatorios-en-democraciadefensor-del-pueblo-plantea-que-los-ajustes-economicos-incluyan-medidas-de-proteccion-a-poblaciones-vulnerables",
+      "title": "Conversatorios en Democracia: Defensor del Pueblo plantea que los ajustes económicos incluyan medidas de protección a poblaciones vulnerables",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-09-23T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/eliminacion-de-la-subvencion-del-dieseldefensoria-del-pueblo-alerta-sobre-afectacion-a-derechos-y-emite-recomendaciones-al-gobierno",
       "url": "https://www.defensoria.gob.bo/noticias/eliminacion-de-la-subvencion-del-dieseldefensoria-del-pueblo-alerta-sobre-afectacion-a-derechos-y-emite-recomendaciones-al-gobierno",
       "title": "ELIMINACIÓN DE LA SUBVENCIÓN DEL DIÉSEL: DEFENSORÍA DEL PUEBLO ALERTA SOBRE AFECTACIÓN A DERECHOS Y EMITE RECOMENDACIONES AL GOBIERNO",
@@ -103,18 +115,6 @@
       "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-denuncia-obstaculizacion-de-su-labor-preventiva-e-intento-de-desalojo-por-efectivos-militares-en-viacha",
       "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-denuncia-obstaculizacion-de-su-labor-preventiva-e-intento-de-desalojo-por-efectivos-militares-en-viacha",
       "title": "PRONUNCIAMIENTO DEFENSORÍA DEL PUEBLO DENUNCIA OBSTACULIZACIÓN DE SU LABOR PREVENTIVA E INTENTO DE DESALOJO POR EFECTIVOS MILITARES EN VIACHA",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-09-14T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-insta-a-mantener-vigilancia-permanente-y-actuar-oportunamente-ante-la-temporada-critica-de-incendios-forestales",
-      "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-insta-a-mantener-vigilancia-permanente-y-actuar-oportunamente-ante-la-temporada-critica-de-incendios-forestales",
-      "title": "PRONUNCIAMIENTO Defensoría del Pueblo insta a mantener vigilancia permanente y actuar oportunamente ante la temporada crítica de incendios forestales",
       "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
       "date_published": "2026-09-14T00:00:00",
       "tags": [

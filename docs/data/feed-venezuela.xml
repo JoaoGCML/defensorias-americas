@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-09-22T12:25:19Z</updated>
+  <updated>2026-09-23T12:36:50Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo amplía espacios de interlocución con organizaciones de derechos humanos</title>
+    <id>http://www.defensoria.gob.ve/?p=20748</id>
+    <link href="http://www.defensoria.gob.ve/?p=20748" />
+    <updated>2026-09-22T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Defensoría del Pueblo articula protección y atención integral a usuarios en el Terminal La Bandera</title>
+    <id>http://www.defensoria.gob.ve/?p=20749</id>
+    <link href="http://www.defensoria.gob.ve/?p=20749" />
+    <updated>2026-09-22T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo acompañará a familiares de jóvenes desaparecidos y revisará cada caso</title>
     <id>http://www.defensoria.gob.ve/?p=20728</id>
@@ -24,20 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=20715</id>
     <link href="http://www.defensoria.gob.ve/?p=20715" />
     <updated>2026-09-14T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Eglée González Lobato impulsa la visión de género y los derechos indígenas en la reforma de la justicia penal</title>
-    <id>http://www.defensoria.gob.ve/?p=20708</id>
-    <link href="http://www.defensoria.gob.ve/?p=20708" />
-    <updated>2026-09-12T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo y ACNUR realizaron formación especializada para reforzar la protección de personas refugiadas y solicitantes de asilo</title>
-    <id>http://www.defensoria.gob.ve/?p=20657</id>
-    <link href="http://www.defensoria.gob.ve/?p=20657" />
-    <updated>2026-09-10T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>
