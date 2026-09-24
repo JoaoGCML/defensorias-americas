@@ -2,24 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-09-23T12:36:50Z</updated>
+  <updated>2026-09-24T12:35:44Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
+    <title>INDH de Valparaíso finalizó Escuela de Formación para Dirigentes Jóvenes con la participación de más de 30 representantes de organizaciones de la región</title>
+    <id>https://www.indh.cl/indh-valparaiso-escuela-formacion-dirigentes/</id>
+    <link href="https://www.indh.cl/indh-valparaiso-escuela-formacion-dirigentes/" />
+    <updated>2026-09-23T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>INDH de La Araucanía presentó recurso para evitar cierre de escuelas rurales que afecta a más de 25 niñas y niños en Temuco</title>
+    <id>https://www.indh.cl/indh-araucania-recurso-cierre-escuelas/</id>
+    <link href="https://www.indh.cl/indh-araucania-recurso-cierre-escuelas/" />
+    <updated>2026-09-23T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
     <title>La Tercera | La Niñez en la balanza del ajuste...</title>
-    <id>urn:defensorias-americas:-2516203801351831201</id>
+    <id>urn:defensorias-americas:-7967663737096969050</id>
     <updated>2026-09-19T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Biobio.cl | La niñez en la balanza del ajuste fiscal:...</title>
-    <id>urn:defensorias-americas:5362405868897452050</id>
+    <id>urn:defensorias-americas:-8029989765720194749</id>
     <updated>2026-09-16T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>El Mostrador | La paradoja de la infancia: casi la...</title>
-    <id>urn:defensorias-americas:2795675511292343155</id>
+    <id>urn:defensorias-americas:-7811043740229984038</id>
     <updated>2026-09-16T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -39,7 +53,7 @@
   </entry>
   <entry>
     <title>Informe de Defensoría de la Niñez y UNICEF: 46% de ...</title>
-    <id>urn:defensorias-americas:5214953558808334952</id>
+    <id>urn:defensorias-americas:8061075162843138639</id>
     <updated>2026-09-15T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -59,13 +73,13 @@
   </entry>
   <entry>
     <title>24 Horas | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:3080993638158691681</id>
+    <id>urn:defensorias-americas:-3197869655279683047</id>
     <updated>2026-09-14T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>CNN Chile | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:-5182937768894783695</id>
+    <id>urn:defensorias-americas:2448967026001586287</id>
     <updated>2026-09-14T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -88,18 +102,11 @@
     <id>https://www.indh.cl/indh-tarapaca-obra-actos-conmemorativos/</id>
     <link href="https://www.indh.cl/indh-tarapaca-obra-actos-conmemorativos/" />
     <updated>2026-09-11T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Sede INDH RM conmemora el 11 de septiembre con exhibición gratuita del documental Habeas Corpus y actividades junto a organizaciones</title>
-    <id>https://www.indh.cl/indh-rm-conmemora-documental-habeas-corpus/</id>
-    <link href="https://www.indh.cl/indh-rm-conmemora-documental-habeas-corpus/" />
-    <updated>2026-09-11T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>CIDH concede audiencia solicitada por la Defensoría de la Niñez ...</title>
-    <id>urn:defensorias-americas:-7641637215174464729</id>
+    <id>urn:defensorias-americas:-1010195130631095576</id>
     <updated>2026-09-10T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -119,56 +126,49 @@
   </entry>
   <entry>
     <title>Actualización de indicadores de la Defensoría de la Niñez: 17 ...</title>
-    <id>urn:defensorias-americas:-1734895566609700724</id>
+    <id>urn:defensorias-americas:4648006817600552788</id>
     <updated>2026-09-09T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>La Tercera | Tras caso de niños haitianos: Defensor de...</title>
-    <id>urn:defensorias-americas:-7980346278193792224</id>
+    <id>urn:defensorias-americas:-7178701978037832240</id>
     <updated>2026-09-09T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
-    <title>INDH Maule impartió charlas y acompañó a 120 estudiantes del Liceo Luis Rutten de Talca que visitaron la ex Colonia Dignidad</title>
-    <id>https://www.indh.cl/indh-maule-120-ex-colonia-dignidad/</id>
-    <link href="https://www.indh.cl/indh-maule-120-ex-colonia-dignidad/" />
-    <updated>2026-09-09T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
     <title>Radio Duna | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:-8891722660045838917</id>
+    <id>urn:defensorias-americas:6121021178587031614</id>
     <updated>2026-09-07T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>El Mercurio | «La protección no puede comenzar cuando ya...</title>
-    <id>urn:defensorias-americas:5590905282807296604</id>
+    <id>urn:defensorias-americas:817843081225241347</id>
     <updated>2026-09-02T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Defensoría de la Niñez solicita que proyecto sobre instrumentalización de ...</title>
-    <id>urn:defensorias-americas:-1164713618586010570</id>
+    <id>urn:defensorias-americas:9122122002419990391</id>
     <updated>2026-09-01T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>Biobio.cl | La emergencia dejó de ser la excepción: en...</title>
-    <id>urn:defensorias-americas:-944367997131282594</id>
+    <id>urn:defensorias-americas:7243213277467896370</id>
     <updated>2026-08-30T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Defensoría de la Niñez evalúa recuperación tras incendios en Biobío ...</title>
-    <id>urn:defensorias-americas:8090642932269833928</id>
+    <id>urn:defensorias-americas:6045812427752392838</id>
     <updated>2026-08-28T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>Estudiantes de siete regiones co-diseñaron nueva Escuela de Liderazgo de ...</title>
-    <id>urn:defensorias-americas:9076544796139062635</id>
+    <id>urn:defensorias-americas:8780291530167214720</id>
     <updated>2026-08-28T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
