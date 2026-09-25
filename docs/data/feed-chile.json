@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-conversatorio-inteligencia-artificial/",
+      "url": "https://www.indh.cl/indh-conversatorio-inteligencia-artificial/",
+      "title": "Tecnologías y memoria: INDH realizó conversatorio sobre desafíos y oportunidades en el uso de inteligencia artificial en archivos de derechos humanos",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-25T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-valparaiso-escuela-formacion-dirigentes/",
       "url": "https://www.indh.cl/indh-valparaiso-escuela-formacion-dirigentes/",
       "title": "INDH de Valparaíso finalizó Escuela de Formación para Dirigentes Jóvenes con la participación de más de 30 representantes de organizaciones de la región",
@@ -28,7 +40,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7967663737096969050",
+      "id": "urn:defensorias:4565580483134103832",
       "url": "",
       "title": "La Tercera | La Niñez en la balanza del ajuste...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -40,7 +52,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8029989765720194749",
+      "id": "urn:defensorias:3624078545117999568",
       "url": "",
       "title": "Biobio.cl | La niñez en la balanza del ajuste fiscal:...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -52,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7811043740229984038",
+      "id": "urn:defensorias:-5867082702764248104",
       "url": "",
       "title": "El Mostrador | La paradoja de la infancia: casi la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -88,7 +100,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8061075162843138639",
+      "id": "urn:defensorias:-1051289116496084568",
       "url": "",
       "title": "Informe de Defensoría de la Niñez y UNICEF: 46% de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -124,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3197869655279683047",
+      "id": "urn:defensorias:-5895966816953976905",
       "url": "",
       "title": "24 Horas | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -136,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2448967026001586287",
+      "id": "urn:defensorias:5510418296875499336",
       "url": "",
       "title": "CNN Chile | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -168,7 +180,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -184,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1010195130631095576",
+      "id": "urn:defensorias:-8950606125101194362",
       "url": "",
       "title": "CIDH concede audiencia solicitada por la Defensoría de la Niñez ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4648006817600552788",
+      "id": "urn:defensorias:106504872726887883",
       "url": "",
       "title": "Actualización de indicadores de la Defensoría de la Niñez: 17 ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7178701978037832240",
+      "id": "urn:defensorias:6886503050284728552",
       "url": "",
       "title": "La Tercera | Tras caso de niños haitianos: Defensor de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6121021178587031614",
+      "id": "urn:defensorias:7960924565499369111",
       "url": "",
       "title": "Radio Duna | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:817843081225241347",
+      "id": "urn:defensorias:-3862363348666559095",
       "url": "",
       "title": "El Mercurio | «La protección no puede comenzar cuando ya...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -268,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:9122122002419990391",
+      "id": "urn:defensorias:22248527095473245",
       "url": "",
       "title": "Defensoría de la Niñez solicita que proyecto sobre instrumentalización de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -280,7 +292,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7243213277467896370",
+      "id": "urn:defensorias:5289699982437609812",
       "url": "",
       "title": "Biobio.cl | La emergencia dejó de ser la excepción: en...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -292,7 +304,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6045812427752392838",
+      "id": "urn:defensorias:7797290956016282003",
       "url": "",
       "title": "Defensoría de la Niñez evalúa recuperación tras incendios en Biobío ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -304,7 +316,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8780291530167214720",
+      "id": "urn:defensorias:5103083398340633610",
       "url": "",
       "title": "Estudiantes de siete regiones co-diseñaron nueva Escuela de Liderazgo de ...",
       "summary": "Defensoría de la Niñez (Chile)",

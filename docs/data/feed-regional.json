@@ -4,6 +4,66 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/201.asp&utm_content=country-cub&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/201.asp&utm_content=country-cub&utm_term=class-mc",
+      "title": "201/26—CIDH otorga medidas cautelares a favor de Panter Rodríguez Baró en Cuba",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-09-24T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/200.asp&utm_content=country-cri&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/200.asp&utm_content=country-cri&utm_term=class-mc",
+      "title": "200/26—CIDH otorga medidas cautelares diez personas nicaragüenses en Costa Rica",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-09-24T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/199.asp&utm_content=country-usa&utm_term=class-ifp",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/199.asp&utm_content=country-usa&utm_term=class-ifp",
+      "title": "199/26—CIDH publica el informe de fondo sobre la pena de muerte y las condiciones de detención de Christa Pike en Estados Unidos",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-09-24T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/198.asp&utm_content=country-nic&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/198.asp&utm_content=country-nic&utm_term=class-mc",
+      "title": "198/26—CIDH otorga medidas cautelares a Claudia Magaly Munguía Mayorga en Nicaragua",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-09-24T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/197.asp&utm_content=country-nic&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/197.asp&utm_content=country-nic&utm_term=class-mc",
+      "title": "197/26—CIDH otorga medidas cautelares a E.J.F.C. y sus hijas C.M.F. y M.M.F., en Nicaragua",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-09-24T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.rindhca.org/integrantes-del-grupo-de-trabajo-sobre-vejez-y-envejecimiento-de-la-rindhcha-participa-en-el-webinar-sobre-estrategias-de-cabildeo-de-experiencias-de-otros-paises-para-la-aprobacion-y-ratific/",
       "url": "https://www.rindhca.org/integrantes-del-grupo-de-trabajo-sobre-vejez-y-envejecimiento-de-la-rindhcha-participa-en-el-webinar-sobre-estrategias-de-cabildeo-de-experiencias-de-otros-paises-para-la-aprobacion-y-ratific/",
       "title": "Integrantes del Grupo de Trabajo sobre Vejez y Envejecimiento de la RINDHCHA participa en el Webinar sobre “Estrategias de cabildeo de experiencias de otros países para la aprobación y ratificación de la Convención Interamericana sobre la Protección de los Derechos Humanos de las Personas Mayores”",
@@ -25,6 +85,18 @@
         "Regional",
         "Américas",
         "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.rindhca.org/vacante-de-personal-rindhca-oficial-experto-en-derechos-humanos/",
+      "url": "https://www.rindhca.org/vacante-de-personal-rindhca-oficial-experto-en-derechos-humanos/",
+      "title": "Vacante de personal RINDHCA OFICIAL/Experto en Derechos Humanos",
+      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
+      "date_published": "2026-09-18T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "noticias"
       ]
     },
     {
@@ -184,83 +256,11 @@
       ]
     },
     {
-      "id": "https://www.rindhca.org/voces-que-resuenan-derechos-territorio-e-identidad-afrocostarricense-2/",
-      "url": "https://www.rindhca.org/voces-que-resuenan-derechos-territorio-e-identidad-afrocostarricense-2/",
-      "title": "Voces que Resuenan: Derechos, Territorio e Identidad Afrocostarricense",
-      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
-      "date_published": "2026-09-03T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/186.asp",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/186.asp",
       "title": "186/26—CIDH aprueba resolución con precisiones sobre el cómputo de plazos en sus procedimientos",
       "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
       "date_published": "2026-09-03T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/185.asp&utm_content=country-ven&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/185.asp&utm_content=country-ven&utm_term=class-corteidh",
-      "title": "185/26—CIDH presenta a Corte IDH caso sobre acceso a la justicia por reclamo de pensiones en Venezuela",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-09-03T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/184.asp&utm_content=country-gtm&utm_term=class-corteidh",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/184.asp&utm_content=country-gtm&utm_term=class-corteidh",
-      "title": "184/26—CIDH presenta a Corte IDH caso por falta de titulación de propiedad colectiva de comunidades maya achí en Guatemala",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-09-03T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/183.asp&utm_content=country-usa&utm_term=class-mc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/183.asp&utm_content=country-usa&utm_term=class-mc",
-      "title": "183/26—CIDH otorga medidas cautelares a Brittany Holberg, condenada a muerte en Estados Unidos",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-09-01T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/182.asp&utm_content=country-ven&utm_term=class-mc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/182.asp&utm_content=country-ven&utm_term=class-mc",
-      "title": "182/26—CIDH otorga medidas cautelares cinco personas privadas de libertad en Venezuela",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-09-01T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/181.asp&utm_content=country-ecu&utm_term=class-mon",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/181.asp&utm_content=country-ecu&utm_term=class-mon",
-      "title": "181/26—CIDH llama a Ecuador a garantizar la participación política plural en las elecciones seccionales",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-08-31T00:00:00",
       "tags": [
         "Regional",
         "Américas",

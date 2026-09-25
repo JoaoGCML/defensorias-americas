@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Canadá</title>
   <id>urn:defensorias-americas:prensa:canada</id>
-  <updated>2026-09-24T12:35:44Z</updated>
+  <updated>2026-09-25T12:36:38Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -18,5 +18,19 @@
     <link href="https://www.ombudsman.ab.ca/alberta-ombudsman-releases-the-2025-2026-annual-report-detailing-another-record-breaking-year-of-complaints/" />
     <updated>2026-09-01T00:00:00</updated>
     <summary>Alberta Ombudsman (Canadá) — news</summary>
+  </entry>
+  <entry>
+    <title>Flooding Resource List</title>
+    <id>https://ombudsman.sk.ca/app/uploads/2026/09/Flooding-Resource-List.pdf</id>
+    <link href="https://ombudsman.sk.ca/app/uploads/2026/09/Flooding-Resource-List.pdf" type="application/pdf" />
+    <updated>2026-09-01T00:00:00</updated>
+    <summary>Saskatchewan Ombudsman (Canadá) — news</summary>
+  </entry>
+  <entry>
+    <title>Public Interest Disclosure Commissioner Marks 15 Years of Whistleblower Legislation.</title>
+    <id>https://ombudsman.sk.ca/news/2026/2026-09-01/public-interest-disclosure-commissioner-marks-15-years-of-whistleblower-legislation/</id>
+    <link href="https://ombudsman.sk.ca/news/2026/2026-09-01/public-interest-disclosure-commissioner-marks-15-years-of-whistleblower-legislation/" />
+    <updated>2026-09-01T00:00:00</updated>
+    <summary>Saskatchewan Ombudsman (Canadá) — news</summary>
   </entry>
 </feed>
