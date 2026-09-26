@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Norteamérica</title>
   <id>urn:defensorias-americas:prensa:norteamerica</id>
-  <updated>2026-09-25T12:36:38Z</updated>
+  <updated>2026-09-26T12:05:59Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-norteamerica.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>We must confront antisemitism in Canada</title>
+    <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/we-must-confront-antisemitism-canada</id>
+    <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/we-must-confront-antisemitism-canada" />
+    <updated>2026-09-25T00:00:00</updated>
+    <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
+  </entry>
   <entry>
     <title>Pay equity builds a stronger Canada</title>
     <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/pay-equity-builds-stronger-canada</id>

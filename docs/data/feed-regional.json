@@ -4,6 +4,42 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.aidef.org/finalizaron-las-reuniones-estatutarias-y-asamblea-de-la-aidef/",
+      "url": "https://www.aidef.org/finalizaron-las-reuniones-estatutarias-y-asamblea-de-la-aidef/",
+      "title": "Finalizaron las reuniones estatutarias y Asamblea de la AIDEF",
+      "summary": "Asociación Interamericana de Defensorías Públicas (AIDEF) (Regional)",
+      "date_published": "2026-09-25T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/203.asp&utm_content=country-nic&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/203.asp&utm_content=country-nic&utm_term=class-mc",
+      "title": "203/26—CIDH otorga medidas cautelares a Kenthyn Aarón Téllez Madriz en Nicaragua",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-09-25T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/202.asp&utm_term=class-ef",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/202.asp&utm_term=class-ef",
+      "title": "202/26—CIDH llama a consolidar la educación inclusiva y el reconocimiento pleno de las lenguas de señas",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-09-25T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/201.asp&utm_content=country-cub&utm_term=class-mc",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/201.asp&utm_content=country-cub&utm_term=class-mc",
       "title": "201/26—CIDH otorga medidas cautelares a favor de Panter Rodríguez Baró en Cuba",
@@ -241,30 +277,6 @@
         "Regional",
         "Américas",
         "noticias"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/187.asp&utm_term=class-ef",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/187.asp&utm_term=class-ef",
-      "title": "187/26—CIDH insta a los Estados a proteger a mujeres, niñas y adolescentes indígenas frente al desplazamiento forzado",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-09-04T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/186.asp",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/186.asp",
-      "title": "186/26—CIDH aprueba resolución con precisiones sobre el cómputo de plazos en sus procedimientos",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-09-03T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
       ]
     }
   ]

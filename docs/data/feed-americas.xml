@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Américas</title>
   <id>urn:defensorias-americas:prensa:americas</id>
-  <updated>2026-09-25T12:36:38Z</updated>
+  <updated>2026-09-26T12:05:59Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-americas.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Finalizaron las reuniones estatutarias y Asamblea de la AIDEF</title>
+    <id>https://www.aidef.org/finalizaron-las-reuniones-estatutarias-y-asamblea-de-la-aidef/</id>
+    <link href="https://www.aidef.org/finalizaron-las-reuniones-estatutarias-y-asamblea-de-la-aidef/" />
+    <updated>2026-09-25T00:00:00</updated>
+    <summary>Asociación Interamericana de Defensorías Públicas (AIDEF) (Regional) — noticias</summary>
+  </entry>
+  <entry>
+    <title>203/26—CIDH otorga medidas cautelares a Kenthyn Aarón Téllez Madriz en Nicaragua</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/203.asp&amp;utm_content=country-nic&amp;utm_term=class-mc</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/203.asp&amp;utm_content=country-nic&amp;utm_term=class-mc" />
+    <updated>2026-09-25T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
+  <entry>
+    <title>202/26—CIDH llama a consolidar la educación inclusiva y el reconocimiento pleno de las lenguas de señas</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/202.asp&amp;utm_term=class-ef</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/202.asp&amp;utm_term=class-ef" />
+    <updated>2026-09-25T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>201/26—CIDH otorga medidas cautelares a favor de Panter Rodríguez Baró en Cuba</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/201.asp&amp;utm_content=country-cub&amp;utm_term=class-mc</id>
@@ -144,19 +165,5 @@
     <link href="https://www.rindhca.org/miembros-de-la-rindhca-en-coordinacion-con-ganhri-se-reunen-con-la-relatora-especial-de-la-onu-sobre-la-promocion-y-proteccion-de-los-derechos-humanos-en-el-contexto-del-cambio-climatico-sra-elisa/" />
     <updated>2026-09-08T00:00:00</updated>
     <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
-  </entry>
-  <entry>
-    <title>187/26—CIDH insta a los Estados a proteger a mujeres, niñas y adolescentes indígenas frente al desplazamiento forzado</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/187.asp&amp;utm_term=class-ef</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/187.asp&amp;utm_term=class-ef" />
-    <updated>2026-09-04T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
-  </entry>
-  <entry>
-    <title>186/26—CIDH aprueba resolución con precisiones sobre el cómputo de plazos en sus procedimientos</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/186.asp</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/186.asp" />
-    <updated>2026-09-03T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
 </feed>

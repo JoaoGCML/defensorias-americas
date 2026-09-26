@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.json",
   "items": [
     {
+      "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/we-must-confront-antisemitism-canada",
+      "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/we-must-confront-antisemitism-canada",
+      "title": "We must confront antisemitism in Canada",
+      "summary": "Canadian Human Rights Commission (Canadá)",
+      "date_published": "2026-09-25T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "newsroom"
+      ]
+    },
+    {
       "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/pay-equity-builds-stronger-canada",
       "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/pay-equity-builds-stronger-canada",
       "title": "Pay equity builds a stronger Canada",
