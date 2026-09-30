@@ -4,7 +4,55 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "urn:defensorias:2377630896822659324",
+      "id": "https://www.indh.cl/indh-los-rios-encuentro-alicia-lira/",
+      "url": "https://www.indh.cl/indh-los-rios-encuentro-alicia-lira/",
+      "title": "Memoria, justicia y democracia: INDH de Los Ríos realizó encuentro con Alicia Lira, Premio Nacional de Derechos Humanos 2026",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-valparaiso-sociedad-civil-personas-sordas/",
+      "url": "https://www.indh.cl/indh-valparaiso-sociedad-civil-personas-sordas/",
+      "title": "Junto a organizaciones de la sociedad civil, la sede del INDH de Valparaíso realizó seminario sobre los derechos de las personas sordas",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-antofagasta-recurso-san-pedro-atacama/",
+      "url": "https://www.indh.cl/indh-antofagasta-recurso-san-pedro-atacama/",
+      "title": "INDH Antofagasta interpuso recurso de protección por vecinas y vecinos de San Pedro de Atacama afectadas por derrames de aguas servidas y cortes de agua potable",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-memoria-con-derechos-francisco-sanchez/",
+      "url": "https://www.indh.cl/indh-memoria-con-derechos-francisco-sanchez/",
+      "title": "Francisco Sánchez, actor y dramaturgo, sobre teatro y memoria: “La historia no es piedra, no es bronce, está viva”",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-28T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-1061804784460005747",
       "url": "",
       "title": "T13 | Defensoría de la Niñez pedirá antecedentes por eliminación...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -64,19 +112,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-araucania-recurso-cierre-escuelas/",
-      "url": "https://www.indh.cl/indh-araucania-recurso-cierre-escuelas/",
-      "title": "INDH de La Araucanía presentó recurso para evitar cierre de escuelas rurales que afecta a más de 25 niñas y niños en Temuco",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-09-23T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-8812392747245336656",
+      "id": "urn:defensorias:7713716566603257093",
       "url": "",
       "title": "La Tercera | La Niñez en la balanza del ajuste...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -88,7 +124,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1241356592183119329",
+      "id": "urn:defensorias:-8093920122472720874",
       "url": "",
       "title": "Biobio.cl | La niñez en la balanza del ajuste fiscal:...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -100,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6903352751508612",
+      "id": "urn:defensorias:-1934049611676615522",
       "url": "",
       "title": "El Mostrador | La paradoja de la infancia: casi la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -112,18 +148,6 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-la-araucania-oficio-16-personas-mayores/",
-      "url": "https://www.indh.cl/indh-la-araucania-oficio-16-personas-mayores/",
-      "title": "INDH La Araucanía ofició a Senama, Seremi de Salud y Municipalidad de Pitrufquén por muerte de 16 personas mayores en residencia",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-09-16T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.indh.cl/indh-valparaiso-festival-ojo-de-pescado/",
       "url": "https://www.indh.cl/indh-valparaiso-festival-ojo-de-pescado/",
       "title": "INDH Valparaíso colaboró para que funciones del Festival Internacional de Cine Ojo de Pescado fueran accesibles para personas sordas",
@@ -132,11 +156,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:4262228690709974801",
+      "id": "urn:defensorias:-636634558323630513",
       "url": "",
       "title": "Informe de Defensoría de la Niñez y UNICEF: 46% de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -156,11 +180,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:-6849111341671515073",
+      "id": "urn:defensorias:-8015037038072722492",
       "url": "",
       "title": "24 Horas | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:9019111433558911298",
+      "id": "urn:defensorias:1084994473127543342",
       "url": "",
       "title": "CNN Chile | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,43 +208,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-maule-recorrido-memoria-53-golpe/",
-      "url": "https://www.indh.cl/indh-maule-recorrido-memoria-53-golpe/",
-      "title": "INDH Maule realizó recorrido por sitios de memoria junto a organizaciones de la sociedad civil en conmemoración de los 53 años del golpe de Estado",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-09-14T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-maule-conversatorio-ucm/",
-      "url": "https://www.indh.cl/indh-maule-conversatorio-ucm/",
-      "title": "Jefe de INDH Maule expuso en el conversatorio “A 53 años: reflexiones y memorias sobre el quiebre de la democracia”, organizado por estudiantes de la UC del Maule",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-09-11T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-tarapaca-obra-actos-conmemorativos/",
-      "url": "https://www.indh.cl/indh-tarapaca-obra-actos-conmemorativos/",
-      "title": "INDH de Tarapacá presentó la obra “La niña y el toro”, en el marco de los actos conmemorativos por el golpe de Estado de 1973",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-09-11T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:3166826778697532692",
+      "id": "urn:defensorias:4021109583203846186",
       "url": "",
       "title": "CIDH concede audiencia solicitada por la Defensoría de la Niñez ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6558850628861120989",
+      "id": "urn:defensorias:-7873142973716035790",
       "url": "",
       "title": "Actualización de indicadores de la Defensoría de la Niñez: 17 ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1643103175046410740",
+      "id": "urn:defensorias:232087499564361371",
       "url": "",
       "title": "La Tercera | Tras caso de niños haitianos: Defensor de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8592350941066415652",
+      "id": "urn:defensorias:-4693429318601326579",
       "url": "",
       "title": "Radio Duna | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -268,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5968848371872639528",
+      "id": "urn:defensorias:2657795866310420913",
       "url": "",
       "title": "El Mercurio | «La protección no puede comenzar cuando ya...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -280,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7014686755644972093",
+      "id": "urn:defensorias:555177848711688314",
       "url": "",
       "title": "Defensoría de la Niñez solicita que proyecto sobre instrumentalización de ...",
       "summary": "Defensoría de la Niñez (Chile)",

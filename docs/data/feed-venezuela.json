@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.json",
   "items": [
     {
+      "id": "http://www.defensoria.gob.ve/?p=20782",
+      "url": "http://www.defensoria.gob.ve/?p=20782",
+      "title": "Inauguran el primer Punto de Atención a Movilidad (PAM) en el terminal La Bandera de Caracas",
+      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Venezuela",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "http://www.defensoria.gob.ve/?p=20767",
       "url": "http://www.defensoria.gob.ve/?p=20767",
       "title": "Defensoría del Pueblo promueve el principio de juzgar en libertad y la presunción de inocencia durante la Consulta Nacional sobre la Reforma de la Justicia Penal en Cojedes",
@@ -45,18 +57,6 @@
       "title": "Defensoría del Pueblo acompañará a familiares de jóvenes desaparecidos y revisará cada caso",
       "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
       "date_published": "2026-09-15T00:00:00",
-      "tags": [
-        "Venezuela",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "http://www.defensoria.gob.ve/?p=20721",
-      "url": "http://www.defensoria.gob.ve/?p=20721",
-      "title": "Defensoría del Pueblo avanza en el fortalecimiento institucional y la reivindicación de derechos laborales de trabajadores activos y jubilados",
-      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
-      "date_published": "2026-09-14T00:00:00",
       "tags": [
         "Venezuela",
         "Sudamérica",
