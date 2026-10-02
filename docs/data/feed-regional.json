@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/210.asp&utm_content=country-ecu&utm_term=class-corteidh",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/210.asp&utm_content=country-ecu&utm_term=class-corteidh",
+      "title": "210/26—CIDH presenta caso ante la Corte IDH por violaciones en la investigación de la muerte de José Leonardo Abril Armijos en Ecuador",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-10-01T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/209.asp&utm_content=country-nic&utm_term=class-dc",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/209.asp&utm_content=country-nic&utm_term=class-dc",
       "title": "209/26—CIDH y GHREN sobre Nicaragua: Los derechos humanos son el fundamento de la democracia. Y la democracia es la condición indispensable para elecciones libres y justas",
@@ -241,18 +253,6 @@
         "Regional",
         "Américas",
         "noticias"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/194.asp&utm_content=country-nic&utm_term=class-mp",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/194.asp&utm_content=country-nic&utm_term=class-mp",
-      "title": "194/26—CIDH solicita a Corte IDH medidas provisionales para nueve personas privadas de libertad en Nicaragua",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-09-16T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
       ]
     },
     {

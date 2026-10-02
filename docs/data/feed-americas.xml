@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Américas</title>
   <id>urn:defensorias-americas:prensa:americas</id>
-  <updated>2026-10-01T14:17:00Z</updated>
+  <updated>2026-10-02T13:38:58Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-americas.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>210/26—CIDH presenta caso ante la Corte IDH por violaciones en la investigación de la muerte de José Leonardo Abril Armijos en Ecuador</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/210.asp&amp;utm_content=country-ecu&amp;utm_term=class-corteidh</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/210.asp&amp;utm_content=country-ecu&amp;utm_term=class-corteidh" />
+    <updated>2026-10-01T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>209/26—CIDH y GHREN sobre Nicaragua: Los derechos humanos son el fundamento de la democracia. Y la democracia es la condición indispensable para elecciones libres y justas</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/209.asp&amp;utm_content=country-nic&amp;utm_term=class-dc</id>
@@ -144,13 +151,6 @@
     <link href="https://www.rindhca.org/rindhca-participa-en-taller-regional-sobre-la-proteccion-de-los-defensores-de-derechos-humanos-en-coordinacion-con-la-aecid-y-la-fundacion-carolina-en-santacruz-de-la-sierra-bolivia/" />
     <updated>2026-09-17T00:00:00</updated>
     <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
-  </entry>
-  <entry>
-    <title>194/26—CIDH solicita a Corte IDH medidas provisionales para nueve personas privadas de libertad en Nicaragua</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/194.asp&amp;utm_content=country-nic&amp;utm_term=class-mp</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/194.asp&amp;utm_content=country-nic&amp;utm_term=class-mp" />
-    <updated>2026-09-16T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
   <entry>
     <title>RINDHCA y la Corte IDH desarrollan decima sesión del Diplomado sobre Derechos Políticos</title>

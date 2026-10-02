@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-araucania-180-estudiantes-talleres/",
+      "url": "https://www.indh.cl/indh-araucania-180-estudiantes-talleres/",
+      "title": "Cerca de 180 estudiantes de enseñanza media participaron en talleres sobre derechos humanos realizados por la sede del INDH de La Araucanía",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-10-01T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-antofagasta-oficio-avance-exvertedero-la-chimba/",
       "url": "https://www.indh.cl/indh-antofagasta-oficio-avance-exvertedero-la-chimba/",
       "title": "INDH Antofagasta ofició a municipio para verificar el avance de acciones comprometidas para que el exvertedero La Chimba deje de afectar la salud de vecinas y vecinos",
@@ -76,7 +88,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2591116914237335065",
+      "id": "urn:defensorias:-6541121546364926071",
       "url": "",
       "title": "T13 | Defensoría de la Niñez pedirá antecedentes por eliminación...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -108,7 +120,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -124,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7420075103283918117",
+      "id": "urn:defensorias:-5712125632780463414",
       "url": "",
       "title": "La Tercera | La Niñez en la balanza del ajuste...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -136,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5997375202522274339",
+      "id": "urn:defensorias:279650962800477813",
       "url": "",
       "title": "Biobio.cl | La niñez en la balanza del ajuste fiscal:...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -148,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4226244859038631466",
+      "id": "urn:defensorias:4507730328666387725",
       "url": "",
       "title": "El Mostrador | La paradoja de la infancia: casi la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7925714255504476964",
+      "id": "urn:defensorias:2314299255383696918",
       "url": "",
       "title": "Informe de Defensoría de la Niñez y UNICEF: 46% de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7552133571723371403",
+      "id": "urn:defensorias:2961864202089094980",
       "url": "",
       "title": "24 Horas | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-966427537796136804",
+      "id": "urn:defensorias:2112389498993588104",
       "url": "",
       "title": "CNN Chile | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6217423650157760700",
+      "id": "urn:defensorias:5592446521819773160",
       "url": "",
       "title": "CIDH concede audiencia solicitada por la Defensoría de la Niñez ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3056141106722315171",
+      "id": "urn:defensorias:-4784546318020045287",
       "url": "",
       "title": "Actualización de indicadores de la Defensoría de la Niñez: 17 ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8714689841266824111",
+      "id": "urn:defensorias:2350589490445790653",
       "url": "",
       "title": "La Tercera | Tras caso de niños haitianos: Defensor de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,23 +244,11 @@
       ]
     },
     {
-      "id": "urn:defensorias:3978034300716971803",
+      "id": "urn:defensorias:2847219212538396049",
       "url": "",
       "title": "Radio Duna | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
       "date_published": "2026-09-07T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:7339839891387540566",
-      "url": "",
-      "title": "El Mercurio | «La protección no puede comenzar cuando ya...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-09-02T00:00:00",
       "tags": [
         "Chile",
         "Sudamérica",

@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/dia-internacional-de-las-personas-de-edadpronunciamiento-",
+      "url": "https://www.defensoria.gob.bo/noticias/dia-internacional-de-las-personas-de-edadpronunciamiento-",
+      "title": "DÍA INTERNACIONAL DE LAS PERSONAS DE EDAD (PRONUNCIAMIENTO)",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-10-01T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-exhorta-a-garantizar-la-continuidad-de-atencion-a-la-poblacion-por-parte-del-ministerio-publico",
+      "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-exhorta-a-garantizar-la-continuidad-de-atencion-a-la-poblacion-por-parte-del-ministerio-publico",
+      "title": "PRONUNCIAMIENTO DEFENSORÍA DEL PUEBLO EXHORTA A GARANTIZAR LA CONTINUIDAD DE ATENCIÓN A LA POBLACIÓN POR PARTE DEL MINISTERIO PÚBLICO",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-10-01T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-riesgo-inminente-para-la-alimentacion-en-54-centros-de-acogida-y-hospitales",
       "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-riesgo-inminente-para-la-alimentacion-en-54-centros-de-acogida-y-hospitales",
       "title": "Defensor del Pueblo alerta riesgo inminente para la alimentación en 54 centros de acogida y hospitales",
@@ -93,30 +117,6 @@
       "title": "INSTITUCIONES ASUMEN COMPROMISOS PARA FORTALECER LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES",
       "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
       "date_published": "2026-09-25T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-realiza-seguimiento-a-situacion-en-el-paso-fronterizo-de-colchane",
-      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-realiza-seguimiento-a-situacion-en-el-paso-fronterizo-de-colchane",
-      "title": "Defensoría del Pueblo realiza seguimiento a situación en el paso fronterizo de Colchane",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-09-25T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-fortalece-oficinas-del-defensor-del-paciente-en-tres-hospitales-de-cochabamba",
-      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-fortalece-oficinas-del-defensor-del-paciente-en-tres-hospitales-de-cochabamba",
-      "title": "Defensoría del Pueblo fortalece oficinas del Defensor del Paciente en tres hospitales de Cochabamba",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-09-24T00:00:00",
       "tags": [
         "Bolivia",
         "Sudamérica",
