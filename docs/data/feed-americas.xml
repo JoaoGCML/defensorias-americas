@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Américas</title>
   <id>urn:defensorias-americas:prensa:americas</id>
-  <updated>2026-10-02T13:38:58Z</updated>
+  <updated>2026-10-03T12:17:06Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-americas.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>La RINDHCA participa en la VIII Cumbre de la Red de Movilidad Humana y Trata de Personas de la FIO y el Grupo de Trabajo sobre Población Migrante y Refugiada de la RINDHCA, desafíos emergentes, protección de derechos y gobernanza global</title>
+    <id>https://www.rindhca.org/la-rindhca-participa-en-la-viii-cumbre-de-la-red-de-movilidad-humana-y-trata-de-personas-de-la-fio-y-el-grupo-de-trabajo-sobre-poblacion-migrante-y-refugiada-de-la-rindhca-desafios-emergentes-protec/</id>
+    <link href="https://www.rindhca.org/la-rindhca-participa-en-la-viii-cumbre-de-la-red-de-movilidad-humana-y-trata-de-personas-de-la-fio-y-el-grupo-de-trabajo-sobre-poblacion-migrante-y-refugiada-de-la-rindhca-desafios-emergentes-protec/" />
+    <updated>2026-10-02T00:00:00</updated>
+    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Nuevos miembros del Comité Ejecutivo de la AIDEF asumen sus funciones</title>
+    <id>https://www.aidef.org/nuevos-miembros-del-comite-ejecutivo-de-la-aidef-asumen-sus-funciones/</id>
+    <link href="https://www.aidef.org/nuevos-miembros-del-comite-ejecutivo-de-la-aidef-asumen-sus-funciones/" />
+    <updated>2026-10-02T00:00:00</updated>
+    <summary>Asociación Interamericana de Defensorías Públicas (AIDEF) (Regional) — noticias</summary>
+  </entry>
   <entry>
     <title>210/26—CIDH presenta caso ante la Corte IDH por violaciones en la investigación de la muerte de José Leonardo Abril Armijos en Ecuador</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/210.asp&amp;utm_content=country-ecu&amp;utm_term=class-corteidh</id>
@@ -157,13 +171,6 @@
     <id>https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-decima-sesion-del-diplomado-sobre-derechos-politicos/</id>
     <link href="https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-decima-sesion-del-diplomado-sobre-derechos-politicos/" />
     <updated>2026-09-15T00:00:00</updated>
-    <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
-  </entry>
-  <entry>
-    <title>RINDHCA y la Corte IDH desarrollan novena sesión del Diplomado sobre Derechos Políticos</title>
-    <id>https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-novena-sesion-del-diplomado-sobre-derechos-politicos/</id>
-    <link href="https://www.rindhca.org/rindhca-y-la-corte-idh-desarrollan-novena-sesion-del-diplomado-sobre-derechos-politicos/" />
-    <updated>2026-09-09T00:00:00</updated>
     <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
   </entry>
 </feed>
