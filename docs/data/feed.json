@@ -4,10 +4,22 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
-      "id": "https://www.defensoria.rs.def.br/defensoria-publica-do-estado-atuara-pela-primeira-vez-no-ambito-eleitoral",
-      "url": "https://www.defensoria.rs.def.br/defensoria-publica-do-estado-atuara-pela-primeira-vez-no-ambito-eleitoral",
-      "title": "Defensoria Pública do Estado atuará pela primeira vez no âmbito eleitoral",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-exhorta-a-la-pronta-convocatoria-alproceso-de-seleccion-y-designacion-del-fiscal-general-del-estado",
+      "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-exhorta-a-la-pronta-convocatoria-alproceso-de-seleccion-y-designacion-del-fiscal-general-del-estado",
+      "title": "PRONUNCIAMIENTO DEFENSORÍA DEL PUEBLO EXHORTA A LA PRONTA CONVOCATORIA AL PROCESO DE SELECCIÓN Y DESIGNACIÓN DEL FISCAL GENERAL DEL ESTADO",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-10-03T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/10/03/defensoria-e-univaja-firmam-parceria-para-ampliar-atendimento-juridico-a-povos-indigenas-do-vale-do-javari/",
+      "url": "https://defensoria.am.def.br/2026/10/03/defensoria-e-univaja-firmam-parceria-para-ampliar-atendimento-juridico-a-povos-indigenas-do-vale-do-javari/",
+      "title": "Defensoria e Univaja firmam parceria para ampliar atendimento jurídico a povos indígenas do Vale do Javari",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-10-03T00:00:00",
       "tags": [
         "Brasil",
@@ -52,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6457020132232937769",
+      "id": "urn:defensorias:-3036375875340952856",
       "url": "",
       "title": "Nova unidade da Defensoria de SP em São José dos Campos inaugura modelo de integração com a DPU",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -172,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4047368871620702724",
+      "id": "urn:defensorias:2111811846875884176",
       "url": "",
       "title": "2 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -184,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7087049199901895646",
+      "id": "urn:defensorias:-6042072802368914307",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Eusébio e Iguatu",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -196,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2284770155718941330",
+      "id": "urn:defensorias:7288136159538705082",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de pós-graduação em Direito para solenidade de posse em Fortaleza e Caucaia",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -208,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1813727316068068276",
+      "id": "urn:defensorias:-7820667429906567839",
       "url": "",
       "title": "Assessoria de Estágio divulga resultado final e homologação de seleção para estágio em Direito",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -220,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5222429696839948717",
+      "id": "urn:defensorias:7257211779949323190",
       "url": "",
       "title": "Defensoria e Consulado-Geral da Colômbia dialogam sobre atendimento a colombianos em situação de vulnerabilidade no Ceará",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -232,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5168133549524335778",
+      "id": "urn:defensorias:4370537914898552335",
       "url": "",
       "title": "Defensoria abre seleções simplificadas de estágio de graduação em Direito para atuação em Fortaleza e Aracati",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -244,205 +256,13 @@
       ]
     },
     {
-      "id": "urn:defensorias:-68790396505886677",
+      "id": "urn:defensorias:3026397420161504945",
       "url": "",
       "title": "Um clique, uma ligação, um golpe: as armadilhas das fraudes contra pessoas idosas",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
       "date_published": "2026-10-02T00:00:00",
       "tags": [
         "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.rs.def.br/mutirao-da-defensoria-publica-em-teutonia-realiza-99-atendimentos",
-      "url": "https://www.defensoria.rs.def.br/mutirao-da-defensoria-publica-em-teutonia-realiza-99-atendimentos",
-      "title": "Mutirão da Defensoria Pública realiza 99 atendimentos em Teutônia",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.rs.def.br/defensoria-publica-do-rs-realiza-mais-de-100-atendimentos-em-mutirao-no-dia-nacional-da-pessoa-idosa",
-      "url": "https://www.defensoria.rs.def.br/defensoria-publica-do-rs-realiza-mais-de-100-atendimentos-em-mutirao-no-dia-nacional-da-pessoa-idosa",
-      "title": "Defensoria Pública do RS realiza mais de 100 atendimentos em mutirão no Dia Nacional da Pessoa Idosa",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-sostuvo-una-reunion-con-representantes-del-instituto-nacional-penitenciario-a-fin-de-fortalecer-la-cooperacion-interinstitucional-entre-ambas-entidades/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-sostuvo-una-reunion-con-representantes-del-instituto-nacional-penitenciario-a-fin-de-fortalecer-la-cooperacion-interinstitucional-entre-ambas-entidades/",
-      "title": "Defensoría del Pueblo sostuvo una reunión con representantes del Instituto Nacional Penitenciario a fin de fortalecer la cooperación interinstitucional entre ambas entidades",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/putumayo-en-reunion-multisectorial-defensoria-del-pueblo-expone-principales-aspectos-a-considerar-para-garantizar-desarrollo-de-las-erm-2026/",
-      "url": "https://www.defensoria.gob.pe/putumayo-en-reunion-multisectorial-defensoria-del-pueblo-expone-principales-aspectos-a-considerar-para-garantizar-desarrollo-de-las-erm-2026/",
-      "title": "Putumayo: en reunión multisectorial Defensoría del Pueblo expone principales aspectos a considerar para garantizar desarrollo de las ERM 2026",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/arequipa-participamos-en-reunion-multisectorial-para-la-prevencion-de-conflictos-durante-la-erm-2026/",
-      "url": "https://www.defensoria.gob.pe/arequipa-participamos-en-reunion-multisectorial-para-la-prevencion-de-conflictos-durante-la-erm-2026/",
-      "title": "Arequipa: participamos en reunión multisectorial para la prevención de conflictos durante la ERM 2026",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/erm-2026-defensoria-del-pueblo-participa-en-reunion-con-rondas-campesinas-para-garantizar-desarrollo-de-jornada-electoral-de-este-domingo-en-distrito-de-habana-moyobamba/",
-      "url": "https://www.defensoria.gob.pe/erm-2026-defensoria-del-pueblo-participa-en-reunion-con-rondas-campesinas-para-garantizar-desarrollo-de-jornada-electoral-de-este-domingo-en-distrito-de-habana-moyobamba/",
-      "title": "ERM 2026: Defensoría del Pueblo participa en reunión con rondas campesinas para garantizar desarrollo de jornada electoral de este domingo en distrito de Habana – Moyobamba",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/loreto-defensoria-del-pueblo-articula-acciones-preventivas-para-garantizar-el-normal-desarrollo-de-las-erm-2026-en-provincia-de-datem-del-maranon/",
-      "url": "https://www.defensoria.gob.pe/loreto-defensoria-del-pueblo-articula-acciones-preventivas-para-garantizar-el-normal-desarrollo-de-las-erm-2026-en-provincia-de-datem-del-maranon/",
-      "title": "Loreto: Defensoría del Pueblo articula acciones preventivas para garantizar el normal desarrollo de las ERM 2026 en provincia de Datem del Marañón",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/purus-promovimos-coordinacion-interinstitucional-para-prevenir-conflictos-sociales-y-culturales-en-el-marco-de-las-erm-2026/",
-      "url": "https://www.defensoria.gob.pe/purus-promovimos-coordinacion-interinstitucional-para-prevenir-conflictos-sociales-y-culturales-en-el-marco-de-las-erm-2026/",
-      "title": "Purús: promovimos coordinación interinstitucional para prevenir conflictos sociales y culturales en el marco de las ERM 2026",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/amazonas-supervisamos-inicio-del-traslado-del-material-electoral-hacia-distritos-fronterizos-de-la-region/",
-      "url": "https://www.defensoria.gob.pe/amazonas-supervisamos-inicio-del-traslado-del-material-electoral-hacia-distritos-fronterizos-de-la-region/",
-      "title": "Condorcanqui: supervisamos inicio del traslado del material electoral hacia distritos fronterizos de la región",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/en-el-dia-internacional-de-la-no-violencia-la-defensoria-del-pueblo-enfatiza-la-importancia-del-dialogo-como-mecanismo-esencial-para-resolver-los-conflictos/",
-      "url": "https://www.defensoria.gob.pe/en-el-dia-internacional-de-la-no-violencia-la-defensoria-del-pueblo-enfatiza-la-importancia-del-dialogo-como-mecanismo-esencial-para-resolver-los-conflictos/",
-      "title": "En el Día Internacional de la No Violencia, la Defensoría del Pueblo enfatiza la importancia del diálogo como mecanismo esencial para resolver los conflictos",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-de-la-pueblo-expresa-su-profunda-preocupacion-por-la-sustraccion-de-material-electoral-en-la-provincia-de-pallasca/",
-      "url": "https://www.defensoria.gob.pe/defensoria-de-la-pueblo-expresa-su-profunda-preocupacion-por-la-sustraccion-de-material-electoral-en-la-provincia-de-pallasca/",
-      "title": "Defensoría de la Pueblo expresa su profunda preocupación por la sustracción de material electoral en la provincia de Pallasca",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/atalaya-en-sesion-de-la-comision-interinstitucional-para-la-prevencion-de-conflictos-electorales-abordamos-situacion-del-distrito-de-tahuania/",
-      "url": "https://www.defensoria.gob.pe/atalaya-en-sesion-de-la-comision-interinstitucional-para-la-prevencion-de-conflictos-electorales-abordamos-situacion-del-distrito-de-tahuania/",
-      "title": "Atalaya: en sesión de la Comisión Interinstitucional para la Prevención de Conflictos Electorales abordamos situación del distrito de Tahuanía",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/tumbes-supervisamos-despliegue-de-material-electoral-a-57-locales-de-votacion-en-la-region/",
-      "url": "https://www.defensoria.gob.pe/tumbes-supervisamos-despliegue-de-material-electoral-a-57-locales-de-votacion-en-la-region/",
-      "title": "Tumbes: supervisamos despliegue de material electoral a 57 locales de votación en la región",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/chincha-promovimos-la-vigilancia-ciudadana-durante-capacitacion-de-la-odpe-a-personeros-de-agrupaciones-politicas/",
-      "url": "https://www.defensoria.gob.pe/chincha-promovimos-la-vigilancia-ciudadana-durante-capacitacion-de-la-odpe-a-personeros-de-agrupaciones-politicas/",
-      "title": "Chincha: promovimos la vigilancia ciudadana durante capacitación de la ODPE a personeros de agrupaciones políticas",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/tarapoto-supervisamos-inicio-de-despliegue-del-material-electoral-para-las-elecciones-de-este-domingo/",
-      "url": "https://www.defensoria.gob.pe/tarapoto-supervisamos-inicio-de-despliegue-del-material-electoral-para-las-elecciones-de-este-domingo/",
-      "title": "Tarapoto: supervisamos inicio de despliegue del material electoral para las elecciones de este domingo",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-participa-en-supervision-de-cierre-de-campana-electoral-en-chincha/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-participa-en-supervision-de-cierre-de-campana-electoral-en-chincha/",
-      "title": "Defensoría del Pueblo participa en supervisión de cierre de campaña electoral en Chincha",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Perú",
         "Sudamérica",
         "noticias"
       ]
@@ -652,7 +472,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1525657969069135757",
+      "id": "urn:defensorias:8959439737117199965",
       "url": "",
       "title": "1 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -664,7 +484,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5635537665766633600",
+      "id": "urn:defensorias:-6651253962777362555",
       "url": "",
       "title": "Defensoria Pública divulga resultado final da seleção para mediador comunitário em Iguatu",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -676,7 +496,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8604574630030680897",
+      "id": "urn:defensorias:-6156892719815890230",
       "url": "",
       "title": "Defensoria leva orientação contra fraudes e realiza 140 atendimentos no Centro de Fortaleza",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -688,7 +508,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3703075524240669445",
+      "id": "urn:defensorias:-8679737594828289533",
       "url": "",
       "title": "Minha Escola Ensina Direitos finaliza edição de setembro; inscrições do III Concurso continuam até 31 de outubro",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -700,7 +520,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2309056467129025253",
+      "id": "urn:defensorias:4345281022098744978",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidade de posse em Tianguá",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -731,66 +551,6 @@
       "date_published": "2026-10-01T00:00:00",
       "tags": [
         "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-realiza-mesa-de-trabajo-con-el-ministerio-publico-sobre-investigaciones-en-agravio-de-las-victimas-en-protestas-sociales-de-los-anos-2022-y-2023/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-realiza-mesa-de-trabajo-con-el-ministerio-publico-sobre-investigaciones-en-agravio-de-las-victimas-en-protestas-sociales-de-los-anos-2022-y-2023/",
-      "title": "Defensoría del Pueblo realiza mesa de trabajo con el Ministerio Público sobre investigaciones en agravio de las víctimas en protestas sociales de los años 2022 y 2023",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-01T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-garantizar-atencion-preferente-a-las-personas-que-brindan-cuidados-a-personas-en-situacion-de-dependencia/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-garantizar-atencion-preferente-a-las-personas-que-brindan-cuidados-a-personas-en-situacion-de-dependencia/",
-      "title": "Defensoría del Pueblo exhorta a garantizar atención preferente a las personas que brindan cuidados a personas en situación de dependencia",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-01T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/lambayeque-defensoria-del-pueblo-promueve-articulacion-interinstitucional-para-la-prevencion-de-conflictos-en-las-erm-2026/",
-      "url": "https://www.defensoria.gob.pe/lambayeque-defensoria-del-pueblo-promueve-articulacion-interinstitucional-para-la-prevencion-de-conflictos-en-las-erm-2026/",
-      "title": "Lambayeque: Defensoría del Pueblo promueve articulación interinstitucional para la prevención de conflictos en las ERM 2026",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-01T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/camana-supervisamos-prueba-final-para-la-digitalizacion-de-las-actas-electorales-durante-los-proximos-comicios/",
-      "url": "https://www.defensoria.gob.pe/camana-supervisamos-prueba-final-para-la-digitalizacion-de-las-actas-electorales-durante-los-proximos-comicios/",
-      "title": "Camaná: supervisamos prueba final para la digitalización de las actas electorales durante los próximos comicios",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-01T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/pasco-continuamos-promoviendo-participacion-de-voluntarios-para-las-elecciones-del-proximo-4-de-octubre/",
-      "url": "https://www.defensoria.gob.pe/pasco-continuamos-promoviendo-participacion-de-voluntarios-para-las-elecciones-del-proximo-4-de-octubre/",
-      "title": "Pasco: continuamos promoviendo participación de voluntarios para las elecciones del próximo 4 de octubre",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-01T00:00:00",
-      "tags": [
-        "Perú",
         "Sudamérica",
         "noticias"
       ]
@@ -1000,7 +760,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2676083001401483627",
+      "id": "urn:defensorias:-2597932310605652820",
       "url": "",
       "title": "30 de setembro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -1012,7 +772,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9062451349931181371",
+      "id": "urn:defensorias:-2357726333138806754",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de pós-graduação em Direito para solenidades de posse em 6 localidades",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -1024,7 +784,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4022548769052561314",
+      "id": "urn:defensorias:6897961582707381161",
       "url": "",
       "title": "Defensoria recomenda atenção à legislação em relação às prisões com a proximidade do período eleitoral",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -1060,7 +820,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1193651916567559626",
+      "id": "urn:defensorias:5249792457221093814",
       "url": "",
       "title": "Noticias 30 de septiembre de 2026 Defensoría del Pueblo conversó con jóvenes del Bañado Norte sobre salud mental y adicciones La Defensoría del Pueblo",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -1199,6 +959,246 @@
       "date_published": "2026-09-29T00:00:00",
       "tags": [
         "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/dados-do-inep-passam-a-integrar-o-registro-de-referencia-da-pessoa-com-deficiencia",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/dados-do-inep-passam-a-integrar-o-registro-de-referencia-da-pessoa-com-deficiencia",
+      "title": "Dados do Inep passam a integrar o Registro de Referência da Pessoa com Deficiência",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:589006646774797830",
+      "url": "",
+      "title": "Defensoria de SP obtém suspensão de condenação injusta por tentativa de furto",
+      "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/33049-DPRJ-e-admitida-como-terceira-interessada-em-proposta-do-CNJ-sobre-violencia-processual-de-genero",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33049-DPRJ-e-admitida-como-terceira-interessada-em-proposta-do-CNJ-sobre-violencia-processual-de-genero",
+      "title": "DPRJ é admitida como terceira interessada em proposta do CNJ sobre violência processual de gênero",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/33048-DPRJ-recebe-Promotores-da-Igualdade-para-formacao-sobre-enfrentamento-ao-racismo",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33048-DPRJ-recebe-Promotores-da-Igualdade-para-formacao-sobre-enfrentamento-ao-racismo",
+      "title": "DPRJ recebe Promotores da Igualdade para formação sobre enfrentamento ao racismo",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4302/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4302/",
+      "title": "Defensoria Pública obtém decisão que determina reparação de danos por contaminação da rede de água em Santa Cruz do Capibaribe",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/09/29/em-iranduba-defensoria-apura-falhas-no-saneamento-e-falta-de-servicos-basicos-que-afetam-330-familias/",
+      "url": "https://defensoria.am.def.br/2026/09/29/em-iranduba-defensoria-apura-falhas-no-saneamento-e-falta-de-servicos-basicos-que-afetam-330-familias/",
+      "title": "Defensoria apura falhas no saneamento e falta de serviços básicos que afetam 330 famílias",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/09/29/justica-acata-pedido-da-defensoria-e-determina-que-ambar-apresente-plano-para-evitar-novos-apagoes-em-manaus-e-regiao-metropolitana/",
+      "url": "https://defensoria.am.def.br/2026/09/29/justica-acata-pedido-da-defensoria-e-determina-que-ambar-apresente-plano-para-evitar-novos-apagoes-em-manaus-e-regiao-metropolitana/",
+      "title": "Justiça acata pedido da Defensoria e determina que Âmbar apresente plano para evitar novos apagões em Manaus e região metropolitana",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-los-rios-encuentro-alicia-lira/",
+      "url": "https://www.indh.cl/indh-los-rios-encuentro-alicia-lira/",
+      "title": "Memoria, justicia y democracia: INDH de Los Ríos realizó encuentro con Alicia Lira, Premio Nacional de Derechos Humanos 2026",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-valparaiso-sociedad-civil-personas-sordas/",
+      "url": "https://www.indh.cl/indh-valparaiso-sociedad-civil-personas-sordas/",
+      "title": "Junto a organizaciones de la sociedad civil, la sede del INDH de Valparaíso realizó seminario sobre los derechos de las personas sordas",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-antofagasta-recurso-san-pedro-atacama/",
+      "url": "https://www.indh.cl/indh-antofagasta-recurso-san-pedro-atacama/",
+      "title": "INDH Antofagasta interpuso recurso de protección por vecinas y vecinos de San Pedro de Atacama afectadas por derrames de aguas servidas y cortes de agua potable",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-1709325565352962466",
+      "url": "",
+      "title": "Noticias 29 de septiembre de 2026 Rendición de Cuentas de la Defensoría del Pueblo: Avances, cifras y desafíos de la gestión durante el primer semestr",
+      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "http://www.defensoria.gob.ve/?p=20782",
+      "url": "http://www.defensoria.gob.ve/?p=20782",
+      "title": "Inauguran el primer Punto de Atención a Movilidad (PAM) en el terminal La Bandera de Caracas",
+      "summary": "Defensoría del Pueblo de Venezuela (Venezuela)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Venezuela",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/statement-reconciliation-means-confronting-hate",
+      "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/statement-reconciliation-means-confronting-hate",
+      "title": "Statement – Reconciliation means confronting hate",
+      "summary": "Canadian Human Rights Commission (Canadá)",
+      "date_published": "2026-09-29T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "newsroom"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-remite-al-organo-ejecutivo-y-legislativo-informe-sobre-mineria-y-derechos-humanos",
+      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-remite-al-organo-ejecutivo-y-legislativo-informe-sobre-mineria-y-derechos-humanos",
+      "title": "DEFENSORÍA DEL PUEBLO REMITE AL ÓRGANO EJECUTIVO Y LEGISLATIVO INFORME SOBRE MINERÍA Y DERECHOS HUMANOS",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-09-28T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/duvidas-frequentes-sobre-atendimento-prioritario-para-pessoas-autistas-e-com-deficiencias-nao-visiveis",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/duvidas-frequentes-sobre-atendimento-prioritario-para-pessoas-autistas-e-com-deficiencias-nao-visiveis",
+      "title": "Dúvidas frequentes sobre atendimento prioritário para pessoas autistas e com deficiências não visíveis",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-09-28T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-190201500728619946",
+      "url": "",
+      "title": "TJSP acolhe recurso da Defensoria para reconhecer identidade de gênero não binária e afastar dívida como impedimento para alteração de registro",
+      "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
+      "date_published": "2026-09-28T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:4698639597042266599",
+      "url": "",
+      "title": "Nova unidade da Defensoria de SP em São José dos Campos será a primeira a implementar parceria nacional com a DPU",
+      "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
+      "date_published": "2026-09-28T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/33045-Capacitacao-na-DPRJ-destaca-integracao-entre-atuacao-criminal-representacao-em-Brasilia-e-uso-de-IA",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33045-Capacitacao-na-DPRJ-destaca-integracao-entre-atuacao-criminal-representacao-em-Brasilia-e-uso-de-IA",
+      "title": "Capacitação na DPRJ destaca integração entre atuação criminal, representação em Brasília e uso de IA",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-09-28T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4301/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4301/",
+      "title": "Defensoria Pública de Pernambuco reforça orientações sobre pensão alimentícia e garantia de direitos",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-09-28T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-memoria-con-derechos-francisco-sanchez/",
+      "url": "https://www.indh.cl/indh-memoria-con-derechos-francisco-sanchez/",
+      "title": "Francisco Sánchez, actor y dramaturgo, sobre teatro y memoria: “La historia no es piedra, no es bronce, está viva”",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-09-28T00:00:00",
+      "tags": [
+        "Chile",
         "Sudamérica",
         "noticias"
       ]

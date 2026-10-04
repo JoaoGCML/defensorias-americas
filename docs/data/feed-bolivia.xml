@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-10-03T12:17:06Z</updated>
+  <updated>2026-10-04T13:04:40Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>PRONUNCIAMIENTO DEFENSORÍA DEL PUEBLO EXHORTA A LA PRONTA CONVOCATORIA AL PROCESO DE SELECCIÓN Y DESIGNACIÓN DEL FISCAL GENERAL DEL ESTADO</title>
+    <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-exhorta-a-la-pronta-convocatoria-alproceso-de-seleccion-y-designacion-del-fiscal-general-del-estado</id>
+    <link href="https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-exhorta-a-la-pronta-convocatoria-alproceso-de-seleccion-y-designacion-del-fiscal-general-del-estado" />
+    <updated>2026-10-03T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>DEFENSORÍA DEL PUEBLO SALUDA AVANCE DE PROYECTO DE LEY PARA PROTEGER A NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE CALLE</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-saluda-avance-de-proyecto-de-ley-para-proteger-a-ninyas,-ninyos-y-adolescentes-en-situacion-de-calle</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-remite-al-organo-ejecutivo-y-legislativo-informe-sobre-mineria-y-derechos-humanos</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-remite-al-organo-ejecutivo-y-legislativo-informe-sobre-mineria-y-derechos-humanos" />
     <updated>2026-09-28T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>DEFENSORÍA DEL PUEBLO ADVIERTE QUE EL COMBUSTIBLE Y EL COSTO DE VIDA PERSISTEN COMO RIESGOS DE CONFLICTIVIDAD ANTE LA AMPLIACIÓN DEL ESTADO DE EXCEPCIÓN</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-advierte-que-el-combustible-y-el-costo-de-vida-persisten-como-riesgos-de-conflictividad-ante-la-ampliacion-del-estado-de-excepcion</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-advierte-que-el-combustible-y-el-costo-de-vida-persisten-como-riesgos-de-conflictividad-ante-la-ampliacion-del-estado-de-excepcion" />
-    <updated>2026-09-26T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
