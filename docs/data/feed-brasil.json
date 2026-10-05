@@ -4,10 +4,70 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4309/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4309/",
+      "title": "Defensoria Pública de Pernambuco recebe estudantes da UFRPE em visita técnica ao Núcleo de Defesa do Consumidor",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-10-05T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/atuacao-da-defensoria-garante-reassentamento-de-37-familias-da-ocupacao-batuva-em-santana-do-livramento",
+      "url": "https://www.defensoria.rs.def.br/atuacao-da-defensoria-garante-reassentamento-de-37-familias-da-ocupacao-batuva-em-santana-do-livramento",
+      "title": "Atuação da Defensoria garante reassentamento de 37 famílias da Ocupação Batuva, em Santana do Livramento",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-10-05T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/10/04/defensoria-do-amazonas-participa-de-auditoria-das-urnas-eletronicas-para-as-eleicoes-de-2026/",
+      "url": "https://defensoria.am.def.br/2026/10/04/defensoria-do-amazonas-participa-de-auditoria-das-urnas-eletronicas-para-as-eleicoes-de-2026/",
+      "title": "Defensoria do Amazonas participa de auditoria das urnas eletrônicas para as Eleições de 2026",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-10-04T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/10/04/mutirao-previdenciario-da-defensoria-do-amazonas-comeca-nesta-segunda-feira-em-parintins/",
+      "url": "https://defensoria.am.def.br/2026/10/04/mutirao-previdenciario-da-defensoria-do-amazonas-comeca-nesta-segunda-feira-em-parintins/",
+      "title": "Mutirão Previdenciário da Defensoria do Amazonas começa nesta segunda-feira em Parintins",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-10-04T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.am.def.br/2026/10/03/defensoria-e-univaja-firmam-parceria-para-ampliar-atendimento-juridico-a-povos-indigenas-do-vale-do-javari/",
       "url": "https://defensoria.am.def.br/2026/10/03/defensoria-e-univaja-firmam-parceria-para-ampliar-atendimento-juridico-a-povos-indigenas-do-vale-do-javari/",
       "title": "Defensoria e Univaja firmam parceria para ampliar atendimento jurídico a povos indígenas do Vale do Javari",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-10-03T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/defensoria-publica-do-estado-atuara-pela-primeira-vez-no-ambito-eleitoral",
+      "url": "https://www.defensoria.rs.def.br/defensoria-publica-do-estado-atuara-pela-primeira-vez-no-ambito-eleitoral",
+      "title": "Defensoria Pública do Estado atuará pela primeira vez no âmbito eleitoral",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
       "date_published": "2026-10-03T00:00:00",
       "tags": [
         "Brasil",
@@ -28,7 +88,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3036375875340952856",
+      "id": "urn:defensorias:826086664730634482",
       "url": "",
       "title": "Nova unidade da Defensoria de SP em São José dos Campos inaugura modelo de integração com a DPU",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -148,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2111811846875884176",
+      "id": "urn:defensorias:-6588265893117478175",
       "url": "",
       "title": "2 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -160,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6042072802368914307",
+      "id": "urn:defensorias:4678919081682601943",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Eusébio e Iguatu",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -172,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7288136159538705082",
+      "id": "urn:defensorias:5632435698620595866",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de pós-graduação em Direito para solenidade de posse em Fortaleza e Caucaia",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -184,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7820667429906567839",
+      "id": "urn:defensorias:3084126769650373028",
       "url": "",
       "title": "Assessoria de Estágio divulga resultado final e homologação de seleção para estágio em Direito",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -196,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7257211779949323190",
+      "id": "urn:defensorias:-1116217820702730436",
       "url": "",
       "title": "Defensoria e Consulado-Geral da Colômbia dialogam sobre atendimento a colombianos em situação de vulnerabilidade no Ceará",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -208,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4370537914898552335",
+      "id": "urn:defensorias:798779173834968617",
       "url": "",
       "title": "Defensoria abre seleções simplificadas de estágio de graduação em Direito para atuação em Fortaleza e Aracati",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -220,10 +280,22 @@
       ]
     },
     {
-      "id": "urn:defensorias:3026397420161504945",
+      "id": "urn:defensorias:8708969832987339169",
       "url": "",
       "title": "Um clique, uma ligação, um golpe: as armadilhas das fraudes contra pessoas idosas",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-10-02T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/mutirao-da-defensoria-publica-em-teutonia-realiza-99-atendimentos",
+      "url": "https://www.defensoria.rs.def.br/mutirao-da-defensoria-publica-em-teutonia-realiza-99-atendimentos",
+      "title": "Mutirão da Defensoria Pública realiza 99 atendimentos em Teutônia",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
       "date_published": "2026-10-02T00:00:00",
       "tags": [
         "Brasil",
@@ -376,7 +448,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8959439737117199965",
+      "id": "urn:defensorias:-6477483509165691040",
       "url": "",
       "title": "1 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -388,7 +460,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6651253962777362555",
+      "id": "urn:defensorias:-604388874165459001",
       "url": "",
       "title": "Defensoria Pública divulga resultado final da seleção para mediador comunitário em Iguatu",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -400,7 +472,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6156892719815890230",
+      "id": "urn:defensorias:8244776845693032553",
       "url": "",
       "title": "Defensoria leva orientação contra fraudes e realiza 140 atendimentos no Centro de Fortaleza",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -412,7 +484,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8679737594828289533",
+      "id": "urn:defensorias:7030239958847130453",
       "url": "",
       "title": "Minha Escola Ensina Direitos finaliza edição de setembro; inscrições do III Concurso continuam até 31 de outubro",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -424,7 +496,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4345281022098744978",
+      "id": "urn:defensorias:1590572356764009020",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidade de posse em Tianguá",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -544,7 +616,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2597932310605652820",
+      "id": "urn:defensorias:-6231802824438814089",
       "url": "",
       "title": "30 de setembro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -556,7 +628,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2357726333138806754",
+      "id": "urn:defensorias:9099765241726777840",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de pós-graduação em Direito para solenidades de posse em 6 localidades",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -568,7 +640,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6897961582707381161",
+      "id": "urn:defensorias:5661166969244951969",
       "url": "",
       "title": "Defensoria recomenda atenção à legislação em relação às prisões com a proximidade do período eleitoral",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -616,7 +688,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:589006646774797830",
+      "id": "urn:defensorias:2586427894439157134",
       "url": "",
       "title": "Defensoria de SP obtém suspensão de condenação injusta por tentativa de furto",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -664,30 +736,6 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/09/29/em-iranduba-defensoria-apura-falhas-no-saneamento-e-falta-de-servicos-basicos-que-afetam-330-familias/",
-      "url": "https://defensoria.am.def.br/2026/09/29/em-iranduba-defensoria-apura-falhas-no-saneamento-e-falta-de-servicos-basicos-que-afetam-330-familias/",
-      "title": "Defensoria apura falhas no saneamento e falta de serviços básicos que afetam 330 famílias",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-09-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/09/29/justica-acata-pedido-da-defensoria-e-determina-que-ambar-apresente-plano-para-evitar-novos-apagoes-em-manaus-e-regiao-metropolitana/",
-      "url": "https://defensoria.am.def.br/2026/09/29/justica-acata-pedido-da-defensoria-e-determina-que-ambar-apresente-plano-para-evitar-novos-apagoes-em-manaus-e-regiao-metropolitana/",
-      "title": "Justiça acata pedido da Defensoria e determina que Âmbar apresente plano para evitar novos apagões em Manaus e região metropolitana",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-09-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/duvidas-frequentes-sobre-atendimento-prioritario-para-pessoas-autistas-e-com-deficiencias-nao-visiveis",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/duvidas-frequentes-sobre-atendimento-prioritario-para-pessoas-autistas-e-com-deficiencias-nao-visiveis",
       "title": "Dúvidas frequentes sobre atendimento prioritário para pessoas autistas e com deficiências não visíveis",
@@ -700,7 +748,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-190201500728619946",
+      "id": "urn:defensorias:7479480290784374646",
       "url": "",
       "title": "TJSP acolhe recurso da Defensoria para reconhecer identidade de gênero não binária e afastar dívida como impedimento para alteração de registro",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -712,7 +760,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4698639597042266599",
+      "id": "urn:defensorias:5913983552541900832",
       "url": "",
       "title": "Nova unidade da Defensoria de SP em São José dos Campos será a primeira a implementar parceria nacional com a DPU",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -844,22 +892,10 @@
       ]
     },
     {
-      "id": "urn:defensorias:2945083346860370143",
+      "id": "urn:defensorias:5725140722034124760",
       "url": "",
       "title": "CONDEGE e DPU assinam acordo nacional para reunir atendimentos das Defensorias estaduais e da União em um mesmo local",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
-      "date_published": "2026-09-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4297/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4297/",
-      "title": "Reunião do CONDEGE no Recife firma acordo entre Defensorias estaduais e da União",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
       "date_published": "2026-09-24T00:00:00",
       "tags": [
         "Brasil",
@@ -916,7 +952,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8225579452738029984",
+      "id": "urn:defensorias:1290091160970054013",
       "url": "",
       "title": "Projeto Restaurar completa um ano em Ribeirão Preto promovendo orientação jurídica e conscientização para homens com medidas protetivas",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -988,7 +1024,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4429066854936393073",
+      "id": "urn:defensorias:-7946512848217503820",
       "url": "",
       "title": "Atuação do Núcleo Especializado e da Unidade de Campinas da Defensoria Pública garante direitos a estudantes com deficiência",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1012,7 +1048,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7219316562794086129",
+      "id": "urn:defensorias:5455757621707338693",
       "url": "",
       "title": "Projeto voltado a homens sujeitos a medidas protetivas completa um ano em Ribeirão Preto",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
