@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/211.asp",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/211.asp",
+      "title": "211/26—CIDH: las políticas de seguridad y las respuestas frente al crimen organizado deben respetar sin excepción la dignidad humana",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-10-05T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.rindhca.org/la-rindhca-participa-en-la-viii-cumbre-de-la-red-de-movilidad-humana-y-trata-de-personas-de-la-fio-y-el-grupo-de-trabajo-sobre-poblacion-migrante-y-refugiada-de-la-rindhca-desafios-emergentes-protec/",
       "url": "https://www.rindhca.org/la-rindhca-participa-en-la-viii-cumbre-de-la-red-de-movilidad-humana-y-trata-de-personas-de-la-fio-y-el-grupo-de-trabajo-sobre-poblacion-migrante-y-refugiada-de-la-rindhca-desafios-emergentes-protec/",
       "title": "La RINDHCA participa en la VIII Cumbre de la Red de Movilidad Humana y Trata de Personas de la FIO y el Grupo de Trabajo sobre Población Migrante y Refugiada de la RINDHCA, desafíos emergentes, protección de derechos y gobernanza global",
@@ -253,18 +265,6 @@
         "Regional",
         "Américas",
         "noticias"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/195.asp&utm_content=country-usa",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/195.asp&utm_content=country-usa",
-      "title": "195/26—CIDH insta a Estados Unidos a no aplicar la pena de muerte a la beneficiaria de medidas cautelares Christa Pike",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-09-18T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
       ]
     },
     {
