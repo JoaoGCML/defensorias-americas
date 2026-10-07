@@ -4,7 +4,67 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "urn:defensorias:-4009913391521372609",
+      "id": "https://www.indh.cl/indh-director-cumbre-iberoamericana-movilidad-humana/",
+      "url": "https://www.indh.cl/indh-director-cumbre-iberoamericana-movilidad-humana/",
+      "title": "Director del INDH participó en Cumbre Iberoamericana sobre Movilidad Humana que planteó alertas ante los discursos de odio y dificultades para detectar la trata de personas",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-10-07T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:6704054030512365413",
+      "url": "",
+      "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
+      "summary": "Defensoría de la Niñez (Chile)",
+      "date_published": "2026-10-06T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "prensa"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-atacama-200-personas-corrida-familiar/",
+      "url": "https://www.indh.cl/indh-atacama-200-personas-corrida-familiar/",
+      "title": "Más de 200 personas participaron de corrida familiar e inclusiva en Copiapó organizada por la sede de Atacama del INDH",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-10-06T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-arica-instancia-binacional-trata/",
+      "url": "https://www.indh.cl/indh-arica-instancia-binacional-trata/",
+      "title": "Jefe de INDH de Arica y Parinacota participó en instancia binacional que analizó cómo prevenir nuevas formas de trata de personas, que afectan especialmente a mujeres",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-10-06T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-aysen-feria-cientifica/",
+      "url": "https://www.indh.cl/indh-aysen-feria-cientifica/",
+      "title": "INDH Aysén realizó feria científica que reconoció proyectos estudiantiles sobre desafíos medioambientales de la región",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-10-06T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-2828247783011156923",
       "url": "",
       "title": "Niños, niñas y adolescentes de la RM presentaron 16 propuestas ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -72,7 +132,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -84,35 +144,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-antofagasta-recurso-san-pedro-atacama/",
-      "url": "https://www.indh.cl/indh-antofagasta-recurso-san-pedro-atacama/",
-      "title": "INDH Antofagasta interpuso recurso de protección por vecinas y vecinos de San Pedro de Atacama afectadas por derrames de aguas servidas y cortes de agua potable",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-09-29T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-memoria-con-derechos-francisco-sanchez/",
-      "url": "https://www.indh.cl/indh-memoria-con-derechos-francisco-sanchez/",
-      "title": "Francisco Sánchez, actor y dramaturgo, sobre teatro y memoria: “La historia no es piedra, no es bronce, está viva”",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-09-28T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-6434169019852530127",
+      "id": "urn:defensorias:-2613685496128610827",
       "url": "",
       "title": "T13 | Defensoría de la Niñez pedirá antecedentes por eliminación...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -124,31 +160,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-arica-querellantetrafico-cuatro-mujeres/",
-      "url": "https://www.indh.cl/indh-arica-querellantetrafico-cuatro-mujeres/",
-      "title": "INDH querellante: Tribunal de Arica condenó a hombre por tráfico de migrantes contra cuatro mujeres, dos de ellas adolescentes",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-09-25T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-coquimbo-oficio-agua-contaminada-choapa/",
-      "url": "https://www.indh.cl/indh-coquimbo-oficio-agua-contaminada-choapa/",
-      "title": "INDH Coquimbo ofició a organismos públicos por agua contaminada con residuos mineros en zona rural de Choapa",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-09-25T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:1530315145067762645",
+      "id": "urn:defensorias:44124977244419283",
       "url": "",
       "title": "La Tercera | La Niñez en la balanza del ajuste...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5387256025224104020",
+      "id": "urn:defensorias:-6042510192428506247",
       "url": "",
       "title": "Biobio.cl | La niñez en la balanza del ajuste fiscal:...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-600109376644237240",
+      "id": "urn:defensorias:-1511737637765984168",
       "url": "",
       "title": "El Mostrador | La paradoja de la infancia: casi la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4999642891855313044",
+      "id": "urn:defensorias:-2003974826477878658",
       "url": "",
       "title": "Informe de Defensoría de la Niñez y UNICEF: 46% de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1022229129312161040",
+      "id": "urn:defensorias:3226527584672613301",
       "url": "",
       "title": "24 Horas | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6998778899834224397",
+      "id": "urn:defensorias:5574234027052327002",
       "url": "",
       "title": "CNN Chile | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5799742076828979294",
+      "id": "urn:defensorias:7529671788501153305",
       "url": "",
       "title": "CIDH concede audiencia solicitada por la Defensoría de la Niñez ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8888169992351399480",
+      "id": "urn:defensorias:2952967168464379652",
       "url": "",
       "title": "Actualización de indicadores de la Defensoría de la Niñez: 17 ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,23 +256,11 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4259587177198273970",
+      "id": "urn:defensorias:-3562545023465775758",
       "url": "",
       "title": "La Tercera | Tras caso de niños haitianos: Defensor de...",
       "summary": "Defensoría de la Niñez (Chile)",
       "date_published": "2026-09-09T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:4447757673346580895",
-      "url": "",
-      "title": "Radio Duna | Entrevista al Defensor de la Niñez, Anuar...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-09-07T00:00:00",
       "tags": [
         "Chile",
         "Sudamérica",
