@@ -4,10 +4,82 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/33074-Defensoria-do-Rio-apresenta-inovacao-e-comunicacao-estrategica-no-ExpoJud-2026",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33074-Defensoria-do-Rio-apresenta-inovacao-e-comunicacao-estrategica-no-ExpoJud-2026",
+      "title": "Defensoria do Rio apresenta inovação e comunicação estratégica no ExpoJud 2026",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-10-09T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/33071-DPRJ-acompanha-acoes-de-prevencao-aos-impactos-do-El-Nino",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33071-DPRJ-acompanha-acoes-de-prevencao-aos-impactos-do-El-Nino",
+      "title": "Defensoria acompanha ações de prevenção aos impactos do El Niño",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-10-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.rj.def.br/noticia/detalhes/33068-Defensoria-Publica-do-Rio-de-Janeiro-e-finalista-do-Premio-Innovare-2026-com-CRLS-2-0",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/33068-Defensoria-Publica-do-Rio-de-Janeiro-e-finalista-do-Premio-Innovare-2026-com-CRLS-2-0",
       "title": "Defensoria Pública do Rio de Janeiro é finalista do Prêmio Innovare 2026 com CRLS 2.0",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-10-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/33072-DPRJ-realiza-aula-inaugural-do-Curso-de-Pos-Doutorado-em-Acesso-a-Justica",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33072-DPRJ-realiza-aula-inaugural-do-Curso-de-Pos-Doutorado-em-Acesso-a-Justica",
+      "title": "DPRJ realiza aula inaugural do Curso de Pós-Doutorado em Acesso à Justiça",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-10-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4317/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4317/",
+      "title": "DPPE fortalece orientação familiar com nova edição da Oficina das Famílias",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-10-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/10/08/defensoria-e-ambar-energia-debatem-solucoes-para-contas-de-luz-elevadas-e-acesso-a-tarifa-social-no-taruma/",
+      "url": "https://defensoria.am.def.br/2026/10/08/defensoria-e-ambar-energia-debatem-solucoes-para-contas-de-luz-elevadas-e-acesso-a-tarifa-social-no-taruma/",
+      "title": "Defensoria e Âmbar Energia debatem soluções para contas de luz elevadas e acesso à tarifa social no Tarumã",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-10-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/10/08/para-cuidar-das-filhas-autistas-mae-troca-sitio-por-casa-na-cidade-e-busca-apoio-da-defensoria-para-regularizar-imovel/",
+      "url": "https://defensoria.am.def.br/2026/10/08/para-cuidar-das-filhas-autistas-mae-troca-sitio-por-casa-na-cidade-e-busca-apoio-da-defensoria-para-regularizar-imovel/",
+      "title": "Para cuidar das filhas com TEA, mãe troca sítio por casa na cidade e busca apoio da Defensoria para regularizar imóvel",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-10-08T00:00:00",
       "tags": [
         "Brasil",
@@ -28,8 +100,8 @@
       ]
     },
     {
-      "id": "https://www.defensoria.ce.def.br/noticia/defensoria-publica-estara-de-plantao-neste-feriado-de-12-de-outubro-2/",
-      "url": "https://www.defensoria.ce.def.br/noticia/defensoria-publica-estara-de-plantao-neste-feriado-de-12-de-outubro-2/",
+      "id": "https://www.defensoria.ce.def.br/noticia/assessoria-de-estagio-divulga-inscricoes-deferidas-no-processo-seletivo-de-estagio-de-graduacao-em-direito-prova-sera-aplicada-no-dia-23-de-outubro/",
+      "url": "https://www.defensoria.ce.def.br/noticia/assessoria-de-estagio-divulga-inscricoes-deferidas-no-processo-seletivo-de-estagio-de-graduacao-em-direito-prova-sera-aplicada-no-dia-23-de-outubro/",
       "title": "Arquivos:Notícias",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
       "date_published": "2026-10-08T00:00:00",
@@ -40,7 +112,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3041551665048999746",
+      "id": "urn:defensorias:3083908170318524801",
       "url": "",
       "title": "8 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -52,7 +124,31 @@
       ]
     },
     {
-      "id": "urn:defensorias:4881670516155535403",
+      "id": "urn:defensorias:3269223704356271729",
+      "url": "",
+      "title": "Assessoria de Estágio divulga inscrições deferidas no processo seletivo de estágio de graduação em Direito; Prova será aplicada no dia 23 de outubro",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-10-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:2570507095655726093",
+      "url": "",
+      "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Acaraú, Quixadá e Santa Quitéria",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-10-08T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:3019690947312286977",
       "url": "",
       "title": "Defensoria Pública estará de plantão neste feriado de 12 de outubro",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -100,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7358987097013936658",
+      "id": "urn:defensorias:4826358654546307544",
       "url": "",
       "title": "Justiça suspende cobrança de IPTU sobre terreno destinado à construção de terreiro de Candomblé em Embu-Guaçu após atuação de Núcleo da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -220,7 +316,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1779293464733376846",
+      "id": "urn:defensorias:-2111409850367437818",
       "url": "",
       "title": "7 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -232,7 +328,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2950178526021035312",
+      "id": "urn:defensorias:6786348108358129420",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de pós-graduação em Direito para solenidades de posse em Fortaleza e Mauriti",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -244,7 +340,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3536178956166504181",
+      "id": "urn:defensorias:4559625979473203357",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Limoeiro do Norte",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -256,7 +352,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:947040959117694138",
+      "id": "urn:defensorias:-9182371033723079897",
       "url": "",
       "title": "Chacina do Curió terá novo julgamento para dois réus após anulação de veredito. Defensoria acompanha as famílias",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -292,7 +388,19 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4273929270790177584",
+      "id": "https://www.defensoria.rs.def.br/defensoria-promove-oficina-sobre-protecao-de-pessoas-com-deficiencia-e-populacao-lgbtqia-em-emergencias-climaticas",
+      "url": "https://www.defensoria.rs.def.br/defensoria-promove-oficina-sobre-protecao-de-pessoas-com-deficiencia-e-populacao-lgbtqia-em-emergencias-climaticas",
+      "title": "Defensoria promove oficina sobre proteção de pessoas com deficiência e população LGBTQIA+ em emergências climáticas",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-10-07T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-4759342622652681738",
       "url": "",
       "title": "Defensoria Pública de SP abre inscrições para o X Concurso de ingresso na carreira em 13 de outubro",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -388,7 +496,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8985834014061406689",
+      "id": "urn:defensorias:-6392742816387058247",
       "url": "",
       "title": "6 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -400,7 +508,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5739843994993771860",
+      "id": "urn:defensorias:4325215475011803437",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Fortaleza e Crato",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -412,22 +520,10 @@
       ]
     },
     {
-      "id": "urn:defensorias:7027010885754208284",
+      "id": "urn:defensorias:-6942613518756653237",
       "url": "",
       "title": "Defensoria mantém Observatório para receber denúncias de intolerância política no segundo turno",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-06T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.rs.def.br/atuacao-da-dpe-junto-ao-stj-garante-prisao-domiciliar-a-mulher-gestante-presa",
-      "url": "https://www.defensoria.rs.def.br/atuacao-da-dpe-junto-ao-stj-garante-prisao-domiciliar-a-mulher-gestante-presa",
-      "title": "Atuação da DPE junto ao STJ garante prisão domiciliar a mulher gestante presa",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
       "date_published": "2026-10-06T00:00:00",
       "tags": [
         "Brasil",
@@ -448,7 +544,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4440886147097363023",
+      "id": "urn:defensorias:5894608033906809278",
       "url": "",
       "title": "Maior do país, Defensoria Pública de SP apresenta nova identidade institucional",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -460,7 +556,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8250900525266846459",
+      "id": "urn:defensorias:-4058808566847415741",
       "url": "",
       "title": "TJ-SP reconhece que ação de sobrevivente do Massacre do Carandiru não prescreve; decisão é confirmada pelo STJ",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -556,7 +652,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1645123611934287095",
+      "id": "urn:defensorias:-8247795683096739704",
       "url": "",
       "title": "5 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -568,7 +664,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4099648100459886620",
+      "id": "urn:defensorias:580321725376935636",
       "url": "",
       "title": "Defensoria abre seleção simplificada de estágio de graduação em Direito para atuação na Defensoria de 2ª Grau em Fortaleza",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -580,7 +676,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1574487351009123660",
+      "id": "urn:defensorias:8703930095086791162",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidade de posse no Crato",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -592,7 +688,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:9024307200884375816",
+      "id": "urn:defensorias:2263921289403424008",
       "url": "",
       "title": "Cuidado é trabalho: Defensoria pede remuneração para idosa que assumiu cuidados do ex-marido 20 anos após divórcio",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -652,7 +748,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1531777661460807987",
+      "id": "urn:defensorias:-3237773693551655126",
       "url": "",
       "title": "Nova unidade da Defensoria de SP em São José dos Campos inaugura modelo de integração com a DPU",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -724,54 +820,6 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/10/02/defensoria-publica-do-amazonas-realiza-tres-dias-de-atendimentos-juridicos-em-manicore/",
-      "url": "https://defensoria.am.def.br/2026/10/02/defensoria-publica-do-amazonas-realiza-tres-dias-de-atendimentos-juridicos-em-manicore/",
-      "title": "Defensoria Pública do Amazonas realiza três dias de atendimentos jurídicos em Manicoré",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/10/02/sem-energia-e-com-a-agua-racionada-moradora-de-residencial-no-taruma-acu-relata-o-peso-da-conta-de-luz-sem-tarifa-social/",
-      "url": "https://defensoria.am.def.br/2026/10/02/sem-energia-e-com-a-agua-racionada-moradora-de-residencial-no-taruma-acu-relata-o-peso-da-conta-de-luz-sem-tarifa-social/",
-      "title": "Sem energia e com a água racionada, moradora de residencial no Tarumã-Açu relata o peso da conta de luz sem tarifa social",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-6024832121746530370",
-      "url": "",
-      "title": "2 de outubro de 2026",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-5154308590967596204",
-      "url": "",
-      "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Eusébio e Iguatu",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-02T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/dia-internacional-da-pessoa-idosa-confira-direitos-e-garantias",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/dia-internacional-da-pessoa-idosa-confira-direitos-e-garantias",
       "title": "Dia Internacional da Pessoa Idosa: confira direitos e garantias",
@@ -799,30 +847,6 @@
       "id": "https://defensoria.rj.def.br/noticia/detalhes/33056-DPRJ-realiza-atendimento-integral-a-adolescentes-no-Cense-Ialgu-em-Volta-Redonda",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/33056-DPRJ-realiza-atendimento-integral-a-adolescentes-no-Cense-Ialgu-em-Volta-Redonda",
       "title": "DPRJ realiza atendimento integral a adolescentes no Cense Ialgu, em Volta Redonda",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-10-01T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/33054-Defensoria-atua-no-juri-pela-morte-de-dois-jovens-em-acao-policial-na-Pavuna",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/33054-Defensoria-atua-no-juri-pela-morte-de-dois-jovens-em-acao-policial-na-Pavuna",
-      "title": "Defensoria atua no júri pela morte de dois jovens em ação policial na Pavuna",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-10-01T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/33057-DPRJ-participa-de-congresso-sobre-combate-a-discriminacao-e-promocao-da-equidade",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/33057-DPRJ-participa-de-congresso-sobre-combate-a-discriminacao-e-promocao-da-equidade",
-      "title": "DPRJ participa de congresso sobre combate à discriminação e promoção da equidade",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-10-01T00:00:00",
       "tags": [
@@ -868,18 +892,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4305/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4305/",
-      "title": "Justiça acolhe pedido da Defensoria Pública de Pernambuco e determina reinclusão provisória de candidata após avaliação de heteroidentificação",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-09-30T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/mdhc-disponibiliza-cinco-cursos-gratuitos-para-formacao-de-liderancas-na-defesa-dos-direitos-das-pessoas-com-deficiencia",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/mdhc-disponibiliza-cinco-cursos-gratuitos-para-formacao-de-liderancas-na-defesa-dos-direitos-das-pessoas-com-deficiencia",
       "title": "MDHC disponibiliza cinco cursos gratuitos para formação de lideranças na defesa dos direitos das pessoas com deficiência",
@@ -916,22 +928,10 @@
       ]
     },
     {
-      "id": "urn:defensorias:4394419474589252877",
+      "id": "urn:defensorias:6659090988981117760",
       "url": "",
       "title": "Defensoria de SP obtém suspensão de condenação injusta por tentativa de furto",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
-      "date_published": "2026-09-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/33049-DPRJ-e-admitida-como-terceira-interessada-em-proposta-do-CNJ-sobre-violencia-processual-de-genero",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/33049-DPRJ-e-admitida-como-terceira-interessada-em-proposta-do-CNJ-sobre-violencia-processual-de-genero",
-      "title": "DPRJ é admitida como terceira interessada em proposta do CNJ sobre violência processual de gênero",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-09-29T00:00:00",
       "tags": [
         "Brasil",
@@ -952,7 +952,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:671000225962694643",
+      "id": "urn:defensorias:-2701748089602751928",
       "url": "",
       "title": "TJSP acolhe recurso da Defensoria para reconhecer identidade de gênero não binária e afastar dívida como impedimento para alteração de registro",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -964,7 +964,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2799969862728168795",
+      "id": "urn:defensorias:2733999951086920217",
       "url": "",
       "title": "Nova unidade da Defensoria de SP em São José dos Campos será a primeira a implementar parceria nacional com a DPU",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
