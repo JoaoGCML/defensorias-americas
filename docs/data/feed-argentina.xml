@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Argentina</title>
   <id>urn:defensorias-americas:prensa:argentina</id>
-  <updated>2026-10-09T14:11:00Z</updated>
+  <updated>2026-10-10T13:19:52Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-argentina.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>SE FIRMÓ UN CONVENIO ENTRE EL MPD Y LA ASOCIACIÓN ARGENTINA DE JUICIO POR JURADOS</title>
+    <id>https://www.mpd.gov.ar/index.php/noticias-h/se-firmo-un-convenio-entre-el-mpd-y-la-asociacion-argentina-de-juicio-por-jurados</id>
+    <link href="https://www.mpd.gov.ar/index.php/noticias-h/se-firmo-un-convenio-entre-el-mpd-y-la-asociacion-argentina-de-juicio-por-jurados" />
+    <updated>2026-10-09T00:00:00</updated>
+    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
+  </entry>
   <entry>
     <title>EL MPD Y EL MPF AVANZAN EN LA INTEGRACIÓN DE SUS SISTEMAS INFORMÁTICOS PARA FORTALECER EL SISTEMA ACUSATORIO</title>
     <id>https://www.mpd.gov.ar/index.php/noticias-h/el-mpd-y-el-mpf-avanzan-en-la-integracion-de-sus-sistemas-informaticos-para-fortalecer-el-sistema-acusatorio</id>
@@ -17,13 +24,6 @@
     <id>https://www.mpd.gov.ar/index.php/noticias-h/hoy-comienza-a-regir-el-cppf-en-la-jurisdiccion-de-la-plata</id>
     <link href="https://www.mpd.gov.ar/index.php/noticias-h/hoy-comienza-a-regir-el-cppf-en-la-jurisdiccion-de-la-plata" />
     <updated>2026-09-21T00:00:00</updated>
-    <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
-  </entry>
-  <entry>
-    <title>ACTO INAUGURAL POR LA ENTRADA EN VIGENCIA DEL SISTEMA ACUSATORIO EN LA JURISDICCIÓN DE LA PLATA</title>
-    <id>https://www.mpd.gov.ar/index.php/noticias-h/acto-inaugural-por-la-entrada-en-vigencia-del-sistema-acusatorio-en-la-jurisdiccion-de-la-plata</id>
-    <link href="https://www.mpd.gov.ar/index.php/noticias-h/acto-inaugural-por-la-entrada-en-vigencia-del-sistema-acusatorio-en-la-jurisdiccion-de-la-plata" />
-    <updated>2026-09-18T00:00:00</updated>
     <summary>Defensoría General de la Nación (Argentina) — noticias</summary>
   </entry>
 </feed>

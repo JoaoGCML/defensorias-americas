@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-antofagasta-retiro-placa/",
+      "url": "https://www.indh.cl/indh-antofagasta-retiro-placa/",
+      "title": "INDH de Antofagasta oficia a la Delegación Regional por retiro de placa en memoria de las víctimas de la dictadura",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-10-09T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-maule-taller-carabineros-170/",
       "url": "https://www.indh.cl/indh-maule-taller-carabineros-170/",
       "title": "INDH Maule realizó taller a 20 funcionarias y funcionarios de Carabineros: casi 170 integrantes de las Fuerza de Orden han participado de actividades en la región durante 2026",
@@ -52,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2841309900395152361",
+      "id": "urn:defensorias:-3261014979617732264",
       "url": "",
       "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -100,7 +112,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5534686660740459233",
+      "id": "urn:defensorias:-4486195227394324903",
       "url": "",
       "title": "Niños, niñas y adolescentes de la RM presentaron 16 propuestas ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -120,23 +132,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-antofagasta-oficio-avance-exvertedero-la-chimba/",
-      "url": "https://www.indh.cl/indh-antofagasta-oficio-avance-exvertedero-la-chimba/",
-      "title": "INDH Antofagasta ofició a municipio para verificar el avance de acciones comprometidas para que el exvertedero La Chimba deje de afectar la salud de vecinas y vecinos",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-09-30T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
         "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:-489848837943423548",
+      "id": "urn:defensorias:-4407103064133814828",
       "url": "",
       "title": "T13 | Defensoría de la Niñez pedirá antecedentes por eliminación...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5378481505655159819",
+      "id": "urn:defensorias:-2892765067781754446",
       "url": "",
       "title": "La Tercera | La Niñez en la balanza del ajuste...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6226041896828924143",
+      "id": "urn:defensorias:-2727124982097590012",
       "url": "",
       "title": "Biobio.cl | La niñez en la balanza del ajuste fiscal:...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5590127344401443527",
+      "id": "urn:defensorias:7686193883616516677",
       "url": "",
       "title": "El Mostrador | La paradoja de la infancia: casi la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-132515646817045100",
+      "id": "urn:defensorias:-2209988715374933025",
       "url": "",
       "title": "Informe de Defensoría de la Niñez y UNICEF: 46% de ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7327931959038812874",
+      "id": "urn:defensorias:-2088573049022616518",
       "url": "",
       "title": "24 Horas | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1421411152973636348",
+      "id": "urn:defensorias:-2105155479494505227",
       "url": "",
       "title": "CNN Chile | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -217,18 +217,6 @@
         "Chile",
         "Sudamérica",
         "prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-8748312794818956006",
-      "url": "",
-      "title": "CIDH concede audiencia solicitada por la Defensoría de la Niñez ...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-09-10T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
       ]
     }
   ]
