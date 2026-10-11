@@ -4,6 +4,42 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-civel-e-criminal-10-a-12-de-outubro-de-2026",
+      "url": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-civel-e-criminal-10-a-12-de-outubro-de-2026",
+      "title": "Lista dos defensores públicos plantonistas cível e criminal - 10 a 12 de outubro de 2026",
+      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
+      "date_published": "2026-10-12T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-la-democracia-se-construye-con-memoria,-derechos-humanos,-libertad-y-dignidad-para-todas-y-todos",
+      "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-la-democracia-se-construye-con-memoria,-derechos-humanos,-libertad-y-dignidad-para-todas-y-todos",
+      "title": "PRONUNCIAMIENTO LA DEMOCRACIA SE CONSTRUYE CON MEMORIA, DERECHOS HUMANOS, LIBERTAD Y DIGNIDAD PARA TODAS Y TODOS",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-10-10T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/brasileiros-repatriados-dos-estados-unidos-chegam-a-confins-mg-nessa-sexta-feira-9",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/brasileiros-repatriados-dos-estados-unidos-chegam-a-confins-mg-nessa-sexta-feira-9",
+      "title": "Brasileiros repatriados dos Estados Unidos chegam a Confins (MG) nessa sexta-feira (9)",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-10-10T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.am.def.br/2026/10/10/inspecao-da-defensoria-aponta-acumulo-de-livros-lacrados-e-falhas-estruturais-em-escola-da-zona-norte/",
       "url": "https://defensoria.am.def.br/2026/10/10/inspecao-da-defensoria-aponta-acumulo-de-livros-lacrados-e-falhas-estruturais-em-escola-da-zona-norte/",
       "title": "Inspeção da Defensoria aponta acúmulo de livros lacrados e falhas estruturais em escola da Zona Norte",
@@ -16,13 +52,61 @@
       ]
     },
     {
-      "id": "urn:defensorias:4840859199523901308",
+      "id": "urn:defensorias:-5791680098346866170",
       "url": "",
       "title": "Noticias 10 de octubre de 2026 Defensoría del Pueblo renueva convenio para impulsar el servicio sustitutivo de jóvenes objetores de conciencia El Defe",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
       "date_published": "2026-10-10T00:00:00",
       "tags": [
         "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-monitorea-incendio-urbano-en-moquegua-y-lamenta-fallecimiento-de-nino-de-7-anos/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-monitorea-incendio-urbano-en-moquegua-y-lamenta-fallecimiento-de-nino-de-7-anos/",
+      "title": "Defensoría del Pueblo monitorea incendio urbano en Moquegua y lamenta fallecimiento de niño de 7 años",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-10-10T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-condena-atentado-contra-oficina-descentralizada-de-procesos-electorales-en-ventanilla-callao-y-exige-celeridad-en-investigaciones-para-sancionar-ejemplarmente-a-los-delincuente/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-condena-atentado-contra-oficina-descentralizada-de-procesos-electorales-en-ventanilla-callao-y-exige-celeridad-en-investigaciones-para-sancionar-ejemplarmente-a-los-delincuente/",
+      "title": "Defensoría del Pueblo condena atentado contra Oficina Descentralizada de Procesos Electorales en Ventanilla – Callao y exige celeridad en investigaciones para sancionar ejemplarmente a los delincuentes",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-10-10T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-fortalecer-la-atencion-en-salud-mental/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-fortalecer-la-atencion-en-salud-mental/",
+      "title": "Defensoría del Pueblo exhorta a fortalecer la atención en salud mental",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-10-10T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-realiza-accion-itinerante-en-sechura-y-capacita-a-mas-de-320-futuros-policias-en-la-union/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-realiza-accion-itinerante-en-sechura-y-capacita-a-mas-de-320-futuros-policias-en-la-union/",
+      "title": "Defensoría del Pueblo realiza acción itinerante en sechura y capacita a más de 320 futuros policías en La Unión",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-10-10T00:00:00",
+      "tags": [
+        "Perú",
         "Sudamérica",
         "noticias"
       ]
@@ -172,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7509188581813215173",
+      "id": "urn:defensorias:5704521897635921104",
       "url": "",
       "title": "9 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -184,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6809176893992163026",
+      "id": "urn:defensorias:6304194829253709696",
       "url": "",
       "title": "Assessoria de Estágio divulga inscrições para remanejamento de estagiários de Direito",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -196,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2250696133434021231",
+      "id": "urn:defensorias:2553177056558026472",
       "url": "",
       "title": "Defensoria abre seleção simplificada de estágio de graduação em Direito para atuação em Aquiraz",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -208,7 +292,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-881251179139366436",
+      "id": "urn:defensorias:6232634065947725989",
       "url": "",
       "title": "Assessoria de Estágio realiza novo procedimento de heteroidentificação",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -472,7 +556,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9120692389207454581",
+      "id": "urn:defensorias:4968505974104298507",
       "url": "",
       "title": "8 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -484,7 +568,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5074052531525882389",
+      "id": "urn:defensorias:2867422772749796923",
       "url": "",
       "title": "Assessoria de Estágio divulga inscrições deferidas no processo seletivo de estágio de graduação em Direito; Prova será aplicada no dia 23 de outubro",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -496,7 +580,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1275850130821323691",
+      "id": "urn:defensorias:856964974558963354",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Acaraú, Quixadá e Santa Quitéria",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -508,7 +592,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4002839453797998111",
+      "id": "urn:defensorias:-1590546076425713321",
       "url": "",
       "title": "Defensoria Pública estará de plantão neste feriado de 12 de outubro",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -556,7 +640,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4101191870848946077",
+      "id": "urn:defensorias:5672066749069653621",
       "url": "",
       "title": "Noticias 8 de octubre de 2026 Jornada de Asistencia Integral acercó servicios y derechos a la comunidad indígena Yvapovondy La Defensoría del Pueblo,",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -688,7 +772,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2267906950830772199",
+      "id": "urn:defensorias:-90079347628223380",
       "url": "",
       "title": "Justiça suspende cobrança de IPTU sobre terreno destinado à construção de terreiro de Candomblé em Embu-Guaçu após atuação de Núcleo da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -808,7 +892,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3187851155080150420",
+      "id": "urn:defensorias:-8708530157523936239",
       "url": "",
       "title": "7 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -820,7 +904,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5069164952539790228",
+      "id": "urn:defensorias:7379202573560295255",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de pós-graduação em Direito para solenidades de posse em Fortaleza e Mauriti",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -832,7 +916,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2093702860515210227",
+      "id": "urn:defensorias:-62977901311432325",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Limoeiro do Norte",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -856,7 +940,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3923575120878943716",
+      "id": "urn:defensorias:-5779718551487403884",
       "url": "",
       "title": "Noticias 7 de octubre de 2026 Culminamos nuestro ciclo de charlas en el Bañado Norte de Asunción Cerramos con mucha satisfacción una semana de trabajo",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -964,7 +1048,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-553116181076261744",
+      "id": "urn:defensorias:-5007435488116952888",
       "url": "",
       "title": "Defensoria Pública de SP abre inscrições para o X Concurso de ingresso na carreira em 13 de outubro",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1060,7 +1144,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6096294038730011618",
+      "id": "urn:defensorias:5638170259647791857",
       "url": "",
       "title": "6 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -1072,7 +1156,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4024149554426890345",
+      "id": "urn:defensorias:4491324811109268143",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Fortaleza e Crato",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -1084,7 +1168,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4334987549125354256",
+      "id": "urn:defensorias:-4502242352022329169",
       "url": "",
       "title": "Defensoria mantém Observatório para receber denúncias de intolerância política no segundo turno",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -1096,7 +1180,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3261014979617732264",
+      "id": "urn:defensorias:-3240431026445810945",
       "url": "",
       "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -1117,90 +1201,6 @@
         "Chile",
         "Sudamérica",
         "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-arica-instancia-binacional-trata/",
-      "url": "https://www.indh.cl/indh-arica-instancia-binacional-trata/",
-      "title": "Jefe de INDH de Arica y Parinacota participó en instancia binacional que analizó cómo prevenir nuevas formas de trata de personas, que afectan especialmente a mujeres",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-10-06T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-aysen-feria-cientifica/",
-      "url": "https://www.indh.cl/indh-aysen-feria-cientifica/",
-      "title": "INDH Aysén realizó feria científica que reconoció proyectos estudiantiles sobre desafíos medioambientales de la región",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-10-06T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-6969901397492634788",
-      "url": "",
-      "title": "Noticias 6 de octubre de 2026 Defensoría del Pueblo verifica situación de personas adultas mayores afectadas por el temporal Funcionarias de la Direcc",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-10-06T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://mnp.gov.py/el-mnp-presento-informes-sobre-salud-mental-a-la-comunidad-sorda/",
-      "url": "https://mnp.gov.py/el-mnp-presento-informes-sobre-salud-mental-a-la-comunidad-sorda/",
-      "title": "El MNP presentó informes sobre salud mental a la comunidad sorda",
-      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
-      "date_published": "2026-10-06T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-emite-recomendaciones-al-publico-asistente-a-los-conciertos-que-ofrecera-la-banda-bts-en-lima/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-emite-recomendaciones-al-publico-asistente-a-los-conciertos-que-ofrecera-la-banda-bts-en-lima/",
-      "title": "Defensoría del Pueblo emite recomendaciones al público asistente a los conciertos que ofrecerá la banda BTS en Lima",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-06T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/215.asp&utm_content=country-col&utm_term=class-mon",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/215.asp&utm_content=country-col&utm_term=class-mon",
-      "title": "215/26—Colombia: CIDH llama a garantizar recursos presupuestales adecuados para la justicia transicional y la búsqueda de personas desaparecidas",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-10-06T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/214.asp&utm_content=country-ven&utm_term=class-mon",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/214.asp&utm_content=country-ven&utm_term=class-mon",
-      "title": "214/26—CIDH urge la liberación de personas militares privadas de libertad por motivos políticos en Venezuela",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-10-06T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
       ]
     }
   ]

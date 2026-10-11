@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
+      "id": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-civel-e-criminal-10-a-12-de-outubro-de-2026",
+      "url": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-civel-e-criminal-10-a-12-de-outubro-de-2026",
+      "title": "Lista dos defensores públicos plantonistas cível e criminal - 10 a 12 de outubro de 2026",
+      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
+      "date_published": "2026-10-12T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/brasileiros-repatriados-dos-estados-unidos-chegam-a-confins-mg-nessa-sexta-feira-9",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/brasileiros-repatriados-dos-estados-unidos-chegam-a-confins-mg-nessa-sexta-feira-9",
+      "title": "Brasileiros repatriados dos Estados Unidos chegam a Confins (MG) nessa sexta-feira (9)",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-10-10T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://defensoria.am.def.br/2026/10/10/inspecao-da-defensoria-aponta-acumulo-de-livros-lacrados-e-falhas-estruturais-em-escola-da-zona-norte/",
       "url": "https://defensoria.am.def.br/2026/10/10/inspecao-da-defensoria-aponta-acumulo-de-livros-lacrados-e-falhas-estruturais-em-escola-da-zona-norte/",
       "title": "Inspeção da Defensoria aponta acúmulo de livros lacrados e falhas estruturais em escola da Zona Norte",
@@ -148,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7509188581813215173",
+      "id": "urn:defensorias:5704521897635921104",
       "url": "",
       "title": "9 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -160,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6809176893992163026",
+      "id": "urn:defensorias:6304194829253709696",
       "url": "",
       "title": "Assessoria de Estágio divulga inscrições para remanejamento de estagiários de Direito",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -172,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2250696133434021231",
+      "id": "urn:defensorias:2553177056558026472",
       "url": "",
       "title": "Defensoria abre seleção simplificada de estágio de graduação em Direito para atuação em Aquiraz",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -184,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-881251179139366436",
+      "id": "urn:defensorias:6232634065947725989",
       "url": "",
       "title": "Assessoria de Estágio realiza novo procedimento de heteroidentificação",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -316,7 +340,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9120692389207454581",
+      "id": "urn:defensorias:4968505974104298507",
       "url": "",
       "title": "8 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -328,7 +352,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5074052531525882389",
+      "id": "urn:defensorias:2867422772749796923",
       "url": "",
       "title": "Assessoria de Estágio divulga inscrições deferidas no processo seletivo de estágio de graduação em Direito; Prova será aplicada no dia 23 de outubro",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -340,7 +364,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1275850130821323691",
+      "id": "urn:defensorias:856964974558963354",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Acaraú, Quixadá e Santa Quitéria",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -352,7 +376,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4002839453797998111",
+      "id": "urn:defensorias:-1590546076425713321",
       "url": "",
       "title": "Defensoria Pública estará de plantão neste feriado de 12 de outubro",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -400,7 +424,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2267906950830772199",
+      "id": "urn:defensorias:-90079347628223380",
       "url": "",
       "title": "Justiça suspende cobrança de IPTU sobre terreno destinado à construção de terreiro de Candomblé em Embu-Guaçu após atuação de Núcleo da Defensoria",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -520,7 +544,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3187851155080150420",
+      "id": "urn:defensorias:-8708530157523936239",
       "url": "",
       "title": "7 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -532,7 +556,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5069164952539790228",
+      "id": "urn:defensorias:7379202573560295255",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de pós-graduação em Direito para solenidades de posse em Fortaleza e Mauriti",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -544,7 +568,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2093702860515210227",
+      "id": "urn:defensorias:-62977901311432325",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Limoeiro do Norte",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -556,7 +580,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-553116181076261744",
+      "id": "urn:defensorias:-5007435488116952888",
       "url": "",
       "title": "Defensoria Pública de SP abre inscrições para o X Concurso de ingresso na carreira em 13 de outubro",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -652,7 +676,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6096294038730011618",
+      "id": "urn:defensorias:5638170259647791857",
       "url": "",
       "title": "6 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -664,7 +688,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4024149554426890345",
+      "id": "urn:defensorias:4491324811109268143",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Fortaleza e Crato",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -676,7 +700,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4334987549125354256",
+      "id": "urn:defensorias:-4502242352022329169",
       "url": "",
       "title": "Defensoria mantém Observatório para receber denúncias de intolerância política no segundo turno",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -700,7 +724,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8679622787953913379",
+      "id": "urn:defensorias:-4081412384430820889",
       "url": "",
       "title": "Maior do país, Defensoria Pública de SP apresenta nova identidade institucional",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -712,7 +736,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5674112717242368222",
+      "id": "urn:defensorias:-477681917679573289",
       "url": "",
       "title": "TJ-SP reconhece que ação de sobrevivente do Massacre do Carandiru não prescreve; decisão é confirmada pelo STJ",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -808,7 +832,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6526079117223512087",
+      "id": "urn:defensorias:4310503578804077726",
       "url": "",
       "title": "5 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -856,7 +880,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8625017617856494162",
+      "id": "urn:defensorias:-3241199297193965244",
       "url": "",
       "title": "Nova unidade da Defensoria de SP em São José dos Campos inaugura modelo de integração com a DPU",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -964,7 +988,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-316392467778740738",
+      "id": "urn:defensorias:2864921601478170826",
       "url": "",
       "title": "Defensoria de SP obtém suspensão de condenação injusta por tentativa de furto",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -988,7 +1012,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2820785357540303887",
+      "id": "urn:defensorias:-6558177795715224136",
       "url": "",
       "title": "TJSP acolhe recurso da Defensoria para reconhecer identidade de gênero não binária e afastar dívida como impedimento para alteração de registro",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1000,7 +1024,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7979892499736151481",
+      "id": "urn:defensorias:-6562498382026005957",
       "url": "",
       "title": "Nova unidade da Defensoria de SP em São José dos Campos será a primeira a implementar parceria nacional com a DPU",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1051,18 +1075,6 @@
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/eca-ambiental-sancionada-lei-que-estabelece-principios-e-diretrizes-para-garantir-o-direito-de-criancas-e-adolescentes-a-natureza",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/eca-ambiental-sancionada-lei-que-estabelece-principios-e-diretrizes-para-garantir-o-direito-de-criancas-e-adolescentes-a-natureza",
       "title": "ECA Ambiental: sancionada lei que estabelece princípios e diretrizes para garantir o direito de crianças e adolescentes à natureza",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-09-23T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/brasil-e-egito-realizam-reuniao-tecnica-sobre-politicas-para-a-infancia-e-adolescencia",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/brasil-e-egito-realizam-reuniao-tecnica-sobre-politicas-para-a-infancia-e-adolescencia",
-      "title": "Brasil e Egito realizam reunião técnica sobre políticas para a infância e adolescência",
       "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
       "date_published": "2026-09-23T00:00:00",
       "tags": [

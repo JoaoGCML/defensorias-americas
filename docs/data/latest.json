@@ -1,6 +1,6 @@
 {
   "dias": 30,
-  "timestamp": "20261010_1319",
+  "timestamp": "20261011_1350",
   "instituciones": [
     {
       "pais": "Argentina",
@@ -77,7 +77,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.513743"
+      "timestamp": "2026-10-11T13:49:32.884596"
     },
     {
       "pais": "Argentina",
@@ -105,7 +105,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.518009"
+      "timestamp": "2026-10-11T13:49:32.893274"
     },
     {
       "pais": "Argentina",
@@ -126,7 +126,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.518502"
+      "timestamp": "2026-10-11T13:49:32.893928"
     },
     {
       "pais": "Bolivia",
@@ -158,6 +158,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "PRONUNCIAMIENTO LA DEMOCRACIA SE CONSTRUYE CON MEMORIA, DERECHOS HUMANOS, LIBERTAD Y DIGNIDAD PARA TODAS Y TODOS",
+          "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-la-democracia-se-construye-con-memoria,-derechos-humanos,-libertad-y-dignidad-para-todas-y-todos",
+          "fecha": "2026-10-10T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "DEFENSORÍA DEL PUEBLO RATIFICA ALERTA Y RECOMENDACIONES AL ESTADO PARA SALVAGUARDAR EL DERECHO A LA ALIMENTACIÓN",
           "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-ratifica-alerta-y-recomendaciones-al-estado-para-salvaguardar-el-derecho-a-la-alimentacion",
           "fecha": "2026-10-08T00:00:00",
@@ -216,13 +223,6 @@
         {
           "titulo": "DÍA INTERNACIONAL DE LAS PERSONAS DE EDAD (PRONUNCIAMIENTO)",
           "url": "https://www.defensoria.gob.bo/noticias/dia-internacional-de-las-personas-de-edadpronunciamiento-",
-          "fecha": "2026-10-01T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "PRONUNCIAMIENTO DEFENSORÍA DEL PUEBLO EXHORTA A GARANTIZAR LA CONTINUIDAD DE ATENCIÓN A LA POBLACIÓN POR PARTE DEL MINISTERIO PÚBLICO",
-          "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-exhorta-a-garantizar-la-continuidad-de-atencion-a-la-poblacion-por-parte-del-ministerio-publico",
           "fecha": "2026-10-01T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -230,6 +230,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "PRONUNCIAMIENTO LA DEMOCRACIA SE CONSTRUYE CON MEMORIA, DERECHOS HUMANOS, LIBERTAD Y DIGNIDAD PARA TODAS Y TODOS",
+          "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-la-democracia-se-construye-con-memoria,-derechos-humanos,-libertad-y-dignidad-para-todas-y-todos",
+          "fecha": "2026-10-10T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "DEFENSORÍA DEL PUEBLO RATIFICA ALERTA Y RECOMENDACIONES AL ESTADO PARA SALVAGUARDAR EL DERECHO A LA ALIMENTACIÓN",
           "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-ratifica-alerta-y-recomendaciones-al-estado-para-salvaguardar-el-derecho-a-la-alimentacion",
           "fecha": "2026-10-08T00:00:00",
@@ -291,18 +298,11 @@
           "fecha": "2026-10-01T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "PRONUNCIAMIENTO DEFENSORÍA DEL PUEBLO EXHORTA A GARANTIZAR LA CONTINUIDAD DE ATENCIÓN A LA POBLACIÓN POR PARTE DEL MINISTERIO PÚBLICO",
-          "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-exhorta-a-garantizar-la-continuidad-de-atencion-a-la-poblacion-por-parte-del-ministerio-publico",
-          "fecha": "2026-10-01T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.518819"
+      "timestamp": "2026-10-11T13:49:32.894591"
     },
     {
       "pais": "Brasil",
@@ -527,7 +527,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.519410"
+      "timestamp": "2026-10-11T13:49:32.894986"
     },
     {
       "pais": "Brasil",
@@ -546,6 +546,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "Brasileiros repatriados dos Estados Unidos chegam a Confins (MG) nessa sexta-feira (9)",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/brasileiros-repatriados-dos-estados-unidos-chegam-a-confins-mg-nessa-sexta-feira-9",
+          "fecha": "2026-10-10T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Nota à Imprensa",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/nota-a-imprensa",
           "fecha": "2026-10-09T00:00:00",
@@ -674,13 +681,6 @@
         {
           "titulo": "ECA Ambiental: sancionada lei que estabelece princípios e diretrizes para garantir o direito de crianças e adolescentes à natureza",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/eca-ambiental-sancionada-lei-que-estabelece-principios-e-diretrizes-para-garantir-o-direito-de-criancas-e-adolescentes-a-natureza",
-          "fecha": "2026-09-23T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Brasil e Egito realizam reunião técnica sobre políticas para a infância e adolescência",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/brasil-e-egito-realizam-reuniao-tecnica-sobre-politicas-para-a-infancia-e-adolescencia",
           "fecha": "2026-09-23T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -688,6 +688,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Brasileiros repatriados dos Estados Unidos chegam a Confins (MG) nessa sexta-feira (9)",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/brasileiros-repatriados-dos-estados-unidos-chegam-a-confins-mg-nessa-sexta-feira-9",
+          "fecha": "2026-10-10T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Nota à Imprensa",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/nota-a-imprensa",
           "fecha": "2026-10-09T00:00:00",
@@ -819,18 +826,11 @@
           "fecha": "2026-09-23T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Brasil e Egito realizam reunião técnica sobre políticas para a infância e adolescência",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/brasil-e-egito-realizam-reuniao-tecnica-sobre-politicas-para-a-infancia-e-adolescencia",
-          "fecha": "2026-09-23T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.520328"
+      "timestamp": "2026-10-11T13:49:32.896027"
     },
     {
       "pais": "Brasil",
@@ -851,7 +851,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.520724"
+      "timestamp": "2026-10-11T13:49:32.896558"
     },
     {
       "pais": "Brasil",
@@ -992,7 +992,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.521437"
+      "timestamp": "2026-10-11T13:49:32.897089"
     },
     {
       "pais": "Brasil",
@@ -1155,7 +1155,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.521816"
+      "timestamp": "2026-10-11T13:49:32.897484"
     },
     {
       "pais": "Brasil",
@@ -1346,7 +1346,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.521852"
+      "timestamp": "2026-10-11T13:49:32.897524"
     },
     {
       "pais": "Brasil",
@@ -1649,7 +1649,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.521879"
+      "timestamp": "2026-10-11T13:49:32.897557"
     },
     {
       "pais": "Brasil",
@@ -1675,6 +1675,13 @@
           "es_pdf": false
         },
         {
+          "titulo": "Lista dos defensores públicos plantonistas cível e criminal - 10 a 12 de outubro de 2026",
+          "url": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-civel-e-criminal-10-a-12-de-outubro-de-2026",
+          "fecha": "2026-10-12T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Expresso da Cidadania leva atendimento gratuito a Belo Monte e Jacaré dos Homens",
           "url": "https://defensoria.al.def.br/index.php/noticias/expresso-da-cidadania-leva-atendimento-gratuito-a-belo-monte-e-jacare-dos-homens",
           "fecha": null,
@@ -1696,7 +1703,15 @@
           "es_pdf": false
         }
       ],
-      "items_en_periodo": [],
+      "items_en_periodo": [
+        {
+          "titulo": "Lista dos defensores públicos plantonistas cível e criminal - 10 a 12 de outubro de 2026",
+          "url": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-civel-e-criminal-10-a-12-de-outubro-de-2026",
+          "fecha": "2026-10-12T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        }
+      ],
       "items_sin_fecha": [
         {
           "titulo": "Dia de Nossa Senhora Aparecida: Defensoria atende em regime de plantão nesta segunda-feira (12)",
@@ -1728,7 +1743,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.521901"
+      "timestamp": "2026-10-11T13:49:32.897584"
     },
     {
       "pais": "Brasil",
@@ -2018,7 +2033,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.521921"
+      "timestamp": "2026-10-11T13:49:32.897606"
     },
     {
       "pais": "Brasil",
@@ -2083,7 +2098,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.521944"
+      "timestamp": "2026-10-11T13:49:32.897627"
     },
     {
       "pais": "Chile",
@@ -2110,7 +2125,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.521967"
+      "timestamp": "2026-10-11T13:49:32.897647"
     },
     {
       "pais": "Chile",
@@ -2413,7 +2428,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.521983"
+      "timestamp": "2026-10-11T13:49:32.897667"
     },
     {
       "pais": "Chile",
@@ -2575,7 +2590,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522003"
+      "timestamp": "2026-10-11T13:49:32.897684"
     },
     {
       "pais": "Colombia",
@@ -2609,7 +2624,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522019"
+      "timestamp": "2026-10-11T13:49:32.897699"
     },
     {
       "pais": "Colombia",
@@ -2636,7 +2651,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522035"
+      "timestamp": "2026-10-11T13:49:32.897715"
     },
     {
       "pais": "Ecuador",
@@ -2664,7 +2679,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522051"
+      "timestamp": "2026-10-11T13:49:32.897739"
     },
     {
       "pais": "Paraguay",
@@ -2856,7 +2871,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522070"
+      "timestamp": "2026-10-11T13:49:32.897759"
     },
     {
       "pais": "Paraguay",
@@ -2991,7 +3006,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522093"
+      "timestamp": "2026-10-11T13:49:32.897786"
     },
     {
       "pais": "Perú",
@@ -3026,6 +3041,34 @@
           "titulo": "Defensoría del Pueblo hace un llamado a la calma y a la paz social ante las protestas relacionadas con los resultados de las Elecciones Regionales y Municipales 2026",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-hace-un-llamado-a-la-calma-y-a-la-paz-social-ante-las-protestas-relacionadas-con-los-resultados-de-las-elecciones-regionales-y-municipales-2026/",
           "fecha": "2026-10-05T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo monitorea incendio urbano en Moquegua y lamenta fallecimiento de niño de 7 años",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-monitorea-incendio-urbano-en-moquegua-y-lamenta-fallecimiento-de-nino-de-7-anos/",
+          "fecha": "2026-10-10T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo condena atentado contra Oficina Descentralizada de Procesos Electorales en Ventanilla – Callao y exige celeridad en investigaciones para sancionar ejemplarmente a los delincuentes",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-condena-atentado-contra-oficina-descentralizada-de-procesos-electorales-en-ventanilla-callao-y-exige-celeridad-en-investigaciones-para-sancionar-ejemplarmente-a-los-delincuente/",
+          "fecha": "2026-10-10T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo exhorta a fortalecer la atención en salud mental",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-fortalecer-la-atencion-en-salud-mental/",
+          "fecha": "2026-10-10T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo realiza acción itinerante en sechura y capacita a más de 320 futuros policías en La Unión",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-realiza-accion-itinerante-en-sechura-y-capacita-a-mas-de-320-futuros-policias-en-la-union/",
+          "fecha": "2026-10-10T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -3131,34 +3174,6 @@
           "titulo": "Defensoría del Pueblo exige seguridad y esclarecimiento de presuntas fallas en cédulas de Canchaque",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-seguridad-y-esclarecimiento-de-presuntas-fallas-en-cedulas-de-canchaque/",
           "fecha": "2026-10-04T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo advierte incidencias de inducción al voto y alerta sobre posible escenario de violencia en San Salvador de Quije, Ayacucho",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-incidencias-de-induccion-al-voto-y-alerta-sobre-posible-escenario-de-violencia-en-san-salvador-de-quije-ayacucho/",
-          "fecha": "2026-10-04T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo interviene ante graves hechos registrados en local de votación de Sorochuco",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-interviene-ante-graves-hechos-registrados-en-local-de-votacion-de-sorochuco/",
-          "fecha": "2026-10-04T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo supervisó al 100% de las ODPE a nivel nacional y exige transparencia en la jornada electoral",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-superviso-al-100-de-las-odpe-a-nivel-nacional-y-exige-transparencia-en-la-jornada-electoral/",
-          "fecha": "2026-10-04T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo advierte propaganda electoral en pantalla LED en Pasco",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-propaganda-electoral-en-pantalla-led/",
-          "fecha": "2026-10-03T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -3305,6 +3320,34 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Defensoría del Pueblo monitorea incendio urbano en Moquegua y lamenta fallecimiento de niño de 7 años",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-monitorea-incendio-urbano-en-moquegua-y-lamenta-fallecimiento-de-nino-de-7-anos/",
+          "fecha": "2026-10-10T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo condena atentado contra Oficina Descentralizada de Procesos Electorales en Ventanilla – Callao y exige celeridad en investigaciones para sancionar ejemplarmente a los delincuentes",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-condena-atentado-contra-oficina-descentralizada-de-procesos-electorales-en-ventanilla-callao-y-exige-celeridad-en-investigaciones-para-sancionar-ejemplarmente-a-los-delincuente/",
+          "fecha": "2026-10-10T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo exhorta a fortalecer la atención en salud mental",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-fortalecer-la-atencion-en-salud-mental/",
+          "fecha": "2026-10-10T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo realiza acción itinerante en sechura y capacita a más de 320 futuros policías en La Unión",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-realiza-accion-itinerante-en-sechura-y-capacita-a-mas-de-320-futuros-policias-en-la-union/",
+          "fecha": "2026-10-10T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoría del Pueblo presenta encuesta nacional sobre percepción del acoso sexual callejero",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-presenta-encuesta-nacional-sobre-percepcion-del-acoso-sexual-callejero/",
           "fecha": "2026-10-09T00:00:00",
@@ -3424,34 +3467,6 @@
           "es_pdf": false
         },
         {
-          "titulo": "Defensoría del Pueblo advierte incidencias de inducción al voto y alerta sobre posible escenario de violencia en San Salvador de Quije, Ayacucho",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-incidencias-de-induccion-al-voto-y-alerta-sobre-posible-escenario-de-violencia-en-san-salvador-de-quije-ayacucho/",
-          "fecha": "2026-10-04T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo interviene ante graves hechos registrados en local de votación de Sorochuco",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-interviene-ante-graves-hechos-registrados-en-local-de-votacion-de-sorochuco/",
-          "fecha": "2026-10-04T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo supervisó al 100% de las ODPE a nivel nacional y exige transparencia en la jornada electoral",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-superviso-al-100-de-las-odpe-a-nivel-nacional-y-exige-transparencia-en-la-jornada-electoral/",
-          "fecha": "2026-10-04T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo advierte propaganda electoral en pantalla LED en Pasco",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-propaganda-electoral-en-pantalla-led/",
-          "fecha": "2026-10-03T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
           "titulo": "Comunicado n.° 061/DP/2026",
           "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-061-2026.pdf",
           "fecha": "2026-10-03T00:00:00",
@@ -3524,7 +3539,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522118"
+      "timestamp": "2026-10-11T13:49:32.897807"
     },
     {
       "pais": "Uruguay",
@@ -3828,7 +3843,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522138"
+      "timestamp": "2026-10-11T13:49:32.897828"
     },
     {
       "pais": "Venezuela",
@@ -3928,7 +3943,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522160"
+      "timestamp": "2026-10-11T13:49:32.897856"
     },
     {
       "pais": "Guyana",
@@ -4007,7 +4022,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522175"
+      "timestamp": "2026-10-11T13:49:32.897874"
     },
     {
       "pais": "Costa Rica",
@@ -4041,7 +4056,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522191"
+      "timestamp": "2026-10-11T13:49:32.897891"
     },
     {
       "pais": "El Salvador",
@@ -4329,7 +4344,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522210"
+      "timestamp": "2026-10-11T13:49:32.897911"
     },
     {
       "pais": "Guatemala",
@@ -4363,7 +4378,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522229"
+      "timestamp": "2026-10-11T13:49:32.897927"
     },
     {
       "pais": "Honduras",
@@ -4391,7 +4406,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522247"
+      "timestamp": "2026-10-11T13:49:32.897949"
     },
     {
       "pais": "México",
@@ -4455,7 +4470,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522265"
+      "timestamp": "2026-10-11T13:49:32.897975"
     },
     {
       "pais": "Nicaragua",
@@ -4619,7 +4634,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522284"
+      "timestamp": "2026-10-11T13:49:32.897996"
     },
     {
       "pais": "Panamá",
@@ -4768,7 +4783,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522307"
+      "timestamp": "2026-10-11T13:49:32.898016"
     },
     {
       "pais": "Belice",
@@ -4789,7 +4804,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522322"
+      "timestamp": "2026-10-11T13:49:32.898035"
     },
     {
       "pais": "República Dominicana",
@@ -4932,7 +4947,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522341"
+      "timestamp": "2026-10-11T13:49:32.898051"
     },
     {
       "pais": "República Dominicana",
@@ -4953,7 +4968,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522357"
+      "timestamp": "2026-10-11T13:49:32.898067"
     },
     {
       "pais": "Jamaica",
@@ -4967,100 +4982,21 @@
         {
           "url": "https://opd.gov.jm/news",
           "tipo": "news",
-          "ok": true,
-          "items": 8
+          "ok": false,
+          "items": 0
         },
         {
           "url": "https://opd.gov.jm/articles/news-release",
           "tipo": "press_release",
-          "ok": true,
-          "items": 8
+          "ok": false,
+          "items": 0
         }
       ],
-      "todos_items": [
-        {
-          "titulo": "Main navigation",
-          "url": "https://opd.gov.jm/",
-          "fecha": "2026-01-31T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Information",
-          "url": "https://opd.gov.jm/publications-and-reports",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Citizen Support",
-          "url": "https://opd.gov.jm/news",
-          "fecha": "2026-01-31T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Public Defender Launches Investigation into…",
-          "url": "https://opd.gov.jm/news/public-defender-launches-investigation-jamaicas-sexual-offenders-registry",
-          "fecha": "2026-01-31T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Office of the Public Defender 25th Anniversary -…",
-          "url": "https://opd.gov.jm/news/office-public-defender-25th-anniversary-2025",
-          "fecha": "2026-01-31T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Quick Links",
-          "url": "https://opd.gov.jm/mandate",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "CTA - Footer",
-          "url": "https://opd.gov.jm/form/complaint",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Get Involved",
-          "url": "https://opd.gov.jm/articles/news-release",
-          "fecha": "2026-01-31T00:00:00",
-          "tipo_seccion": "press_release",
-          "es_pdf": false
-        }
-      ],
+      "todos_items": [],
       "items_en_periodo": [],
-      "items_sin_fecha": [
-        {
-          "titulo": "Information",
-          "url": "https://opd.gov.jm/publications-and-reports",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Quick Links",
-          "url": "https://opd.gov.jm/mandate",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "CTA - Footer",
-          "url": "https://opd.gov.jm/form/complaint",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        }
-      ],
+      "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522400"
+      "timestamp": "2026-10-11T13:49:32.898083"
     },
     {
       "pais": "Trinidad y Tobago",
@@ -5088,7 +5024,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522417"
+      "timestamp": "2026-10-11T13:49:32.898099"
     },
     {
       "pais": "Curaçao",
@@ -5173,7 +5109,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522435"
+      "timestamp": "2026-10-11T13:49:32.898117"
     },
     {
       "pais": "Haití",
@@ -5201,7 +5137,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522459"
+      "timestamp": "2026-10-11T13:49:32.898147"
     },
     {
       "pais": "Canadá",
@@ -5394,7 +5330,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522479"
+      "timestamp": "2026-10-11T13:49:32.898169"
     },
     {
       "pais": "Canadá",
@@ -5515,7 +5451,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522507"
+      "timestamp": "2026-10-11T13:49:32.898188"
     },
     {
       "pais": "Canadá",
@@ -5536,7 +5472,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522523"
+      "timestamp": "2026-10-11T13:49:32.898210"
     },
     {
       "pais": "Canadá",
@@ -5557,7 +5493,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522538"
+      "timestamp": "2026-10-11T13:49:32.898230"
     },
     {
       "pais": "Canadá",
@@ -5727,7 +5663,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522557"
+      "timestamp": "2026-10-11T13:49:32.898248"
     },
     {
       "pais": "Canadá",
@@ -5748,7 +5684,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522583"
+      "timestamp": "2026-10-11T13:49:32.898267"
     },
     {
       "pais": "Canadá",
@@ -5769,7 +5705,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522602"
+      "timestamp": "2026-10-11T13:49:32.898286"
     },
     {
       "pais": "Canadá",
@@ -5790,7 +5726,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522619"
+      "timestamp": "2026-10-11T13:49:32.898332"
     },
     {
       "pais": "Canadá",
@@ -5840,7 +5776,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522641"
+      "timestamp": "2026-10-11T13:49:32.898361"
     },
     {
       "pais": "Regional",
@@ -5861,7 +5797,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522666"
+      "timestamp": "2026-10-11T13:49:32.898382"
     },
     {
       "pais": "Regional",
@@ -6025,7 +5961,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522688"
+      "timestamp": "2026-10-11T13:49:32.898402"
     },
     {
       "pais": "Regional",
@@ -6110,7 +6046,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522702"
+      "timestamp": "2026-10-11T13:49:32.898420"
     },
     {
       "pais": "Regional",
@@ -6329,7 +6265,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522717"
+      "timestamp": "2026-10-11T13:49:32.898440"
     },
     {
       "pais": "Regional",
@@ -6356,7 +6292,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-10T13:19:00.522734"
+      "timestamp": "2026-10-11T13:49:32.898462"
     }
   ]
 }
