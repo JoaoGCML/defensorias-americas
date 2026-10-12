@@ -1,6 +1,6 @@
 {
   "dias": 30,
-  "timestamp": "20261011_1350",
+  "timestamp": "20261012_1633",
   "instituciones": [
     {
       "pais": "Argentina",
@@ -77,7 +77,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.884596"
+      "timestamp": "2026-10-12T16:32:08.868469"
     },
     {
       "pais": "Argentina",
@@ -105,7 +105,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.893274"
+      "timestamp": "2026-10-12T16:32:08.876037"
     },
     {
       "pais": "Argentina",
@@ -126,7 +126,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.893928"
+      "timestamp": "2026-10-12T16:32:08.876397"
     },
     {
       "pais": "Bolivia",
@@ -158,6 +158,27 @@
       ],
       "todos_items": [
         {
+          "titulo": "DEFENSOR DEL PUEBLO REALIZA VERIFICACIÓN EN LA PLANTA DE SENKATA Y EXIGE A LA ANH REFORZAR EL CONTROL EN LA DISTRIBUCIÓN DE GLP Y COMBUSTIBLES",
+          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-realiza-verificacion-en-la-planta-de-senkata-y-exige-a-la-anh-reforzar-el-control-en-la-distribucion-de-glp-y-combustibles",
+          "fecha": "2026-10-12T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensor del Pueblo: Reglamentación de la Ley 1680 marca un hito en la protección de huérfanos por feminicidio",
+          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-puebloreglamentacion-de-la-ley-1680-marca-un-hito-en-la-proteccion-de-huerfanos-por-feminicidio",
+          "fecha": "2026-10-12T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "PRONUNCIAMIENTO 11 DE OCTUBRE – DÍA DE LA MUJER BOLIVIANA",
+          "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-11-de-octubre-%E2%80%93-dia-de-la-mujer-boliviana",
+          "fecha": "2026-10-11T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "PRONUNCIAMIENTO LA DEMOCRACIA SE CONSTRUYE CON MEMORIA, DERECHOS HUMANOS, LIBERTAD Y DIGNIDAD PARA TODAS Y TODOS",
           "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-la-democracia-se-construye-con-memoria,-derechos-humanos,-libertad-y-dignidad-para-todas-y-todos",
           "fecha": "2026-10-10T00:00:00",
@@ -203,33 +224,33 @@
           "titulo": "PRONUNCIAMIENTO DEFENSORÍA DEL PUEBLO EXHORTA A LA PRONTA CONVOCATORIA AL PROCESO DE SELECCIÓN Y DESIGNACIÓN DEL FISCAL GENERAL DEL ESTADO",
           "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-exhorta-a-la-pronta-convocatoria-alproceso-de-seleccion-y-designacion-del-fiscal-general-del-estado",
           "fecha": "2026-10-03T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "DEFENSORÍA DEL PUEBLO SALUDA AVANCE DE PROYECTO DE LEY PARA PROTEGER A NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE CALLE",
-          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-saluda-avance-de-proyecto-de-ley-para-proteger-a-ninyas,-ninyos-y-adolescentes-en-situacion-de-calle",
-          "fecha": "2026-10-02T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo constata atención normal en Fiscalías y pide resguardar la institucionalidad del Ministerio Público",
-          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-constata-atencion-normal-en-fiscalias-y-pide-resguardar-la-institucionalidad-del-ministerio-publico",
-          "fecha": "2026-10-02T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "DÍA INTERNACIONAL DE LAS PERSONAS DE EDAD (PRONUNCIAMIENTO)",
-          "url": "https://www.defensoria.gob.bo/noticias/dia-internacional-de-las-personas-de-edadpronunciamiento-",
-          "fecha": "2026-10-01T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         }
       ],
       "items_en_periodo": [
         {
+          "titulo": "DEFENSOR DEL PUEBLO REALIZA VERIFICACIÓN EN LA PLANTA DE SENKATA Y EXIGE A LA ANH REFORZAR EL CONTROL EN LA DISTRIBUCIÓN DE GLP Y COMBUSTIBLES",
+          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-realiza-verificacion-en-la-planta-de-senkata-y-exige-a-la-anh-reforzar-el-control-en-la-distribucion-de-glp-y-combustibles",
+          "fecha": "2026-10-12T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensor del Pueblo: Reglamentación de la Ley 1680 marca un hito en la protección de huérfanos por feminicidio",
+          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-puebloreglamentacion-de-la-ley-1680-marca-un-hito-en-la-proteccion-de-huerfanos-por-feminicidio",
+          "fecha": "2026-10-12T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "PRONUNCIAMIENTO 11 DE OCTUBRE – DÍA DE LA MUJER BOLIVIANA",
+          "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-11-de-octubre-%E2%80%93-dia-de-la-mujer-boliviana",
+          "fecha": "2026-10-11T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "PRONUNCIAMIENTO LA DEMOCRACIA SE CONSTRUYE CON MEMORIA, DERECHOS HUMANOS, LIBERTAD Y DIGNIDAD PARA TODAS Y TODOS",
           "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-la-democracia-se-construye-con-memoria,-derechos-humanos,-libertad-y-dignidad-para-todas-y-todos",
           "fecha": "2026-10-10T00:00:00",
@@ -277,32 +298,11 @@
           "fecha": "2026-10-03T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "DEFENSORÍA DEL PUEBLO SALUDA AVANCE DE PROYECTO DE LEY PARA PROTEGER A NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE CALLE",
-          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-saluda-avance-de-proyecto-de-ley-para-proteger-a-ninyas,-ninyos-y-adolescentes-en-situacion-de-calle",
-          "fecha": "2026-10-02T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo constata atención normal en Fiscalías y pide resguardar la institucionalidad del Ministerio Público",
-          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-constata-atencion-normal-en-fiscalias-y-pide-resguardar-la-institucionalidad-del-ministerio-publico",
-          "fecha": "2026-10-02T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "DÍA INTERNACIONAL DE LAS PERSONAS DE EDAD (PRONUNCIAMIENTO)",
-          "url": "https://www.defensoria.gob.bo/noticias/dia-internacional-de-las-personas-de-edadpronunciamiento-",
-          "fecha": "2026-10-01T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.894591"
+      "timestamp": "2026-10-12T16:32:08.876687"
     },
     {
       "pais": "Brasil",
@@ -527,7 +527,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.894986"
+      "timestamp": "2026-10-12T16:32:08.877076"
     },
     {
       "pais": "Brasil",
@@ -830,7 +830,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.896027"
+      "timestamp": "2026-10-12T16:32:08.877301"
     },
     {
       "pais": "Brasil",
@@ -851,7 +851,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.896558"
+      "timestamp": "2026-10-12T16:32:08.878023"
     },
     {
       "pais": "Brasil",
@@ -876,6 +876,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "ECA Ambiental: Defensoria de SP lança cartilha sobre direitos de crianças e adolescentes diante de eventos climáticos extremos",
+          "url": "",
+          "fecha": "2026-10-11T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Justiça suspende cobrança de IPTU sobre terreno destinado à construção de terreiro de Candomblé em Embu-Guaçu após atuação de Núcleo da Defensoria",
           "url": "",
           "fecha": "2026-10-07T00:00:00",
@@ -919,13 +926,6 @@
         },
         {
           "titulo": "TJSP acolhe recurso da Defensoria para reconhecer identidade de gênero não binária e afastar dívida como impedimento para alteração de registro",
-          "url": "",
-          "fecha": "2026-09-28T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Nova unidade da Defensoria de SP em São José dos Campos será a primeira a implementar parceria nacional com a DPU",
           "url": "",
           "fecha": "2026-09-28T00:00:00",
           "tipo_seccion": "noticias",
@@ -934,6 +934,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "ECA Ambiental: Defensoria de SP lança cartilha sobre direitos de crianças e adolescentes diante de eventos climáticos extremos",
+          "url": "",
+          "fecha": "2026-10-11T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Justiça suspende cobrança de IPTU sobre terreno destinado à construção de terreiro de Candomblé em Embu-Guaçu após atuação de Núcleo da Defensoria",
           "url": "",
           "fecha": "2026-10-07T00:00:00",
@@ -981,18 +988,11 @@
           "fecha": "2026-09-28T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Nova unidade da Defensoria de SP em São José dos Campos será a primeira a implementar parceria nacional com a DPU",
-          "url": "",
-          "fecha": "2026-09-28T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897089"
+      "timestamp": "2026-10-12T16:32:08.878356"
     },
     {
       "pais": "Brasil",
@@ -1155,7 +1155,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897484"
+      "timestamp": "2026-10-12T16:32:08.878928"
     },
     {
       "pais": "Brasil",
@@ -1346,7 +1346,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897524"
+      "timestamp": "2026-10-12T16:32:08.878950"
     },
     {
       "pais": "Brasil",
@@ -1649,7 +1649,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897557"
+      "timestamp": "2026-10-12T16:32:08.878959"
     },
     {
       "pais": "Brasil",
@@ -1663,7 +1663,7 @@
           "url": "https://defensoria.al.def.br/noticias/",
           "tipo": "noticias",
           "ok": true,
-          "items": 5
+          "items": 4
         }
       ],
       "todos_items": [
@@ -1671,13 +1671,6 @@
           "titulo": "Dia de Nossa Senhora Aparecida: Defensoria atende em regime de plantão nesta segunda-feira (12)",
           "url": "https://defensoria.al.def.br/index.php/noticias/dia-de-nossa-senhora-aparecida-defensoria-atende-em-regime-de-plantao-nesta-segunda-feira-12",
           "fecha": null,
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Lista dos defensores públicos plantonistas cível e criminal - 10 a 12 de outubro de 2026",
-          "url": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-civel-e-criminal-10-a-12-de-outubro-de-2026",
-          "fecha": "2026-10-12T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -1703,15 +1696,7 @@
           "es_pdf": false
         }
       ],
-      "items_en_periodo": [
-        {
-          "titulo": "Lista dos defensores públicos plantonistas cível e criminal - 10 a 12 de outubro de 2026",
-          "url": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-civel-e-criminal-10-a-12-de-outubro-de-2026",
-          "fecha": "2026-10-12T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        }
-      ],
+      "items_en_periodo": [],
       "items_sin_fecha": [
         {
           "titulo": "Dia de Nossa Senhora Aparecida: Defensoria atende em regime de plantão nesta segunda-feira (12)",
@@ -1743,7 +1728,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897584"
+      "timestamp": "2026-10-12T16:32:08.878966"
     },
     {
       "pais": "Brasil",
@@ -2033,7 +2018,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897606"
+      "timestamp": "2026-10-12T16:32:08.878972"
     },
     {
       "pais": "Brasil",
@@ -2098,7 +2083,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897627"
+      "timestamp": "2026-10-12T16:32:08.878978"
     },
     {
       "pais": "Chile",
@@ -2125,7 +2110,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897647"
+      "timestamp": "2026-10-12T16:32:08.878984"
     },
     {
       "pais": "Chile",
@@ -2428,7 +2413,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897667"
+      "timestamp": "2026-10-12T16:32:08.878989"
     },
     {
       "pais": "Chile",
@@ -2590,7 +2575,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897684"
+      "timestamp": "2026-10-12T16:32:08.878999"
     },
     {
       "pais": "Colombia",
@@ -2624,7 +2609,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897699"
+      "timestamp": "2026-10-12T16:32:08.879009"
     },
     {
       "pais": "Colombia",
@@ -2651,7 +2636,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897715"
+      "timestamp": "2026-10-12T16:32:08.879016"
     },
     {
       "pais": "Ecuador",
@@ -2679,7 +2664,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897739"
+      "timestamp": "2026-10-12T16:32:08.879028"
     },
     {
       "pais": "Paraguay",
@@ -2871,7 +2856,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897759"
+      "timestamp": "2026-10-12T16:32:08.879034"
     },
     {
       "pais": "Paraguay",
@@ -3006,7 +2991,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897786"
+      "timestamp": "2026-10-12T16:32:08.879039"
     },
     {
       "pais": "Perú",
@@ -3539,7 +3524,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897807"
+      "timestamp": "2026-10-12T16:32:08.879046"
     },
     {
       "pais": "Uruguay",
@@ -3843,7 +3828,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897828"
+      "timestamp": "2026-10-12T16:32:08.879052"
     },
     {
       "pais": "Venezuela",
@@ -3943,7 +3928,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897856"
+      "timestamp": "2026-10-12T16:32:08.879057"
     },
     {
       "pais": "Guyana",
@@ -4022,7 +4007,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897874"
+      "timestamp": "2026-10-12T16:32:08.879064"
     },
     {
       "pais": "Costa Rica",
@@ -4056,7 +4041,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897891"
+      "timestamp": "2026-10-12T16:32:08.879070"
     },
     {
       "pais": "El Salvador",
@@ -4344,7 +4329,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897911"
+      "timestamp": "2026-10-12T16:32:08.879082"
     },
     {
       "pais": "Guatemala",
@@ -4378,7 +4363,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897927"
+      "timestamp": "2026-10-12T16:32:08.879093"
     },
     {
       "pais": "Honduras",
@@ -4406,7 +4391,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897949"
+      "timestamp": "2026-10-12T16:32:08.879101"
     },
     {
       "pais": "México",
@@ -4470,7 +4455,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897975"
+      "timestamp": "2026-10-12T16:32:08.879106"
     },
     {
       "pais": "Nicaragua",
@@ -4634,7 +4619,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.897996"
+      "timestamp": "2026-10-12T16:32:08.879112"
     },
     {
       "pais": "Panamá",
@@ -4783,7 +4768,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898016"
+      "timestamp": "2026-10-12T16:32:08.879117"
     },
     {
       "pais": "Belice",
@@ -4804,7 +4789,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898035"
+      "timestamp": "2026-10-12T16:32:08.879123"
     },
     {
       "pais": "República Dominicana",
@@ -4947,7 +4932,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898051"
+      "timestamp": "2026-10-12T16:32:08.879128"
     },
     {
       "pais": "República Dominicana",
@@ -4968,7 +4953,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898067"
+      "timestamp": "2026-10-12T16:32:08.879134"
     },
     {
       "pais": "Jamaica",
@@ -4982,21 +4967,100 @@
         {
           "url": "https://opd.gov.jm/news",
           "tipo": "news",
-          "ok": false,
-          "items": 0
+          "ok": true,
+          "items": 8
         },
         {
           "url": "https://opd.gov.jm/articles/news-release",
           "tipo": "press_release",
-          "ok": false,
-          "items": 0
+          "ok": true,
+          "items": 8
         }
       ],
-      "todos_items": [],
+      "todos_items": [
+        {
+          "titulo": "Main navigation",
+          "url": "https://opd.gov.jm/",
+          "fecha": "2026-01-31T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Information",
+          "url": "https://opd.gov.jm/publications-and-reports",
+          "fecha": null,
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Citizen Support",
+          "url": "https://opd.gov.jm/news",
+          "fecha": "2026-01-31T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Public Defender Launches Investigation into…",
+          "url": "https://opd.gov.jm/news/public-defender-launches-investigation-jamaicas-sexual-offenders-registry",
+          "fecha": "2026-01-31T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Office of the Public Defender 25th Anniversary -…",
+          "url": "https://opd.gov.jm/news/office-public-defender-25th-anniversary-2025",
+          "fecha": "2026-01-31T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Quick Links",
+          "url": "https://opd.gov.jm/mandate",
+          "fecha": null,
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "CTA - Footer",
+          "url": "https://opd.gov.jm/form/complaint",
+          "fecha": null,
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Get Involved",
+          "url": "https://opd.gov.jm/articles/news-release",
+          "fecha": "2026-01-31T00:00:00",
+          "tipo_seccion": "press_release",
+          "es_pdf": false
+        }
+      ],
       "items_en_periodo": [],
-      "items_sin_fecha": [],
+      "items_sin_fecha": [
+        {
+          "titulo": "Information",
+          "url": "https://opd.gov.jm/publications-and-reports",
+          "fecha": null,
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Quick Links",
+          "url": "https://opd.gov.jm/mandate",
+          "fecha": null,
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "CTA - Footer",
+          "url": "https://opd.gov.jm/form/complaint",
+          "fecha": null,
+          "tipo_seccion": "news",
+          "es_pdf": false
+        }
+      ],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898083"
+      "timestamp": "2026-10-12T16:32:08.879139"
     },
     {
       "pais": "Trinidad y Tobago",
@@ -5024,7 +5088,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898099"
+      "timestamp": "2026-10-12T16:32:08.879146"
     },
     {
       "pais": "Curaçao",
@@ -5109,7 +5173,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898117"
+      "timestamp": "2026-10-12T16:32:08.879152"
     },
     {
       "pais": "Haití",
@@ -5137,7 +5201,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898147"
+      "timestamp": "2026-10-12T16:32:08.879166"
     },
     {
       "pais": "Canadá",
@@ -5330,7 +5394,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898169"
+      "timestamp": "2026-10-12T16:32:08.879174"
     },
     {
       "pais": "Canadá",
@@ -5451,7 +5515,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898188"
+      "timestamp": "2026-10-12T16:32:08.879179"
     },
     {
       "pais": "Canadá",
@@ -5472,7 +5536,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898210"
+      "timestamp": "2026-10-12T16:32:08.879185"
     },
     {
       "pais": "Canadá",
@@ -5493,7 +5557,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898230"
+      "timestamp": "2026-10-12T16:32:08.879195"
     },
     {
       "pais": "Canadá",
@@ -5663,7 +5727,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898248"
+      "timestamp": "2026-10-12T16:32:08.879201"
     },
     {
       "pais": "Canadá",
@@ -5684,7 +5748,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898267"
+      "timestamp": "2026-10-12T16:32:08.879206"
     },
     {
       "pais": "Canadá",
@@ -5705,7 +5769,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898286"
+      "timestamp": "2026-10-12T16:32:08.879213"
     },
     {
       "pais": "Canadá",
@@ -5726,7 +5790,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898332"
+      "timestamp": "2026-10-12T16:32:08.879219"
     },
     {
       "pais": "Canadá",
@@ -5776,7 +5840,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898361"
+      "timestamp": "2026-10-12T16:32:08.879229"
     },
     {
       "pais": "Regional",
@@ -5789,7 +5853,7 @@
         {
           "url": "https://ganhri.org/news-events/",
           "tipo": "news",
-          "ok": true,
+          "ok": false,
           "items": 0
         }
       ],
@@ -5797,7 +5861,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898382"
+      "timestamp": "2026-10-12T16:32:08.879238"
     },
     {
       "pais": "Regional",
@@ -5961,7 +6025,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898402"
+      "timestamp": "2026-10-12T16:32:08.879247"
     },
     {
       "pais": "Regional",
@@ -6046,7 +6110,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898420"
+      "timestamp": "2026-10-12T16:32:08.879254"
     },
     {
       "pais": "Regional",
@@ -6265,7 +6329,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898440"
+      "timestamp": "2026-10-12T16:32:08.879259"
     },
     {
       "pais": "Regional",
@@ -6292,7 +6356,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-11T13:49:32.898462"
+      "timestamp": "2026-10-12T16:32:08.879268"
     }
   ]
 }
