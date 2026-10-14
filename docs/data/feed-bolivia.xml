@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-10-13T14:50:57Z</updated>
+  <updated>2026-10-14T12:41:43Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>LA INDEPENDENCIA Y AUTONOMÍA DE LA DEFENSORÍA DEL PUEBLO COMO GARANTÍA DEL ESTADO DE DERECHO (PRONUNCIAMIENTO )</title>
+    <id>https://www.defensoria.gob.bo/noticias/la-independencia-y-autonomia-de-la-defensoria-del-pueblo-como-garantia-del-estado-de-derechopronunciamiento</id>
+    <link href="https://www.defensoria.gob.bo/noticias/la-independencia-y-autonomia-de-la-defensoria-del-pueblo-como-garantia-del-estado-de-derechopronunciamiento" />
+    <updated>2026-10-13T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>DEFENSOR DEL PUEBLO REALIZA VERIFICACIÓN EN LA PLANTA DE SENKATA Y EXIGE A LA ANH REFORZAR EL CONTROL EN LA DISTRIBUCIÓN DE GLP Y COMBUSTIBLES</title>
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-realiza-verificacion-en-la-planta-de-senkata-y-exige-a-la-anh-reforzar-el-control-en-la-distribucion-de-glp-y-combustibles</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/efectos-del-levantamiento-de-la-subvencion-al-diesel-llegan-a-la-mesa-de-las-familias-bolivianasdefensor-del-pueblo-insta-a-proteger-el-derecho-a-la-alimentacion</id>
     <link href="https://www.defensoria.gob.bo/noticias/efectos-del-levantamiento-de-la-subvencion-al-diesel-llegan-a-la-mesa-de-las-familias-bolivianasdefensor-del-pueblo-insta-a-proteger-el-derecho-a-la-alimentacion" />
     <updated>2026-10-05T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>PRONUNCIAMIENTO DEFENSORÍA DEL PUEBLO EXHORTA A LA PRONTA CONVOCATORIA AL PROCESO DE SELECCIÓN Y DESIGNACIÓN DEL FISCAL GENERAL DEL ESTADO</title>
-    <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-exhorta-a-la-pronta-convocatoria-alproceso-de-seleccion-y-designacion-del-fiscal-general-del-estado</id>
-    <link href="https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-exhorta-a-la-pronta-convocatoria-alproceso-de-seleccion-y-designacion-del-fiscal-general-del-estado" />
-    <updated>2026-10-03T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
