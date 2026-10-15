@@ -4,6 +4,42 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-valparaiso-artequin-concurso/",
+      "url": "https://www.indh.cl/indh-valparaiso-artequin-concurso/",
+      "title": "INDH Valparaíso y Artequin Viña del Mar abrieron postulaciones para que niñas y niños participen del concurso “Jugar es un derecho”",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-10-14T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-araucania-taller-gendarmeria/",
+      "url": "https://www.indh.cl/indh-araucania-taller-gendarmeria/",
+      "title": "INDH de La Araucanía realizó taller de capacitación sobre uso de la fuerza a personal de Gendarmería, atendiendo fallo de la Corte de Apelaciones de Temuco",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-10-14T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-tarapaca-capacitacion-inspectores-alto-hospicio/",
+      "url": "https://www.indh.cl/indh-tarapaca-capacitacion-inspectores-alto-hospicio/",
+      "title": "INDH Tarapacá desarrolló capacitación en derechos humanos con inspectores municipales de Alto Hospicio",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-10-14T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-con-derechos-ignacio-cabib/",
       "url": "https://www.indh.cl/indh-con-derechos-ignacio-cabib/",
       "title": "Ignacio Cabib, sociólogo e investigador: “Hay que escuchar más a las personas mayores e involucrarlas en el diseño de políticas públicas”",
@@ -64,19 +100,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-director-cumbre-iberoamericana-movilidad-humana/",
-      "url": "https://www.indh.cl/indh-director-cumbre-iberoamericana-movilidad-humana/",
-      "title": "Director del INDH participó en Cumbre Iberoamericana sobre Movilidad Humana que planteó alertas ante los discursos de odio y dificultades para detectar la trata de personas",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-10-07T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:7535702809601357156",
+      "id": "urn:defensorias:-1775924448922538341",
       "url": "",
       "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -96,7 +120,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -108,23 +132,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-aysen-feria-cientifica/",
-      "url": "https://www.indh.cl/indh-aysen-feria-cientifica/",
-      "title": "INDH Aysén realizó feria científica que reconoció proyectos estudiantiles sobre desafíos medioambientales de la región",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-10-06T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
         "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:-6415176027062114512",
+      "id": "urn:defensorias:8308174431710167048",
       "url": "",
       "title": "Niños, niñas y adolescentes de la RM presentaron 16 propuestas ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -136,19 +148,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-aysen-capacitacion-personal-salud/",
-      "url": "https://www.indh.cl/indh-aysen-capacitacion-personal-salud/",
-      "title": "INDH de Aysén realizó capacitación a personal de salud sobre la ley que reconoce al pueblo afrodescendiente y la importancia de una atención sin discriminación",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-10-05T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-7022046815312605411",
+      "id": "urn:defensorias:-791096991004386919",
       "url": "",
       "title": "T13 | Defensoría de la Niñez pedirá antecedentes por eliminación...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3641649411316567998",
+      "id": "urn:defensorias:-1782753851143351286",
       "url": "",
       "title": "La Tercera | La Niñez en la balanza del ajuste...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8600842799418513710",
+      "id": "urn:defensorias:4850698504838743072",
       "url": "",
       "title": "Biobio.cl | La niñez en la balanza del ajuste fiscal:...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6577517988296133280",
+      "id": "urn:defensorias:5763756669956991181",
       "url": "",
       "title": "El Mostrador | La paradoja de la infancia: casi la...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -193,18 +193,6 @@
         "Chile",
         "Sudamérica",
         "prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:6397742691530168415",
-      "url": "",
-      "title": "Informe de Defensoría de la Niñez y UNICEF: 46% de ...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-09-15T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
       ]
     }
   ]

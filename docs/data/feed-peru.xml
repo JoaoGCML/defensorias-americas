@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Perú</title>
   <id>urn:defensorias-americas:prensa:peru</id>
-  <updated>2026-10-14T12:41:43Z</updated>
+  <updated>2026-10-15T12:29:50Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-peru.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo reafirma su compromiso con los derechos y la identidad de las mujeres rurales en su día internacional</title>
+    <id>https://www.defensoria.gob.pe/defensoria-del-pueblo-reafirma-su-compromiso-con-los-derechos-y-la-identidad-de-las-mujeres-rurales-en-su-dia-internacional/</id>
+    <link href="https://www.defensoria.gob.pe/defensoria-del-pueblo-reafirma-su-compromiso-con-los-derechos-y-la-identidad-de-las-mujeres-rurales-en-su-dia-internacional/" />
+    <updated>2026-10-15T00:00:00</updated>
+    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Defensoría del Pueblo pide a GORE Junín reforzar capacidad de respuesta ante incendios forestales iniciados hace diez días en localidades de Satipo</title>
+    <id>https://www.defensoria.gob.pe/defensoria-del-pueblo-pide-a-gore-junin-reforzar-capacidad-de-respuesta-ante-incendios-forestales-iniciados-hace-diez-dias-en-localidades-de-satipo/</id>
+    <link href="https://www.defensoria.gob.pe/defensoria-del-pueblo-pide-a-gore-junin-reforzar-capacidad-de-respuesta-ante-incendios-forestales-iniciados-hace-diez-dias-en-localidades-de-satipo/" />
+    <updated>2026-10-14T00:00:00</updated>
+    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo exige a la UGEL Maynas separar preventivamente a docente denunciado por presunta violencia sexual contra dos estudiantes en Fernando Lores</title>
     <id>https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-a-la-ugel-maynas-separar-preventivamente-a-docente-denunciado-por-presunta-violencia-sexual-contra-dos-estudiantes-en-fernando-lores/</id>
@@ -132,20 +146,6 @@
     <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
   </entry>
   <entry>
-    <title>Defensoría del Pueblo presenta encuesta nacional sobre percepción del acoso sexual callejero</title>
-    <id>https://www.defensoria.gob.pe/defensoria-del-pueblo-presenta-encuesta-nacional-sobre-percepcion-del-acoso-sexual-callejero/</id>
-    <link href="https://www.defensoria.gob.pe/defensoria-del-pueblo-presenta-encuesta-nacional-sobre-percepcion-del-acoso-sexual-callejero/" />
-    <updated>2026-10-09T00:00:00</updated>
-    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Tarapoto: en charla a estudiantes y padres de familia enfatizamos importancia de actuar a tiempo frente a la violencia</title>
-    <id>https://www.defensoria.gob.pe/tarapoto-en-charla-a-estudiantes-y-padres-de-familia-enfatizamos-importancia-de-actuar-a-tiempo-frente-a-la-violencia/</id>
-    <link href="https://www.defensoria.gob.pe/tarapoto-en-charla-a-estudiantes-y-padres-de-familia-enfatizamos-importancia-de-actuar-a-tiempo-frente-a-la-violencia/" />
-    <updated>2026-10-09T00:00:00</updated>
-    <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
-  </entry>
-  <entry>
     <title>Comunicado n.° 062/DP/2026</title>
     <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-062-2026.pdf</id>
     <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-062-2026.pdf" type="application/pdf" />
@@ -213,13 +213,6 @@
     <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-053-2026.pdf</id>
     <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-053-2026.pdf" type="application/pdf" />
     <updated>2026-09-16T00:00:00</updated>
-    <summary>Defensoría del Pueblo del Perú (Perú) — pronunciamientos</summary>
-  </entry>
-  <entry>
-    <title>Comunicado n.° 052/DP/2026</title>
-    <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-052-2026.pdf</id>
-    <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-052-2026.pdf" type="application/pdf" />
-    <updated>2026-09-15T00:00:00</updated>
     <summary>Defensoría del Pueblo del Perú (Perú) — pronunciamientos</summary>
   </entry>
 </feed>
