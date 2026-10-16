@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Uruguay</title>
   <id>urn:defensorias-americas:prensa:uruguay</id>
-  <updated>2026-10-15T12:29:50Z</updated>
+  <updated>2026-10-16T12:08:35Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Recomendaciones para fortalecer la protección de infancias y adolescencias frente a la violencia territorial</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/recomendaciones-para-fortalecer-proteccion-infancias-adolescencias-frente</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/recomendaciones-para-fortalecer-proteccion-infancias-adolescencias-frente" />
+    <updated>2026-10-15T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
+  </entry>
   <entry>
     <title>El informe sobre Educación y afrodescendencia en territorios de frontera se presentó en Artigas, Rivera y Cerro Largo</title>
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/informe-sobre-educacion-afrodescendencia-territorios-frontera-se-presento</id>
@@ -52,13 +59,6 @@
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/autoridades-departamentales-todo-pais-participaron-ii-encuentro-nacional</id>
     <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/autoridades-departamentales-todo-pais-participaron-ii-encuentro-nacional" />
     <updated>2026-09-18T00:00:00</updated>
-    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Jóvenes de Florida impulsaron jornada sobre derechos humanos y discapacidad</title>
-    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/jovenes-florida-impulsaron-jornada-sobre-derechos-humanos-discapacidad</id>
-    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/jovenes-florida-impulsaron-jornada-sobre-derechos-humanos-discapacidad" />
-    <updated>2026-09-16T00:00:00</updated>
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>
 </feed>
