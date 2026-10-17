@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-10-16T12:08:35Z</updated>
+  <updated>2026-10-17T11:26:31Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>DEFENSORÍA DEL PUEBLO DESTACA AVANCE LEGISLATIVO PARA PROTEGER A NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE CALLE Y PIDE CELERIDAD AL SENADO</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-destaca-avance-legislativo-para-proteger-a-ninyas,-ninyos-y-adolescentes-en-situacion-de-calle-y-pide-celeridad-al-senado</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-destaca-avance-legislativo-para-proteger-a-ninyas,-ninyos-y-adolescentes-en-situacion-de-calle-y-pide-celeridad-al-senado" />
+    <updated>2026-10-16T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>DEFENSORÍA DEL PUEBLO ACOMPAÑA AVANCE LEGISLATIVO PARA PROTEGER A PALOS BLANCOS Y ALTO BENI DE LA ACTIVIDAD Y CONTAMINACIÓN MINERA</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-acompanya-avance-legislativo-para-proteger-a-palos-blancos-y-alto-beni-de-la-actividad-y-contaminacion-minera</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-saluda-reglamento-de-la-ley-n-%C2%BA-1680-y-exige-suimplementacion-efectiva-para-proteger-a-huerfanos-de-feminicidiopronunciamiento-</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-saluda-reglamento-de-la-ley-n-%C2%BA-1680-y-exige-suimplementacion-efectiva-para-proteger-a-huerfanos-de-feminicidiopronunciamiento-" />
     <updated>2026-10-07T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo y Organizaciones de la Sociedad Civil - Pronunciamiento Conjunto</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-organizaciones-de-la-sociedad-civil-pronunciamiento-conjunto</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-organizaciones-de-la-sociedad-civil-pronunciamiento-conjunto" />
-    <updated>2026-10-05T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>

@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-la-araucania-taller-carabineros-loncoche/",
+      "url": "https://www.indh.cl/indh-la-araucania-taller-carabineros-loncoche/",
+      "title": "Sede de La Araucanía realizó taller con personal de Carabineros de Loncoche: 200 funcionarias y funcionarios han sido capacitados durante 2026",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-10-16T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-los-lagos-feria-derechos-humanos-2026/",
+      "url": "https://www.indh.cl/indh-los-lagos-feria-derechos-humanos-2026/",
+      "title": "Sede de Los Lagos realizó IV Feria de los Derechos Humanos 2026: más de 3 mil estudiantes han participado desde su primera versión",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-10-16T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-valparaiso-artequin-concurso/",
       "url": "https://www.indh.cl/indh-valparaiso-artequin-concurso/",
       "title": "INDH Valparaíso y Artequin Viña del Mar abrieron postulaciones para que niñas y niños participen del concurso “Jugar es un derecho”",
@@ -84,7 +108,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -96,11 +120,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:5528053707183138701",
+      "id": "urn:defensorias:1033323338789561190",
       "url": "",
       "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -124,19 +148,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-arica-instancia-binacional-trata/",
-      "url": "https://www.indh.cl/indh-arica-instancia-binacional-trata/",
-      "title": "Jefe de INDH de Arica y Parinacota participó en instancia binacional que analizó cómo prevenir nuevas formas de trata de personas, que afectan especialmente a mujeres",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-10-06T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:7595565068894916303",
+      "id": "urn:defensorias:3542642205182892321",
       "url": "",
       "title": "Niños, niñas y adolescentes de la RM presentaron 16 propuestas ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -148,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7801491626998457773",
+      "id": "urn:defensorias:2437217764447231401",
       "url": "",
       "title": "T13 | Defensoría de la Niñez pedirá antecedentes por eliminación...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6977830024393056495",
+      "id": "urn:defensorias:53158669595101432",
       "url": "",
       "title": "La Tercera | La Niñez en la balanza del ajuste...",
       "summary": "Defensoría de la Niñez (Chile)",
