@@ -1,6 +1,6 @@
 {
   "dias": 30,
-  "timestamp": "20261017_1126",
+  "timestamp": "20261018_1158",
   "instituciones": [
     {
       "pais": "Argentina",
@@ -77,7 +77,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.212544"
+      "timestamp": "2026-10-18T11:57:16.400689"
     },
     {
       "pais": "Argentina",
@@ -105,7 +105,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.217147"
+      "timestamp": "2026-10-18T11:57:16.403709"
     },
     {
       "pais": "Argentina",
@@ -126,7 +126,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.217678"
+      "timestamp": "2026-10-18T11:57:16.404051"
     },
     {
       "pais": "Bolivia",
@@ -158,6 +158,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "Defensor del Pueblo alerta que instituciones públicas y privadas incumplen inserción laboral de personas con discapacidad",
+          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-que-instituciones-publicas-y-privadas-incumplen-insercion-laboral-de-personas-con-discapacidad",
+          "fecha": "2026-10-17T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "DEFENSORÍA DEL PUEBLO DESTACA AVANCE LEGISLATIVO PARA PROTEGER A NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE CALLE Y PIDE CELERIDAD AL SENADO",
           "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-destaca-avance-legislativo-para-proteger-a-ninyas,-ninyos-y-adolescentes-en-situacion-de-calle-y-pide-celeridad-al-senado",
           "fecha": "2026-10-16T00:00:00",
@@ -217,19 +224,19 @@
           "titulo": "DEFENSORÍA DEL PUEBLO RATIFICA ALERTA Y RECOMENDACIONES AL ESTADO PARA SALVAGUARDAR EL DERECHO A LA ALIMENTACIÓN",
           "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-ratifica-alerta-y-recomendaciones-al-estado-para-salvaguardar-el-derecho-a-la-alimentacion",
           "fecha": "2026-10-08T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "DEFENSORÍA DEL PUEBLO SALUDA REGLAMENTO DE LA LEY N.º 1680 Y EXIGE SU IMPLEMENTACIÓN EFECTIVA PARA PROTEGER A HUÉRFANOS DE FEMINICIDIO (PRONUNCIAMIENTO)",
-          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-saluda-reglamento-de-la-ley-n-%C2%BA-1680-y-exige-suimplementacion-efectiva-para-proteger-a-huerfanos-de-feminicidiopronunciamiento-",
-          "fecha": "2026-10-07T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         }
       ],
       "items_en_periodo": [
         {
+          "titulo": "Defensor del Pueblo alerta que instituciones públicas y privadas incumplen inserción laboral de personas con discapacidad",
+          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-que-instituciones-publicas-y-privadas-incumplen-insercion-laboral-de-personas-con-discapacidad",
+          "fecha": "2026-10-17T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "DEFENSORÍA DEL PUEBLO DESTACA AVANCE LEGISLATIVO PARA PROTEGER A NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE CALLE Y PIDE CELERIDAD AL SENADO",
           "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-destaca-avance-legislativo-para-proteger-a-ninyas,-ninyos-y-adolescentes-en-situacion-de-calle-y-pide-celeridad-al-senado",
           "fecha": "2026-10-16T00:00:00",
@@ -291,18 +298,11 @@
           "fecha": "2026-10-08T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "DEFENSORÍA DEL PUEBLO SALUDA REGLAMENTO DE LA LEY N.º 1680 Y EXIGE SU IMPLEMENTACIÓN EFECTIVA PARA PROTEGER A HUÉRFANOS DE FEMINICIDIO (PRONUNCIAMIENTO)",
-          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-saluda-reglamento-de-la-ley-n-%C2%BA-1680-y-exige-suimplementacion-efectiva-para-proteger-a-huerfanos-de-feminicidiopronunciamiento-",
-          "fecha": "2026-10-07T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.218236"
+      "timestamp": "2026-10-18T11:57:16.405047"
     },
     {
       "pais": "Brasil",
@@ -527,7 +527,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.218548"
+      "timestamp": "2026-10-18T11:57:16.405406"
     },
     {
       "pais": "Brasil",
@@ -546,6 +546,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "Voo com brasileiros repatriados dos Estados Unidos chegou a Confins (MG) nessa sexta-feira (16)",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/voo-com-brasileiros-repatriados-dos-estados-unidos-chegou-a-confins-mg-nessa-sexta-feira-16",
+          "fecha": "2026-10-17T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Governo federal disponibiliza guia com orientações sobre uso de inteligência artificial por crianças e adolescentes",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/governo-federal-disponibiliza-guia-com-orientacoes-sobre-uso-de-inteligencia-artificial-por-criancas-e-adolescentes",
           "fecha": "2026-10-16T00:00:00",
@@ -674,13 +681,6 @@
         {
           "titulo": "MDHC disponibiliza cinco cursos gratuitos para formação de lideranças na defesa dos direitos das pessoas com deficiência",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/mdhc-disponibiliza-cinco-cursos-gratuitos-para-formacao-de-liderancas-na-defesa-dos-direitos-das-pessoas-com-deficiencia",
-          "fecha": "2026-09-29T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Nota de Pesar – Phamela Godoy",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/nota-de-pesar-2013-phamela-godoy",
           "fecha": "2026-09-29T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -688,6 +688,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Voo com brasileiros repatriados dos Estados Unidos chegou a Confins (MG) nessa sexta-feira (16)",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/voo-com-brasileiros-repatriados-dos-estados-unidos-chegou-a-confins-mg-nessa-sexta-feira-16",
+          "fecha": "2026-10-17T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Governo federal disponibiliza guia com orientações sobre uso de inteligência artificial por crianças e adolescentes",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/governo-federal-disponibiliza-guia-com-orientacoes-sobre-uso-de-inteligencia-artificial-por-criancas-e-adolescentes",
           "fecha": "2026-10-16T00:00:00",
@@ -819,18 +826,11 @@
           "fecha": "2026-09-29T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Nota de Pesar – Phamela Godoy",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/setembro/nota-de-pesar-2013-phamela-godoy",
-          "fecha": "2026-09-29T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.219519"
+      "timestamp": "2026-10-18T11:57:16.405658"
     },
     {
       "pais": "Brasil",
@@ -851,7 +851,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.220113"
+      "timestamp": "2026-10-18T11:57:16.405876"
     },
     {
       "pais": "Brasil",
@@ -992,7 +992,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.220606"
+      "timestamp": "2026-10-18T11:57:16.406136"
     },
     {
       "pais": "Brasil",
@@ -1155,7 +1155,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221010"
+      "timestamp": "2026-10-18T11:57:16.406364"
     },
     {
       "pais": "Brasil",
@@ -1346,7 +1346,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221049"
+      "timestamp": "2026-10-18T11:57:16.406382"
     },
     {
       "pais": "Brasil",
@@ -1649,7 +1649,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221072"
+      "timestamp": "2026-10-18T11:57:16.406389"
     },
     {
       "pais": "Brasil",
@@ -1729,7 +1729,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221094"
+      "timestamp": "2026-10-18T11:57:16.406394"
     },
     {
       "pais": "Brasil",
@@ -2019,7 +2019,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221110"
+      "timestamp": "2026-10-18T11:57:16.406398"
     },
     {
       "pais": "Brasil",
@@ -2084,7 +2084,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221128"
+      "timestamp": "2026-10-18T11:57:16.406403"
     },
     {
       "pais": "Chile",
@@ -2111,7 +2111,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221145"
+      "timestamp": "2026-10-18T11:57:16.406411"
     },
     {
       "pais": "Chile",
@@ -2379,7 +2379,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221163"
+      "timestamp": "2026-10-18T11:57:16.406417"
     },
     {
       "pais": "Chile",
@@ -2569,7 +2569,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221181"
+      "timestamp": "2026-10-18T11:57:16.406423"
     },
     {
       "pais": "Colombia",
@@ -2603,7 +2603,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221202"
+      "timestamp": "2026-10-18T11:57:16.406427"
     },
     {
       "pais": "Colombia",
@@ -2630,7 +2630,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221220"
+      "timestamp": "2026-10-18T11:57:16.406431"
     },
     {
       "pais": "Ecuador",
@@ -2658,7 +2658,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221248"
+      "timestamp": "2026-10-18T11:57:16.406440"
     },
     {
       "pais": "Paraguay",
@@ -2850,7 +2850,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221268"
+      "timestamp": "2026-10-18T11:57:16.406444"
     },
     {
       "pais": "Paraguay",
@@ -2869,6 +2869,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "Monitoreo del MNP en el Liceo Militar Acosta Ñu",
+          "url": "https://mnp.gov.py/monitoreo-del-mnp-en-el-liceo-militar-acosta-nu/",
+          "fecha": "2026-10-17T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Derechos de las personas mayores: un desafío que interpela a la agenda pública y política",
           "url": "https://mnp.gov.py/derechos-de-las-personas-mayores-un-desafio-que-interpela-a-la-agenda-publica-y-politica/",
           "fecha": "2026-10-16T00:00:00",
@@ -2913,13 +2920,6 @@
         {
           "titulo": "Salud mental y derechos: un diálogo para construir una sociedad más humana e inclusiva",
           "url": "https://mnp.gov.py/salud-mental-y-derechos-humanos-un-dialogo-para-construir-una-sociedad-mas-humana-e-inclusiva/",
-          "fecha": "2026-10-12T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Experiencia del MNP en el diálogo sobre entornos escolares seguros e inspiradores",
-          "url": "https://mnp.gov.py/el-mnp-compartio-su-experiencia-en-el-dialogo-sobre-entornos-escolares-seguros-e-inspiradores/",
           "fecha": "2026-10-12T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -2927,6 +2927,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Monitoreo del MNP en el Liceo Militar Acosta Ñu",
+          "url": "https://mnp.gov.py/monitoreo-del-mnp-en-el-liceo-militar-acosta-nu/",
+          "fecha": "2026-10-17T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Derechos de las personas mayores: un desafío que interpela a la agenda pública y política",
           "url": "https://mnp.gov.py/derechos-de-las-personas-mayores-un-desafio-que-interpela-a-la-agenda-publica-y-politica/",
           "fecha": "2026-10-16T00:00:00",
@@ -2974,18 +2981,11 @@
           "fecha": "2026-10-12T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Experiencia del MNP en el diálogo sobre entornos escolares seguros e inspiradores",
-          "url": "https://mnp.gov.py/el-mnp-compartio-su-experiencia-en-el-dialogo-sobre-entornos-escolares-seguros-e-inspiradores/",
-          "fecha": "2026-10-12T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221284"
+      "timestamp": "2026-10-18T11:57:16.406447"
     },
     {
       "pais": "Perú",
@@ -3020,6 +3020,27 @@
           "titulo": "Defensoría del Pueblo saluda acciones de la Señora Presidente Constitucional de la República y exige que enfoque preventivo sea acatado por los gobiernos subnacionales y población en general para salvaguardar la salud y vidas humanas ante inminente fenómeno El Niño",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-saluda-acciones-de-la-senora-presidente-constitucional-de-la-republica-y-exige-que-enfoque-preventivo-sean-acatadas-por-los-gobiernos-subnacionales-y-poblacion-en-general-para-sa/",
           "fecha": "2026-10-16T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo solicita investigación exhaustiva sobre presuntas agresiones entre dos escolares en Querecotillo, Piura",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-solicita-investigacion-exhaustiva-sobre-presuntas-agresiones-entre-dos-escolares-en-querecotillo-piura/",
+          "fecha": "2026-10-17T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisa atención de caso involucra a adolescentes en aldea infantil de Huaraz – Áncash",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-atencion-de-caso-involucra-a-adolescentes-en-aldea-infantil-de-huaraz-ancash/",
+          "fecha": "2026-10-17T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo promueve diálogo para prevenir conflictos por obras en la plaza de armas de Huaral",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-dialogo-para-prevenir-conflictos-por-obras-en-la-plaza-de-armas-de-huaral/",
+          "fecha": "2026-10-17T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -3124,27 +3145,6 @@
         {
           "titulo": "Defensoría del Pueblo impulsa coordinación interinstitucional para atender la problemática socioambiental del río Suches y promover una reunión binacional Perú-Bolivia",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-impulsa-coordinacion-interinstitucional-para-atender-la-problematica-socioambiental-del-rio-suches-y-promover-una-reunion-binacional-peru-bolivia/",
-          "fecha": "2026-10-15T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo capacita a directores y coordinadores de tutoría sobre protocolos de intervención ante la violencia escolar en Chincha",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-capacita-a-directores-y-coordinadores-de-tutoria-sobre-protocolos-de-intervencion-ante-la-violencia-escolar-en-chincha/",
-          "fecha": "2026-10-15T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo logra acuerdos mediante mediación defensorial en el conflicto social de la comunidad nativa Las Palmas, en Puinahua",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-logra-acuerdos-mediante-mediacion-defensorial-en-el-conflicto-social-de-la-comunidad-nativa-las-palmas-en-puinahua/",
-          "fecha": "2026-10-15T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo exige protección integral para niña con autismo ante presunta violencia sexual",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-proteccion-integral-para-nina-con-autismo-ante-presunta-violencia-sexual/",
           "fecha": "2026-10-15T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -3299,6 +3299,27 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Defensoría del Pueblo solicita investigación exhaustiva sobre presuntas agresiones entre dos escolares en Querecotillo, Piura",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-solicita-investigacion-exhaustiva-sobre-presuntas-agresiones-entre-dos-escolares-en-querecotillo-piura/",
+          "fecha": "2026-10-17T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisa atención de caso involucra a adolescentes en aldea infantil de Huaraz – Áncash",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-atencion-de-caso-involucra-a-adolescentes-en-aldea-infantil-de-huaraz-ancash/",
+          "fecha": "2026-10-17T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo promueve diálogo para prevenir conflictos por obras en la plaza de armas de Huaral",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-dialogo-para-prevenir-conflictos-por-obras-en-la-plaza-de-armas-de-huaral/",
+          "fecha": "2026-10-17T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoría del Pueblo saluda acciones de la Señora Presidente Constitucional de la República y exige que enfoque preventivo sea acatado por los gobiernos subnacionales y población en general para salvaguardar la salud y vidas humanas ante inminente fenómeno El Niño",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-saluda-acciones-de-la-senora-presidente-constitucional-de-la-republica-y-exige-que-enfoque-preventivo-sean-acatadas-por-los-gobiernos-subnacionales-y-poblacion-en-general-para-sa/",
           "fecha": "2026-10-16T00:00:00",
@@ -3418,27 +3439,6 @@
           "es_pdf": false
         },
         {
-          "titulo": "Defensoría del Pueblo capacita a directores y coordinadores de tutoría sobre protocolos de intervención ante la violencia escolar en Chincha",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-capacita-a-directores-y-coordinadores-de-tutoria-sobre-protocolos-de-intervencion-ante-la-violencia-escolar-en-chincha/",
-          "fecha": "2026-10-15T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo logra acuerdos mediante mediación defensorial en el conflicto social de la comunidad nativa Las Palmas, en Puinahua",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-logra-acuerdos-mediante-mediacion-defensorial-en-el-conflicto-social-de-la-comunidad-nativa-las-palmas-en-puinahua/",
-          "fecha": "2026-10-15T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo exige protección integral para niña con autismo ante presunta violencia sexual",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-proteccion-integral-para-nina-con-autismo-ante-presunta-violencia-sexual/",
-          "fecha": "2026-10-15T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
           "titulo": "Comunicado n.° 062/DP/2026",
           "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-062-2026.pdf",
           "fecha": "2026-10-05T00:00:00",
@@ -3512,7 +3512,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221300"
+      "timestamp": "2026-10-18T11:57:16.406451"
     },
     {
       "pais": "Uruguay",
@@ -3783,13 +3783,6 @@
           "fecha": "2026-09-21T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Autoridades departamentales de todo el país participaron en el II Encuentro Nacional sobre Derechos Humanos",
-          "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/autoridades-departamentales-todo-pais-participaron-ii-encuentro-nacional",
-          "fecha": "2026-09-18T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [
@@ -3816,7 +3809,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221316"
+      "timestamp": "2026-10-18T11:57:16.406455"
     },
     {
       "pais": "Venezuela",
@@ -3916,7 +3909,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221345"
+      "timestamp": "2026-10-18T11:57:16.406461"
     },
     {
       "pais": "Guyana",
@@ -3995,7 +3988,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221366"
+      "timestamp": "2026-10-18T11:57:16.406466"
     },
     {
       "pais": "Costa Rica",
@@ -4029,7 +4022,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221385"
+      "timestamp": "2026-10-18T11:57:16.406470"
     },
     {
       "pais": "El Salvador",
@@ -4317,7 +4310,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221404"
+      "timestamp": "2026-10-18T11:57:16.406475"
     },
     {
       "pais": "Guatemala",
@@ -4351,7 +4344,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221423"
+      "timestamp": "2026-10-18T11:57:16.406480"
     },
     {
       "pais": "Honduras",
@@ -4379,7 +4372,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221444"
+      "timestamp": "2026-10-18T11:57:16.406488"
     },
     {
       "pais": "México",
@@ -4443,7 +4436,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221460"
+      "timestamp": "2026-10-18T11:57:16.406494"
     },
     {
       "pais": "Nicaragua",
@@ -4607,7 +4600,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221476"
+      "timestamp": "2026-10-18T11:57:16.406500"
     },
     {
       "pais": "Panamá",
@@ -4756,7 +4749,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221491"
+      "timestamp": "2026-10-18T11:57:16.406506"
     },
     {
       "pais": "Belice",
@@ -4777,7 +4770,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221509"
+      "timestamp": "2026-10-18T11:57:16.406511"
     },
     {
       "pais": "República Dominicana",
@@ -4913,7 +4906,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221527"
+      "timestamp": "2026-10-18T11:57:16.406515"
     },
     {
       "pais": "República Dominicana",
@@ -4934,7 +4927,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221545"
+      "timestamp": "2026-10-18T11:57:16.406519"
     },
     {
       "pais": "Jamaica",
@@ -4948,100 +4941,21 @@
         {
           "url": "https://opd.gov.jm/news",
           "tipo": "news",
-          "ok": true,
-          "items": 8
+          "ok": false,
+          "items": 0
         },
         {
           "url": "https://opd.gov.jm/articles/news-release",
           "tipo": "press_release",
-          "ok": true,
-          "items": 8
+          "ok": false,
+          "items": 0
         }
       ],
-      "todos_items": [
-        {
-          "titulo": "Main navigation",
-          "url": "https://opd.gov.jm/",
-          "fecha": "2026-01-31T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Information",
-          "url": "https://opd.gov.jm/publications-and-reports",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Citizen Support",
-          "url": "https://opd.gov.jm/news",
-          "fecha": "2026-01-31T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Public Defender Launches Investigation into…",
-          "url": "https://opd.gov.jm/news/public-defender-launches-investigation-jamaicas-sexual-offenders-registry",
-          "fecha": "2026-01-31T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Office of the Public Defender 25th Anniversary -…",
-          "url": "https://opd.gov.jm/news/office-public-defender-25th-anniversary-2025",
-          "fecha": "2026-01-31T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Quick Links",
-          "url": "https://opd.gov.jm/mandate",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "CTA - Footer",
-          "url": "https://opd.gov.jm/form/complaint",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Get Involved",
-          "url": "https://opd.gov.jm/articles/news-release",
-          "fecha": "2026-01-31T00:00:00",
-          "tipo_seccion": "press_release",
-          "es_pdf": false
-        }
-      ],
+      "todos_items": [],
       "items_en_periodo": [],
-      "items_sin_fecha": [
-        {
-          "titulo": "Information",
-          "url": "https://opd.gov.jm/publications-and-reports",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Quick Links",
-          "url": "https://opd.gov.jm/mandate",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "CTA - Footer",
-          "url": "https://opd.gov.jm/form/complaint",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        }
-      ],
+      "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221562"
+      "timestamp": "2026-10-18T11:57:16.406523"
     },
     {
       "pais": "Trinidad y Tobago",
@@ -5069,7 +4983,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221579"
+      "timestamp": "2026-10-18T11:57:16.406532"
     },
     {
       "pais": "Curaçao",
@@ -5154,7 +5068,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221597"
+      "timestamp": "2026-10-18T11:57:16.406538"
     },
     {
       "pais": "Haití",
@@ -5182,7 +5096,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221616"
+      "timestamp": "2026-10-18T11:57:16.406545"
     },
     {
       "pais": "Canadá",
@@ -5314,13 +5228,6 @@
           "fecha": "2026-09-25T00:00:00",
           "tipo_seccion": "newsroom",
           "es_pdf": false
-        },
-        {
-          "titulo": "Pay equity builds a stronger Canada",
-          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/pay-equity-builds-stronger-canada",
-          "fecha": "2026-09-18T00:00:00",
-          "tipo_seccion": "newsroom",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [
@@ -5375,7 +5282,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221632"
+      "timestamp": "2026-10-18T11:57:16.406552"
     },
     {
       "pais": "Canadá",
@@ -5504,7 +5411,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221647"
+      "timestamp": "2026-10-18T11:57:16.406557"
     },
     {
       "pais": "Canadá",
@@ -5525,7 +5432,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221669"
+      "timestamp": "2026-10-18T11:57:16.406563"
     },
     {
       "pais": "Canadá",
@@ -5546,7 +5453,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221694"
+      "timestamp": "2026-10-18T11:57:16.406573"
     },
     {
       "pais": "Canadá",
@@ -5716,7 +5623,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221713"
+      "timestamp": "2026-10-18T11:57:16.406579"
     },
     {
       "pais": "Canadá",
@@ -5737,7 +5644,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221737"
+      "timestamp": "2026-10-18T11:57:16.406586"
     },
     {
       "pais": "Canadá",
@@ -5758,7 +5665,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221753"
+      "timestamp": "2026-10-18T11:57:16.406593"
     },
     {
       "pais": "Canadá",
@@ -5779,7 +5686,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221776"
+      "timestamp": "2026-10-18T11:57:16.406600"
     },
     {
       "pais": "Canadá",
@@ -5829,7 +5736,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221793"
+      "timestamp": "2026-10-18T11:57:16.406608"
     },
     {
       "pais": "Regional",
@@ -5842,7 +5749,7 @@
         {
           "url": "https://ganhri.org/news-events/",
           "tipo": "news",
-          "ok": true,
+          "ok": false,
           "items": 0
         }
       ],
@@ -5850,7 +5757,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221808"
+      "timestamp": "2026-10-18T11:57:16.406614"
     },
     {
       "pais": "Regional",
@@ -6014,7 +5921,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221823"
+      "timestamp": "2026-10-18T11:57:16.406619"
     },
     {
       "pais": "Regional",
@@ -6099,7 +6006,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221838"
+      "timestamp": "2026-10-18T11:57:16.406625"
     },
     {
       "pais": "Regional",
@@ -6360,7 +6267,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221879"
+      "timestamp": "2026-10-18T11:57:16.406632"
     },
     {
       "pais": "Regional",
@@ -6387,7 +6294,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-17T11:25:37.221915"
+      "timestamp": "2026-10-18T11:57:16.406637"
     }
   ]
 }
