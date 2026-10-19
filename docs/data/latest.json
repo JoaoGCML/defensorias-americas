@@ -1,6 +1,6 @@
 {
   "dias": 30,
-  "timestamp": "20261018_1158",
+  "timestamp": "20261019_1424",
   "instituciones": [
     {
       "pais": "Argentina",
@@ -77,7 +77,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.400689"
+      "timestamp": "2026-10-19T14:23:56.439974"
     },
     {
       "pais": "Argentina",
@@ -105,7 +105,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.403709"
+      "timestamp": "2026-10-19T14:23:56.444968"
     },
     {
       "pais": "Argentina",
@@ -126,7 +126,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.404051"
+      "timestamp": "2026-10-19T14:23:56.445534"
     },
     {
       "pais": "Bolivia",
@@ -302,7 +302,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.405047"
+      "timestamp": "2026-10-19T14:23:56.446125"
     },
     {
       "pais": "Brasil",
@@ -527,7 +527,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.405406"
+      "timestamp": "2026-10-19T14:23:56.446478"
     },
     {
       "pais": "Brasil",
@@ -830,7 +830,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.405658"
+      "timestamp": "2026-10-19T14:23:56.447529"
     },
     {
       "pais": "Brasil",
@@ -851,7 +851,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.405876"
+      "timestamp": "2026-10-19T14:23:56.448144"
     },
     {
       "pais": "Brasil",
@@ -992,7 +992,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406136"
+      "timestamp": "2026-10-19T14:23:56.448709"
     },
     {
       "pais": "Brasil",
@@ -1155,7 +1155,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406364"
+      "timestamp": "2026-10-19T14:23:56.449090"
     },
     {
       "pais": "Brasil",
@@ -1346,7 +1346,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406382"
+      "timestamp": "2026-10-19T14:23:56.449132"
     },
     {
       "pais": "Brasil",
@@ -1649,7 +1649,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406389"
+      "timestamp": "2026-10-19T14:23:56.449158"
     },
     {
       "pais": "Brasil",
@@ -1663,12 +1663,12 @@
           "url": "https://defensoria.al.def.br/noticias/",
           "tipo": "noticias",
           "ok": true,
-          "items": 4
+          "items": 5
         }
       ],
       "todos_items": [
         {
-          "titulo": "Defensoria leva oficina de cupcakes à Casa Lar durante a Semana da Criança",
+          "titulo": "Defensoria Pública leva esporte e diversão para celebrar a Semana da Criança",
           "url": "https://defensoria.al.def.br/index.php/noticias/defensoria-leva-oficina-de-cupcakes-a-casa-lar-durante-a-semana-da-crianca-2",
           "fecha": null,
           "tipo_seccion": "noticias",
@@ -1684,6 +1684,13 @@
         {
           "titulo": "Defensoria Pública de Alagoas recebe governador em exercício e discute parcerias",
           "url": "https://defensoria.al.def.br/index.php/noticias/defensoria-publica-de-alagoas-recebe-governador-em-exercicio-e-discute-parcerias",
+          "fecha": null,
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria leva oficina de cupcakes à Casa Lar durante a Semana da Criança",
+          "url": "https://defensoria.al.def.br/index.php/noticias/defensoria-leva-oficina-de-cupcakes-a-casa-lar-durante-a-semana-da-crianca",
           "fecha": null,
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -1707,7 +1714,7 @@
       ],
       "items_sin_fecha": [
         {
-          "titulo": "Defensoria leva oficina de cupcakes à Casa Lar durante a Semana da Criança",
+          "titulo": "Defensoria Pública leva esporte e diversão para celebrar a Semana da Criança",
           "url": "https://defensoria.al.def.br/index.php/noticias/defensoria-leva-oficina-de-cupcakes-a-casa-lar-durante-a-semana-da-crianca-2",
           "fecha": null,
           "tipo_seccion": "noticias",
@@ -1721,6 +1728,13 @@
           "es_pdf": false
         },
         {
+          "titulo": "Defensoria leva oficina de cupcakes à Casa Lar durante a Semana da Criança",
+          "url": "https://defensoria.al.def.br/index.php/noticias/defensoria-leva-oficina-de-cupcakes-a-casa-lar-durante-a-semana-da-crianca",
+          "fecha": null,
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "DPAL recebe estudantes de Direito da Uninassau para visita técnica",
           "url": "https://defensoria.al.def.br/index.php/noticias/dpal-recebe-estudantes-de-direito-da-uninassau-para-visita-tecnica",
           "fecha": null,
@@ -1729,7 +1743,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406394"
+      "timestamp": "2026-10-19T14:23:56.449179"
     },
     {
       "pais": "Brasil",
@@ -1770,8 +1784,22 @@
         },
         {
           "titulo": "Arquivos:Notícias",
-          "url": "https://www.defensoria.ce.def.br/noticia/defensoria-divulga-vaga-de-estagio-de-pos-graduacao-em-direito-para-atuacao-em-massape/",
-          "fecha": "2026-10-16T00:00:00",
+          "url": "https://www.defensoria.ce.def.br/noticia/quatro-locais-de-votacao-no-ceara-sao-alterados-para-o-2o-turno/",
+          "fecha": "2026-10-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "19 de outubro de 2026",
+          "url": "",
+          "fecha": "2026-10-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria divulga que quatro locais de votação no Ceará foram alterados para o 2º Turno",
+          "url": "",
+          "fecha": "2026-10-19T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -1861,20 +1889,6 @@
         },
         {
           "titulo": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidade de posse em Caucaia",
-          "url": "",
-          "fecha": "2026-10-14T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Assessoria de Estágio divulga resultado da banca recursal de heteroidentificação da seleção para estágio em Direito",
-          "url": "",
-          "fecha": "2026-10-14T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria realiza capacitação sobre sistema integrado de atendimento à população em situação de rua",
           "url": "",
           "fecha": "2026-10-14T00:00:00",
           "tipo_seccion": "noticias",
@@ -1884,8 +1898,22 @@
       "items_en_periodo": [
         {
           "titulo": "Arquivos:Notícias",
-          "url": "https://www.defensoria.ce.def.br/noticia/defensoria-divulga-vaga-de-estagio-de-pos-graduacao-em-direito-para-atuacao-em-massape/",
-          "fecha": "2026-10-16T00:00:00",
+          "url": "https://www.defensoria.ce.def.br/noticia/quatro-locais-de-votacao-no-ceara-sao-alterados-para-o-2o-turno/",
+          "fecha": "2026-10-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "19 de outubro de 2026",
+          "url": "",
+          "fecha": "2026-10-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria divulga que quatro locais de votação no Ceará foram alterados para o 2º Turno",
+          "url": "",
+          "fecha": "2026-10-19T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -1975,20 +2003,6 @@
         },
         {
           "titulo": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidade de posse em Caucaia",
-          "url": "",
-          "fecha": "2026-10-14T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Assessoria de Estágio divulga resultado da banca recursal de heteroidentificação da seleção para estágio em Direito",
-          "url": "",
-          "fecha": "2026-10-14T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria realiza capacitação sobre sistema integrado de atendimento à população em situação de rua",
           "url": "",
           "fecha": "2026-10-14T00:00:00",
           "tipo_seccion": "noticias",
@@ -2019,7 +2033,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406398"
+      "timestamp": "2026-10-19T14:23:56.449194"
     },
     {
       "pais": "Brasil",
@@ -2084,7 +2098,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406403"
+      "timestamp": "2026-10-19T14:23:56.449202"
     },
     {
       "pais": "Chile",
@@ -2111,7 +2125,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406411"
+      "timestamp": "2026-10-19T14:23:56.449211"
     },
     {
       "pais": "Chile",
@@ -2135,6 +2149,13 @@
         }
       ],
       "todos_items": [
+        {
+          "titulo": "A siete años del estallido social: Defensoría de la Niñez ...",
+          "url": "",
+          "fecha": "2026-10-16T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
         {
           "titulo": "Niños, niñas y adolescentes de la RM presentaron 16 propuestas ...",
           "url": "",
@@ -2188,13 +2209,6 @@
           "titulo": "Defensoría de la Niñez denunció graves hechos que afectarían a ...",
           "url": "",
           "fecha": "2026-08-20T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Adolescentes de regiones protagonizan podcast de la Defensoría de la ...",
-          "url": "",
-          "fecha": "2026-08-18T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -2320,6 +2334,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "A siete años del estallido social: Defensoría de la Niñez ...",
+          "url": "",
+          "fecha": "2026-10-16T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
           "url": "",
           "fecha": "2026-10-06T00:00:00",
@@ -2337,13 +2358,6 @@
           "titulo": "T13 | Defensoría de la Niñez pedirá antecedentes por eliminación...",
           "url": "",
           "fecha": "2026-09-26T00:00:00",
-          "tipo_seccion": "prensa",
-          "es_pdf": false
-        },
-        {
-          "titulo": "La Tercera | La Niñez en la balanza del ajuste...",
-          "url": "",
-          "fecha": "2026-09-19T00:00:00",
           "tipo_seccion": "prensa",
           "es_pdf": false
         }
@@ -2379,7 +2393,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406417"
+      "timestamp": "2026-10-19T14:23:56.449219"
     },
     {
       "pais": "Chile",
@@ -2569,7 +2583,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406423"
+      "timestamp": "2026-10-19T14:23:56.449227"
     },
     {
       "pais": "Colombia",
@@ -2603,7 +2617,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406427"
+      "timestamp": "2026-10-19T14:23:56.449234"
     },
     {
       "pais": "Colombia",
@@ -2630,7 +2644,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406431"
+      "timestamp": "2026-10-19T14:23:56.449242"
     },
     {
       "pais": "Ecuador",
@@ -2658,7 +2672,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406440"
+      "timestamp": "2026-10-19T14:23:56.449255"
     },
     {
       "pais": "Paraguay",
@@ -2850,7 +2864,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406444"
+      "timestamp": "2026-10-19T14:23:56.449263"
     },
     {
       "pais": "Paraguay",
@@ -2985,7 +2999,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406447"
+      "timestamp": "2026-10-19T14:23:56.449273"
     },
     {
       "pais": "Perú",
@@ -3080,15 +3094,15 @@
           "es_pdf": false
         },
         {
-          "titulo": "Defensoría del Pueblo promovió el diálogo entre la comunidad campesina Santa Rosa de Pitic y la empresa minera para atender la demanda comunal",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promovio-el-dialogo-entre-la-comunidad-campesina-santa-rosa-de-pitic-y-la-empresa-minera-para-atender-la-demanda-comunal-2/",
+          "titulo": "Defensoría del Pueblo contribuye al levantamiento definitivo de las medidas de protesta en la Universidad Nacional de Ucayali",
+          "url": "https://www.defensoria.gob.pe/140230-2/",
           "fecha": "2026-10-16T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
         {
-          "titulo": "Defensoría del Pueblo contribuye al levantamiento definitivo de las medidas de protesta en la Universidad Nacional de Ucayali",
-          "url": "https://www.defensoria.gob.pe/140230-2/",
+          "titulo": "Defensoría del Pueblo promovió el diálogo entre la comunidad campesina Santa Rosa de Pitic y la empresa minera para atender la demanda comunal",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promovio-el-dialogo-entre-la-comunidad-campesina-santa-rosa-de-pitic-y-la-empresa-minera-para-atender-la-demanda-comunal/",
           "fecha": "2026-10-16T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -3150,9 +3164,9 @@
           "es_pdf": false
         },
         {
-          "titulo": "Enlaces de Interés",
-          "url": "https://www.defensoria.gob.pe/cooperacion-internacional",
-          "fecha": null,
+          "titulo": "Defensoría del Pueblo capacita a directores y coordinadores de tutoría sobre protocolos de intervención ante la violencia escolar en Chincha",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-capacita-a-directores-y-coordinadores-de-tutoria-sobre-protocolos-de-intervencion-ante-la-violencia-escolar-en-chincha/",
+          "fecha": "2026-10-15T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -3362,15 +3376,15 @@
           "es_pdf": false
         },
         {
-          "titulo": "Defensoría del Pueblo promovió el diálogo entre la comunidad campesina Santa Rosa de Pitic y la empresa minera para atender la demanda comunal",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promovio-el-dialogo-entre-la-comunidad-campesina-santa-rosa-de-pitic-y-la-empresa-minera-para-atender-la-demanda-comunal-2/",
+          "titulo": "Defensoría del Pueblo contribuye al levantamiento definitivo de las medidas de protesta en la Universidad Nacional de Ucayali",
+          "url": "https://www.defensoria.gob.pe/140230-2/",
           "fecha": "2026-10-16T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
         {
-          "titulo": "Defensoría del Pueblo contribuye al levantamiento definitivo de las medidas de protesta en la Universidad Nacional de Ucayali",
-          "url": "https://www.defensoria.gob.pe/140230-2/",
+          "titulo": "Defensoría del Pueblo promovió el diálogo entre la comunidad campesina Santa Rosa de Pitic y la empresa minera para atender la demanda comunal",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promovio-el-dialogo-entre-la-comunidad-campesina-santa-rosa-de-pitic-y-la-empresa-minera-para-atender-la-demanda-comunal/",
           "fecha": "2026-10-16T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -3439,6 +3453,13 @@
           "es_pdf": false
         },
         {
+          "titulo": "Defensoría del Pueblo capacita a directores y coordinadores de tutoría sobre protocolos de intervención ante la violencia escolar en Chincha",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-capacita-a-directores-y-coordinadores-de-tutoria-sobre-protocolos-de-intervencion-ante-la-violencia-escolar-en-chincha/",
+          "fecha": "2026-10-15T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Comunicado n.° 062/DP/2026",
           "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-062-2026.pdf",
           "fecha": "2026-10-05T00:00:00",
@@ -3479,40 +3500,11 @@
           "fecha": "2026-09-20T00:00:00",
           "tipo_seccion": "pronunciamientos",
           "es_pdf": true
-        },
-        {
-          "titulo": "Comunicado n.° 056/DP/2026",
-          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-056-2026.pdf",
-          "fecha": "2026-09-19T00:00:00",
-          "tipo_seccion": "pronunciamientos",
-          "es_pdf": true
-        },
-        {
-          "titulo": "Comunicado n.° 055/DP/2026",
-          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-055-2026.pdf",
-          "fecha": "2026-09-19T00:00:00",
-          "tipo_seccion": "pronunciamientos",
-          "es_pdf": true
-        },
-        {
-          "titulo": "Comunicado n.° 054/DP/2026",
-          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-054-2026.pdf",
-          "fecha": "2026-09-19T00:00:00",
-          "tipo_seccion": "pronunciamientos",
-          "es_pdf": true
         }
       ],
-      "items_sin_fecha": [
-        {
-          "titulo": "Enlaces de Interés",
-          "url": "https://www.defensoria.gob.pe/cooperacion-internacional",
-          "fecha": null,
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        }
-      ],
+      "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406451"
+      "timestamp": "2026-10-19T14:23:56.449281"
     },
     {
       "pais": "Uruguay",
@@ -3809,7 +3801,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406455"
+      "timestamp": "2026-10-19T14:23:56.449289"
     },
     {
       "pais": "Venezuela",
@@ -3909,7 +3901,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406461"
+      "timestamp": "2026-10-19T14:23:56.449301"
     },
     {
       "pais": "Guyana",
@@ -3988,7 +3980,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406466"
+      "timestamp": "2026-10-19T14:23:56.449310"
     },
     {
       "pais": "Costa Rica",
@@ -4022,7 +4014,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406470"
+      "timestamp": "2026-10-19T14:23:56.449354"
     },
     {
       "pais": "El Salvador",
@@ -4310,7 +4302,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406475"
+      "timestamp": "2026-10-19T14:23:56.449367"
     },
     {
       "pais": "Guatemala",
@@ -4344,7 +4336,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406480"
+      "timestamp": "2026-10-19T14:23:56.449375"
     },
     {
       "pais": "Honduras",
@@ -4372,7 +4364,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406488"
+      "timestamp": "2026-10-19T14:23:56.449386"
     },
     {
       "pais": "México",
@@ -4436,7 +4428,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406494"
+      "timestamp": "2026-10-19T14:23:56.449397"
     },
     {
       "pais": "Nicaragua",
@@ -4600,7 +4592,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406500"
+      "timestamp": "2026-10-19T14:23:56.449405"
     },
     {
       "pais": "Panamá",
@@ -4749,7 +4741,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406506"
+      "timestamp": "2026-10-19T14:23:56.449412"
     },
     {
       "pais": "Belice",
@@ -4770,7 +4762,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406511"
+      "timestamp": "2026-10-19T14:23:56.449420"
     },
     {
       "pais": "República Dominicana",
@@ -4789,6 +4781,13 @@
         }
       ],
       "todos_items": [
+        {
+          "titulo": "DIGEIG reconoce al Defensor del Pueblo por cumplir estándares de transparencia y garantizar acceso a la información",
+          "url": "https://defensordelpueblo.gob.do/2026/10/18/digeig-reconoce-al-defensor-del-pueblo-por-cumplir-estandares-de-transparencia-y-garantizar-acceso-a-la-informacion/",
+          "fecha": "2026-10-18T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
         {
           "titulo": "Defensor del Pueblo celebra segundo encuentro de buenas prácticas en materia de género",
           "url": "https://defensordelpueblo.gob.do/2026/10/15/defensor-del-pueblo-celebra-segundo-encuentro-de-buenas-practicas-en-materia-de-genero/",
@@ -4865,16 +4864,16 @@
           "fecha": "2026-07-13T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Defensor del Pueblo y Universidad ISA firman convenio para fortalecer promoción de deberes y derechos",
-          "url": "https://defensordelpueblo.gob.do/2026/07/13/defensor-del-pueblo-y-universidad-isa-firman-convenio-para-fortalecer-promocion-de-deberes-y-derechos/",
-          "fecha": "2026-07-13T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_en_periodo": [
+        {
+          "titulo": "DIGEIG reconoce al Defensor del Pueblo por cumplir estándares de transparencia y garantizar acceso a la información",
+          "url": "https://defensordelpueblo.gob.do/2026/10/18/digeig-reconoce-al-defensor-del-pueblo-por-cumplir-estandares-de-transparencia-y-garantizar-acceso-a-la-informacion/",
+          "fecha": "2026-10-18T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
         {
           "titulo": "Defensor del Pueblo celebra segundo encuentro de buenas prácticas en materia de género",
           "url": "https://defensordelpueblo.gob.do/2026/10/15/defensor-del-pueblo-celebra-segundo-encuentro-de-buenas-practicas-en-materia-de-genero/",
@@ -4906,7 +4905,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406515"
+      "timestamp": "2026-10-19T14:23:56.449427"
     },
     {
       "pais": "República Dominicana",
@@ -4927,7 +4926,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406519"
+      "timestamp": "2026-10-19T14:23:56.449435"
     },
     {
       "pais": "Jamaica",
@@ -4955,7 +4954,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406523"
+      "timestamp": "2026-10-19T14:23:56.449443"
     },
     {
       "pais": "Trinidad y Tobago",
@@ -4983,7 +4982,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406532"
+      "timestamp": "2026-10-19T14:23:56.449450"
     },
     {
       "pais": "Curaçao",
@@ -5068,7 +5067,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406538"
+      "timestamp": "2026-10-19T14:23:56.449457"
     },
     {
       "pais": "Haití",
@@ -5096,7 +5095,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406545"
+      "timestamp": "2026-10-19T14:23:56.449469"
     },
     {
       "pais": "Canadá",
@@ -5282,7 +5281,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406552"
+      "timestamp": "2026-10-19T14:23:56.449477"
     },
     {
       "pais": "Canadá",
@@ -5300,6 +5299,13 @@
         }
       ],
       "todos_items": [
+        {
+          "titulo": "DPJ : planifier les contacts de façon stable et cohérente",
+          "url": "https://protecteurducitoyen.qc.ca/fr/enquetes/cas-vecus/dpj-planifier-contacts-de-facon-stable-coherente",
+          "fecha": "2026-10-19T00:00:00",
+          "tipo_seccion": "nouvelles",
+          "es_pdf": false
+        },
         {
           "titulo": "Victimes de violence conjugale ou sexuelle : la loi vous protège",
           "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/victimes-violence-la-loi-vous-protege",
@@ -5362,16 +5368,16 @@
           "fecha": "2026-06-11T00:00:00",
           "tipo_seccion": "nouvelles",
           "es_pdf": false
-        },
-        {
-          "titulo": "Réaction au projet de Règlement sur l’exploitation des résidences privées pour aînés",
-          "url": "https://protecteurducitoyen.qc.ca/fr/enquetes/reactions-aux-projets-de-loi-et-de-reglement/projet-reglement-exploitation-rpa",
-          "fecha": "2026-06-09T00:00:00",
-          "tipo_seccion": "nouvelles",
-          "es_pdf": false
         }
       ],
       "items_en_periodo": [
+        {
+          "titulo": "DPJ : planifier les contacts de façon stable et cohérente",
+          "url": "https://protecteurducitoyen.qc.ca/fr/enquetes/cas-vecus/dpj-planifier-contacts-de-facon-stable-coherente",
+          "fecha": "2026-10-19T00:00:00",
+          "tipo_seccion": "nouvelles",
+          "es_pdf": false
+        },
         {
           "titulo": "Victimes de violence conjugale ou sexuelle : la loi vous protège",
           "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/victimes-violence-la-loi-vous-protege",
@@ -5411,7 +5417,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406557"
+      "timestamp": "2026-10-19T14:23:56.449487"
     },
     {
       "pais": "Canadá",
@@ -5432,7 +5438,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406563"
+      "timestamp": "2026-10-19T14:23:56.449497"
     },
     {
       "pais": "Canadá",
@@ -5453,7 +5459,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406573"
+      "timestamp": "2026-10-19T14:23:56.449507"
     },
     {
       "pais": "Canadá",
@@ -5623,7 +5629,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406579"
+      "timestamp": "2026-10-19T14:23:56.449515"
     },
     {
       "pais": "Canadá",
@@ -5644,7 +5650,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406586"
+      "timestamp": "2026-10-19T14:23:56.449524"
     },
     {
       "pais": "Canadá",
@@ -5665,7 +5671,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406593"
+      "timestamp": "2026-10-19T14:23:56.449531"
     },
     {
       "pais": "Canadá",
@@ -5686,7 +5692,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406600"
+      "timestamp": "2026-10-19T14:23:56.449541"
     },
     {
       "pais": "Canadá",
@@ -5736,7 +5742,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406608"
+      "timestamp": "2026-10-19T14:23:56.449551"
     },
     {
       "pais": "Regional",
@@ -5757,7 +5763,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406614"
+      "timestamp": "2026-10-19T14:23:56.449560"
     },
     {
       "pais": "Regional",
@@ -5921,7 +5927,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406619"
+      "timestamp": "2026-10-19T14:23:56.449567"
     },
     {
       "pais": "Regional",
@@ -6006,7 +6012,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406625"
+      "timestamp": "2026-10-19T14:23:56.449574"
     },
     {
       "pais": "Regional",
@@ -6267,7 +6273,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406632"
+      "timestamp": "2026-10-19T14:23:56.449583"
     },
     {
       "pais": "Regional",
@@ -6294,7 +6300,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-18T11:57:16.406637"
+      "timestamp": "2026-10-19T14:23:56.449593"
     }
   ]
 }

@@ -4,6 +4,54 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://www.defensoria.ce.def.br/noticia/quatro-locais-de-votacao-no-ceara-sao-alterados-para-o-2o-turno/",
+      "url": "https://www.defensoria.ce.def.br/noticia/quatro-locais-de-votacao-no-ceara-sao-alterados-para-o-2o-turno/",
+      "title": "Arquivos:Notícias",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-10-19T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-6125813572979616193",
+      "url": "",
+      "title": "19 de outubro de 2026",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-10-19T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:7383536074665151536",
+      "url": "",
+      "title": "Defensoria divulga que quatro locais de votação no Ceará foram alterados para o 2º Turno",
+      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
+      "date_published": "2026-10-19T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://protecteurducitoyen.qc.ca/fr/enquetes/cas-vecus/dpj-planifier-contacts-de-facon-stable-coherente",
+      "url": "https://protecteurducitoyen.qc.ca/fr/enquetes/cas-vecus/dpj-planifier-contacts-de-facon-stable-coherente",
+      "title": "DPJ : planifier les contacts de façon stable et cohérente",
+      "summary": "Protecteur du citoyen du Québec (Canadá)",
+      "date_published": "2026-10-19T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "nouvelles"
+      ]
+    },
+    {
       "id": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-deste-fim-de-semana-17-e-18-10-2026",
       "url": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-deste-fim-de-semana-17-e-18-10-2026",
       "title": "Lista dos defensores públicos plantonistas deste fim de semana (17 e 18.10.2026)",
@@ -12,6 +60,18 @@
       "tags": [
         "Brasil",
         "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensordelpueblo.gob.do/2026/10/18/digeig-reconoce-al-defensor-del-pueblo-por-cumplir-estandares-de-transparencia-y-garantizar-acceso-a-la-informacion/",
+      "url": "https://defensordelpueblo.gob.do/2026/10/18/digeig-reconoce-al-defensor-del-pueblo-por-cumplir-estandares-de-transparencia-y-garantizar-acceso-a-la-informacion/",
+      "title": "DIGEIG reconoce al Defensor del Pueblo por cumplir estándares de transparencia y garantizar acceso a la información",
+      "summary": "Defensor del Pueblo de la República Dominicana (República Dominicana)",
+      "date_published": "2026-10-18T00:00:00",
+      "tags": [
+        "República Dominicana",
+        "Caribe",
         "noticias"
       ]
     },
@@ -196,19 +256,7 @@
       ]
     },
     {
-      "id": "https://www.defensoria.ce.def.br/noticia/defensoria-divulga-vaga-de-estagio-de-pos-graduacao-em-direito-para-atuacao-em-massape/",
-      "url": "https://www.defensoria.ce.def.br/noticia/defensoria-divulga-vaga-de-estagio-de-pos-graduacao-em-direito-para-atuacao-em-massape/",
-      "title": "Arquivos:Notícias",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-16T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-8518303322623803529",
+      "id": "urn:defensorias:-7301775178301691273",
       "url": "",
       "title": "16 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -220,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8217036532042203023",
+      "id": "urn:defensorias:633890944756110957",
       "url": "",
       "title": "Defensoria divulga vaga de estágio de pós-graduação em Direito para atuação em Massapê",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -232,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5474764045179608405",
+      "id": "urn:defensorias:-6477388152020046500",
       "url": "",
       "title": "Assessoria de Estágio convoca os candidatos inscritos na seleção de estágio de graduação em Direito para prova",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -244,7 +292,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4126312793332362995",
+      "id": "urn:defensorias:3908818903746674001",
       "url": "",
       "title": "II Encontro de Teses de Direito Penal da DPCE debate 21 propostas para atuação criminal",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -256,7 +304,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8996073871293666299",
+      "id": "urn:defensorias:-5613673698621521211",
       "url": "",
       "title": "Assessoria de Estágio prorroga prazo de inscrições para seleção simplificada de estágio de pós-graduação em Direito em Redenção",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -268,7 +316,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8192958998304333356",
+      "id": "urn:defensorias:3728501856735565105",
       "url": "",
       "title": "Da angústia ao luto: os direitos dos familiares após a localização de uma pessoa desaparecida",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -280,13 +328,25 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3928359750084802347",
+      "id": "urn:defensorias:6136722416929433794",
       "url": "",
       "title": "Defensoria Pública do Ceará funcionará em regime de plantão de 30 de outubro a 2 de novembro",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
       "date_published": "2026-10-16T00:00:00",
       "tags": [
         "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-1986329761341374605",
+      "url": "",
+      "title": "A siete años del estallido social: Defensoría de la Niñez ...",
+      "summary": "Defensoría de la Niñez (Chile)",
+      "date_published": "2026-10-16T00:00:00",
+      "tags": [
+        "Chile",
         "Sudamérica",
         "noticias"
       ]
@@ -400,9 +460,9 @@
       ]
     },
     {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promovio-el-dialogo-entre-la-comunidad-campesina-santa-rosa-de-pitic-y-la-empresa-minera-para-atender-la-demanda-comunal-2/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promovio-el-dialogo-entre-la-comunidad-campesina-santa-rosa-de-pitic-y-la-empresa-minera-para-atender-la-demanda-comunal-2/",
-      "title": "Defensoría del Pueblo promovió el diálogo entre la comunidad campesina Santa Rosa de Pitic y la empresa minera para atender la demanda comunal",
+      "id": "https://www.defensoria.gob.pe/140230-2/",
+      "url": "https://www.defensoria.gob.pe/140230-2/",
+      "title": "Defensoría del Pueblo contribuye al levantamiento definitivo de las medidas de protesta en la Universidad Nacional de Ucayali",
       "summary": "Defensoría del Pueblo del Perú (Perú)",
       "date_published": "2026-10-16T00:00:00",
       "tags": [
@@ -412,9 +472,9 @@
       ]
     },
     {
-      "id": "https://www.defensoria.gob.pe/140230-2/",
-      "url": "https://www.defensoria.gob.pe/140230-2/",
-      "title": "Defensoría del Pueblo contribuye al levantamiento definitivo de las medidas de protesta en la Universidad Nacional de Ucayali",
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promovio-el-dialogo-entre-la-comunidad-campesina-santa-rosa-de-pitic-y-la-empresa-minera-para-atender-la-demanda-comunal/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promovio-el-dialogo-entre-la-comunidad-campesina-santa-rosa-de-pitic-y-la-empresa-minera-para-atender-la-demanda-comunal/",
+      "title": "Defensoría del Pueblo promovió el diálogo entre la comunidad campesina Santa Rosa de Pitic y la empresa minera para atender la demanda comunal",
       "summary": "Defensoría del Pueblo del Perú (Perú)",
       "date_published": "2026-10-16T00:00:00",
       "tags": [
@@ -688,7 +748,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7866117044270788182",
+      "id": "urn:defensorias:-51133858787448145",
       "url": "",
       "title": "15 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -700,7 +760,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-611529999295837411",
+      "id": "urn:defensorias:-3858073123579119946",
       "url": "",
       "title": "DPCE divulga lista de inscritos em seleção de estágio em Direito",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -712,7 +772,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1101420153041993899",
+      "id": "urn:defensorias:-8547738398893607664",
       "url": "",
       "title": "Pensão atrasada? Entenda como funciona a execução de alimentos",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -724,7 +784,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2023612678407796864",
+      "id": "urn:defensorias:4674554777213217746",
       "url": "",
       "title": "Fonajus Itinerante faz visita técnica no Núcleo de Defesa da Saúde da Defensoria",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -736,7 +796,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8420626391197031277",
+      "id": "urn:defensorias:-1963982924227312706",
       "url": "",
       "title": "Noticias 15 de octubre de 2026 Defensor del Pueblo coordina acciones de asistencia para las familias afectadas por la crecida en Cerrito El Defensor d",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -748,7 +808,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4295525805484528822",
+      "id": "urn:defensorias:-3151575938937133116",
       "url": "",
       "title": "Noticias 15 de octubre de 2026 Vecinos del Barrio Las Mercedes recurrieron a la Defensoría del Pueblo con varios reclamos que afectan su convivencia E",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -832,6 +892,18 @@
       ]
     },
     {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-capacita-a-directores-y-coordinadores-de-tutoria-sobre-protocolos-de-intervencion-ante-la-violencia-escolar-en-chincha/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-capacita-a-directores-y-coordinadores-de-tutoria-sobre-protocolos-de-intervencion-ante-la-violencia-escolar-en-chincha/",
+      "title": "Defensoría del Pueblo capacita a directores y coordinadores de tutoría sobre protocolos de intervención ante la violencia escolar en Chincha",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-10-15T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/recomendaciones-para-fortalecer-proteccion-infancias-adolescencias-frente",
       "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/recomendaciones-para-fortalecer-proteccion-infancias-adolescencias-frente",
       "title": "Recomendaciones para fortalecer la protección de infancias y adolescencias frente a la violencia territorial",
@@ -880,7 +952,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5522362251633234378",
+      "id": "urn:defensorias:6417768289219458683",
       "url": "",
       "title": "Defensoria abre inscrições para o mutirão #DáPraResolver em Mogi das Cruzes",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -976,7 +1048,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3327432846597375112",
+      "id": "urn:defensorias:6350732701648115114",
       "url": "",
       "title": "14 de outubro de 2026",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
@@ -988,33 +1060,9 @@
       ]
     },
     {
-      "id": "urn:defensorias:7268785283089279522",
+      "id": "urn:defensorias:-7576913482775828481",
       "url": "",
       "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidade de posse em Caucaia",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-14T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:9045501934414240909",
-      "url": "",
-      "title": "Assessoria de Estágio divulga resultado da banca recursal de heteroidentificação da seleção para estágio em Direito",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-14T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:1195488801806452685",
-      "url": "",
-      "title": "Defensoria realiza capacitação sobre sistema integrado de atendimento à população em situação de rua",
       "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
       "date_published": "2026-10-14T00:00:00",
       "tags": [
@@ -1060,7 +1108,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3014365206546737302",
+      "id": "urn:defensorias:-2172620096102233494",
       "url": "",
       "title": "Noticias 14 de octubre de 2026 El Defensor del Pueblo articula ante entes públicos para proteger los derechos indígenas en Caaguazú El Defensor del Pu",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -1072,7 +1120,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6279109053490756479",
+      "id": "urn:defensorias:8600550760645407236",
       "url": "",
       "title": "Noticias 14 de octubre de 2026 Defensoría del Pueblo canalizó donaciones para personas en situación de vulnerabilidad La Defensoría del Pueblo, a trav",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -1151,54 +1199,6 @@
       "date_published": "2026-10-13T00:00:00",
       "tags": [
         "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/brasil-e-reeleito-para-o-trienio-2027-2029-do-conselho-de-direitos-humanos-das-nacoes-unidas",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/brasil-e-reeleito-para-o-trienio-2027-2029-do-conselho-de-direitos-humanos-das-nacoes-unidas",
-      "title": "Brasil é reeleito para o triênio 2027-2029 do Conselho de Direitos Humanos das Nações Unidas",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-10-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/encontro-tecnico-com-governo-e-sociedade-civil-discutiu-implementacao-do-plano-nacional-de-protecao-a-defensoras-e-defensores-de-direitos-humanos",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/encontro-tecnico-com-governo-e-sociedade-civil-discutiu-implementacao-do-plano-nacional-de-protecao-a-defensoras-e-defensores-de-direitos-humanos",
-      "title": "Encontro técnico com governo e sociedade civil discutiu implementação do Plano Nacional de Proteção a Defensoras e Defensores de Direitos Humanos",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-10-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-5788238002903039799",
-      "url": "",
-      "title": "NUPIR propõe mudanças na política de cotas para docentes da USP",
-      "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
-      "date_published": "2026-10-13T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/33077-Defensoria-do-Rio-participara-de-debate-sobre-enfrentamento-a-violencia-domestica-e-familiar",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/33077-Defensoria-do-Rio-participara-de-debate-sobre-enfrentamento-a-violencia-domestica-e-familiar",
-      "title": "Defensoria do Rio participará de debate sobre enfrentamento à violência doméstica e familiar",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-10-13T00:00:00",
-      "tags": [
-        "Brasil",
         "Sudamérica",
         "noticias"
       ]
