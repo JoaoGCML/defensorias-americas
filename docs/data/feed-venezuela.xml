@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Venezuela</title>
   <id>urn:defensorias-americas:prensa:venezuela</id>
-  <updated>2026-10-19T14:24:51Z</updated>
+  <updated>2026-10-20T12:34:32Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-venezuela.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensora del Pueblo propone fortalecer las garantías de la justicia penal y abrir nuevas oportunidades para los jóvenes en Nueva Esparta</title>
+    <id>http://www.defensoria.gob.ve/?p=20852</id>
+    <link href="http://www.defensoria.gob.ve/?p=20852" />
+    <updated>2026-10-19T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo lanzará el proyecto «Jóvenes Defensoriales» para promover los derechos fundamentales y la reinserción social</title>
     <id>http://www.defensoria.gob.ve/?p=20844</id>
@@ -31,13 +38,6 @@
     <id>http://www.defensoria.gob.ve/?p=20811</id>
     <link href="http://www.defensoria.gob.ve/?p=20811" />
     <updated>2026-10-02T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo activa protocolo de protección integral para presuntas víctimas de trata de personas</title>
-    <id>http://www.defensoria.gob.ve/?p=20804</id>
-    <link href="http://www.defensoria.gob.ve/?p=20804" />
-    <updated>2026-10-01T00:00:00</updated>
     <summary>Defensoría del Pueblo de Venezuela (Venezuela) — noticias</summary>
   </entry>
 </feed>
