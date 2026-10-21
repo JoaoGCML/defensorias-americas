@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-10-20T12:34:32Z</updated>
+  <updated>2026-10-21T12:46:04Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensoría del Pueblo y OIM fortalecerán la protección de los derechos de las personas en movilidad humana</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-oim-fortaleceran-la-proteccion-de-los-derechos-de-las-personas-en-movilidad-humana</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-oim-fortaleceran-la-proteccion-de-los-derechos-de-las-personas-en-movilidad-humana" />
+    <updated>2026-10-20T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensor del Pueblo alerta sobre nuevas formas de violencia sexual contra niñas, niños y adolescentes en entornos digitales</title>
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-sobre-nuevas-formas-de-violencia-sexual-contra-ninyas,-ninyos-y-adolescentes-en-entornos-digitales</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-puebloreglamentacion-de-la-ley-1680-marca-un-hito-en-la-proteccion-de-huerfanos-por-feminicidio</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensor-del-puebloreglamentacion-de-la-ley-1680-marca-un-hito-en-la-proteccion-de-huerfanos-por-feminicidio" />
     <updated>2026-10-12T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>PRONUNCIAMIENTO 11 DE OCTUBRE – DÍA DE LA MUJER BOLIVIANA</title>
-    <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-11-de-octubre-%E2%80%93-dia-de-la-mujer-boliviana</id>
-    <link href="https://www.defensoria.gob.bo/noticias/pronunciamiento-11-de-octubre-%E2%80%93-dia-de-la-mujer-boliviana" />
-    <updated>2026-10-11T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
