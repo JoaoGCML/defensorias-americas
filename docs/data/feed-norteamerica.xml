@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Norteamérica</title>
   <id>urn:defensorias-americas:prensa:norteamerica</id>
-  <updated>2026-10-21T12:46:04Z</updated>
+  <updated>2026-10-22T12:49:10Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-norteamerica.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Canada’s next housing strategy starts with Budget 2026</title>
+    <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/canadas-next-housing-strategy-starts-budget-2026</id>
+    <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/canadas-next-housing-strategy-starts-budget-2026" />
+    <updated>2026-10-21T00:00:00</updated>
+    <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
+  </entry>
   <entry>
     <title>DPJ : planifier les contacts de façon stable et cohérente</title>
     <id>https://protecteurducitoyen.qc.ca/fr/enquetes/cas-vecus/dpj-planifier-contacts-de-facon-stable-coherente</id>

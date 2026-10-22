@@ -4,7 +4,31 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-paraguay.json",
   "items": [
     {
-      "id": "urn:defensorias:1281385273739576650",
+      "id": "https://mnp.gov.py/mnp-monitorea-las-condiciones-de-vida-y-atencion-de-las-mujeres-privadas-de-libertad-en-serafina-davalos/",
+      "url": "https://mnp.gov.py/mnp-monitorea-las-condiciones-de-vida-y-atencion-de-las-mujeres-privadas-de-libertad-en-serafina-davalos/",
+      "title": "MNP monitorea las condiciones de vida y atención de las mujeres privadas de libertad en Serafina Dávalos",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-10-22T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-1200167014266368733",
+      "url": "",
+      "title": "Noticias 21 de octubre de 2026 Defensoría del Pueblo advierte sobre materiales educativos y pide al MEC convocar a expertos para revisión integral La",
+      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
+      "date_published": "2026-10-21T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-8993701502074343616",
       "url": "",
       "title": "Noticias 20 de octubre de 2026 Representantes de comedores y centros comunitarios se reunieron con el Defensor del Pueblo El Defensor del Pueblo, Abg.",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -28,7 +52,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5800310378857489509",
+      "id": "urn:defensorias:-4019904142846048787",
       "url": "",
       "title": "Noticias 19 de octubre de 2026 La Defensoría del Pueblo acompaña a pacientes en su lucha contra el cáncer El Defensor del Pueblo, Abg. Mgtr. Rafael Áv",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -64,7 +88,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3713440264661642686",
+      "id": "urn:defensorias:-7989722277449605720",
       "url": "",
       "title": "Noticias 15 de octubre de 2026 Defensor del Pueblo coordina acciones de asistencia para las familias afectadas por la crecida en Cerrito El Defensor d",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -76,7 +100,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2919030661573264612",
+      "id": "urn:defensorias:-8874422703812315333",
       "url": "",
       "title": "Noticias 15 de octubre de 2026 Vecinos del Barrio Las Mercedes recurrieron a la Defensoría del Pueblo con varios reclamos que afectan su convivencia E",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -124,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:284698660765810641",
+      "id": "urn:defensorias:6608266224738381928",
       "url": "",
       "title": "Noticias 14 de octubre de 2026 El Defensor del Pueblo articula ante entes públicos para proteger los derechos indígenas en Caaguazú El Defensor del Pu",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -136,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5695530433004927639",
+      "id": "urn:defensorias:-6593623471412055041",
       "url": "",
       "title": "Noticias 14 de octubre de 2026 Defensoría del Pueblo canalizó donaciones para personas en situación de vulnerabilidad La Defensoría del Pueblo, a trav",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -160,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6098697326635630235",
+      "id": "urn:defensorias:8151186506782408603",
       "url": "",
       "title": "Noticias 13 de octubre de 2026 Continuamos con el acompañamiento institucional al INCAN y a la APACFA En seguimiento a la asistencia brindada por la D",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -172,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2582463972318387185",
+      "id": "urn:defensorias:3153645293582098818",
       "url": "",
       "title": "Noticias 13 de octubre de 2026 Defensor del Pueblo acompañó las excavaciones en busca de Agustín Goiburú El Defensor del Pueblo, Abog. Mgtr. Rafael Áv",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -184,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-2359378833815262353",
+      "id": "urn:defensorias:-4777473050395072373",
       "url": "",
       "title": "Noticias 12 de octubre de 2026 Defensor del Pueblo dona equipo informático a APACFA El Defensor del Pueblo, Abog. Rafael Ávila Macke, visitó a la Asoc",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -196,19 +220,7 @@
       ]
     },
     {
-      "id": "https://mnp.gov.py/el-mnp-acompana-los-trabajos-de-excavacion-en-el-cementerio-del-este-en-busca-de-personas-desaparecidas/",
-      "url": "https://mnp.gov.py/el-mnp-acompana-los-trabajos-de-excavacion-en-el-cementerio-del-este-en-busca-de-personas-desaparecidas/",
-      "title": "MNP acompaña inicio de trabajos de excavación en busca de personas desaparecidas",
-      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
-      "date_published": "2026-10-12T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:8325163495581940213",
+      "id": "urn:defensorias:2731928061989966454",
       "url": "",
       "title": "Noticias 10 de octubre de 2026 Defensoría del Pueblo renueva convenio para impulsar el servicio sustitutivo de jóvenes objetores de conciencia El Defe",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -220,23 +232,11 @@
       ]
     },
     {
-      "id": "urn:defensorias:7430897766569334256",
+      "id": "urn:defensorias:-4327528778365711832",
       "url": "",
       "title": "Noticias 8 de octubre de 2026 Jornada de Asistencia Integral acercó servicios y derechos a la comunidad indígena Yvapovondy La Defensoría del Pueblo,",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
       "date_published": "2026-10-08T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-4960134316449301248",
-      "url": "",
-      "title": "Noticias 7 de octubre de 2026 Culminamos nuestro ciclo de charlas en el Bañado Norte de Asunción Cerramos con mucha satisfacción una semana de trabajo",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-10-07T00:00:00",
       "tags": [
         "Paraguay",
         "Sudamérica",
