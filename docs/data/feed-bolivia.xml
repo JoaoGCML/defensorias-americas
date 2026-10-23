@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-10-22T12:49:10Z</updated>
+  <updated>2026-10-23T12:27:37Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensor del Pueblo alerta sobre indicios de servidumbre por deudas y explotación laboral en las zafras de caña y castaña</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-sobre-indicios-de-servidumbre-por-deudas-y-explotacion-laboral-en-las-zafras-de-canya-y-castanya</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-sobre-indicios-de-servidumbre-por-deudas-y-explotacion-laboral-en-las-zafras-de-canya-y-castanya" />
+    <updated>2026-10-22T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>PRONUNCIAMIENTO DEFENSORÍA DEL PUEBLO DESTACA LA CREACIÓN DE LA DEFENSORÍA DE LAS CRUCEÑAS Y LOS CRUCEÑOS</title>
     <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-destaca-la-creacion-de-la-defensoriade-las-crucenyas-y-los-crucenyos</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/la-independencia-y-autonomia-de-la-defensoria-del-pueblo-como-garantia-del-estado-de-derechopronunciamiento</id>
     <link href="https://www.defensoria.gob.bo/noticias/la-independencia-y-autonomia-de-la-defensoria-del-pueblo-como-garantia-del-estado-de-derechopronunciamiento" />
     <updated>2026-10-13T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>DEFENSOR DEL PUEBLO REALIZA VERIFICACIÓN EN LA PLANTA DE SENKATA Y EXIGE A LA ANH REFORZAR EL CONTROL EN LA DISTRIBUCIÓN DE GLP Y COMBUSTIBLES</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-realiza-verificacion-en-la-planta-de-senkata-y-exige-a-la-anh-reforzar-el-control-en-la-distribucion-de-glp-y-combustibles</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-realiza-verificacion-en-la-planta-de-senkata-y-exige-a-la-anh-reforzar-el-control-en-la-distribucion-de-glp-y-combustibles" />
-    <updated>2026-10-12T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
