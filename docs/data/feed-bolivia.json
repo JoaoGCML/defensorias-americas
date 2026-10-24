@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-verifica-el-desarrollo-de-actividades-educativas-en-unidades-educativas-de-la-paz-y-el-alto",
+      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-verifica-el-desarrollo-de-actividades-educativas-en-unidades-educativas-de-la-paz-y-el-alto",
+      "title": "Defensoría del Pueblo verifica el desarrollo de actividades educativas en unidades educativas de La Paz y El Alto",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-10-23T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-sobre-indicios-de-servidumbre-por-deudas-y-explotacion-laboral-en-las-zafras-de-canya-y-castanya",
       "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-sobre-indicios-de-servidumbre-por-deudas-y-explotacion-laboral-en-las-zafras-de-canya-y-castanya",
       "title": "Defensor del Pueblo alerta sobre indicios de servidumbre por deudas y explotación laboral en las zafras de caña y castaña",
@@ -105,18 +117,6 @@
       "title": "DEFENSOR DEL PUEBLO: EL 15 DE OCTUBRE RENUEVA EL COMPROMISO CON LA DIGNIDAD Y LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD",
       "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
       "date_published": "2026-10-15T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/la-independencia-y-autonomia-de-la-defensoria-del-pueblo-como-garantia-del-estado-de-derechopronunciamiento",
-      "url": "https://www.defensoria.gob.bo/noticias/la-independencia-y-autonomia-de-la-defensoria-del-pueblo-como-garantia-del-estado-de-derechopronunciamiento",
-      "title": "LA INDEPENDENCIA Y AUTONOMÍA DE LA DEFENSORÍA DEL PUEBLO COMO GARANTÍA DEL ESTADO DE DERECHO (PRONUNCIAMIENTO )",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-10-13T00:00:00",
       "tags": [
         "Bolivia",
         "Sudamérica",
