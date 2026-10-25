@@ -1,6 +1,6 @@
 {
   "dias": 30,
-  "timestamp": "20261024_1153",
+  "timestamp": "20261025_1223",
   "instituciones": [
     {
       "pais": "Argentina",
@@ -63,7 +63,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.002214"
+      "timestamp": "2026-10-25T12:22:15.191678"
     },
     {
       "pais": "Argentina",
@@ -91,7 +91,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.005316"
+      "timestamp": "2026-10-25T12:22:15.207557"
     },
     {
       "pais": "Argentina",
@@ -112,7 +112,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.005670"
+      "timestamp": "2026-10-25T12:22:15.208029"
     },
     {
       "pais": "Bolivia",
@@ -144,6 +144,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "DEFENSOR DEL PUEBLO INFORMA DE 109 CONFLICTOS CON DEMANDAS DE ALIMENTACIÓN, DIÉSEL Y EMPLEO DURANTE TERCER TRIMESTRE DE 2026",
+          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-informa-de-109-conflictos-con-demandas-de-alimentacion,-diesel-y-empleo-durante-tercer-trimestre-de-2026",
+          "fecha": "2026-10-24T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoría del Pueblo verifica el desarrollo de actividades educativas en unidades educativas de La Paz y El Alto",
           "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-verifica-el-desarrollo-de-actividades-educativas-en-unidades-educativas-de-la-paz-y-el-alto",
           "fecha": "2026-10-23T00:00:00",
@@ -202,13 +209,6 @@
         {
           "titulo": "DEFENSORÍA DEL PUEBLO ACOMPAÑA AVANCE LEGISLATIVO PARA PROTEGER A PALOS BLANCOS Y ALTO BENI DE LA ACTIVIDAD Y CONTAMINACIÓN MINERA",
           "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-acompanya-avance-legislativo-para-proteger-a-palos-blancos-y-alto-beni-de-la-actividad-y-contaminacion-minera",
-          "fecha": "2026-10-15T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "DEFENSOR DEL PUEBLO: EL 15 DE OCTUBRE RENUEVA EL COMPROMISO CON LA DIGNIDAD Y LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD",
-          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-puebloel-15-de-octubre-renueva-el-compromiso-con-la-dignidad-y-los-derechos-de-las-personas-con-discapacidad",
           "fecha": "2026-10-15T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -216,6 +216,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "DEFENSOR DEL PUEBLO INFORMA DE 109 CONFLICTOS CON DEMANDAS DE ALIMENTACIÓN, DIÉSEL Y EMPLEO DURANTE TERCER TRIMESTRE DE 2026",
+          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-informa-de-109-conflictos-con-demandas-de-alimentacion,-diesel-y-empleo-durante-tercer-trimestre-de-2026",
+          "fecha": "2026-10-24T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoría del Pueblo verifica el desarrollo de actividades educativas en unidades educativas de La Paz y El Alto",
           "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-verifica-el-desarrollo-de-actividades-educativas-en-unidades-educativas-de-la-paz-y-el-alto",
           "fecha": "2026-10-23T00:00:00",
@@ -277,18 +284,11 @@
           "fecha": "2026-10-15T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "DEFENSOR DEL PUEBLO: EL 15 DE OCTUBRE RENUEVA EL COMPROMISO CON LA DIGNIDAD Y LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD",
-          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-puebloel-15-de-octubre-renueva-el-compromiso-con-la-dignidad-y-los-derechos-de-las-personas-con-discapacidad",
-          "fecha": "2026-10-15T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.005899"
+      "timestamp": "2026-10-25T12:22:15.208607"
     },
     {
       "pais": "Brasil",
@@ -513,7 +513,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.006195"
+      "timestamp": "2026-10-25T12:22:15.208903"
     },
     {
       "pais": "Brasil",
@@ -532,6 +532,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "Brasileiros repatriados dos Estados Unidos chegam a Confins (MG) na sexta-feira (23)",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/brasileiros-repatriados-dos-estados-unidos-chegam-a-confins-mg-na-sexta-feira-23",
+          "fecha": "2026-10-24T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Nota de Pesar – Luzia Faria Silva",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/nota-de-pesar-2013-luzia-faria-silva",
           "fecha": "2026-10-23T00:00:00",
@@ -661,19 +668,19 @@
           "titulo": "Encontro técnico com governo e sociedade civil discutiu implementação do Plano Nacional de Proteção a Defensoras e Defensores de Direitos Humanos",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/encontro-tecnico-com-governo-e-sociedade-civil-discutiu-implementacao-do-plano-nacional-de-protecao-a-defensoras-e-defensores-de-direitos-humanos",
           "fecha": "2026-10-13T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Voo com brasileiros repatriados dos EUA chegará ao Aeroporto Internacional de Belo Horizonte nesta sexta-feira (9)",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/voo-com-brasileiros-repatriados-dos-eua-chegara-ao-aeroporto-internacional-de-belo-horizonte-nesta-sexta-feira-9",
-          "fecha": "2026-10-09T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         }
       ],
       "items_en_periodo": [
         {
+          "titulo": "Brasileiros repatriados dos Estados Unidos chegam a Confins (MG) na sexta-feira (23)",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/brasileiros-repatriados-dos-estados-unidos-chegam-a-confins-mg-na-sexta-feira-23",
+          "fecha": "2026-10-24T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Nota de Pesar – Luzia Faria Silva",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/nota-de-pesar-2013-luzia-faria-silva",
           "fecha": "2026-10-23T00:00:00",
@@ -802,13 +809,6 @@
         {
           "titulo": "Nota à Imprensa",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/nota-a-imprensa",
-          "fecha": "2026-10-09T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Voo com brasileiros repatriados dos EUA chegará ao Aeroporto Internacional de Belo Horizonte nesta sexta-feira (9)",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/voo-com-brasileiros-repatriados-dos-eua-chegara-ao-aeroporto-internacional-de-belo-horizonte-nesta-sexta-feira-9",
           "fecha": "2026-10-09T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -816,7 +816,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.006615"
+      "timestamp": "2026-10-25T12:22:15.209229"
     },
     {
       "pais": "Brasil",
@@ -837,7 +837,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.006801"
+      "timestamp": "2026-10-25T12:22:15.209514"
     },
     {
       "pais": "Brasil",
@@ -978,7 +978,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007010"
+      "timestamp": "2026-10-25T12:22:15.210460"
     },
     {
       "pais": "Brasil",
@@ -1141,7 +1141,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007777"
+      "timestamp": "2026-10-25T12:22:15.211158"
     },
     {
       "pais": "Brasil",
@@ -1332,7 +1332,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007787"
+      "timestamp": "2026-10-25T12:22:15.211187"
     },
     {
       "pais": "Brasil",
@@ -1635,7 +1635,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007794"
+      "timestamp": "2026-10-25T12:22:15.211207"
     },
     {
       "pais": "Brasil",
@@ -1728,7 +1728,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007801"
+      "timestamp": "2026-10-25T12:22:15.211230"
     },
     {
       "pais": "Brasil",
@@ -2018,7 +2018,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007807"
+      "timestamp": "2026-10-25T12:22:15.211250"
     },
     {
       "pais": "Brasil",
@@ -2083,7 +2083,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007812"
+      "timestamp": "2026-10-25T12:22:15.211269"
     },
     {
       "pais": "Chile",
@@ -2110,7 +2110,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007816"
+      "timestamp": "2026-10-25T12:22:15.211286"
     },
     {
       "pais": "Chile",
@@ -2434,7 +2434,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007820"
+      "timestamp": "2026-10-25T12:22:15.211312"
     },
     {
       "pais": "Chile",
@@ -2638,7 +2638,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007824"
+      "timestamp": "2026-10-25T12:22:15.211333"
     },
     {
       "pais": "Colombia",
@@ -2672,7 +2672,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007828"
+      "timestamp": "2026-10-25T12:22:15.211348"
     },
     {
       "pais": "Colombia",
@@ -2699,7 +2699,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007835"
+      "timestamp": "2026-10-25T12:22:15.211368"
     },
     {
       "pais": "Ecuador",
@@ -2727,7 +2727,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007841"
+      "timestamp": "2026-10-25T12:22:15.211385"
     },
     {
       "pais": "Paraguay",
@@ -2919,7 +2919,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007845"
+      "timestamp": "2026-10-25T12:22:15.211400"
     },
     {
       "pais": "Paraguay",
@@ -3054,7 +3054,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007851"
+      "timestamp": "2026-10-25T12:22:15.211429"
     },
     {
       "pais": "Perú",
@@ -3086,9 +3086,44 @@
       ],
       "todos_items": [
         {
-          "titulo": "Defensoría del Pueblo registró ocho nuevos conflictos sociales a nivel nacional en septiembre",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-registro-ocho-nuevos-conflictos-sociales-a-nivel-nacional-en-septiembre/",
-          "fecha": "2026-10-21T00:00:00",
+          "titulo": "Defensoría del Pueblo y Municipalidad Provincial de Espinar acuerdan trabajar de manera conjunta en la promoción de derechos y prevención de conflictos sociales",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-y-municipalidad-provincial-de-espinar-acuerdan-trabajar-de-manera-conjunta-en-la-promocion-de-derechos-y-prevencion-de-conflictos-sociales/",
+          "fecha": "2026-10-23T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo exige al Estado y a la sociedad acciones efectivas para erradicar la discriminación hacia las personas de talla baja",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-al-estado-y-a-la-sociedad-acciones-efectivas-para-erradicar-la-discriminacion-hacia-las-personas-de-talla-baja/",
+          "fecha": "2026-10-25T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo presenta avances del programa Rompiendo Cadenas durante lanzamiento de evento deportivo en Arequipa",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-presenta-avances-del-programa-rompiendo-cadenas-durante-lanzamiento-de-evento-deportivo-en-arequipa/",
+          "fecha": "2026-10-24T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo y RENIEC realizan tercera campaña de renovación de DNI en beneficio de niños y adolescentes en situación de vulnerabilidad",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-y-reniec-realizan-tercera-campana-de-renovacion-de-dni-en-beneficio-de-ninos-y-adolescentes-en-situacion-de-vulnerabilidad/",
+          "fecha": "2026-10-24T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Puerto Inca: se instala mesa de trabajo tras reunión liderada por la Defensoría del Pueblo para atender cortes constantes de energía eléctrica",
+          "url": "https://www.defensoria.gob.pe/puerto-inca-se-instala-mesa-de-trabajo-tras-reunion-liderada-por-la-defensoria-del-pueblo-para-atender-cortes-constantes-de-energia-electrica/",
+          "fecha": "2026-10-24T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo interviene para garantizar los derechos de tres hermanos en situación de alta vulnerabilidad",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-interviene-para-garantizar-los-derechos-de-tres-hermanos-en-situacion-de-alta-vulnerabilidad/",
+          "fecha": "2026-10-24T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -3102,13 +3137,6 @@
         {
           "titulo": "Defensoría del Pueblo invoca a empresas de electricidad y telefonía a retirar los cables en mal estado o en desuso en los distritos de Comas y Carabayllo",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-invoca-a-empresas-de-electricidad-y-telefonia-a-retirar-los-cables-en-mal-estado-o-en-desuso-en-los-distritos-de-comas-y-carabayllo/",
-          "fecha": "2026-10-23T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo y Municipalidad Provincial de Espinar acuerdan trabajar de manera conjunta en la promoción de derechos y prevención de conflictos sociales",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-y-municipalidad-provincial-de-espinar-acuerdan-trabajar-de-manera-conjunta-en-la-promocion-de-derechos-y-prevencion-de-conflictos-sociales/",
           "fecha": "2026-10-23T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -3193,34 +3221,6 @@
         {
           "titulo": "Mediación de la Defensoría del Pueblo propicia compromiso de las autoridades universitarias ante la demanda estudiantil de la Universidad Nacional de Huancavelica",
           "url": "https://www.defensoria.gob.pe/mediacion-de-la-defensoria-del-pueblo-propicia-compromiso-de-las-autoridades-universitarias-ante-la-demanda-estudiantil-de-la-universidad-nacional-de-huancavelica/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo exhorta a ENOSA a intervenir de inmediato ante riesgo por postes eléctricos caídos en veintiséis de octubre",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-enosa-a-intervenir-de-inmediato-ante-riesgo-por-postes-electricos-caidos-en-veintiseis-de-octubre/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo logró convocatoria urgente de la plataforma regional de Defensa Civil ante lluvias en Piura",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-logro-convocatoria-urgente-de-la-plataforma-regional-de-defensa-civil-ante-lluvias-en-piura/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Tras intervención de la Defensoría del Pueblo, MINEN identifica dos componentes mineros para su incorporación al inventario de pasivos ambientales",
-          "url": "https://www.defensoria.gob.pe/tras-intervencion-de-la-defensoria-del-pueblo-minen-identifica-dos-componentes-mineros-para-su-incorporacion-al-inventario-de-pasivos-ambientales/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo exhorta a promover la eficiencia energética y garantizar el acceso equitativo a energías limpias en el país",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-promover-la-eficiencia-energetica-y-garantizar-el-acceso-equitativo-a-energias-limpias-en-el-pais/",
           "fecha": "2026-10-21T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -3368,6 +3368,48 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Defensoría del Pueblo exige al Estado y a la sociedad acciones efectivas para erradicar la discriminación hacia las personas de talla baja",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-al-estado-y-a-la-sociedad-acciones-efectivas-para-erradicar-la-discriminacion-hacia-las-personas-de-talla-baja/",
+          "fecha": "2026-10-25T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo presenta avances del programa Rompiendo Cadenas durante lanzamiento de evento deportivo en Arequipa",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-presenta-avances-del-programa-rompiendo-cadenas-durante-lanzamiento-de-evento-deportivo-en-arequipa/",
+          "fecha": "2026-10-24T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo y RENIEC realizan tercera campaña de renovación de DNI en beneficio de niños y adolescentes en situación de vulnerabilidad",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-y-reniec-realizan-tercera-campana-de-renovacion-de-dni-en-beneficio-de-ninos-y-adolescentes-en-situacion-de-vulnerabilidad/",
+          "fecha": "2026-10-24T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Puerto Inca: se instala mesa de trabajo tras reunión liderada por la Defensoría del Pueblo para atender cortes constantes de energía eléctrica",
+          "url": "https://www.defensoria.gob.pe/puerto-inca-se-instala-mesa-de-trabajo-tras-reunion-liderada-por-la-defensoria-del-pueblo-para-atender-cortes-constantes-de-energia-electrica/",
+          "fecha": "2026-10-24T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo interviene para garantizar los derechos de tres hermanos en situación de alta vulnerabilidad",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-interviene-para-garantizar-los-derechos-de-tres-hermanos-en-situacion-de-alta-vulnerabilidad/",
+          "fecha": "2026-10-24T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo y Municipalidad Provincial de Espinar acuerdan trabajar de manera conjunta en la promoción de derechos y prevención de conflictos sociales",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-y-municipalidad-provincial-de-espinar-acuerdan-trabajar-de-manera-conjunta-en-la-promocion-de-derechos-y-prevencion-de-conflictos-sociales/",
+          "fecha": "2026-10-23T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoría del Pueblo participa en reunión de coordinación para fortalecer la gestión del riesgo de desastres ante el Fenómeno El Niño en Áncash",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-participa-en-reunion-de-coordinacion-para-fortalecer-la-gestion-del-riesgo-de-desastres-ante-el-fenomeno-el-nino-en-ancash/",
           "fecha": "2026-10-23T00:00:00",
@@ -3377,13 +3419,6 @@
         {
           "titulo": "Defensoría del Pueblo invoca a empresas de electricidad y telefonía a retirar los cables en mal estado o en desuso en los distritos de Comas y Carabayllo",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-invoca-a-empresas-de-electricidad-y-telefonia-a-retirar-los-cables-en-mal-estado-o-en-desuso-en-los-distritos-de-comas-y-carabayllo/",
-          "fecha": "2026-10-23T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo y Municipalidad Provincial de Espinar acuerdan trabajar de manera conjunta en la promoción de derechos y prevención de conflictos sociales",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-y-municipalidad-provincial-de-espinar-acuerdan-trabajar-de-manera-conjunta-en-la-promocion-de-derechos-y-prevencion-de-conflictos-sociales/",
           "fecha": "2026-10-23T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -3438,13 +3473,6 @@
           "es_pdf": false
         },
         {
-          "titulo": "Defensoría del Pueblo registró ocho nuevos conflictos sociales a nivel nacional en septiembre",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-registro-ocho-nuevos-conflictos-sociales-a-nivel-nacional-en-septiembre/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
           "titulo": "Loreto: Defensoría del Pueblo acoge quejas de comunidad nativa San Pablo de Totoya ubicada a un día y medio de la capital de Putumayo",
           "url": "https://www.defensoria.gob.pe/loreto-defensoria-del-pueblo-acoge-quejas-de-comunidad-nativa-san-pablo-de-totoya-ubicada-a-un-dia-y-medio-de-la-capital-de-putumayo/",
           "fecha": "2026-10-21T00:00:00",
@@ -3480,34 +3508,6 @@
           "es_pdf": false
         },
         {
-          "titulo": "Defensoría del Pueblo exhorta a ENOSA a intervenir de inmediato ante riesgo por postes eléctricos caídos en veintiséis de octubre",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-enosa-a-intervenir-de-inmediato-ante-riesgo-por-postes-electricos-caidos-en-veintiseis-de-octubre/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo logró convocatoria urgente de la plataforma regional de Defensa Civil ante lluvias en Piura",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-logro-convocatoria-urgente-de-la-plataforma-regional-de-defensa-civil-ante-lluvias-en-piura/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Tras intervención de la Defensoría del Pueblo, MINEN identifica dos componentes mineros para su incorporación al inventario de pasivos ambientales",
-          "url": "https://www.defensoria.gob.pe/tras-intervencion-de-la-defensoria-del-pueblo-minen-identifica-dos-componentes-mineros-para-su-incorporacion-al-inventario-de-pasivos-ambientales/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo exhorta a promover la eficiencia energética y garantizar el acceso equitativo a energías limpias en el país",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-promover-la-eficiencia-energetica-y-garantizar-el-acceso-equitativo-a-energias-limpias-en-el-pais/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
           "titulo": "Comunicado n.° 063/DP/2026",
           "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-063-2026.pdf",
           "fecha": "2026-10-16T00:00:00",
@@ -3531,7 +3531,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007855"
+      "timestamp": "2026-10-25T12:22:15.211453"
     },
     {
       "pais": "Uruguay",
@@ -3697,6 +3697,13 @@
           "es_pdf": false
         },
         {
+          "titulo": "Comunicado sobre el derecho a la educación de infancias y adolescencias (.pdf 143.71 KB)",
+          "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/sites/institucion-nacional-derechos-humanos-uruguay/files/2026-10/20261007_educacion.pdf",
+          "fecha": "2026-10-26T00:00:00",
+          "tipo_seccion": "comunicados_pdf",
+          "es_pdf": true
+        },
+        {
           "titulo": "Comunicado sobre los derechos humanos y la recepción de personas deportadas (.pdf 62.88 KB)",
           "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/sites/institucion-nacional-derechos-humanos-uruguay/files/2026-08/ComunicadoINDDHH_personasdeportadas.pdf",
           "fecha": null,
@@ -3754,6 +3761,13 @@
         }
       ],
       "items_en_periodo": [
+        {
+          "titulo": "Comunicado sobre el derecho a la educación de infancias y adolescencias (.pdf 143.71 KB)",
+          "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/sites/institucion-nacional-derechos-humanos-uruguay/files/2026-10/20261007_educacion.pdf",
+          "fecha": "2026-10-26T00:00:00",
+          "tipo_seccion": "comunicados_pdf",
+          "es_pdf": true
+        },
         {
           "titulo": "INDDHH recibe archivo sobre pasado reciente de la Secretaría de Derechos Humanos",
           "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-recibe-archivo-sobre-pasado-reciente-secretaria-derechos-humanos",
@@ -3835,7 +3849,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007859"
+      "timestamp": "2026-10-25T12:22:15.211471"
     },
     {
       "pais": "Venezuela",
@@ -3935,7 +3949,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007869"
+      "timestamp": "2026-10-25T12:22:15.211498"
     },
     {
       "pais": "Guyana",
@@ -4014,7 +4028,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007874"
+      "timestamp": "2026-10-25T12:22:15.211515"
     },
     {
       "pais": "Costa Rica",
@@ -4048,7 +4062,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007878"
+      "timestamp": "2026-10-25T12:22:15.211530"
     },
     {
       "pais": "El Salvador",
@@ -4336,7 +4350,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007883"
+      "timestamp": "2026-10-25T12:22:15.211544"
     },
     {
       "pais": "Guatemala",
@@ -4370,7 +4384,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007887"
+      "timestamp": "2026-10-25T12:22:15.211566"
     },
     {
       "pais": "Honduras",
@@ -4398,7 +4412,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007891"
+      "timestamp": "2026-10-25T12:22:15.211582"
     },
     {
       "pais": "México",
@@ -4462,7 +4476,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007897"
+      "timestamp": "2026-10-25T12:22:15.211597"
     },
     {
       "pais": "Nicaragua",
@@ -4626,7 +4640,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007902"
+      "timestamp": "2026-10-25T12:22:15.211619"
     },
     {
       "pais": "Panamá",
@@ -4775,7 +4789,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007906"
+      "timestamp": "2026-10-25T12:22:15.211638"
     },
     {
       "pais": "Belice",
@@ -4796,7 +4810,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007910"
+      "timestamp": "2026-10-25T12:22:15.211661"
     },
     {
       "pais": "República Dominicana",
@@ -4932,7 +4946,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007914"
+      "timestamp": "2026-10-25T12:22:15.211677"
     },
     {
       "pais": "República Dominicana",
@@ -4953,7 +4967,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007918"
+      "timestamp": "2026-10-25T12:22:15.211693"
     },
     {
       "pais": "Jamaica",
@@ -4981,7 +4995,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007922"
+      "timestamp": "2026-10-25T12:22:15.211707"
     },
     {
       "pais": "Trinidad y Tobago",
@@ -5009,7 +5023,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007926"
+      "timestamp": "2026-10-25T12:22:15.211721"
     },
     {
       "pais": "Curaçao",
@@ -5094,7 +5108,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007929"
+      "timestamp": "2026-10-25T12:22:15.211735"
     },
     {
       "pais": "Haití",
@@ -5122,7 +5136,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007935"
+      "timestamp": "2026-10-25T12:22:15.211752"
     },
     {
       "pais": "Canadá",
@@ -5254,13 +5268,6 @@
           "fecha": "2026-09-29T00:00:00",
           "tipo_seccion": "newsroom",
           "es_pdf": false
-        },
-        {
-          "titulo": "We must confront antisemitism in Canada",
-          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/we-must-confront-antisemitism-canada",
-          "fecha": "2026-09-25T00:00:00",
-          "tipo_seccion": "newsroom",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [
@@ -5315,7 +5322,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007939"
+      "timestamp": "2026-10-25T12:22:15.211767"
     },
     {
       "pais": "Canadá",
@@ -5451,7 +5458,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007944"
+      "timestamp": "2026-10-25T12:22:15.211787"
     },
     {
       "pais": "Canadá",
@@ -5472,7 +5479,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007951"
+      "timestamp": "2026-10-25T12:22:15.211817"
     },
     {
       "pais": "Canadá",
@@ -5493,7 +5500,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007955"
+      "timestamp": "2026-10-25T12:22:15.211841"
     },
     {
       "pais": "Canadá",
@@ -5663,7 +5670,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007961"
+      "timestamp": "2026-10-25T12:22:15.211861"
     },
     {
       "pais": "Canadá",
@@ -5684,7 +5691,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007966"
+      "timestamp": "2026-10-25T12:22:15.211878"
     },
     {
       "pais": "Canadá",
@@ -5705,7 +5712,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007972"
+      "timestamp": "2026-10-25T12:22:15.211897"
     },
     {
       "pais": "Canadá",
@@ -5718,58 +5725,15 @@
         {
           "url": "https://www.ombudsman.mb.ca",
           "tipo": "news",
-          "ok": true,
-          "items": 6
+          "ok": false,
+          "items": 0
         }
       ],
-      "todos_items": [
-        {
-          "titulo": "Ombuds Day!",
-          "url": "https://www.ombudsman.mb.ca/ombuds-day/",
-          "fecha": "2020-03-10T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Manitoba Ombudsman joins national colleagues to voice support for the creation of a National Indigenous and Human Rights Ombudsperson",
-          "url": "https://www.ombudsman.mb.ca/support-for-the-creation-of-a-national-indigenous-and-human-rights-ombudsperson/",
-          "fecha": "2020-03-10T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Whistleblower Awareness Day",
-          "url": "https://www.ombudsman.mb.ca/whistleblower-awareness-day/",
-          "fecha": "2020-03-10T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Investigation Report: FIPPA Duty to Assist – Manitoba Housing and Renewal Corporation",
-          "url": "https://www.ombudsman.mb.ca/report/investigation-report-fippa-duty-to-assist-manitoba-housing-and-renewal-corporation/",
-          "fecha": "2020-03-10T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Investigation Report: FIPPA Refused Access – Manitoba Justice",
-          "url": "https://www.ombudsman.mb.ca/report/investigation-report-fippa-refused-access-manitoba-justice-2026-10111/",
-          "fecha": "2020-03-10T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Manitoba Ombudsman 2024-25 Annual Report",
-          "url": "https://www.ombudsman.mb.ca/report/manitoba-ombudsman-2024-25-annual-report/",
-          "fecha": "2020-03-10T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        }
-      ],
+      "todos_items": [],
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007976"
+      "timestamp": "2026-10-25T12:22:15.211914"
     },
     {
       "pais": "Canadá",
@@ -5819,7 +5783,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007981"
+      "timestamp": "2026-10-25T12:22:15.211928"
     },
     {
       "pais": "Regional",
@@ -5840,7 +5804,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007985"
+      "timestamp": "2026-10-25T12:22:15.211943"
     },
     {
       "pais": "Regional",
@@ -6004,7 +5968,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007992"
+      "timestamp": "2026-10-25T12:22:15.211960"
     },
     {
       "pais": "Regional",
@@ -6031,7 +5995,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.007998"
+      "timestamp": "2026-10-25T12:22:15.211982"
     },
     {
       "pais": "Regional",
@@ -6306,7 +6270,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.008052"
+      "timestamp": "2026-10-25T12:22:15.212026"
     },
     {
       "pais": "Regional",
@@ -6333,7 +6297,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-24T11:52:28.008058"
+      "timestamp": "2026-10-25T12:22:15.212045"
     }
   ]
 }
