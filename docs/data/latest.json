@@ -1,6 +1,6 @@
 {
   "dias": 30,
-  "timestamp": "20261025_1223",
+  "timestamp": "20261026_1357",
   "instituciones": [
     {
       "pais": "Argentina",
@@ -63,7 +63,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.191678"
+      "timestamp": "2026-10-26T13:56:37.144120"
     },
     {
       "pais": "Argentina",
@@ -91,7 +91,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.207557"
+      "timestamp": "2026-10-26T13:56:37.148041"
     },
     {
       "pais": "Argentina",
@@ -112,7 +112,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.208029"
+      "timestamp": "2026-10-26T13:56:37.148436"
     },
     {
       "pais": "Bolivia",
@@ -288,7 +288,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.208607"
+      "timestamp": "2026-10-26T13:56:37.148799"
     },
     {
       "pais": "Brasil",
@@ -513,7 +513,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.208903"
+      "timestamp": "2026-10-26T13:56:37.149438"
     },
     {
       "pais": "Brasil",
@@ -531,6 +531,13 @@
         }
       ],
       "todos_items": [
+        {
+          "titulo": "Nota de Pesar – Daniela Fichino",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/outubro/nota-de-pesar-2013-daniela-fichino",
+          "fecha": "2026-10-26T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
         {
           "titulo": "Brasileiros repatriados dos Estados Unidos chegam a Confins (MG) na sexta-feira (23)",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/brasileiros-repatriados-dos-estados-unidos-chegam-a-confins-mg-na-sexta-feira-23",
@@ -663,16 +670,16 @@
           "fecha": "2026-10-09T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Encontro técnico com governo e sociedade civil discutiu implementação do Plano Nacional de Proteção a Defensoras e Defensores de Direitos Humanos",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/encontro-tecnico-com-governo-e-sociedade-civil-discutiu-implementacao-do-plano-nacional-de-protecao-a-defensoras-e-defensores-de-direitos-humanos",
-          "fecha": "2026-10-13T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_en_periodo": [
+        {
+          "titulo": "Nota de Pesar – Daniela Fichino",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/outubro/nota-de-pesar-2013-daniela-fichino",
+          "fecha": "2026-10-26T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
         {
           "titulo": "Brasileiros repatriados dos Estados Unidos chegam a Confins (MG) na sexta-feira (23)",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/brasileiros-repatriados-dos-estados-unidos-chegam-a-confins-mg-na-sexta-feira-23",
@@ -788,13 +795,6 @@
         {
           "titulo": "Brasil é reeleito para o triênio 2027-2029 do Conselho de Direitos Humanos das Nações Unidas",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/brasil-e-reeleito-para-o-trienio-2027-2029-do-conselho-de-direitos-humanos-das-nacoes-unidas",
-          "fecha": "2026-10-13T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Encontro técnico com governo e sociedade civil discutiu implementação do Plano Nacional de Proteção a Defensoras e Defensores de Direitos Humanos",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/encontro-tecnico-com-governo-e-sociedade-civil-discutiu-implementacao-do-plano-nacional-de-protecao-a-defensoras-e-defensores-de-direitos-humanos",
           "fecha": "2026-10-13T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -816,7 +816,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.209229"
+      "timestamp": "2026-10-26T13:56:37.149740"
     },
     {
       "pais": "Brasil",
@@ -837,7 +837,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.209514"
+      "timestamp": "2026-10-26T13:56:37.149973"
     },
     {
       "pais": "Brasil",
@@ -978,7 +978,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.210460"
+      "timestamp": "2026-10-26T13:56:37.150282"
     },
     {
       "pais": "Brasil",
@@ -1141,7 +1141,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211158"
+      "timestamp": "2026-10-26T13:56:37.150497"
     },
     {
       "pais": "Brasil",
@@ -1332,7 +1332,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211187"
+      "timestamp": "2026-10-26T13:56:37.150513"
     },
     {
       "pais": "Brasil",
@@ -1635,7 +1635,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211207"
+      "timestamp": "2026-10-26T13:56:37.150523"
     },
     {
       "pais": "Brasil",
@@ -1728,7 +1728,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211230"
+      "timestamp": "2026-10-26T13:56:37.150533"
     },
     {
       "pais": "Brasil",
@@ -2018,7 +2018,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211250"
+      "timestamp": "2026-10-26T13:56:37.150542"
     },
     {
       "pais": "Brasil",
@@ -2083,7 +2083,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211269"
+      "timestamp": "2026-10-26T13:56:37.150553"
     },
     {
       "pais": "Chile",
@@ -2110,7 +2110,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211286"
+      "timestamp": "2026-10-26T13:56:37.150560"
     },
     {
       "pais": "Chile",
@@ -2254,6 +2254,20 @@
           "es_pdf": false
         },
         {
+          "titulo": "T13 | Entrevista al Defensor de la Niñez: rebajas de...",
+          "url": "",
+          "fecha": "2026-10-23T00:00:00",
+          "tipo_seccion": "prensa",
+          "es_pdf": false
+        },
+        {
+          "titulo": "La Tercera | Columna de opinión, por el Defensor de...",
+          "url": "",
+          "fecha": "2026-10-23T00:00:00",
+          "tipo_seccion": "prensa",
+          "es_pdf": false
+        },
+        {
           "titulo": "24 Horas | «Revictimizante»: el Defensor de la Niñez lamenta...",
           "url": "",
           "fecha": "2026-10-23T00:00:00",
@@ -2262,13 +2276,6 @@
         },
         {
           "titulo": "Radio ADN | Entrevista al Defensor de la Niñez, sobre...",
-          "url": "",
-          "fecha": "2026-10-23T00:00:00",
-          "tipo_seccion": "prensa",
-          "es_pdf": false
-        },
-        {
-          "titulo": "La Tercera | Columna de opinión, por el Defensor de...",
           "url": "",
           "fecha": "2026-10-23T00:00:00",
           "tipo_seccion": "prensa",
@@ -2308,16 +2315,23 @@
           "fecha": "2026-09-19T00:00:00",
           "tipo_seccion": "prensa",
           "es_pdf": false
-        },
-        {
-          "titulo": "Biobio.cl | La niñez en la balanza del ajuste fiscal:...",
-          "url": "",
-          "fecha": "2026-09-16T00:00:00",
-          "tipo_seccion": "prensa",
-          "es_pdf": false
         }
       ],
       "items_en_periodo": [
+        {
+          "titulo": "T13 | Entrevista al Defensor de la Niñez: rebajas de...",
+          "url": "",
+          "fecha": "2026-10-23T00:00:00",
+          "tipo_seccion": "prensa",
+          "es_pdf": false
+        },
+        {
+          "titulo": "La Tercera | Columna de opinión, por el Defensor de...",
+          "url": "",
+          "fecha": "2026-10-23T00:00:00",
+          "tipo_seccion": "prensa",
+          "es_pdf": false
+        },
         {
           "titulo": "24 Horas | «Revictimizante»: el Defensor de la Niñez lamenta...",
           "url": "",
@@ -2327,13 +2341,6 @@
         },
         {
           "titulo": "Radio ADN | Entrevista al Defensor de la Niñez, sobre...",
-          "url": "",
-          "fecha": "2026-10-23T00:00:00",
-          "tipo_seccion": "prensa",
-          "es_pdf": false
-        },
-        {
-          "titulo": "La Tercera | Columna de opinión, por el Defensor de...",
           "url": "",
           "fecha": "2026-10-23T00:00:00",
           "tipo_seccion": "prensa",
@@ -2394,13 +2401,6 @@
           "fecha": "2026-10-05T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "T13 | Defensoría de la Niñez pedirá antecedentes por eliminación...",
-          "url": "",
-          "fecha": "2026-09-26T00:00:00",
-          "tipo_seccion": "prensa",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [
@@ -2434,7 +2434,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211312"
+      "timestamp": "2026-10-26T13:56:37.150568"
     },
     {
       "pais": "Chile",
@@ -2638,7 +2638,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211333"
+      "timestamp": "2026-10-26T13:56:37.150576"
     },
     {
       "pais": "Colombia",
@@ -2672,7 +2672,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211348"
+      "timestamp": "2026-10-26T13:56:37.150581"
     },
     {
       "pais": "Colombia",
@@ -2699,7 +2699,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211368"
+      "timestamp": "2026-10-26T13:56:37.150587"
     },
     {
       "pais": "Ecuador",
@@ -2727,7 +2727,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211385"
+      "timestamp": "2026-10-26T13:56:37.150592"
     },
     {
       "pais": "Paraguay",
@@ -2919,7 +2919,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211400"
+      "timestamp": "2026-10-26T13:56:37.150596"
     },
     {
       "pais": "Paraguay",
@@ -3054,7 +3054,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211429"
+      "timestamp": "2026-10-26T13:56:37.150609"
     },
     {
       "pais": "Perú",
@@ -3089,6 +3089,13 @@
           "titulo": "Defensoría del Pueblo y Municipalidad Provincial de Espinar acuerdan trabajar de manera conjunta en la promoción de derechos y prevención de conflictos sociales",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-y-municipalidad-provincial-de-espinar-acuerdan-trabajar-de-manera-conjunta-en-la-promocion-de-derechos-y-prevencion-de-conflictos-sociales/",
           "fecha": "2026-10-23T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo saluda  la publicación del proyecto normativo que establece criterios para los mecanismos diferenciados de adquisición (MDA) para tratamientos oncológicos",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-saluda-la-publicacion-del-proyecto-normativo-que-establece-criterios-para-los-mecanismos-diferenciados-de-adquisicion-mda-para-tratamientos-oncologicos/",
+          "fecha": "2026-10-25T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -3214,13 +3221,6 @@
         {
           "titulo": "Defensoría del Pueblo lidera reunión interinstitucional para prevenir conflictos sociales en Ucayali",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-lidera-reunion-interinstitucional-para-prevenir-conflictos-sociales-en-ucayali/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Mediación de la Defensoría del Pueblo propicia compromiso de las autoridades universitarias ante la demanda estudiantil de la Universidad Nacional de Huancavelica",
-          "url": "https://www.defensoria.gob.pe/mediacion-de-la-defensoria-del-pueblo-propicia-compromiso-de-las-autoridades-universitarias-ante-la-demanda-estudiantil-de-la-universidad-nacional-de-huancavelica/",
           "fecha": "2026-10-21T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -3368,6 +3368,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Defensoría del Pueblo saluda  la publicación del proyecto normativo que establece criterios para los mecanismos diferenciados de adquisición (MDA) para tratamientos oncológicos",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-saluda-la-publicacion-del-proyecto-normativo-que-establece-criterios-para-los-mecanismos-diferenciados-de-adquisicion-mda-para-tratamientos-oncologicos/",
+          "fecha": "2026-10-25T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoría del Pueblo exige al Estado y a la sociedad acciones efectivas para erradicar la discriminación hacia las personas de talla baja",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-al-estado-y-a-la-sociedad-acciones-efectivas-para-erradicar-la-discriminacion-hacia-las-personas-de-talla-baja/",
           "fecha": "2026-10-25T00:00:00",
@@ -3501,13 +3508,6 @@
           "es_pdf": false
         },
         {
-          "titulo": "Mediación de la Defensoría del Pueblo propicia compromiso de las autoridades universitarias ante la demanda estudiantil de la Universidad Nacional de Huancavelica",
-          "url": "https://www.defensoria.gob.pe/mediacion-de-la-defensoria-del-pueblo-propicia-compromiso-de-las-autoridades-universitarias-ante-la-demanda-estudiantil-de-la-universidad-nacional-de-huancavelica/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
           "titulo": "Comunicado n.° 063/DP/2026",
           "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-063-2026.pdf",
           "fecha": "2026-10-16T00:00:00",
@@ -3531,7 +3531,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211453"
+      "timestamp": "2026-10-26T13:56:37.150615"
     },
     {
       "pais": "Uruguay",
@@ -3849,7 +3849,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211471"
+      "timestamp": "2026-10-26T13:56:37.150621"
     },
     {
       "pais": "Venezuela",
@@ -3949,7 +3949,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211498"
+      "timestamp": "2026-10-26T13:56:37.150628"
     },
     {
       "pais": "Guyana",
@@ -4028,7 +4028,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211515"
+      "timestamp": "2026-10-26T13:56:37.150638"
     },
     {
       "pais": "Costa Rica",
@@ -4062,7 +4062,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211530"
+      "timestamp": "2026-10-26T13:56:37.150646"
     },
     {
       "pais": "El Salvador",
@@ -4350,7 +4350,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211544"
+      "timestamp": "2026-10-26T13:56:37.150653"
     },
     {
       "pais": "Guatemala",
@@ -4384,7 +4384,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211566"
+      "timestamp": "2026-10-26T13:56:37.150657"
     },
     {
       "pais": "Honduras",
@@ -4412,7 +4412,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211582"
+      "timestamp": "2026-10-26T13:56:37.150662"
     },
     {
       "pais": "México",
@@ -4476,7 +4476,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211597"
+      "timestamp": "2026-10-26T13:56:37.150666"
     },
     {
       "pais": "Nicaragua",
@@ -4640,7 +4640,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211619"
+      "timestamp": "2026-10-26T13:56:37.150673"
     },
     {
       "pais": "Panamá",
@@ -4789,7 +4789,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211638"
+      "timestamp": "2026-10-26T13:56:37.150677"
     },
     {
       "pais": "Belice",
@@ -4810,7 +4810,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211661"
+      "timestamp": "2026-10-26T13:56:37.150682"
     },
     {
       "pais": "República Dominicana",
@@ -4946,7 +4946,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211677"
+      "timestamp": "2026-10-26T13:56:37.150688"
     },
     {
       "pais": "República Dominicana",
@@ -4967,7 +4967,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211693"
+      "timestamp": "2026-10-26T13:56:37.150692"
     },
     {
       "pais": "Jamaica",
@@ -4995,7 +4995,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211707"
+      "timestamp": "2026-10-26T13:56:37.150696"
     },
     {
       "pais": "Trinidad y Tobago",
@@ -5023,7 +5023,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211721"
+      "timestamp": "2026-10-26T13:56:37.150700"
     },
     {
       "pais": "Curaçao",
@@ -5108,7 +5108,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211735"
+      "timestamp": "2026-10-26T13:56:37.150705"
     },
     {
       "pais": "Haití",
@@ -5136,7 +5136,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211752"
+      "timestamp": "2026-10-26T13:56:37.150709"
     },
     {
       "pais": "Canadá",
@@ -5322,7 +5322,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211767"
+      "timestamp": "2026-10-26T13:56:37.150713"
     },
     {
       "pais": "Canadá",
@@ -5458,7 +5458,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211787"
+      "timestamp": "2026-10-26T13:56:37.150725"
     },
     {
       "pais": "Canadá",
@@ -5471,15 +5471,241 @@
         {
           "url": "https://www.ombudsman.on.ca/en/news",
           "tipo": "news",
-          "ok": false,
-          "items": 0
+          "ok": true,
+          "items": 20
         }
       ],
-      "todos_items": [],
-      "items_en_periodo": [],
+      "todos_items": [
+        {
+          "titulo": "Search by",
+          "url": "https://www.ombudsman.on.ca/en/news/media-releases",
+          "fecha": "2026-10-18T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "ServiceOntario: «Sorry, no one speaks French here» (L'Express)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/serviceontario-sorry-no-one-speaks-french-here-lexpress",
+          "fecha": "2026-10-18T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "ServiceOntario not meeting French-language service needs, ombudsman report says (CBC News)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/serviceontario-not-meeting-french-language-service-needs-ombudsman-report-says-cbc-news",
+          "fecha": "2026-10-16T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "ServiceOntario lagging in French-language needs: Ombudsman (Toronto Sun)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/serviceontario-lagging-french-language-needs-ombudsman-toronto-sun",
+          "fecha": "2026-10-16T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "« Personne ne parle français ici » : rapport accablant sur ServiceOntario (Radio-Canada)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/personne-ne-parle-francais-ici-rapport-accablant-sur-serviceontario-radio-canada",
+          "fecha": "2026-10-16T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Report finds ServiceOntario failing French-speaking residents (CTV News)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/report-finds-serviceontario-failing-french-speaking-residents-ctv-news",
+          "fecha": "2026-10-16T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "ServiceOntario: le français ne pèse pas lourd dans les inspections (Le Droit)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/serviceontario-le-francais-ne-pese-pas-lourd-dans-les-inspections-le-droit",
+          "fecha": "2026-10-15T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "French Language Services Commissioner calls for significant improvements at ServiceOntario",
+          "url": "https://www.ombudsman.on.ca/en/news/media-releases/french-language-services-commissioner-calls-significant-improvements-serviceontario",
+          "fecha": "2026-10-15T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "ServiceOntario : des ratés majeurs en français, rapporte le commissaire Bouchard (ONFR)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/serviceontario-des-rates-majeurs-en-francais-rapporte-le-commissaire-bouchard-onfr",
+          "fecha": "2026-10-15T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Ombuds Day – Statement from Acting Ombudsman",
+          "url": "https://www.ombudsman.on.ca/en/news/media-releases/ombuds-day-statement-acting-ombudsman",
+          "fecha": "2026-10-08T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Newsletter - National Day for Truth and Reconciliation",
+          "url": "https://mailchi.mp/ombudsman/ombudsman-ontario-newsletter-august-3601073",
+          "fecha": "2026-09-29T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "National Day for Truth and Reconciliation",
+          "url": "https://www.ombudsman.on.ca/en/news/media-releases/national-day-truth-and-reconciliation",
+          "fecha": "2026-09-29T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Statement for Franco-Ontarian Day 2026",
+          "url": "https://www.ombudsman.on.ca/en/news/media-releases/statement-franco-ontarian-day-2026",
+          "fecha": "2026-09-25T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Statement – International Day of Democracy",
+          "url": "https://www.ombudsman.on.ca/en/news/media-releases/statement-international-day-democracy",
+          "fecha": "2026-09-15T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Newsletter - Back to classes – how we can help",
+          "url": "https://mailchi.mp/ombudsman/ombudsman-ontario-newsletter-august-3600967",
+          "fecha": "2026-08-31T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Newsletter - Our pledge to urban Indigenous peoples at the Ontario Federation of Indigenous Friendship Centres AGM",
+          "url": "https://mailchi.mp/ombudsman/ombudsman-ontario-newsletter-august-3600864",
+          "fecha": "2026-07-30T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Newsletter - Annual Report: Acting Ombudsman highlights human impact",
+          "url": "https://mailchi.mp/ombudsman/ombudsman-ontario-newsletter-august-3600755",
+          "fecha": "2026-06-30T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Ombudsman investigation finds Ministry of Education direct payment programs unfairly denied payments to some eligible families",
+          "url": "https://www.ombudsman.on.ca/en/news/media-releases/ombudsman-investigation-finds-ministry-education-direct-payment-programs-unfairly-denied-payments",
+          "fecha": "2026-06-25T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "35,000+ Ontarians sought help with more services than ever from Ontario’s Ombudsman",
+          "url": "https://www.ombudsman.on.ca/en/news/media-releases/35000-ontarians-sought-help-more-services-ever-ontarios-ombudsman",
+          "fecha": "2026-06-25T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Newsletter - Supporting youth in care - Children and Youth in Care Day",
+          "url": "https://mailchi.mp/ombudsman/ombudsman-ontario-newsletter-august-3600614",
+          "fecha": "2026-05-29T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        }
+      ],
+      "items_en_periodo": [
+        {
+          "titulo": "Search by",
+          "url": "https://www.ombudsman.on.ca/en/news/media-releases",
+          "fecha": "2026-10-18T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "ServiceOntario: «Sorry, no one speaks French here» (L'Express)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/serviceontario-sorry-no-one-speaks-french-here-lexpress",
+          "fecha": "2026-10-18T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "ServiceOntario not meeting French-language service needs, ombudsman report says (CBC News)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/serviceontario-not-meeting-french-language-service-needs-ombudsman-report-says-cbc-news",
+          "fecha": "2026-10-16T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "ServiceOntario lagging in French-language needs: Ombudsman (Toronto Sun)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/serviceontario-lagging-french-language-needs-ombudsman-toronto-sun",
+          "fecha": "2026-10-16T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "« Personne ne parle français ici » : rapport accablant sur ServiceOntario (Radio-Canada)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/personne-ne-parle-francais-ici-rapport-accablant-sur-serviceontario-radio-canada",
+          "fecha": "2026-10-16T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Report finds ServiceOntario failing French-speaking residents (CTV News)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/report-finds-serviceontario-failing-french-speaking-residents-ctv-news",
+          "fecha": "2026-10-16T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "ServiceOntario: le français ne pèse pas lourd dans les inspections (Le Droit)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/serviceontario-le-francais-ne-pese-pas-lourd-dans-les-inspections-le-droit",
+          "fecha": "2026-10-15T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "French Language Services Commissioner calls for significant improvements at ServiceOntario",
+          "url": "https://www.ombudsman.on.ca/en/news/media-releases/french-language-services-commissioner-calls-significant-improvements-serviceontario",
+          "fecha": "2026-10-15T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "ServiceOntario : des ratés majeurs en français, rapporte le commissaire Bouchard (ONFR)",
+          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/serviceontario-des-rates-majeurs-en-francais-rapporte-le-commissaire-bouchard-onfr",
+          "fecha": "2026-10-15T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Ombuds Day – Statement from Acting Ombudsman",
+          "url": "https://www.ombudsman.on.ca/en/news/media-releases/ombuds-day-statement-acting-ombudsman",
+          "fecha": "2026-10-08T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Newsletter - National Day for Truth and Reconciliation",
+          "url": "https://mailchi.mp/ombudsman/ombudsman-ontario-newsletter-august-3601073",
+          "fecha": "2026-09-29T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "National Day for Truth and Reconciliation",
+          "url": "https://www.ombudsman.on.ca/en/news/media-releases/national-day-truth-and-reconciliation",
+          "fecha": "2026-09-29T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        }
+      ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211817"
+      "timestamp": "2026-10-26T13:56:37.150734"
     },
     {
       "pais": "Canadá",
@@ -5492,15 +5718,86 @@
         {
           "url": "https://bcombudsperson.ca/news-releases/",
           "tipo": "press_release",
-          "ok": false,
-          "items": 0
+          "ok": true,
+          "items": 10
         }
       ],
-      "todos_items": [],
+      "todos_items": [
+        {
+          "titulo": "BC Ombudsperson joins fellow ombuds offices across Canada in support of a National Indigenous and Human Rights Ombudsperson",
+          "url": "https://bcombudsperson.ca/news_release/bc-ombudsperson-joins-fellow-ombuds-offices-across-canada-in-support-of-a-national-indigenous-and-human-rights-ombudsperson/",
+          "fecha": "2026-07-07T00:00:00",
+          "tipo_seccion": "press_release",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Ombudsperson encouraged by government’s introduction of standard of conduct legislation for local governments",
+          "url": "https://bcombudsperson.ca/news_release/ombudsperson-encouraged-by-governments-introduction-of-standard-of-conduct-legislation-for-local-governments/",
+          "fecha": "2026-04-07T00:00:00",
+          "tipo_seccion": "press_release",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Two years after the apology – Fairness in implementation still matters",
+          "url": "https://bcombudsperson.ca/news_release/two-years-after-the-apology-fairness-in-implementation-still-matters/",
+          "fecha": "2026-02-27T00:00:00",
+          "tipo_seccion": "press_release",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Five-year review of BC’s whistleblower law released, recommendations aim to strengthen protections and public trust",
+          "url": "https://bcombudsperson.ca/news_release/five-year-review-of-bcs-whistleblower-law-released-recommendations-aim-to-strengthen-protections-and-public-trust/",
+          "fecha": "2026-02-12T00:00:00",
+          "tipo_seccion": "press_release",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Ombudsperson finds ongoing gaps in safeguards for involuntary patients under BC’s Mental Health Act",
+          "url": "https://bcombudsperson.ca/news_release/ombudsperson-finds-ongoing-gaps-in-safeguards-for-involuntary-patients-under-bcs-mental-health-act/",
+          "fecha": "2026-01-26T00:00:00",
+          "tipo_seccion": "press_release",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Income and disability assistance call wait times still failing years after Ombudsperson warnings",
+          "url": "https://bcombudsperson.ca/news_release/income-and-disability-assistance-call-wait-times-still-failing-years-after-ombudsperson-warnings/",
+          "fecha": "2026-01-13T00:00:00",
+          "tipo_seccion": "press_release",
+          "es_pdf": false
+        },
+        {
+          "titulo": "BC Ombudsperson releases updated guide on open meetings to support transparency across local governments",
+          "url": "https://bcombudsperson.ca/news_release/bc-ombudsperson-releases-updated-guide-on-open-meetings-to-support-transparency-across-local-governments/",
+          "fecha": "2026-01-06T00:00:00",
+          "tipo_seccion": "press_release",
+          "es_pdf": false
+        },
+        {
+          "titulo": "While pre-planning was limited, Ombudsperson investigation finds speed of provincial government delivery of social assistance cheques during 2024 postal strike was reasonable",
+          "url": "https://bcombudsperson.ca/news_release/while-pre-planning-was-limited-ombudsperson-investigation-finds-speed-of-provincial-government-delivery-of-social-assistance-cheques-during-2024-postal-strike-was-reasonable/",
+          "fecha": "2025-12-17T00:00:00",
+          "tipo_seccion": "press_release",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Legislative Assembly appoints BC’s next Ombudsperson",
+          "url": "https://bcombudsperson.ca/news_release/legislative-assembly-appoints-bcs-next-ombudsperson/",
+          "fecha": "2025-11-25T00:00:00",
+          "tipo_seccion": "press_release",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Fairness under pressure: BC Ombudsperson highlights rising complexity and urgency in complaints about public service",
+          "url": "https://bcombudsperson.ca/news_release/fairness-under-pressure-bc-ombudsperson-highlights-rising-complexity-and-urgency-in-complaints-about-public-service/",
+          "fecha": "2025-11-18T00:00:00",
+          "tipo_seccion": "press_release",
+          "es_pdf": false
+        }
+      ],
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211841"
+      "timestamp": "2026-10-26T13:56:37.150742"
     },
     {
       "pais": "Canadá",
@@ -5670,7 +5967,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211861"
+      "timestamp": "2026-10-26T13:56:37.150746"
     },
     {
       "pais": "Canadá",
@@ -5691,7 +5988,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211878"
+      "timestamp": "2026-10-26T13:56:37.150751"
     },
     {
       "pais": "Canadá",
@@ -5712,7 +6009,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211897"
+      "timestamp": "2026-10-26T13:56:37.150757"
     },
     {
       "pais": "Canadá",
@@ -5725,15 +6022,58 @@
         {
           "url": "https://www.ombudsman.mb.ca",
           "tipo": "news",
-          "ok": false,
-          "items": 0
+          "ok": true,
+          "items": 6
         }
       ],
-      "todos_items": [],
+      "todos_items": [
+        {
+          "titulo": "Ombuds Day!",
+          "url": "https://www.ombudsman.mb.ca/ombuds-day/",
+          "fecha": "2020-03-10T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Manitoba Ombudsman joins national colleagues to voice support for the creation of a National Indigenous and Human Rights Ombudsperson",
+          "url": "https://www.ombudsman.mb.ca/support-for-the-creation-of-a-national-indigenous-and-human-rights-ombudsperson/",
+          "fecha": "2020-03-10T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Whistleblower Awareness Day",
+          "url": "https://www.ombudsman.mb.ca/whistleblower-awareness-day/",
+          "fecha": "2020-03-10T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Investigation Report: FIPPA Duty to Assist – Manitoba Housing and Renewal Corporation",
+          "url": "https://www.ombudsman.mb.ca/report/investigation-report-fippa-duty-to-assist-manitoba-housing-and-renewal-corporation/",
+          "fecha": "2020-03-10T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Investigation Report: FIPPA Refused Access – Manitoba Justice",
+          "url": "https://www.ombudsman.mb.ca/report/investigation-report-fippa-refused-access-manitoba-justice-2026-10111/",
+          "fecha": "2020-03-10T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Manitoba Ombudsman 2024-25 Annual Report",
+          "url": "https://www.ombudsman.mb.ca/report/manitoba-ombudsman-2024-25-annual-report/",
+          "fecha": "2020-03-10T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        }
+      ],
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211914"
+      "timestamp": "2026-10-26T13:56:37.150761"
     },
     {
       "pais": "Canadá",
@@ -5783,7 +6123,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211928"
+      "timestamp": "2026-10-26T13:56:37.150767"
     },
     {
       "pais": "Regional",
@@ -5804,7 +6144,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211943"
+      "timestamp": "2026-10-26T13:56:37.150771"
     },
     {
       "pais": "Regional",
@@ -5968,7 +6308,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211960"
+      "timestamp": "2026-10-26T13:56:37.150776"
     },
     {
       "pais": "Regional",
@@ -5995,7 +6335,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.211982"
+      "timestamp": "2026-10-26T13:56:37.150780"
     },
     {
       "pais": "Regional",
@@ -6270,7 +6610,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.212026"
+      "timestamp": "2026-10-26T13:56:37.150788"
     },
     {
       "pais": "Regional",
@@ -6297,7 +6637,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-10-25T12:22:15.212045"
+      "timestamp": "2026-10-26T13:56:37.150792"
     }
   ]
 }
