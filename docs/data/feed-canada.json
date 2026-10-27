@@ -4,6 +4,54 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.json",
   "items": [
     {
+      "id": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/separation-divorce-mediation",
+      "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/separation-divorce-mediation",
+      "title": "Séparation ou divorce : la médiation pour éviter le tribunal",
+      "summary": "Protecteur du citoyen du Québec (Canadá)",
+      "date_published": "2026-10-27T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "nouvelles"
+      ]
+    },
+    {
+      "id": "https://www.ombudsman.on.ca/en/news/media-releases",
+      "url": "https://www.ombudsman.on.ca/en/news/media-releases",
+      "title": "Search by",
+      "summary": "Ombudsman Ontario (Canadá)",
+      "date_published": "2026-10-22T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "news"
+      ]
+    },
+    {
+      "id": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/speech-barbara-finlay-annual-conference-assemblee-de-la-francophonie-de-lontario",
+      "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/speech-barbara-finlay-annual-conference-assemblee-de-la-francophonie-de-lontario",
+      "title": "Speech by Barbara Finlay, Annual Conference - Assemblée de la francophonie de l'Ontario",
+      "summary": "Ombudsman Ontario (Canadá)",
+      "date_published": "2026-10-22T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "news"
+      ]
+    },
+    {
+      "id": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/speech-carl-bouchard-annual-conference-assemblee-de-la-francophonie-de-lontario",
+      "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/speech-carl-bouchard-annual-conference-assemblee-de-la-francophonie-de-lontario",
+      "title": "Speech by Carl Bouchard, Annual Conference - Assemblée de la francophonie de l'Ontario",
+      "summary": "Ombudsman Ontario (Canadá)",
+      "date_published": "2026-10-22T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "news"
+      ]
+    },
+    {
       "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/canadas-next-housing-strategy-starts-budget-2026",
       "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/canadas-next-housing-strategy-starts-budget-2026",
       "title": "Canada’s next housing strategy starts with Budget 2026",
@@ -25,18 +73,6 @@
         "Canadá",
         "Norteamérica",
         "nouvelles"
-      ]
-    },
-    {
-      "id": "https://www.ombudsman.on.ca/en/news/media-releases",
-      "url": "https://www.ombudsman.on.ca/en/news/media-releases",
-      "title": "Search by",
-      "summary": "Ombudsman Ontario (Canadá)",
-      "date_published": "2026-10-18T00:00:00",
-      "tags": [
-        "Canadá",
-        "Norteamérica",
-        "news"
       ]
     },
     {
