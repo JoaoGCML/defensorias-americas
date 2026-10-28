@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/236.asp&utm_content=country-ecu&utm_term=class-corteidh",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/236.asp&utm_content=country-ecu&utm_term=class-corteidh",
+      "title": "236/26—CIDH presenta caso ante Corte IDH por tortura y muerte de Luis García en Ecuador",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-10-27T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/235.asp&utm_content=country-nic&utm_term=class-mc",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/235.asp&utm_content=country-nic&utm_term=class-mc",
+      "title": "235/26—CIDH otorga medidas cautelares a Ana Marcela Valverde y María Dolores González, detenidas en Nicaragua",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-10-27T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/234.asp",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/234.asp",
       "title": "234/26—CIDH elige a Viviana Giacaman Sarah como Relatora Especial para la Libertad de Expresión",
@@ -247,30 +271,6 @@
       "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/219.asp&utm_content=country-ven&utm_term=class-mc",
       "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/219.asp&utm_content=country-ven&utm_term=class-mc",
       "title": "219/26—CIDH otorga medidas cautelares a Jhon Jairo Cardona y Dumar Andrey Agudelo Vélez, colombianos privados de libertad en Venezuela",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-10-07T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/218.asp&utm_content=country-ven&utm_term=class-mc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/218.asp&utm_content=country-ven&utm_term=class-mc",
-      "title": "218/26—CIDH otorga medidas cautelares a cuatro personas privadas de libertad en Venezuela",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-10-07T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/217.asp&utm_content=country-ven&utm_term=class-mc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/217.asp&utm_content=country-ven&utm_term=class-mc",
-      "title": "217/26—CIDH otorga medidas cautelares a la exalcaldesa Indira Celina Fernández, privada de libertad en Venezuela",
       "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
       "date_published": "2026-10-07T00:00:00",
       "tags": [

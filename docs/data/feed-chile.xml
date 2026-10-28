@@ -2,48 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-10-27T13:01:38Z</updated>
+  <updated>2026-10-28T13:52:21Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
+    <title>Defensor de la Niñez expone ante la CIDH graves brechas ...</title>
+    <id>urn:defensorias-americas:2497264538764094840</id>
+    <updated>2026-10-28T00:00:00</updated>
+    <summary>Defensoría de la Niñez (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>INDH de Los Lagos realizó encuentros en universidades para relevar la importancia del acceso oportuno a salud mental</title>
+    <id>https://www.indh.cl/indh-los-lagos-encuentros-salud-mental/</id>
+    <link href="https://www.indh.cl/indh-los-lagos-encuentros-salud-mental/" />
+    <updated>2026-10-28T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>Biobio.cl | Defensor de Niñez denuncia ante CIDH suspensión de...</title>
+    <id>urn:defensorias-americas:-414829591483396526</id>
+    <updated>2026-10-27T00:00:00</updated>
+    <summary>Defensoría de la Niñez (Chile) — prensa</summary>
+  </entry>
+  <entry>
+    <title>Antofagasta es una de las regiones con mayor sobrepoblación en cárceles según reporte del INDH: actualmente hay seis mujeres embarazadas y cuatro lactantes viviendo con sus madres</title>
+    <id>https://www.indh.cl/antofagasta-sobrepoblacion-carceles-indh/</id>
+    <link href="https://www.indh.cl/antofagasta-sobrepoblacion-carceles-indh/" />
+    <updated>2026-10-27T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>INDH de Los Ríos realizó foro en el Festival Internacional de Cine de Valdivia que abordó la importancia del cuidado del medioambiente</title>
+    <id>https://www.indh.cl/indh-los-rios-foro-festival-valdivia-medioambiente/</id>
+    <link href="https://www.indh.cl/indh-los-rios-foro-festival-valdivia-medioambiente/" />
+    <updated>2026-10-27T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
     <title>T13 | Entrevista al Defensor de la Niñez: rebajas de...</title>
-    <id>urn:defensorias-americas:-3667908744290424578</id>
+    <id>urn:defensorias-americas:3422557759561245338</id>
     <updated>2026-10-23T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>La Tercera | Columna de opinión, por el Defensor de...</title>
-    <id>urn:defensorias-americas:-4106222283028369089</id>
+    <id>urn:defensorias-americas:-5785015399578136698</id>
     <updated>2026-10-23T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>24 Horas | «Revictimizante»: el Defensor de la Niñez lamenta...</title>
-    <id>urn:defensorias-americas:2940864159805817845</id>
+    <id>urn:defensorias-americas:7865405561389071183</id>
     <updated>2026-10-23T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio ADN | Entrevista al Defensor de la Niñez, sobre...</title>
-    <id>urn:defensorias-americas:3487530884956065099</id>
+    <id>urn:defensorias-americas:-3422388530431109048</id>
     <updated>2026-10-23T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio U. de Chile | Defensor de la Niñez: «Bajo...</title>
-    <id>urn:defensorias-americas:867201327844636218</id>
+    <id>urn:defensorias-americas:-7661195516697999709</id>
     <updated>2026-10-22T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Defensoría de la Niñez rechaza el otorgamiento de beneficios a ...</title>
-    <id>urn:defensorias-americas:4558316394084320646</id>
+    <id>urn:defensorias-americas:-1093516673340981634</id>
     <updated>2026-10-21T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>Radio biobio | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:-7107310107350213971</id>
+    <id>urn:defensorias-americas:5936413677463559199</id>
     <updated>2026-10-21T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -55,20 +88,27 @@
     <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
   </entry>
   <entry>
+    <title>En el marco de la semana de la Memoria, INDH de Antofagasta realizó actividades que conmemoran a las víctimas de la Caravana de la Muerte en la región</title>
+    <id>https://www.indh.cl/semana-memoria-indh-antofagasta-caravana/</id>
+    <link href="https://www.indh.cl/semana-memoria-indh-antofagasta-caravana/" />
+    <updated>2026-10-21T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
     <title>Defensor de la Niñez aborda desafíos de protección y participación ...</title>
-    <id>urn:defensorias-americas:-5601332666275115144</id>
+    <id>urn:defensorias-americas:-2375058804716881846</id>
     <updated>2026-10-20T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>Defensoría de la Niñez advierte que más de la mitad ...</title>
-    <id>urn:defensorias-americas:2389153455350974167</id>
+    <id>urn:defensorias-americas:7934073363659031179</id>
     <updated>2026-10-20T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>A siete años del estallido social: Defensoría de la Niñez ...</title>
-    <id>urn:defensorias-americas:4545169915037865960</id>
+    <id>urn:defensorias-americas:-4424857005807385720</id>
     <updated>2026-10-16T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -94,70 +134,28 @@
     <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
   </entry>
   <entry>
-    <title>INDH de La Araucanía realizó taller de capacitación sobre uso de la fuerza a personal de Gendarmería, atendiendo fallo de la Corte de Apelaciones de Temuco</title>
-    <id>https://www.indh.cl/indh-araucania-taller-gendarmeria/</id>
-    <link href="https://www.indh.cl/indh-araucania-taller-gendarmeria/" />
-    <updated>2026-10-14T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
     <title>INDH Tarapacá desarrolló capacitación en derechos humanos con inspectores municipales de Alto Hospicio</title>
     <id>https://www.indh.cl/indh-tarapaca-capacitacion-inspectores-alto-hospicio/</id>
     <link href="https://www.indh.cl/indh-tarapaca-capacitacion-inspectores-alto-hospicio/" />
     <updated>2026-10-14T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Ignacio Cabib, sociólogo e investigador: “Hay que escuchar más a las personas mayores e involucrarlas en el diseño de políticas públicas”</title>
-    <id>https://www.indh.cl/indh-con-derechos-ignacio-cabib/</id>
-    <link href="https://www.indh.cl/indh-con-derechos-ignacio-cabib/" />
-    <updated>2026-10-13T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>INDH de Antofagasta oficia a la Delegación Regional por retiro de placa en memoria de las víctimas de la dictadura</title>
     <id>https://www.indh.cl/indh-antofagasta-retiro-placa/</id>
     <link href="https://www.indh.cl/indh-antofagasta-retiro-placa/" />
     <updated>2026-10-09T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
-  </entry>
-  <entry>
-    <title>INDH Maule realizó taller a 20 funcionarias y funcionarios de Carabineros: casi 170 integrantes de las Fuerza de Orden han participado de actividades en la región durante 2026</title>
-    <id>https://www.indh.cl/indh-maule-taller-carabineros-170/</id>
-    <link href="https://www.indh.cl/indh-maule-taller-carabineros-170/" />
-    <updated>2026-10-08T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
-    <title>INDH Biobío realizó charla con más de 90 estudiantes de la Escuela de Formación de Carabineros</title>
-    <id>https://www.indh.cl/indh-biobio-charla-escuela-formacion-carabineros/</id>
-    <link href="https://www.indh.cl/indh-biobio-charla-escuela-formacion-carabineros/" />
-    <updated>2026-10-08T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
-    <title>INDH Coquimbo ofició a organismos públicos por detección de bacteria en el agua de La Serena y de nitratos sobre la norma en Monte Patria</title>
-    <id>https://www.indh.cl/indh-coquimbo-oficio-deteccion-agua/</id>
-    <link href="https://www.indh.cl/indh-coquimbo-oficio-deteccion-agua/" />
-    <updated>2026-10-08T00:00:00</updated>
     <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>Radio Universo | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:7115539341052037979</id>
+    <id>urn:defensorias-americas:-6808412728874206621</id>
     <updated>2026-10-06T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
-    <title>Más de 200 personas participaron de corrida familiar e inclusiva en Copiapó organizada por la sede de Atacama del INDH</title>
-    <id>https://www.indh.cl/indh-atacama-200-personas-corrida-familiar/</id>
-    <link href="https://www.indh.cl/indh-atacama-200-personas-corrida-familiar/" />
-    <updated>2026-10-06T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
     <title>Niños, niñas y adolescentes de la RM presentaron 16 propuestas ...</title>
-    <id>urn:defensorias-americas:-3095643132611488336</id>
+    <id>urn:defensorias-americas:-7925564762595780720</id>
     <updated>2026-10-05T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
