@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/conversatorios-en-democracia-analiza-situacion-de-la-mineria-en-bolivia",
+      "url": "https://www.defensoria.gob.bo/noticias/conversatorios-en-democracia-analiza-situacion-de-la-mineria-en-bolivia",
+      "title": "Conversatorios en Democracia analiza situación de la minería en Bolivia",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-10-29T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-certifica-a-primeros-formadores-en-derechos-humanos-en-el-ambito-universitario",
+      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-certifica-a-primeros-formadores-en-derechos-humanos-en-el-ambito-universitario",
+      "title": "Defensoría del Pueblo certifica a primeros formadores en derechos humanos en el ámbito universitario",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-10-28T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-se-reune-con-miembros-del-parlamento-europeo-para-abordar-los-desafios-en-derechos-humanos-en-bolivia",
       "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-se-reune-con-miembros-del-parlamento-europeo-para-abordar-los-desafios-en-derechos-humanos-en-bolivia",
       "title": "DEFENSOR DEL PUEBLO SE REÚNE CON MIEMBROS DEL PARLAMENTO EUROPEO PARA ABORDAR LOS DESAFÍOS EN DERECHOS HUMANOS EN BOLIVIA",
@@ -93,30 +117,6 @@
       "title": "Defensoría del Pueblo y OIM fortalecerán la protección de los derechos de las personas en movilidad humana",
       "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
       "date_published": "2026-10-20T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-sobre-nuevas-formas-de-violencia-sexual-contra-ninyas,-ninyos-y-adolescentes-en-entornos-digitales",
-      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-sobre-nuevas-formas-de-violencia-sexual-contra-ninyas,-ninyos-y-adolescentes-en-entornos-digitales",
-      "title": "Defensor del Pueblo alerta sobre nuevas formas de violencia sexual contra niñas, niños y adolescentes en entornos digitales",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-10-19T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/ministerio-publico-y-organo-judicial-encabezan-las-denuncias-recibidas-por-la-defensoria-del-pueblo",
-      "url": "https://www.defensoria.gob.bo/noticias/ministerio-publico-y-organo-judicial-encabezan-las-denuncias-recibidas-por-la-defensoria-del-pueblo",
-      "title": "Ministerio Público y Órgano Judicial encabezan las denuncias recibidas por la Defensoría del Pueblo",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-10-19T00:00:00",
       "tags": [
         "Bolivia",
         "Sudamérica",

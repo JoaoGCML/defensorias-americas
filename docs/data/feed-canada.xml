@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Canadá</title>
   <id>urn:defensorias-americas:prensa:canada</id>
-  <updated>2026-10-28T13:52:21Z</updated>
+  <updated>2026-10-29T13:58:52Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -123,26 +123,5 @@
     <link href="https://www.ombudsman.ab.ca/ombuds-day-2026-know-your-options/" />
     <updated>2026-10-08T00:00:00</updated>
     <summary>Alberta Ombudsman (Canadá) — news</summary>
-  </entry>
-  <entry>
-    <title>Statement – Reconciliation means confronting hate</title>
-    <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/statement-reconciliation-means-confronting-hate</id>
-    <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/statement-reconciliation-means-confronting-hate" />
-    <updated>2026-09-29T00:00:00</updated>
-    <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
-  </entry>
-  <entry>
-    <title>Newsletter - National Day for Truth and Reconciliation</title>
-    <id>https://mailchi.mp/ombudsman/ombudsman-ontario-newsletter-august-3601073</id>
-    <link href="https://mailchi.mp/ombudsman/ombudsman-ontario-newsletter-august-3601073" />
-    <updated>2026-09-29T00:00:00</updated>
-    <summary>Ombudsman Ontario (Canadá) — news</summary>
-  </entry>
-  <entry>
-    <title>National Day for Truth and Reconciliation</title>
-    <id>https://www.ombudsman.on.ca/en/news/media-releases/national-day-truth-and-reconciliation</id>
-    <link href="https://www.ombudsman.on.ca/en/news/media-releases/national-day-truth-and-reconciliation" />
-    <updated>2026-09-29T00:00:00</updated>
-    <summary>Ombudsman Ontario (Canadá) — news</summary>
   </entry>
 </feed>
