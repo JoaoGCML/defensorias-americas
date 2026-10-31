@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/campanya-quien-paga-la-cuenta-%E2%80%9Ddefensor-del-pueblo-destaca-iniciativa-para-promover-la-prevencion-de-la-violencia",
+      "url": "https://www.defensoria.gob.bo/noticias/campanya-quien-paga-la-cuenta-%E2%80%9Ddefensor-del-pueblo-destaca-iniciativa-para-promover-la-prevencion-de-la-violencia",
+      "title": "Campaña “¿Quién paga la cuenta?”: Defensor del Pueblo destaca iniciativa para promover la prevención de la violencia",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-pide-al-tcp-anular-barreras-de-ingreso-al-colegio-militar-por-vulnerar-derechos",
       "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-pide-al-tcp-anular-barreras-de-ingreso-al-colegio-militar-por-vulnerar-derechos",
       "title": "DEFENSOR DEL PUEBLO PIDE AL TCP ANULAR BARRERAS DE INGRESO AL COLEGIO MILITAR POR VULNERAR DERECHOS",
@@ -16,9 +28,57 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/10/30/apos-denuncias-da-defensoria-comite-de-saude-define-medidas-para-melhorar-assistencia-oncologica-no-amazonas/",
-      "url": "https://defensoria.am.def.br/2026/10/30/apos-denuncias-da-defensoria-comite-de-saude-define-medidas-para-melhorar-assistencia-oncologica-no-amazonas/",
-      "title": "Após denúncias da Defensoria, Comitê de Saúde define medidas para melhorar assistência oncológica no Amazonas",
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/outubro/governo-do-brasil-recepcionara-voo-de-repatriados-dos-eua-neste-sabado-31",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/outubro/governo-do-brasil-recepcionara-voo-de-repatriados-dos-eua-neste-sabado-31",
+      "title": "Governo do Brasil recepcionará voo de repatriados dos EUA neste sábado (31)",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-3058195083469427559",
+      "url": "",
+      "title": "Nota publicado 30/10/2026 18h31 Notícia",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/outubro/comitiva-do-governo-do-brasil-vai-ao-mato-grosso-do-sul-para-dialogar-com-comunidades-indigenas-apos-denuncias-de-violencia",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/outubro/comitiva-do-governo-do-brasil-vai-ao-mato-grosso-do-sul-para-dialogar-com-comunidades-indigenas-apos-denuncias-de-violencia",
+      "title": "Comitiva do Governo do Brasil vai ao Mato Grosso do Sul para dialogar com comunidades indígenas após denúncias de violência",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/outubro/mdhc-registrou-350-de-aumento-nas-denuncias-de-violencia-politica-durante-a-eleicao",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/outubro/mdhc-registrou-350-de-aumento-nas-denuncias-de-violencia-politica-durante-a-eleicao",
+      "title": "MDHC registrou 350% de aumento nas denúncias de violência política durante as eleições",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/10/30/defensoria-pede-na-justica-aluguel-social-para-familias-removidas-de-terreno-no-bairro-santa-etelvina/",
+      "url": "https://defensoria.am.def.br/2026/10/30/defensoria-pede-na-justica-aluguel-social-para-familias-removidas-de-terreno-no-bairro-santa-etelvina/",
+      "title": "Defensoria pede na Justiça aluguel social para famílias removidas de terreno no bairro Santa Etelvina",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-10-30T00:00:00",
       "tags": [
@@ -28,13 +88,109 @@
       ]
     },
     {
-      "id": "urn:defensorias:4236141989472016418",
+      "id": "https://defensoria.am.def.br/2026/10/30/apos-denuncias-da-defensoria-comite-de-saude-define-medidas-para-melhorar-assistencia-oncologica-no-amazonas/",
+      "url": "https://defensoria.am.def.br/2026/10/30/apos-denuncias-da-defensoria-comite-de-saude-define-medidas-para-melhorar-assistencia-oncologica-no-amazonas/",
+      "title": "Após denúncias da Defensoria, Comitê define medidas para melhorar assistência oncológica",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/defensoria-publica-oferecera-orientacao-juridica-durante-mutirao-de-atendimento-as-mulheres-no-bairro-santo-antonio-em-lajeado",
+      "url": "https://www.defensoria.rs.def.br/defensoria-publica-oferecera-orientacao-juridica-durante-mutirao-de-atendimento-as-mulheres-no-bairro-santo-antonio-em-lajeado",
+      "title": "Defensoria Pública oferecerá orientação jurídica durante mutirão de atendimento às mulheres no bairro Santo Antônio, em Lajeado",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:2718782988105503686",
+      "url": "",
+      "title": "Defensoría de la Niñez presenta recurso de amparo para dejar ...",
+      "summary": "Defensoría de la Niñez (Chile)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:2129442914482015690",
+      "url": "",
+      "title": "Noticias 30 de octubre de 2026 Defensoría del Pueblo y Contraloría analizan posibles acciones conjuntas ante reclamos del barrio Las Mercedes El Defen",
+      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:1338082273608871199",
       "url": "",
       "title": "Noticias 30 de octubre de 2026 Formación en DDHH y gestión pública: cursos desarrollados por la Defensoría del Pueblo La Defensoría del Pueblo llevó a",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
       "date_published": "2026-10-30T00:00:00",
       "tags": [
         "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://mnp.gov.py/la-corrupcion-penitenciaria-favorece-el-sometimiento-la-tortura-y-otras-vulneraciones-de-derechos-humanos/",
+      "url": "https://mnp.gov.py/la-corrupcion-penitenciaria-favorece-el-sometimiento-la-tortura-y-otras-vulneraciones-de-derechos-humanos/",
+      "title": "La corrupción penitenciaria favorece el sometimiento, la tortura y otras vulneraciones de derechos humanos",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-fortalece-conocimientos-sobre-su-rol-y-competencias-entre-los-servidores-y-funcionarios-de-la-red-de-salud-de-puerto-inca/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-fortalece-conocimientos-sobre-su-rol-y-competencias-entre-los-servidores-y-funcionarios-de-la-red-de-salud-de-puerto-inca/",
+      "title": "Defensoría del Pueblo fortalece conocimientos sobre su rol y competencias entre los servidores y funcionarios de la red de salud de Puerto Inca",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-presuntas-deficiencias-en-la-alimentacion-de-internas-del-establecimiento-penitenciario-de-mujeres-de-iquitos/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-presuntas-deficiencias-en-la-alimentacion-de-internas-del-establecimiento-penitenciario-de-mujeres-de-iquitos/",
+      "title": "Defensoría del Pueblo advierte presuntas deficiencias en la alimentación de internas del establecimiento penitenciario de mujeres de Iquitos",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-la-prevencion-de-la-violencia-escolar-en-la-region-pasco/",
+      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-la-prevencion-de-la-violencia-escolar-en-la-region-pasco/",
+      "title": "Defensoría del Pueblo promueve la prevención de la violencia escolar en la región Pasco",
+      "summary": "Defensoría del Pueblo del Perú (Perú)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Perú",
         "Sudamérica",
         "noticias"
       ]
@@ -61,6 +217,66 @@
         "Perú",
         "Sudamérica",
         "noticias"
+      ]
+    },
+    {
+      "id": "https://www.ombudsman.on.ca/en/news/media-releases",
+      "url": "https://www.ombudsman.on.ca/en/news/media-releases",
+      "title": "Search by",
+      "summary": "Ombudsman Ontario (Canadá)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "news"
+      ]
+    },
+    {
+      "id": "https://mailchi.mp/ombudsman/ombudsman-ontario-newsletter-august-3601205",
+      "url": "https://mailchi.mp/ombudsman/ombudsman-ontario-newsletter-august-3601205",
+      "title": "Newsletter - French Language Services Commissioner calls for significant improvements at ServiceOntario",
+      "summary": "Ombudsman Ontario (Canadá)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "news"
+      ]
+    },
+    {
+      "id": "https://www.rindhca.org/la-rindhca-en-coordinacion-con-la-corte-interamericana-de-derechos-humanos-llevan-a-cabo-la-cuarta-sesion-del-curso-especifico-democracia-estado-de-derecho-y-derechos-humanos-en-la-jurisprudencia-de/",
+      "url": "https://www.rindhca.org/la-rindhca-en-coordinacion-con-la-corte-interamericana-de-derechos-humanos-llevan-a-cabo-la-cuarta-sesion-del-curso-especifico-democracia-estado-de-derecho-y-derechos-humanos-en-la-jurisprudencia-de/",
+      "title": "La RINDHCA en coordinación con la Corte Interamericana de Derechos Humanos llevan a cabo la cuarta sesión del Curso específico: Democracia, Estado de Derecho y Derechos Humanos en la jurisprudencia de la Corte Interamericana de Derechos Humanos",
+      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.rindhca.org/rindhca-lleva-a-cabo-el-webinar-regional-acceso-a-la-reparacion-en-empresas-y-derechos-humanos-e-informe-clave-de-la-defensoria-de-pueblo-de-colombia-con-la-participacion-de-las-personas-int/",
+      "url": "https://www.rindhca.org/rindhca-lleva-a-cabo-el-webinar-regional-acceso-a-la-reparacion-en-empresas-y-derechos-humanos-e-informe-clave-de-la-defensoria-de-pueblo-de-colombia-con-la-participacion-de-las-personas-int/",
+      "title": "RINDHCA lleva a cabo el Webinar regional “Acceso a la reparación en empresas y derechos humanos e informe clave de la Defensoría de Pueblo de Colombia, con la participación de las personas integrantes del Grupo de trabajo sobre Empresas y Derechos Humanos de esta red.",
+      "summary": "RINDHCA — Red de INDH del Continente Americano (Regional)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/240.asp&utm_content=country-ury&utm_term=class-mon",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/240.asp&utm_content=country-ury&utm_term=class-mon",
+      "title": "240/26—Uruguay: CIDH saluda avances en la protección de los derechos de las personas en movilidad humana",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
       ]
     },
     {
@@ -136,30 +352,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4355/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4355/",
-      "title": "Defensoria Pública de Pernambuco orienta população sobre atendimento durante plantões de feriado e fim de semana",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-10-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4353/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4353/",
-      "title": "Defensoria Pública promove Ronda de Direitos na Zona Oeste do Recife voltada à população em situação de rua",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-10-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.am.def.br/2026/10/29/acao-da-defensoria-que-questiona-metodos-da-pf-em-operacoes-contra-o-garimpo-no-rio-madeira-ganha-apoio-de-senador/",
       "url": "https://defensoria.am.def.br/2026/10/29/acao-da-defensoria-que-questiona-metodos-da-pf-em-operacoes-contra-o-garimpo-no-rio-madeira-ganha-apoio-de-senador/",
       "title": "Ação da Defensoria contra métodos da PF no Rio Madeira ganha apoio de senador",
@@ -198,7 +390,7 @@
     {
       "id": "https://defensoria.am.def.br/2026/10/29/defensoria-do-amazonas-cobra-solucoes-de-moradia-para-familias-desabrigadas-apos-reintegracao-de-posse-no-santa-etelvina/",
       "url": "https://defensoria.am.def.br/2026/10/29/defensoria-do-amazonas-cobra-solucoes-de-moradia-para-familias-desabrigadas-apos-reintegracao-de-posse-no-santa-etelvina/",
-      "title": "Defensoria do Amazonas cobra soluções de moradia para famílias desabrigadas após reintegração de posse no Santa Etelvina",
+      "title": "Defensoria cobra soluções de moradia para famílias desabrigadas após reintegração de posse",
       "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-10-29T00:00:00",
       "tags": [
@@ -232,114 +424,6 @@
       ]
     },
     {
-      "id": "https://www.defensoria.ce.def.br/noticia/disponibilizado-gabarito-definitivo-da-prova-objetiva-para-selecao-de-estagiarios-de-graduacao-em-direito-2/",
-      "url": "https://www.defensoria.ce.def.br/noticia/disponibilizado-gabarito-definitivo-da-prova-objetiva-para-selecao-de-estagiarios-de-graduacao-em-direito-2/",
-      "title": "Arquivos:Notícias",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:3102483132081131210",
-      "url": "",
-      "title": "29 de outubro de 2026",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-5618770554471317135",
-      "url": "",
-      "title": "Disponibilizado gabarito definitivo da prova objetiva para seleção de estagiários de graduação em Direito",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:3321736347414374563",
-      "url": "",
-      "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Fortaleza e Coreaú",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:2336792316852383486",
-      "url": "",
-      "title": "Assessoria de Estágio convoca candidatos inscritos na seleção para estágio de graduação em Direito para realização de prova em Aracati",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:4317261201004640169",
-      "url": "",
-      "title": "Assessoria de Estágio convoca candidatos(as) de graduação em Direito para solenidades de posse em Acopiara e Quixadá",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:1604039480257862582",
-      "url": "",
-      "title": "Defensoria Pública do Ceará funcionará em regime de plantão de 30 de outubro a 2 de novembro",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-1686510786786390664",
-      "url": "",
-      "title": "Assessoria de Estágio lança resultado parcial de entrevistas de seleção simplificada de Direito para atuação em Aquiraz",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-3126614183900375092",
-      "url": "",
-      "title": "DPCE divulga lista de inscritos em seleção de estágio em Direito para atuação no interior",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-29T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://www.defensoria.rs.def.br/dialogando-sobre-a-importancia-da-mediacao-e-conciliacao-a-dpe-rs-participa-da-xiii-jornada-de-solucoes-autocompositivas",
       "url": "https://www.defensoria.rs.def.br/dialogando-sobre-a-importancia-da-mediacao-e-conciliacao-a-dpe-rs-participa-da-xiii-jornada-de-solucoes-autocompositivas",
       "title": "Dialogando sobre a importância da mediação e conciliação, DPE/RS participa da XIII Jornada de Soluções Autocompositivas",
@@ -364,7 +448,19 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6002541071666456051",
+      "id": "urn:defensorias:-1264123933737800920",
+      "url": "",
+      "title": "T13 Radio | Entrevista al Defensor de la Niñez por...",
+      "summary": "Defensoría de la Niñez (Chile)",
+      "date_published": "2026-10-29T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "prensa"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-76036333163827338",
       "url": "",
       "title": "Noticias 29 de octubre de 2026 Defensor del Pueblo acompaña el reclamo de víctimas de la dictadura por el retraso en el pago de indemnizaciones El Def",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -568,7 +664,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1376075611992526594",
+      "id": "urn:defensorias:7355589621618133033",
       "url": "",
       "title": "Defensoria Pública de SP abre inscrições para mutirão #DáPraResolver em Araraquara",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -580,7 +676,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2861449573176198028",
+      "id": "urn:defensorias:-3960882252507876095",
       "url": "",
       "title": "Defensoria Pública de SP e IPT firmam parceria para fortalecer a defesa do direito à moradia",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -608,18 +704,6 @@
       "url": "https://defensoria.rj.def.br/noticia/detalhes/33111-DPRJ-defende-no-CNJ-recomendacao-para-combater-violencia-processual-de-genero",
       "title": "Defensoria defende no CNJ recomendação para combater violência processual de gênero",
       "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-10-28T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4352/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4352/",
-      "title": "Defensoria Pública participa de lançamento de pesquisa sobre vulnerabilidade social e acesso à justiça",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
       "date_published": "2026-10-28T00:00:00",
       "tags": [
         "Brasil",
@@ -676,103 +760,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1200397296162228045",
-      "url": "",
-      "title": "28 de outubro de 2026",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-28T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-806857258060366162",
-      "url": "",
-      "title": "Defensoria abre seleção simplificada de estágio de graduação em Direito para atuação em Maracanaú",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-28T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:8596499246361212004",
-      "url": "",
-      "title": "Chacina do Curió terá novo julgamento para dois réus. Defensoria acompanha as famílias das vítimas",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-28T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-2278311074196554608",
-      "url": "",
-      "title": "Defensoria leva atendimento itinerante às pessoas idosas do bairro Benfica",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-28T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:7093443460130489351",
-      "url": "",
-      "title": "Defensoria Pública retifica resultado parcial de seleção para estágio em Direito para atuação em Fortaleza",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-28T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:4268675446758089982",
-      "url": "",
-      "title": "Com cinco práticas, Ceará é o estado nordestino mais premiado no Selo Esperança Garcia 2026",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-28T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-7399893391187045026",
-      "url": "",
-      "title": "Abertas as inscrições para Mutirão de Descongestionamento em Caucaia",
-      "summary": "Defensoria Pública do Estado do Ceará (Brasil)",
-      "date_published": "2026-10-28T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.rs.def.br/jornadas-juridicas-da-dpe-rs-promove-debate-sobre-a-defesa-das-mulheres-em-situacao-de-violencia-domestica-na-ucs",
-      "url": "https://www.defensoria.rs.def.br/jornadas-juridicas-da-dpe-rs-promove-debate-sobre-a-defesa-das-mulheres-em-situacao-de-violencia-domestica-na-ucs",
-      "title": "Jornadas Jurídicas da DPE/RS promove debate sobre a defesa das mulheres em situação de violência doméstica na UCS",
-      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
-      "date_published": "2026-10-28T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-6841727218825821719",
+      "id": "urn:defensorias:-8780539992905220568",
       "url": "",
       "title": "Defensor de la Niñez expone ante la CIDH graves brechas ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -808,7 +796,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2741333977316310082",
+      "id": "urn:defensorias:-5623472930486955643",
       "url": "",
       "title": "Noticias 28 de octubre de 2026 Gestionamos asistencia para un matrimonio en situación de extrema vulnerabilidad en Ca’acupemí Funcionarias de la Defen",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -899,6 +887,18 @@
       "date_published": "2026-10-28T00:00:00",
       "tags": [
         "Perú",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-realizo-taller-adolescentes-sobre-entornos-digitales",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-realizo-taller-adolescentes-sobre-entornos-digitales",
+      "title": "INDDHH realizó taller con adolescentes sobre entornos digitales",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-10-28T00:00:00",
+      "tags": [
+        "Uruguay",
         "Sudamérica",
         "noticias"
       ]
@@ -1000,22 +1000,10 @@
       ]
     },
     {
-      "id": "urn:defensorias:7588766585395050255",
+      "id": "urn:defensorias:3061810858349021234",
       "url": "",
       "title": "Defensoria Pública de SP segue com inscrições abertas para concurso com 70 vagas e salário inicial de R$ 29,7 mil",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
-      "date_published": "2026-10-27T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4349/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4349/",
-      "title": "Defensoria Pública de Pernambuco orienta sobre negativas de planos de saúde",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
       "date_published": "2026-10-27T00:00:00",
       "tags": [
         "Brasil",
@@ -1048,7 +1036,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5394143132234626061",
+      "id": "urn:defensorias:8336219084503142091",
       "url": "",
       "title": "Biobio.cl | Defensor de Niñez denuncia ante CIDH suspensión de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -1091,42 +1079,6 @@
       "date_published": "2026-10-27T00:00:00",
       "tags": [
         "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/camana-iniciamos-supervision-tras-el-tragico-accidente-ocurrido-esta-manana-en-la-chira/",
-      "url": "https://www.defensoria.gob.pe/camana-iniciamos-supervision-tras-el-tragico-accidente-ocurrido-esta-manana-en-la-chira/",
-      "title": "Camaná: iniciamos supervisión tras el trágico accidente ocurrido esta mañana en La Chira",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-27T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/tumbes-defensoria-del-pueblo-exige-acciones-urgentes-ante-afloramiento-constante-de-aguas-residuales-en-sector-de-zarumilla-que-podria-agravarse-por-el-nino/",
-      "url": "https://www.defensoria.gob.pe/tumbes-defensoria-del-pueblo-exige-acciones-urgentes-ante-afloramiento-constante-de-aguas-residuales-en-sector-de-zarumilla-que-podria-agravarse-por-el-nino/",
-      "title": "Tumbes: Defensoría del Pueblo exige acciones urgentes ante afloramiento constante de aguas residuales en sector de Zarumilla que podría agravarse por El Niño",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-27T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-necesidad-de-fortalecer-la-preparacion-ante-lluvias-intensas-y-garantizar-servicios-de-salud-en-parachique-y-la-bocana-sechura/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-necesidad-de-fortalecer-la-preparacion-ante-lluvias-intensas-y-garantizar-servicios-de-salud-en-parachique-y-la-bocana-sechura/",
-      "title": "Defensoría del Pueblo advierte necesidad de fortalecer la preparación ante lluvias intensas y garantizar servicios de salud en Parachique y La Bocana – Sechura",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-10-27T00:00:00",
-      "tags": [
-        "Perú",
         "Sudamérica",
         "noticias"
       ]
@@ -1199,6 +1151,54 @@
       "date_published": "2026-10-26T00:00:00",
       "tags": [
         "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/10/26/defensoria-itinerante-inicia-atendimentos-nesta-segunda-feira-em-tabatinga/",
+      "url": "https://defensoria.am.def.br/2026/10/26/defensoria-itinerante-inicia-atendimentos-nesta-segunda-feira-em-tabatinga/",
+      "title": "Defensoria Itinerante inicia atendimentos nesta segunda-feira em Tabatinga",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-10-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/10/26/defensoria-publica-do-amazonas-garante-adocao-de-adolescente-durante-audiencia-em-tonantins/",
+      "url": "https://defensoria.am.def.br/2026/10/26/defensoria-publica-do-amazonas-garante-adocao-de-adolescente-durante-audiencia-em-tonantins/",
+      "title": "Defensoria Pública do Amazonas garante adoção de adolescente durante audiência em Tonantins",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-10-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/10/26/defensoria-realizara-semana-de-atendimento-juridico-em-santa-isabel-do-rio-negro-entre-os-dias-9-e-13-de-novembro/",
+      "url": "https://defensoria.am.def.br/2026/10/26/defensoria-realizara-semana-de-atendimento-juridico-em-santa-isabel-do-rio-negro-entre-os-dias-9-e-13-de-novembro/",
+      "title": "Defensoria Pública realizará semana de atendimento jurídico em Santa Isabel do Rio Negro",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-10-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:1564365780223981287",
+      "url": "",
+      "title": "Noticias 26 de octubre de 2026 Villa Hayes: Llevamos asistencia social a 150 personas de la comunidad Qemkuket En el marco de la campaña «Octubre Rosa",
+      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
+      "date_published": "2026-10-26T00:00:00",
+      "tags": [
+        "Paraguay",
         "Sudamérica",
         "noticias"
       ]

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-10-30T13:53:35Z</updated>
+  <updated>2026-10-31T13:23:38Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Campaña “¿Quién paga la cuenta?”: Defensor del Pueblo destaca iniciativa para promover la prevención de la violencia</title>
+    <id>https://www.defensoria.gob.bo/noticias/campanya-quien-paga-la-cuenta-%E2%80%9Ddefensor-del-pueblo-destaca-iniciativa-para-promover-la-prevencion-de-la-violencia</id>
+    <link href="https://www.defensoria.gob.bo/noticias/campanya-quien-paga-la-cuenta-%E2%80%9Ddefensor-del-pueblo-destaca-iniciativa-para-promover-la-prevencion-de-la-violencia" />
+    <updated>2026-10-30T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>DEFENSOR DEL PUEBLO PIDE AL TCP ANULAR BARRERAS DE INGRESO AL COLEGIO MILITAR POR VULNERAR DERECHOS</title>
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-pide-al-tcp-anular-barreras-de-ingreso-al-colegio-militar-por-vulnerar-derechos</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-informa-de-109-conflictos-con-demandas-de-alimentacion,-diesel-y-empleo-durante-tercer-trimestre-de-2026</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-informa-de-109-conflictos-con-demandas-de-alimentacion,-diesel-y-empleo-durante-tercer-trimestre-de-2026" />
     <updated>2026-10-24T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo verifica el desarrollo de actividades educativas en unidades educativas de La Paz y El Alto</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-verifica-el-desarrollo-de-actividades-educativas-en-unidades-educativas-de-la-paz-y-el-alto</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-verifica-el-desarrollo-de-actividades-educativas-en-unidades-educativas-de-la-paz-y-el-alto" />
-    <updated>2026-10-23T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>

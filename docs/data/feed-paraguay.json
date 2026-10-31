@@ -4,7 +4,19 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-paraguay.json",
   "items": [
     {
-      "id": "urn:defensorias:4236141989472016418",
+      "id": "urn:defensorias:2129442914482015690",
+      "url": "",
+      "title": "Noticias 30 de octubre de 2026 Defensoría del Pueblo y Contraloría analizan posibles acciones conjuntas ante reclamos del barrio Las Mercedes El Defen",
+      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:1338082273608871199",
       "url": "",
       "title": "Noticias 30 de octubre de 2026 Formación en DDHH y gestión pública: cursos desarrollados por la Defensoría del Pueblo La Defensoría del Pueblo llevó a",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -16,7 +28,19 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6002541071666456051",
+      "id": "https://mnp.gov.py/la-corrupcion-penitenciaria-favorece-el-sometimiento-la-tortura-y-otras-vulneraciones-de-derechos-humanos/",
+      "url": "https://mnp.gov.py/la-corrupcion-penitenciaria-favorece-el-sometimiento-la-tortura-y-otras-vulneraciones-de-derechos-humanos/",
+      "title": "La corrupción penitenciaria favorece el sometimiento, la tortura y otras vulneraciones de derechos humanos",
+      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Paraguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-76036333163827338",
       "url": "",
       "title": "Noticias 29 de octubre de 2026 Defensor del Pueblo acompaña el reclamo de víctimas de la dictadura por el retraso en el pago de indemnizaciones El Def",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -40,7 +64,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2741333977316310082",
+      "id": "urn:defensorias:-5623472930486955643",
       "url": "",
       "title": "Noticias 28 de octubre de 2026 Gestionamos asistencia para un matrimonio en situación de extrema vulnerabilidad en Ca’acupemí Funcionarias de la Defen",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -76,7 +100,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6740699083928491485",
+      "id": "urn:defensorias:1564365780223981287",
       "url": "",
       "title": "Noticias 26 de octubre de 2026 Villa Hayes: Llevamos asistencia social a 150 personas de la comunidad Qemkuket En el marco de la campaña «Octubre Rosa",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -124,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-971090475163945089",
+      "id": "urn:defensorias:-4548811852792558898",
       "url": "",
       "title": "Noticias 22 de octubre de 2026 Defensoría del Pueblo llevó servicios esenciales a 236 personas en San Lorenzo La Defensoría del Pueblo impulsó una jor",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -136,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5426872297128254410",
+      "id": "urn:defensorias:-3038794366344152845",
       "url": "",
       "title": "Noticias 22 de octubre de 2026 Defensoría Del Pueblo entregó resolución de cobro a Rogelio Goiburú y reconoció su lucha por la memoria y la justicia D",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -148,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6217366943815530233",
+      "id": "urn:defensorias:-5943071560474584841",
       "url": "",
       "title": "Noticias 22 de octubre de 2026 Asistimos a una pareja de adultos mayores en situación de abandono en Ypané Vecinos se comunicaron a la Defensoría del",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -172,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8011555847405431940",
+      "id": "urn:defensorias:-6655244177168384866",
       "url": "",
       "title": "Noticias 21 de octubre de 2026 Defensoría del Pueblo advierte sobre materiales educativos y pide al MEC convocar a expertos para revisión integral La",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -184,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1513158206788351387",
+      "id": "urn:defensorias:-6855347875950761563",
       "url": "",
       "title": "Noticias 20 de octubre de 2026 Representantes de comedores y centros comunitarios se reunieron con el Defensor del Pueblo El Defensor del Pueblo, Abg.",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -208,35 +232,11 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1770966172740768854",
+      "id": "urn:defensorias:-3119087312206510314",
       "url": "",
       "title": "Noticias 19 de octubre de 2026 La Defensoría del Pueblo acompaña a pacientes en su lucha contra el cáncer El Defensor del Pueblo, Abg. Mgtr. Rafael Áv",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
       "date_published": "2026-10-19T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://mnp.gov.py/monitoreo-del-mnp-en-el-liceo-militar-acosta-nu/",
-      "url": "https://mnp.gov.py/monitoreo-del-mnp-en-el-liceo-militar-acosta-nu/",
-      "title": "Monitoreo del MNP en el Liceo Militar Acosta Ñu",
-      "summary": "Mecanismo Nacional de Prevención de la Tortura (MNP) (Paraguay)",
-      "date_published": "2026-10-17T00:00:00",
-      "tags": [
-        "Paraguay",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:8766946239032020013",
-      "url": "",
-      "title": "Noticias 15 de octubre de 2026 Defensor del Pueblo coordina acciones de asistencia para las familias afectadas por la crecida en Cerrito El Defensor d",
-      "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
-      "date_published": "2026-10-15T00:00:00",
       "tags": [
         "Paraguay",
         "Sudamérica",

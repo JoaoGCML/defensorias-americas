@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.json",
   "items": [
     {
+      "id": "https://www.ombudsman.on.ca/en/news/media-releases",
+      "url": "https://www.ombudsman.on.ca/en/news/media-releases",
+      "title": "Search by",
+      "summary": "Ombudsman Ontario (Canadá)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "news"
+      ]
+    },
+    {
+      "id": "https://mailchi.mp/ombudsman/ombudsman-ontario-newsletter-august-3601205",
+      "url": "https://mailchi.mp/ombudsman/ombudsman-ontario-newsletter-august-3601205",
+      "title": "Newsletter - French Language Services Commissioner calls for significant improvements at ServiceOntario",
+      "summary": "Ombudsman Ontario (Canadá)",
+      "date_published": "2026-10-30T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "news"
+      ]
+    },
+    {
       "id": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/separation-divorce-mediation",
       "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/separation-divorce-mediation",
       "title": "Séparation ou divorce : la médiation pour éviter le tribunal",
@@ -13,18 +37,6 @@
         "Canadá",
         "Norteamérica",
         "nouvelles"
-      ]
-    },
-    {
-      "id": "https://www.ombudsman.on.ca/en/news/media-releases",
-      "url": "https://www.ombudsman.on.ca/en/news/media-releases",
-      "title": "Search by",
-      "summary": "Ombudsman Ontario (Canadá)",
-      "date_published": "2026-10-22T00:00:00",
-      "tags": [
-        "Canadá",
-        "Norteamérica",
-        "news"
       ]
     },
     {

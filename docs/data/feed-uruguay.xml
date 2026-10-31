@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Uruguay</title>
   <id>urn:defensorias-americas:prensa:uruguay</id>
-  <updated>2026-10-30T13:53:35Z</updated>
+  <updated>2026-10-31T13:23:38Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -10,6 +10,13 @@
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-entrego-800-materiales-didacticos-para-fomentar-derechos-infancias</id>
     <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-entrego-800-materiales-didacticos-para-fomentar-derechos-infancias" />
     <updated>2026-10-29T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
+  </entry>
+  <entry>
+    <title>INDDHH realizó taller con adolescentes sobre entornos digitales</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-realizo-taller-adolescentes-sobre-entornos-digitales</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-realizo-taller-adolescentes-sobre-entornos-digitales" />
+    <updated>2026-10-28T00:00:00</updated>
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>
   <entry>
@@ -66,13 +73,6 @@
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/cerca-200-personas-visitaron-inddhh-dia-del-patrimonio</id>
     <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/cerca-200-personas-visitaron-inddhh-dia-del-patrimonio" />
     <updated>2026-10-04T00:00:00</updated>
-    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Jóvenes de Artigas tomaron la palabra sobre derechos humanos y discapacidad</title>
-    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/jovenes-artigas-tomaron-palabra-sobre-derechos-humanos-discapacidad</id>
-    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/jovenes-artigas-tomaron-palabra-sobre-derechos-humanos-discapacidad" />
-    <updated>2026-10-01T00:00:00</updated>
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>
 </feed>
