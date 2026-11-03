@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-regional.json",
   "items": [
     {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/242.asp&utm_content=country-ven&utm_term=class-corteidh",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/242.asp&utm_content=country-ven&utm_term=class-corteidh",
+      "title": "242/26—CIDH presenta caso ante la Corte IDH por violaciones de derechos humanos a integrantes de un partido político en Venezuela",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-11-02T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/241.asp&utm_term=class-inst",
+      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/expresion/prensa/comunicados/2026/241.asp&utm_term=class-inst",
+      "title": "R241/26—En el Día Internacional para Poner Fin a la Impunidad de los Crímenes contra Periodistas, la RELE condena la violencia contra la prensa y llama a los Estados a redoblar sus esfuerzos",
+      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
+      "date_published": "2026-11-02T00:00:00",
+      "tags": [
+        "Regional",
+        "Américas",
+        "comunicados"
+      ]
+    },
+    {
       "id": "https://www.rindhca.org/la-rindhca-en-coordinacion-con-la-corte-interamericana-de-derechos-humanos-llevan-a-cabo-la-cuarta-sesion-del-curso-especifico-democracia-estado-de-derecho-y-derechos-humanos-en-la-jurisprudencia-de/",
       "url": "https://www.rindhca.org/la-rindhca-en-coordinacion-con-la-corte-interamericana-de-derechos-humanos-llevan-a-cabo-la-cuarta-sesion-del-curso-especifico-democracia-estado-de-derecho-y-derechos-humanos-en-la-jurisprudencia-de/",
       "title": "La RINDHCA en coordinación con la Corte Interamericana de Derechos Humanos llevan a cabo la cuarta sesión del Curso específico: Democracia, Estado de Derecho y Derechos Humanos en la jurisprudencia de la Corte Interamericana de Derechos Humanos",
@@ -208,18 +232,6 @@
       ]
     },
     {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/228.asp",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/228.asp",
-      "title": "RD228/26—REDESCA advierte sobre los impactos de las nuevas tecnologías militares y de uso dual en comunidades y territorios de las Américas",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-10-20T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
-      ]
-    },
-    {
       "id": "https://www.rindhca.org/la-rindhca-en-coordinacion-con-la-corte-interamericana-de-derechos-humanos-llevan-a-cabo-la-segunda-sesion-del-curso-especifico-democracia-estado-de-derecho-y-derechos-humanos-en-la-jurisprudencia-d/",
       "url": "https://www.rindhca.org/la-rindhca-en-coordinacion-con-la-corte-interamericana-de-derechos-humanos-llevan-a-cabo-la-segunda-sesion-del-curso-especifico-democracia-estado-de-derecho-y-derechos-humanos-en-la-jurisprudencia-d/",
       "title": "La RINDHCA en coordinación con la Corte Interamericana de Derechos Humanos llevan a cabo la segunda sesión del Curso específico: Democracia, Estado de Derecho y Derechos Humanos en la jurisprudencia de la Corte Interamericana de Derechos Humanos",
@@ -229,18 +241,6 @@
         "Regional",
         "Américas",
         "noticias"
-      ]
-    },
-    {
-      "id": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/227.asp&utm_term=class-dc",
-      "url": "https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/227.asp&utm_term=class-dc",
-      "title": "RD227/26—REDESCA y ONU: Superar la pobreza urbana exige atender sus causas estructurales y garantizar una vivienda adecuada",
-      "summary": "CIDH - Comisión Interamericana de Derechos Humanos (Regional)",
-      "date_published": "2026-10-16T00:00:00",
-      "tags": [
-        "Regional",
-        "Américas",
-        "comunicados"
       ]
     }
   ]
