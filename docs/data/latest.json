@@ -1,6 +1,6 @@
 {
   "dias": 30,
-  "timestamp": "20261103_1455",
+  "timestamp": "20261104_1511",
   "instituciones": [
     {
       "pais": "Argentina",
@@ -63,7 +63,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.920145"
+      "timestamp": "2026-11-04T15:10:31.774524"
     },
     {
       "pais": "Argentina",
@@ -77,13 +77,13 @@
         {
           "url": "https://www.dpn.gob.ar/noticias.php",
           "tipo": "noticias",
-          "ok": true,
+          "ok": false,
           "items": 0
         },
         {
           "url": "https://www.dpn.gob.ar/comunicados.php",
           "tipo": "comunicados",
-          "ok": true,
+          "ok": false,
           "items": 0
         }
       ],
@@ -91,7 +91,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.924307"
+      "timestamp": "2026-11-04T15:10:31.786121"
     },
     {
       "pais": "Argentina",
@@ -112,7 +112,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.924791"
+      "timestamp": "2026-11-04T15:10:31.786871"
     },
     {
       "pais": "Bolivia",
@@ -172,6 +172,13 @@
           "es_pdf": false
         },
         {
+          "titulo": "Defensoría del Pueblo de Bolivia presenta avances de la Red Iberoamericana de Niñez y Adolescencia",
+          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-de-bolivia-presenta-avances-de-la-red-iberoamericana-de-ninyez-y-adolescencia",
+          "fecha": "2026-10-29T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "PRONUNCIAMIENTO: DEFENSORÍA DEL PUEBLO EXHORTA A LA INVESTIGACIÓN INMEDIATA Y ADOPCIÓN DE MEDIDAS DE PROTECCIÓN A FAVOR DEL DIRIGENTE INDÍGENA JAVIER FERNÁNDEZ TUNO Y SU FAMILIA",
           "url": "https://www.defensoria.gob.bo/noticias/pronunciamientodefensoria-del-pueblo-exhorta-a-la-investigacion-inmediata-y-adopcion-de-medidas-de-proteccion-a-favor-del-dirigente-indigena-javier-fernandez-tuno-y-su-familia",
           "fecha": "2026-10-29T00:00:00",
@@ -202,13 +209,6 @@
         {
           "titulo": "DEFENSORÍA DEL PUEBLO DE BOLIVIA FORTALECE LA ARTICULACIÓN REGIONAL PARA PROTEGER LOS DERECHOS DE LA NIÑEZ Y ADOLESCENCIA",
           "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-de-bolivia-fortalece-la-articulacion-regional-para-proteger-los-derechos-de-la-ninyez-y-adolescencia",
-          "fecha": "2026-10-27T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "DEFENSORÍA DEL PUEBLO VIABILIZA ACUERDO ENTRE YPFB, ANH Y DISTRIBUIDORES DE GLP PARA REGULARIZAR DISTRIBUCIÓN",
-          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-viabiliza-acuerdo-entre-ypfb,-anh-y-distribuidores-de-glp-para-regularizar-distribucion",
           "fecha": "2026-10-27T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -244,6 +244,13 @@
           "es_pdf": false
         },
         {
+          "titulo": "Defensoría del Pueblo de Bolivia presenta avances de la Red Iberoamericana de Niñez y Adolescencia",
+          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-de-bolivia-presenta-avances-de-la-red-iberoamericana-de-ninyez-y-adolescencia",
+          "fecha": "2026-10-29T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "PRONUNCIAMIENTO: DEFENSORÍA DEL PUEBLO EXHORTA A LA INVESTIGACIÓN INMEDIATA Y ADOPCIÓN DE MEDIDAS DE PROTECCIÓN A FAVOR DEL DIRIGENTE INDÍGENA JAVIER FERNÁNDEZ TUNO Y SU FAMILIA",
           "url": "https://www.defensoria.gob.bo/noticias/pronunciamientodefensoria-del-pueblo-exhorta-a-la-investigacion-inmediata-y-adopcion-de-medidas-de-proteccion-a-favor-del-dirigente-indigena-javier-fernandez-tuno-y-su-familia",
           "fecha": "2026-10-29T00:00:00",
@@ -277,18 +284,11 @@
           "fecha": "2026-10-27T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "DEFENSORÍA DEL PUEBLO VIABILIZA ACUERDO ENTRE YPFB, ANH Y DISTRIBUIDORES DE GLP PARA REGULARIZAR DISTRIBUCIÓN",
-          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-viabiliza-acuerdo-entre-ypfb,-anh-y-distribuidores-de-glp-para-regularizar-distribucion",
-          "fecha": "2026-10-27T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.925351"
+      "timestamp": "2026-11-04T15:10:31.787197"
     },
     {
       "pais": "Brasil",
@@ -513,7 +513,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.925683"
+      "timestamp": "2026-11-04T15:10:31.788123"
     },
     {
       "pais": "Brasil",
@@ -532,6 +532,41 @@
       ],
       "todos_items": [
         {
+          "titulo": "Moção reconhece atuação do Governo do Brasil na proteção da comunidade indígena Sassoró, em Mato Grosso do Sul",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mocao-reconhece-atuacao-do-governo-do-brasil-na-protecao-da-comunidade-indigena-sassoro-em-mato-grosso-do-sul",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "MDHC lança curso “Memória, Escravidão e Reparação Histórica”, fortalecendo a agenda de memória e verdade no país",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-lanca-curso-201cmemoria-escravidao-e-reparacao-historica201d-fortalecendo-a-agenda-de-memoria-e-verdade-no-pais",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "História de João Cândido ganha versão em quadrinhos para aproximar novas gerações da luta contra o racismo",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/historia-de-joao-candido-ganha-versao-em-quadrinhos-para-aproximar-novas-geracoes-da-luta-contra-o-racismo",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Brasil avança em negociações na ONU por tratado internacional sobre direitos das pessoas idosas",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/brasil-avanca-em-negociacoes-na-onu-por-tratado-internacional-sobre-direitos-das-pessoas-idosas",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "MDHC promove consulta para atualizar guia sobre saúde integral e direitos sexuais e reprodutivos das pessoas com deficiência",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-promove-consulta-para-atualizar-guia-sobre-saude-integral-e-direitos-sexuais-e-reprodutivos-das-pessoas-com-deficiencia",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Governo Federal reforça proteção de comunidades indígenas em Mato Grosso do Sul",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/governo-federal-reforca-protecao-de-comunidades-indigenas-em-mato-grosso-do-sul",
           "fecha": "2026-10-31T00:00:00",
@@ -633,47 +668,47 @@
           "titulo": "Nota de Pesar – Luzia Faria Silva",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/nota-de-pesar-2013-luzia-faria-silva",
           "fecha": "2026-10-23T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Voo com brasileiros repatriados dos EUA chegará ao Aeroporto Internacional de Belo Horizonte nesta sexta-feira (23)",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/voo-com-brasileiros-repatriados-dos-eua-chegara-ao-aeroporto-internacional-de-belo-horizonte-nesta-sexta-feira-23",
-          "fecha": "2026-10-23T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Estado brasileiro reconhece responsabilidade por violações de direitos humanos contra trabalhador rural no Pará",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/estado-brasileiro-reconhece-responsabilidade-por-violacoes-de-direitos-humanos-contra-trabalhador-rural-no-para",
-          "fecha": "2026-10-22T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Em Minas Gerais, Ouvidoria Nacional promove formação para o fortalecimento do Disque Direitos Humanos",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/em-minas-gerais-ouvidoria-nacional-promove-formacao-para-o-fortalecimento-do-disque-direitos-humanos",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Edital do Conanda e da SNDCA altera data prevista para divulgação do resultado preliminar",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/edital-do-conanda-e-da-sndca-altera-data-prevista-para-divulgacao-do-resultado-preliminar",
-          "fecha": "2026-10-20T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Estado brasileiro reconhece responsabilidade internacional por violações contra Gerson Milusk de Carvalho",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/estado-brasileiro-reconhece-responsabilidade-internacional-por-violacoes-contra-gerson-milusk-de-carvalho",
-          "fecha": "2026-10-20T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         }
       ],
       "items_en_periodo": [
         {
+          "titulo": "Moção reconhece atuação do Governo do Brasil na proteção da comunidade indígena Sassoró, em Mato Grosso do Sul",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mocao-reconhece-atuacao-do-governo-do-brasil-na-protecao-da-comunidade-indigena-sassoro-em-mato-grosso-do-sul",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "MDHC lança curso “Memória, Escravidão e Reparação Histórica”, fortalecendo a agenda de memória e verdade no país",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-lanca-curso-201cmemoria-escravidao-e-reparacao-historica201d-fortalecendo-a-agenda-de-memoria-e-verdade-no-pais",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "História de João Cândido ganha versão em quadrinhos para aproximar novas gerações da luta contra o racismo",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/historia-de-joao-candido-ganha-versao-em-quadrinhos-para-aproximar-novas-geracoes-da-luta-contra-o-racismo",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Brasil avança em negociações na ONU por tratado internacional sobre direitos das pessoas idosas",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/brasil-avanca-em-negociacoes-na-onu-por-tratado-internacional-sobre-direitos-das-pessoas-idosas",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "MDHC promove consulta para atualizar guia sobre saúde integral e direitos sexuais e reprodutivos das pessoas com deficiência",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-promove-consulta-para-atualizar-guia-sobre-saude-integral-e-direitos-sexuais-e-reprodutivos-das-pessoas-com-deficiencia",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Governo Federal reforça proteção de comunidades indígenas em Mato Grosso do Sul",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/governo-federal-reforca-protecao-de-comunidades-indigenas-em-mato-grosso-do-sul",
           "fecha": "2026-10-31T00:00:00",
@@ -777,46 +812,11 @@
           "fecha": "2026-10-23T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Voo com brasileiros repatriados dos EUA chegará ao Aeroporto Internacional de Belo Horizonte nesta sexta-feira (23)",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/voo-com-brasileiros-repatriados-dos-eua-chegara-ao-aeroporto-internacional-de-belo-horizonte-nesta-sexta-feira-23",
-          "fecha": "2026-10-23T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Estado brasileiro reconhece responsabilidade por violações de direitos humanos contra trabalhador rural no Pará",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/estado-brasileiro-reconhece-responsabilidade-por-violacoes-de-direitos-humanos-contra-trabalhador-rural-no-para",
-          "fecha": "2026-10-22T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Em Minas Gerais, Ouvidoria Nacional promove formação para o fortalecimento do Disque Direitos Humanos",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/em-minas-gerais-ouvidoria-nacional-promove-formacao-para-o-fortalecimento-do-disque-direitos-humanos",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Edital do Conanda e da SNDCA altera data prevista para divulgação do resultado preliminar",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/edital-do-conanda-e-da-sndca-altera-data-prevista-para-divulgacao-do-resultado-preliminar",
-          "fecha": "2026-10-20T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Estado brasileiro reconhece responsabilidade internacional por violações contra Gerson Milusk de Carvalho",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/estado-brasileiro-reconhece-responsabilidade-internacional-por-violacoes-contra-gerson-milusk-de-carvalho",
-          "fecha": "2026-10-20T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.926714"
+      "timestamp": "2026-11-04T15:10:31.788525"
     },
     {
       "pais": "Brasil",
@@ -837,7 +837,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.927279"
+      "timestamp": "2026-11-04T15:10:31.788868"
     },
     {
       "pais": "Brasil",
@@ -978,7 +978,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.927782"
+      "timestamp": "2026-11-04T15:10:31.789337"
     },
     {
       "pais": "Brasil",
@@ -997,6 +997,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "DPRJ aponta impactos das bets no endividamento e no sustento de famílias",
+          "url": "https://defensoria.rj.def.br/noticia/detalhes/33122-DPRJ-aponta-impactos-das-bets-no-endividamento-e-no-sustento-de-familias",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Enem 2026: DPRJ recomenda gratuidade no transporte público e reforço operacional da frota",
           "url": "https://defensoria.rj.def.br/noticia/detalhes/33115-Enem-2026-DPRJ-recomenda-gratuidade-no-transporte-publico-e-reforco-operacional-da-frota",
           "fecha": "2026-10-29T00:00:00",
@@ -1055,13 +1062,6 @@
         {
           "titulo": "A pedido da DPRJ, TRE-RJ determina que polícias observem a proibição de prender eleitores até 27/10",
           "url": "https://defensoria.rj.def.br/noticia/detalhes/33100-A-pedido-da-DPRJ-TRE-RJ-determina-que-policias-observem-a-proibicao-de-prender-eleitores-ate-27-10",
-          "fecha": "2026-10-22T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria cobra instalação de delegacia em Areal",
-          "url": "https://defensoria.rj.def.br/noticia/detalhes/33099-Defensoria-cobra-instalacao-de-delegacia-em-Areal",
           "fecha": "2026-10-22T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -1069,6 +1069,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "DPRJ aponta impactos das bets no endividamento e no sustento de famílias",
+          "url": "https://defensoria.rj.def.br/noticia/detalhes/33122-DPRJ-aponta-impactos-das-bets-no-endividamento-e-no-sustento-de-familias",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Enem 2026: DPRJ recomenda gratuidade no transporte público e reforço operacional da frota",
           "url": "https://defensoria.rj.def.br/noticia/detalhes/33115-Enem-2026-DPRJ-recomenda-gratuidade-no-transporte-publico-e-reforco-operacional-da-frota",
           "fecha": "2026-10-29T00:00:00",
@@ -1130,18 +1137,11 @@
           "fecha": "2026-10-22T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria cobra instalação de delegacia em Areal",
-          "url": "https://defensoria.rj.def.br/noticia/detalhes/33099-Defensoria-cobra-instalacao-de-delegacia-em-Areal",
-          "fecha": "2026-10-22T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928101"
+      "timestamp": "2026-11-04T15:10:31.789674"
     },
     {
       "pais": "Brasil",
@@ -1160,6 +1160,20 @@
       ],
       "todos_items": [
         {
+          "titulo": "Defensoria Pública de Pernambuco oferece orientação jurídica a terceirizados do TJPE durante ação NUPEMEC Acolhe",
+          "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4357/",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria Pública de Pernambuco destaca proteção de crianças e adolescentes vítimas de violência em congresso no Recife",
+          "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4356/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoria Pública de Pernambuco orienta população sobre atendimento durante plantões de feriado e fim de semana",
           "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4355/",
           "fecha": "2026-10-29T00:00:00",
@@ -1225,20 +1239,6 @@
         {
           "titulo": "Defensoria Pública de Pernambuco orienta sobre guarda/convivência de animais de estimação em casos de separação",
           "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4342/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria Pública de Pernambuco reforça o combate ao etarismo e à discriminação por idade",
-          "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4341/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria Pública de Pernambuco realiza Ação de Cidadania na Várzea em memória de vítima de feminicídio",
-          "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4340/",
           "fecha": "2026-10-21T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -1246,6 +1246,20 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Defensoria Pública de Pernambuco oferece orientação jurídica a terceirizados do TJPE durante ação NUPEMEC Acolhe",
+          "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4357/",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria Pública de Pernambuco destaca proteção de crianças e adolescentes vítimas de violência em congresso no Recife",
+          "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4356/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoria Pública de Pernambuco orienta população sobre atendimento durante plantões de feriado e fim de semana",
           "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4355/",
           "fecha": "2026-10-29T00:00:00",
@@ -1314,25 +1328,11 @@
           "fecha": "2026-10-21T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria Pública de Pernambuco reforça o combate ao etarismo e à discriminação por idade",
-          "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4341/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria Pública de Pernambuco realiza Ação de Cidadania na Várzea em memória de vítima de feminicídio",
-          "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4340/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928137"
+      "timestamp": "2026-11-04T15:10:31.789706"
     },
     {
       "pais": "Brasil",
@@ -1351,6 +1351,20 @@
       ],
       "todos_items": [
         {
+          "titulo": "Mutirão Previdenciário é iniciado em Anamã com atendimento jurídico, médico e serviços de cidadania",
+          "url": "https://defensoria.am.def.br/2026/11/03/mutirao-previdenciario-e-iniciado-em-anama-com-atendimento-juridico-medico-e-servicos-de-cidadania/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Pacientes oncológicas denunciam à Defensoria falhas no atendimento da FCecon",
+          "url": "https://defensoria.am.def.br/2026/11/03/pacientes-oncologicas-denunciam-a-defensoria-falhas-no-atendimento-da-fcecon/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Em novembro, Defensoria amplia presença no interior com ações de atendimento em seis municípios",
           "url": "https://defensoria.am.def.br/2026/11/02/em-novembro-defensoria-amplia-presenca-no-interior-do-amazonas-com-acoes-de-atendimento-em-seis-municipios/",
           "fecha": "2026-11-02T00:00:00",
@@ -1473,26 +1487,26 @@
           "titulo": "Manaus lidera ranking brasileiro de risco de ondas de calor e Defensoria debate proteção de populações vulneráveis",
           "url": "https://defensoria.am.def.br/2026/10/28/manaus-lidera-ranking-brasileiro-de-risco-de-ondas-de-calor-e-defensoria-debate-protecao-de-populacoes-vulneraveis/",
           "fecha": "2026-10-28T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Em Atalaia do Norte, Defensoria apura precariedade de escola e cobra providências da Seduc",
-          "url": "https://defensoria.am.def.br/2026/10/28/em-atalaia-do-norte-defensoria-apura-precariedade-de-escola-e-cobra-providencias-da-seduc/",
-          "fecha": "2026-10-28T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria realiza atendimentos jurídicos em Itapiranga entre os dias 16 e 19 de novembro",
-          "url": "https://defensoria.am.def.br/2026/10/27/defensoria-realiza-atendimentos-juridicos-no-municipio-de-itapiranga-entre-os-dias-16-e-19-de-novembro/",
-          "fecha": "2026-10-27T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         }
       ],
       "items_en_periodo": [
         {
+          "titulo": "Mutirão Previdenciário é iniciado em Anamã com atendimento jurídico, médico e serviços de cidadania",
+          "url": "https://defensoria.am.def.br/2026/11/03/mutirao-previdenciario-e-iniciado-em-anama-com-atendimento-juridico-medico-e-servicos-de-cidadania/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Pacientes oncológicas denunciam à Defensoria falhas no atendimento da FCecon",
+          "url": "https://defensoria.am.def.br/2026/11/03/pacientes-oncologicas-denunciam-a-defensoria-falhas-no-atendimento-da-fcecon/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Em novembro, Defensoria amplia presença no interior com ações de atendimento em seis municípios",
           "url": "https://defensoria.am.def.br/2026/11/02/em-novembro-defensoria-amplia-presenca-no-interior-do-amazonas-com-acoes-de-atendimento-em-seis-municipios/",
           "fecha": "2026-11-02T00:00:00",
@@ -1617,25 +1631,11 @@
           "fecha": "2026-10-28T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Em Atalaia do Norte, Defensoria apura precariedade de escola e cobra providências da Seduc",
-          "url": "https://defensoria.am.def.br/2026/10/28/em-atalaia-do-norte-defensoria-apura-precariedade-de-escola-e-cobra-providencias-da-seduc/",
-          "fecha": "2026-10-28T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria realiza atendimentos jurídicos em Itapiranga entre os dias 16 e 19 de novembro",
-          "url": "https://defensoria.am.def.br/2026/10/27/defensoria-realiza-atendimentos-juridicos-no-municipio-de-itapiranga-entre-os-dias-16-e-19-de-novembro/",
-          "fecha": "2026-10-27T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928168"
+      "timestamp": "2026-11-04T15:10:31.789732"
     },
     {
       "pais": "Brasil",
@@ -1654,6 +1654,27 @@
       ],
       "todos_items": [
         {
+          "titulo": "AVISO DE DISPENSA DIRETA DE LICITAÇÃO - Aquisição de Óleo Lubrificante",
+          "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-de-licitacao-aquisicao-de-oleo-lubrificante",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Estado deve regularizar abastecimento do Helvio Auto, garante Defensoria Pública na Justiça",
+          "url": "https://defensoria.al.def.br/index.php/noticias/estado-deve-regularizar-abastecimento-do-helvio-auto-garante-defensoria-publica-na-justica",
+          "fecha": null,
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria Pública de Alagoas consegue liberdade de homem preso por processo com crime prescrito",
+          "url": "https://defensoria.al.def.br/index.php/noticias/defensoria-publica-de-alagoas-consegue-liberdade-de-homem-preso-por-processo-com-crime-prescrito",
+          "fecha": null,
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoria Pública leva atendimento gratuito ao Clima Bom nesta terça-feira (3)",
           "url": "https://defensoria.al.def.br/index.php/noticias/defensoria-publica-leva-atendimento-gratuito-ao-clima-bom-nesta-terca-feira-3",
           "fecha": null,
@@ -1663,34 +1684,35 @@
         {
           "titulo": "Lista dos defensores públicos plantonistas de 31.10 a 02.11",
           "url": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-de-31-10-a-02-11",
-          "fecha": null,
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria Pública participa de diagnóstico sobre saúde mental de adolescentes em conflito com a lei",
-          "url": "https://defensoria.al.def.br/index.php/noticias/defensoria-publica-participa-de-diagnostico-sobre-saude-mental-de-adolescentes-em-conflito-com-a-lei",
-          "fecha": null,
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Finados: Defensoria Pública funciona em regime de plantão nesta segunda-feira (2)",
-          "url": "https://defensoria.al.def.br/index.php/noticias/finados-defensoria-publica-funciona-em-regime-de-plantao-nesta-segunda-feira-2",
-          "fecha": null,
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria Pública apresenta rede acadêmica para fortalecer a proteção à pessoa idosa institucionalizada",
-          "url": "https://defensoria.al.def.br/index.php/noticias/defensoria-publica-apresenta-rede-academica-para-fortalecer-a-protecao-a-pessoa-idosa-institucionalizada",
           "fecha": null,
           "tipo_seccion": "noticias",
           "es_pdf": false
         }
       ],
-      "items_en_periodo": [],
+      "items_en_periodo": [
+        {
+          "titulo": "AVISO DE DISPENSA DIRETA DE LICITAÇÃO - Aquisição de Óleo Lubrificante",
+          "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-direta-de-licitacao-aquisicao-de-oleo-lubrificante",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        }
+      ],
       "items_sin_fecha": [
+        {
+          "titulo": "Estado deve regularizar abastecimento do Helvio Auto, garante Defensoria Pública na Justiça",
+          "url": "https://defensoria.al.def.br/index.php/noticias/estado-deve-regularizar-abastecimento-do-helvio-auto-garante-defensoria-publica-na-justica",
+          "fecha": null,
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria Pública de Alagoas consegue liberdade de homem preso por processo com crime prescrito",
+          "url": "https://defensoria.al.def.br/index.php/noticias/defensoria-publica-de-alagoas-consegue-liberdade-de-homem-preso-por-processo-com-crime-prescrito",
+          "fecha": null,
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
         {
           "titulo": "Defensoria Pública leva atendimento gratuito ao Clima Bom nesta terça-feira (3)",
           "url": "https://defensoria.al.def.br/index.php/noticias/defensoria-publica-leva-atendimento-gratuito-ao-clima-bom-nesta-terca-feira-3",
@@ -1701,34 +1723,13 @@
         {
           "titulo": "Lista dos defensores públicos plantonistas de 31.10 a 02.11",
           "url": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-de-31-10-a-02-11",
-          "fecha": null,
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria Pública participa de diagnóstico sobre saúde mental de adolescentes em conflito com a lei",
-          "url": "https://defensoria.al.def.br/index.php/noticias/defensoria-publica-participa-de-diagnostico-sobre-saude-mental-de-adolescentes-em-conflito-com-a-lei",
-          "fecha": null,
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Finados: Defensoria Pública funciona em regime de plantão nesta segunda-feira (2)",
-          "url": "https://defensoria.al.def.br/index.php/noticias/finados-defensoria-publica-funciona-em-regime-de-plantao-nesta-segunda-feira-2",
-          "fecha": null,
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria Pública apresenta rede acadêmica para fortalecer a proteção à pessoa idosa institucionalizada",
-          "url": "https://defensoria.al.def.br/index.php/noticias/defensoria-publica-apresenta-rede-academica-para-fortalecer-a-protecao-a-pessoa-idosa-institucionalizada",
           "fecha": null,
           "tipo_seccion": "noticias",
           "es_pdf": false
         }
       ],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928192"
+      "timestamp": "2026-11-04T15:10:31.789753"
     },
     {
       "pais": "Brasil",
@@ -1762,13 +1763,41 @@
         },
         {
           "titulo": "Arquivos:Notícias",
-          "url": "https://www.defensoria.ce.def.br/noticia/vitima-de-prisao-injusta-idosa-cearense-cobra-indenizacao-de-justica-de-sergipe/",
+          "url": "https://www.defensoria.ce.def.br/noticia/dpce-divulga-lista-de-inscritos-em-selecao-de-estagio-em-direito-para-atuacao-no-interior/",
           "fecha": "2026-11-03T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
         {
           "titulo": "3 de novembro de 2026",
+          "url": "",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "DPCE divulga lista de inscritos em seleção de estágio em Direito para atuação no interior",
+          "url": "",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Assessoria de Estágio divulga resultado da análise de desempenho acadêmico e convoca candidatos para entrevistas em Fortaleza",
+          "url": "",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Assessoria de Estágio convoca candidatos à seleção para estágio de pós-graduação em Direito em Maracanaú",
+          "url": "",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria e movimento quilombola cearense lançam cartilha Enquanto Houver Nós: Territórios, Memórias e Resistência no Ceará no Frei Humberto",
           "url": "",
           "fecha": "2026-11-03T00:00:00",
           "tipo_seccion": "noticias",
@@ -1845,35 +1874,7 @@
           "es_pdf": false
         },
         {
-          "titulo": "DPCE divulga lista de inscritos em seleção de estágio em Direito para atuação no interior",
-          "url": "",
-          "fecha": "2026-10-29T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
           "titulo": "28 de outubro de 2026",
-          "url": "",
-          "fecha": "2026-10-28T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria abre seleção simplificada de estágio de graduação em Direito para atuação em Maracanaú",
-          "url": "",
-          "fecha": "2026-10-28T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria leva atendimento itinerante às pessoas idosas do bairro Benfica",
-          "url": "",
-          "fecha": "2026-10-28T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria Pública retifica resultado parcial de seleção para estágio em Direito para atuação em Fortaleza",
           "url": "",
           "fecha": "2026-10-28T00:00:00",
           "tipo_seccion": "noticias",
@@ -1883,13 +1884,41 @@
       "items_en_periodo": [
         {
           "titulo": "Arquivos:Notícias",
-          "url": "https://www.defensoria.ce.def.br/noticia/vitima-de-prisao-injusta-idosa-cearense-cobra-indenizacao-de-justica-de-sergipe/",
+          "url": "https://www.defensoria.ce.def.br/noticia/dpce-divulga-lista-de-inscritos-em-selecao-de-estagio-em-direito-para-atuacao-no-interior/",
           "fecha": "2026-11-03T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
         {
           "titulo": "3 de novembro de 2026",
+          "url": "",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "DPCE divulga lista de inscritos em seleção de estágio em Direito para atuação no interior",
+          "url": "",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Assessoria de Estágio divulga resultado da análise de desempenho acadêmico e convoca candidatos para entrevistas em Fortaleza",
+          "url": "",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Assessoria de Estágio convoca candidatos à seleção para estágio de pós-graduação em Direito em Maracanaú",
+          "url": "",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria e movimento quilombola cearense lançam cartilha Enquanto Houver Nós: Territórios, Memórias e Resistência no Ceará no Frei Humberto",
           "url": "",
           "fecha": "2026-11-03T00:00:00",
           "tipo_seccion": "noticias",
@@ -1966,35 +1995,7 @@
           "es_pdf": false
         },
         {
-          "titulo": "DPCE divulga lista de inscritos em seleção de estágio em Direito para atuação no interior",
-          "url": "",
-          "fecha": "2026-10-29T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
           "titulo": "28 de outubro de 2026",
-          "url": "",
-          "fecha": "2026-10-28T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria abre seleção simplificada de estágio de graduação em Direito para atuação em Maracanaú",
-          "url": "",
-          "fecha": "2026-10-28T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria leva atendimento itinerante às pessoas idosas do bairro Benfica",
-          "url": "",
-          "fecha": "2026-10-28T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria Pública retifica resultado parcial de seleção para estágio em Direito para atuação em Fortaleza",
           "url": "",
           "fecha": "2026-10-28T00:00:00",
           "tipo_seccion": "noticias",
@@ -2018,7 +2019,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928208"
+      "timestamp": "2026-11-04T15:10:31.789771"
     },
     {
       "pais": "Brasil",
@@ -2037,6 +2038,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "Oficina de crochê promovida pela Defensoria Pública forma primeira turma de mulheres",
+          "url": "https://www.defensoria.rs.def.br/oficina-de-croche-promovida-pela-defensoria-publica-forma-primeira-turma-de-mulheres",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoria Pública oferecerá orientação jurídica durante mutirão de atendimento às mulheres no bairro Santo Antônio, em Lajeado",
           "url": "https://www.defensoria.rs.def.br/defensoria-publica-oferecera-orientacao-juridica-durante-mutirao-de-atendimento-as-mulheres-no-bairro-santo-antonio-em-lajeado",
           "fecha": "2026-10-30T00:00:00",
@@ -2046,13 +2054,6 @@
         {
           "titulo": "Dialogando sobre a importância da mediação e conciliação, DPE/RS participa da XIII Jornada de Soluções Autocompositivas",
           "url": "https://www.defensoria.rs.def.br/dialogando-sobre-a-importancia-da-mediacao-e-conciliacao-a-dpe-rs-participa-da-xiii-jornada-de-solucoes-autocompositivas",
-          "fecha": "2026-10-29T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Após ofício da DPE/RS, mulheres privadas de liberdade são incluídas no Programa Mãe Gaúcha",
-          "url": "https://www.defensoria.rs.def.br/apos-oficio-da-dpe-rs-mulheres-privadas-de-liberdade-sao-incluidas-no-programa-mae-gaucha",
           "fecha": "2026-10-29T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -2060,6 +2061,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Oficina de crochê promovida pela Defensoria Pública forma primeira turma de mulheres",
+          "url": "https://www.defensoria.rs.def.br/oficina-de-croche-promovida-pela-defensoria-publica-forma-primeira-turma-de-mulheres",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoria Pública oferecerá orientação jurídica durante mutirão de atendimento às mulheres no bairro Santo Antônio, em Lajeado",
           "url": "https://www.defensoria.rs.def.br/defensoria-publica-oferecera-orientacao-juridica-durante-mutirao-de-atendimento-as-mulheres-no-bairro-santo-antonio-em-lajeado",
           "fecha": "2026-10-30T00:00:00",
@@ -2072,18 +2080,11 @@
           "fecha": "2026-10-29T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Após ofício da DPE/RS, mulheres privadas de liberdade são incluídas no Programa Mãe Gaúcha",
-          "url": "https://www.defensoria.rs.def.br/apos-oficio-da-dpe-rs-mulheres-privadas-de-liberdade-sao-incluidas-no-programa-mae-gaucha",
-          "fecha": "2026-10-29T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928217"
+      "timestamp": "2026-11-04T15:10:31.789788"
     },
     {
       "pais": "Chile",
@@ -2110,7 +2111,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928225"
+      "timestamp": "2026-11-04T15:10:31.789797"
     },
     {
       "pais": "Chile",
@@ -2134,6 +2135,13 @@
         }
       ],
       "todos_items": [
+        {
+          "titulo": "Defensoría de la Niñez buscará revertir inadmisibilidad de amparo ante ...",
+          "url": "",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
         {
           "titulo": "Defensoría de la Niñez y UNICEF impulsan mecanismo de monitoreo ...",
           "url": "",
@@ -2187,13 +2195,6 @@
           "titulo": "Niños, niñas y adolescentes de la RM presentaron 16 propuestas ...",
           "url": "",
           "fecha": "2026-10-05T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Informe de Defensoría de la Niñez y UNICEF: 46% de ...",
-          "url": "",
-          "fecha": "2026-09-15T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -2319,6 +2320,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Defensoría de la Niñez buscará revertir inadmisibilidad de amparo ante ...",
+          "url": "",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoría de la Niñez y UNICEF impulsan mecanismo de monitoreo ...",
           "url": "",
           "fecha": "2026-11-02T00:00:00",
@@ -2429,13 +2437,6 @@
           "fecha": "2026-10-06T00:00:00",
           "tipo_seccion": "prensa",
           "es_pdf": false
-        },
-        {
-          "titulo": "Niños, niñas y adolescentes de la RM presentaron 16 propuestas ...",
-          "url": "",
-          "fecha": "2026-10-05T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [
@@ -2469,7 +2470,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928233"
+      "timestamp": "2026-11-04T15:10:31.789805"
     },
     {
       "pais": "Chile",
@@ -2501,6 +2502,27 @@
       ],
       "todos_items": [
         {
+          "titulo": "La sede regional del INDH Aysén expuso en jornadas de capacitación de Carabineros en Coyhaique y Chile Chico",
+          "url": "https://www.indh.cl/indh-aysen-jornadas-carabineros-coyhaique-chile-chico/",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "INDH Los Lagos realizó un recorrido medioambiental con estudiantes de Liceo El Sembrador",
+          "url": "https://www.indh.cl/indh-los-lagos-medioambiental-liceo-sembrador/",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Colegio de Abogados se integra al Registro de instituciones vinculadas a la defensa y promoción de los derechos humanos del INDH",
+          "url": "https://www.indh.cl/indh-colegio-de-abogados-registro/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Declaración del Consejo del Instituto Nacional de Derechos Humanos sobre el proyecto de ley que lo reforma",
           "url": "https://www.indh.cl/declaracion-consejo-proyecto-de-ley/",
           "fecha": "2026-11-02T00:00:00",
@@ -2539,21 +2561,14 @@
           "titulo": "INDH de Los Ríos realizó foro en el Festival Internacional de Cine de Valdivia que abordó la importancia del cuidado del medioambiente",
           "url": "https://www.indh.cl/indh-los-rios-foro-festival-valdivia-medioambiente/",
           "fecha": "2026-10-27T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "INDH RM realiza seminario “Derechos humanos y estándares técnicos: desafíos para su garantía en contextos de especial vulnerabilidad”",
-          "url": "https://www.indh.cl/indh-rm-seminario-estandares-ninas-ninos/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
+          "tipo_seccion": "noticias_regionales",
           "es_pdf": false
         },
         {
           "titulo": "En el marco de la semana de la Memoria, INDH de Antofagasta realizó actividades que conmemoran a las víctimas de la Caravana de la Muerte en la región",
           "url": "https://www.indh.cl/semana-memoria-indh-antofagasta-caravana/",
           "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
+          "tipo_seccion": "noticias_regionales",
           "es_pdf": false
         },
         {
@@ -2567,26 +2582,33 @@
           "titulo": "INDH Valparaíso y Artequin Viña del Mar abrieron postulaciones para que niñas y niños participen del concurso “Jugar es un derecho”",
           "url": "https://www.indh.cl/indh-valparaiso-artequin-concurso/",
           "fecha": "2026-10-14T00:00:00",
-          "tipo_seccion": "noticias_regionales",
-          "es_pdf": false
-        },
-        {
-          "titulo": "INDH Tarapacá desarrolló capacitación en derechos humanos con inspectores municipales de Alto Hospicio",
-          "url": "https://www.indh.cl/indh-tarapaca-capacitacion-inspectores-alto-hospicio/",
-          "fecha": "2026-10-14T00:00:00",
-          "tipo_seccion": "noticias_regionales",
-          "es_pdf": false
-        },
-        {
-          "titulo": "INDH de Antofagasta oficia a la Delegación Regional por retiro de placa en memoria de las víctimas de la dictadura",
-          "url": "https://www.indh.cl/indh-antofagasta-retiro-placa/",
-          "fecha": "2026-10-09T00:00:00",
           "tipo_seccion": "noticias_regionales",
           "es_pdf": false
         }
       ],
       "items_en_periodo": [
         {
+          "titulo": "La sede regional del INDH Aysén expuso en jornadas de capacitación de Carabineros en Coyhaique y Chile Chico",
+          "url": "https://www.indh.cl/indh-aysen-jornadas-carabineros-coyhaique-chile-chico/",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "INDH Los Lagos realizó un recorrido medioambiental con estudiantes de Liceo El Sembrador",
+          "url": "https://www.indh.cl/indh-los-lagos-medioambiental-liceo-sembrador/",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Colegio de Abogados se integra al Registro de instituciones vinculadas a la defensa y promoción de los derechos humanos del INDH",
+          "url": "https://www.indh.cl/indh-colegio-de-abogados-registro/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Declaración del Consejo del Instituto Nacional de Derechos Humanos sobre el proyecto de ley que lo reforma",
           "url": "https://www.indh.cl/declaracion-consejo-proyecto-de-ley/",
           "fecha": "2026-11-02T00:00:00",
@@ -2625,21 +2647,14 @@
           "titulo": "INDH de Los Ríos realizó foro en el Festival Internacional de Cine de Valdivia que abordó la importancia del cuidado del medioambiente",
           "url": "https://www.indh.cl/indh-los-rios-foro-festival-valdivia-medioambiente/",
           "fecha": "2026-10-27T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "INDH RM realiza seminario “Derechos humanos y estándares técnicos: desafíos para su garantía en contextos de especial vulnerabilidad”",
-          "url": "https://www.indh.cl/indh-rm-seminario-estandares-ninas-ninos/",
-          "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
+          "tipo_seccion": "noticias_regionales",
           "es_pdf": false
         },
         {
           "titulo": "En el marco de la semana de la Memoria, INDH de Antofagasta realizó actividades que conmemoran a las víctimas de la Caravana de la Muerte en la región",
           "url": "https://www.indh.cl/semana-memoria-indh-antofagasta-caravana/",
           "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
+          "tipo_seccion": "noticias_regionales",
           "es_pdf": false
         },
         {
@@ -2655,25 +2670,11 @@
           "fecha": "2026-10-14T00:00:00",
           "tipo_seccion": "noticias_regionales",
           "es_pdf": false
-        },
-        {
-          "titulo": "INDH Tarapacá desarrolló capacitación en derechos humanos con inspectores municipales de Alto Hospicio",
-          "url": "https://www.indh.cl/indh-tarapaca-capacitacion-inspectores-alto-hospicio/",
-          "fecha": "2026-10-14T00:00:00",
-          "tipo_seccion": "noticias_regionales",
-          "es_pdf": false
-        },
-        {
-          "titulo": "INDH de Antofagasta oficia a la Delegación Regional por retiro de placa en memoria de las víctimas de la dictadura",
-          "url": "https://www.indh.cl/indh-antofagasta-retiro-placa/",
-          "fecha": "2026-10-09T00:00:00",
-          "tipo_seccion": "noticias_regionales",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928241"
+      "timestamp": "2026-11-04T15:10:31.789819"
     },
     {
       "pais": "Colombia",
@@ -2707,7 +2708,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928249"
+      "timestamp": "2026-11-04T15:10:31.789829"
     },
     {
       "pais": "Colombia",
@@ -2734,7 +2735,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928260"
+      "timestamp": "2026-11-04T15:10:31.789837"
     },
     {
       "pais": "Ecuador",
@@ -2762,7 +2763,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928270"
+      "timestamp": "2026-11-04T15:10:31.789844"
     },
     {
       "pais": "Paraguay",
@@ -2782,6 +2783,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "Noticias 4 de noviembre de 2026 Defensoría del pueblo insta al BCP a acelerar la devolución de los depósitos de ueno Bank y proteger a los afectados A",
+          "url": "",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Noticias 2 de noviembre de 2026 Defensor del Pueblo presentó solicitud de informe sobre atención médica en el Hospital de Clínicas El Defensor del Pue",
           "url": "",
           "fecha": "2026-11-02T00:00:00",
@@ -2855,19 +2863,19 @@
           "titulo": "Noticias 21 de octubre de 2026 Defensoría del Pueblo advierte sobre materiales educativos y pide al MEC convocar a expertos para revisión integral La",
           "url": "",
           "fecha": "2026-10-21T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Noticias 20 de octubre de 2026 Representantes de comedores y centros comunitarios se reunieron con el Defensor del Pueblo El Defensor del Pueblo, Abg.",
-          "url": "",
-          "fecha": "2026-10-20T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         }
       ],
       "items_en_periodo": [
         {
+          "titulo": "Noticias 4 de noviembre de 2026 Defensoría del pueblo insta al BCP a acelerar la devolución de los depósitos de ueno Bank y proteger a los afectados A",
+          "url": "",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Noticias 2 de noviembre de 2026 Defensor del Pueblo presentó solicitud de informe sobre atención médica en el Hospital de Clínicas El Defensor del Pue",
           "url": "",
           "fecha": "2026-11-02T00:00:00",
@@ -2943,18 +2951,11 @@
           "fecha": "2026-10-21T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Noticias 20 de octubre de 2026 Representantes de comedores y centros comunitarios se reunieron con el Defensor del Pueblo El Defensor del Pueblo, Abg.",
-          "url": "",
-          "fecha": "2026-10-20T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928278"
+      "timestamp": "2026-11-04T15:10:31.789852"
     },
     {
       "pais": "Paraguay",
@@ -3089,7 +3090,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928285"
+      "timestamp": "2026-11-04T15:10:31.789859"
     },
     {
       "pais": "Perú",
@@ -3128,8 +3129,78 @@
           "es_pdf": false
         },
         {
-          "titulo": "Defensoría del Pueblo supervisar atención y medidas de seguridad tras reyerta en penal de Trujillo",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisar-atencion-y-medidas-de-seguridad-tras-reyerta-en-penal-de-trujillo/",
+          "titulo": "Defensoría del Pueblo promueve acciones de prevención y preparación ante el Fenómeno El Niño en Huarmey",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-acciones-de-prevencion-y-preparacion-ante-el-fenomeno-el-nino-en-huarmey/",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo expresa sus condolencias por el fallecimiento de un profesional de salud durante una brigada de atención en salud en el distrito de Andoas",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-expresa-sus-condolencias-por-el-fallecimiento-de-un-profesional-de-salud-durante-una-brigada-medica-en-el-distrito-de-andoas/",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo interviene para proteger a adolescente con discapacidad víctima de presunta violencia familiar en Moyobamba",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-interviene-para-proteger-a-adolescente-con-discapacidad-victima-de-presunta-violencia-familiar-en-moyobamba/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisó el área de atención ambulatoria del Hospital Nacional Guillermo Almenara Irigoyen, tras recibir reportes de la interrupción del suministro eléctrico y la inoperatividad de los ascensores",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-superviso-el-area-de-atencion-ambulatoria-del-hospital-nacional-guillermo-almenara-irigoyen-tras-recibir-reportes-de-la-interrupcion-del-suministro-electrico-y-la-inoperatividad/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo exige medidas urgentes a la Municipalidad de Máncora ante daños por intensas lluvias",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-medidas-urgentes-a-la-municipalidad-de-mancora-ante-danos-por-intensas-lluvias/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Arequipa: promovimos campaña “Mi cuerpo se respeta, la infancia se defiende” durante feria de servicios en Cerro Colorado",
+          "url": "https://www.defensoria.gob.pe/arequipa-promovimos-campana-mi-cuerpo-se-respeta-la-infancia-se-defiende-durante-feria-de-servicios-en-cerro-colorado/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo promueve acciones urgentes para reducir riesgos ante el Fenómeno El Niño en Trujillo",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-acciones-urgentes-para-reducir-riesgos-ante-el-fenomeno-el-nino-en-trujillo/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo lamenta fallecimiento de militar en accidente aéreo en Amazonas y solicita soporte socioeconómico para sus familiares",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-lamenta-fallecimiento-de-militar-en-accidente-aereo-en-amazonas-y-solicita-soporte-socioeconomico-para-sus-familiares/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo promueve acciones ante presunta contaminación de agua que consumen comerciantes y usuarios del mercado de Puerto Inca",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-acciones-ante-presunta-contaminacion-de-agua-que-consumen-comerciantes-y-usuarios-del-mercado-de-puerto-inca/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Arequipa: se realiza charla sobre derechos de las personas con discapacidad a cerca de cien alumnos de la UNSA",
+          "url": "https://www.defensoria.gob.pe/arequipa-se-realiza-charla-sobre-derechos-de-las-personas-con-discapacidad-a-cerca-de-cien-alumnos-de-la-unsa/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisa atención y medidas de seguridad tras reyerta en penal de Trujillo",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-atencion-y-medidas-de-seguridad-tras-reyerta-en-penal-de-trujillo/",
           "fecha": "2026-11-03T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -3187,76 +3258,6 @@
           "titulo": "Defensoría del Pueblo reafirma su compromiso con la protección de los periodistas y la libertad de prensa",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-cero-impunidad-y-garantias-reales-para-el-ejercicio-de-la-labor-periodistica-en-el-peru/",
           "fecha": "2026-11-02T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo exige atención inmediata para niña víctima de presunta violencia sexual en Condorcanqui",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-atencion-inmediata-para-nina-victima-de-presunta-violencia-sexual-en-condorcanqui/",
-          "fecha": "2026-11-01T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo exige investigación inmediata y protección urgente ante denuncia de violencia sexual contra niña de 7 años en comunidad indígena de Amazonas",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-investigacion-inmediata-y-proteccion-urgente-ante-denuncia-de-violencia-sexual-contra-nina-de-7-anos-en-comunidad-indigena-de-amazonas/",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Lambayeque: difundimos alcances de la campaña nacional «Mi cuerpo se respeta, la infancia se defiende» en importante feria informativa organizada por la Corte Superior de Justicia",
-          "url": "https://www.defensoria.gob.pe/lambayeque-difundimos-alcances-de-la-campana-nacional-mi-cuerpo-se-respeta-la-infancia-se-defiende-en-importante-feria-informativa-organizada-por-la-corte-superior-de-justicia/",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo exhorta a municipalidad de Yanacancha a garantizar el abastecimiento de agua potable en seis comunidades",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-municipalidad-de-yanacancha-a-garantizar-el-abastecimiento-de-agua-potable-en-seis-comunidades/",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo recomienda a la UNI convocar a la ONPE para la elección de nuevo rector",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-recomienda-a-la-uni-convocar-a-la-onpe-para-la-eleccion-de-nuevo-rector/",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo fortalece conocimientos sobre su rol y competencias entre los servidores y funcionarios de la red de salud de Puerto Inca",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-fortalece-conocimientos-sobre-su-rol-y-competencias-entre-los-servidores-y-funcionarios-de-la-red-de-salud-de-puerto-inca/",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo advierte presuntas deficiencias en la alimentación de internas del establecimiento penitenciario de mujeres de Iquitos",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-presuntas-deficiencias-en-la-alimentacion-de-internas-del-establecimiento-penitenciario-de-mujeres-de-iquitos/",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo promueve la prevención de la violencia escolar en la región Pasco",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-la-prevencion-de-la-violencia-escolar-en-la-region-pasco/",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo supervisa intervención inmediata de la Municipalidad de Lima en la limpieza y descolmatación del Río Rímac en el Puente Huampaní, en Chaclacayo",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-intervencion-inmediata-de-la-municipalidad-de-lima-en-la-limpieza-y-descolmatacion-del-rio-rimac-en-el-puente-huampani-en-chaclacayo/",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Segunda sesión de la mesa de trabajo liderada por la Defensoría del Pueblo ante la falta de continuidad del servicio de energía electrica en Coayllo",
-          "url": "https://www.defensoria.gob.pe/segunda-sesion-de-la-mesa-de-trabajo-liderada-por-la-defensoria-del-pueblo-ante-la-falta-de-continuidad-del-servicio-de-energia-electrica-en-coayllo/",
-          "fecha": "2026-10-30T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -3403,8 +3404,78 @@
       ],
       "items_en_periodo": [
         {
-          "titulo": "Defensoría del Pueblo supervisar atención y medidas de seguridad tras reyerta en penal de Trujillo",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisar-atencion-y-medidas-de-seguridad-tras-reyerta-en-penal-de-trujillo/",
+          "titulo": "Defensoría del Pueblo promueve acciones de prevención y preparación ante el Fenómeno El Niño en Huarmey",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-acciones-de-prevencion-y-preparacion-ante-el-fenomeno-el-nino-en-huarmey/",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo expresa sus condolencias por el fallecimiento de un profesional de salud durante una brigada de atención en salud en el distrito de Andoas",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-expresa-sus-condolencias-por-el-fallecimiento-de-un-profesional-de-salud-durante-una-brigada-medica-en-el-distrito-de-andoas/",
+          "fecha": "2026-11-04T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo interviene para proteger a adolescente con discapacidad víctima de presunta violencia familiar en Moyobamba",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-interviene-para-proteger-a-adolescente-con-discapacidad-victima-de-presunta-violencia-familiar-en-moyobamba/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisó el área de atención ambulatoria del Hospital Nacional Guillermo Almenara Irigoyen, tras recibir reportes de la interrupción del suministro eléctrico y la inoperatividad de los ascensores",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-superviso-el-area-de-atencion-ambulatoria-del-hospital-nacional-guillermo-almenara-irigoyen-tras-recibir-reportes-de-la-interrupcion-del-suministro-electrico-y-la-inoperatividad/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo exige medidas urgentes a la Municipalidad de Máncora ante daños por intensas lluvias",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-medidas-urgentes-a-la-municipalidad-de-mancora-ante-danos-por-intensas-lluvias/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Arequipa: promovimos campaña “Mi cuerpo se respeta, la infancia se defiende” durante feria de servicios en Cerro Colorado",
+          "url": "https://www.defensoria.gob.pe/arequipa-promovimos-campana-mi-cuerpo-se-respeta-la-infancia-se-defiende-durante-feria-de-servicios-en-cerro-colorado/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo promueve acciones urgentes para reducir riesgos ante el Fenómeno El Niño en Trujillo",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-acciones-urgentes-para-reducir-riesgos-ante-el-fenomeno-el-nino-en-trujillo/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo lamenta fallecimiento de militar en accidente aéreo en Amazonas y solicita soporte socioeconómico para sus familiares",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-lamenta-fallecimiento-de-militar-en-accidente-aereo-en-amazonas-y-solicita-soporte-socioeconomico-para-sus-familiares/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo promueve acciones ante presunta contaminación de agua que consumen comerciantes y usuarios del mercado de Puerto Inca",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-acciones-ante-presunta-contaminacion-de-agua-que-consumen-comerciantes-y-usuarios-del-mercado-de-puerto-inca/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Arequipa: se realiza charla sobre derechos de las personas con discapacidad a cerca de cien alumnos de la UNSA",
+          "url": "https://www.defensoria.gob.pe/arequipa-se-realiza-charla-sobre-derechos-de-las-personas-con-discapacidad-a-cerca-de-cien-alumnos-de-la-unsa/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisa atención y medidas de seguridad tras reyerta en penal de Trujillo",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-atencion-y-medidas-de-seguridad-tras-reyerta-en-penal-de-trujillo/",
           "fecha": "2026-11-03T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -3466,76 +3537,6 @@
           "es_pdf": false
         },
         {
-          "titulo": "Defensoría del Pueblo exige atención inmediata para niña víctima de presunta violencia sexual en Condorcanqui",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-atencion-inmediata-para-nina-victima-de-presunta-violencia-sexual-en-condorcanqui/",
-          "fecha": "2026-11-01T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo exige investigación inmediata y protección urgente ante denuncia de violencia sexual contra niña de 7 años en comunidad indígena de Amazonas",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-investigacion-inmediata-y-proteccion-urgente-ante-denuncia-de-violencia-sexual-contra-nina-de-7-anos-en-comunidad-indigena-de-amazonas/",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Lambayeque: difundimos alcances de la campaña nacional «Mi cuerpo se respeta, la infancia se defiende» en importante feria informativa organizada por la Corte Superior de Justicia",
-          "url": "https://www.defensoria.gob.pe/lambayeque-difundimos-alcances-de-la-campana-nacional-mi-cuerpo-se-respeta-la-infancia-se-defiende-en-importante-feria-informativa-organizada-por-la-corte-superior-de-justicia/",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo exhorta a municipalidad de Yanacancha a garantizar el abastecimiento de agua potable en seis comunidades",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exhorta-a-municipalidad-de-yanacancha-a-garantizar-el-abastecimiento-de-agua-potable-en-seis-comunidades/",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo recomienda a la UNI convocar a la ONPE para la elección de nuevo rector",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-recomienda-a-la-uni-convocar-a-la-onpe-para-la-eleccion-de-nuevo-rector/",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo fortalece conocimientos sobre su rol y competencias entre los servidores y funcionarios de la red de salud de Puerto Inca",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-fortalece-conocimientos-sobre-su-rol-y-competencias-entre-los-servidores-y-funcionarios-de-la-red-de-salud-de-puerto-inca/",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo advierte presuntas deficiencias en la alimentación de internas del establecimiento penitenciario de mujeres de Iquitos",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-presuntas-deficiencias-en-la-alimentacion-de-internas-del-establecimiento-penitenciario-de-mujeres-de-iquitos/",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo promueve la prevención de la violencia escolar en la región Pasco",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-la-prevencion-de-la-violencia-escolar-en-la-region-pasco/",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo supervisa intervención inmediata de la Municipalidad de Lima en la limpieza y descolmatación del Río Rímac en el Puente Huampaní, en Chaclacayo",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-intervencion-inmediata-de-la-municipalidad-de-lima-en-la-limpieza-y-descolmatacion-del-rio-rimac-en-el-puente-huampani-en-chaclacayo/",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Segunda sesión de la mesa de trabajo liderada por la Defensoría del Pueblo ante la falta de continuidad del servicio de energía electrica en Coayllo",
-          "url": "https://www.defensoria.gob.pe/segunda-sesion-de-la-mesa-de-trabajo-liderada-por-la-defensoria-del-pueblo-ante-la-falta-de-continuidad-del-servicio-de-energia-electrica-en-coayllo/",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
           "titulo": "Defensoría del Pueblo lanza campaña nacional para la prevención de la violencia física y sexual en agravio de niños y adolescentes",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-lanza-campana-nacional-para-la-prevencion-de-la-violencia-fisica-y-sexual-en-agravio-de-ninos-y-adolescentes/",
           "fecha": "2026-10-29T00:00:00",
@@ -3548,18 +3549,11 @@
           "fecha": "2026-10-16T00:00:00",
           "tipo_seccion": "pronunciamientos",
           "es_pdf": true
-        },
-        {
-          "titulo": "Comunicado n.° 062/DP/2026",
-          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-062-2026.pdf",
-          "fecha": "2026-10-05T00:00:00",
-          "tipo_seccion": "pronunciamientos",
-          "es_pdf": true
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928293"
+      "timestamp": "2026-11-04T15:10:31.789867"
     },
     {
       "pais": "Uruguay",
@@ -3584,6 +3578,13 @@
         }
       ],
       "todos_items": [
+        {
+          "titulo": "Diálogo técnico buscó analizar el derecho al cuidado en la negociación colectiva",
+          "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/dialogo-tecnico-busco-analizar-derecho-cuidado-negociacion-colectiva",
+          "fecha": "2026-10-30T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
         {
           "titulo": "La INDDHH entregó más de 800 materiales didácticos para fomentar los derechos de infancias y adolescencias",
           "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-entrego-800-materiales-didacticos-para-fomentar-derechos-infancias",
@@ -3644,13 +3645,6 @@
           "titulo": "Jóvenes de Artigas tomaron la palabra sobre derechos humanos y discapacidad",
           "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/jovenes-artigas-tomaron-palabra-sobre-derechos-humanos-discapacidad",
           "fecha": "2026-10-01T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Funcionariado de la INDDHH se capacitó en estándares internacionales de Derechos Humanos, empresas y protección del ambi",
-          "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/funcionariado-inddhh-se-capacito-estandares-internacionales-derechos-humanos",
-          "fecha": "2026-09-30T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -3790,6 +3784,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Diálogo técnico buscó analizar el derecho al cuidado en la negociación colectiva",
+          "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/dialogo-tecnico-busco-analizar-derecho-cuidado-negociacion-colectiva",
+          "fecha": "2026-10-30T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "La INDDHH entregó más de 800 materiales didácticos para fomentar los derechos de infancias y adolescencias",
           "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-entrego-800-materiales-didacticos-para-fomentar-derechos-infancias",
           "fecha": "2026-10-29T00:00:00",
@@ -3877,7 +3878,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928303"
+      "timestamp": "2026-11-04T15:10:31.789876"
     },
     {
       "pais": "Venezuela",
@@ -3952,25 +3953,11 @@
           "fecha": "2026-10-14T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo y ACNUR fortalecen cooperación para ampliar capacidades de protección",
-          "url": "http://www.defensoria.gob.ve/?p=20822",
-          "fecha": "2026-10-05T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo impulsa junto al Sistema de Justicia y la ONU una reforma penal garantista y humana",
-          "url": "http://www.defensoria.gob.ve/?p=20816",
-          "fecha": "2026-10-05T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928310"
+      "timestamp": "2026-11-04T15:10:31.789884"
     },
     {
       "pais": "Guyana",
@@ -4049,7 +4036,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928317"
+      "timestamp": "2026-11-04T15:10:31.789891"
     },
     {
       "pais": "Costa Rica",
@@ -4083,7 +4070,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928333"
+      "timestamp": "2026-11-04T15:10:31.789901"
     },
     {
       "pais": "El Salvador",
@@ -4371,7 +4358,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928351"
+      "timestamp": "2026-11-04T15:10:31.789910"
     },
     {
       "pais": "Guatemala",
@@ -4405,7 +4392,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928366"
+      "timestamp": "2026-11-04T15:10:31.789918"
     },
     {
       "pais": "Honduras",
@@ -4433,7 +4420,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928375"
+      "timestamp": "2026-11-04T15:10:31.789927"
     },
     {
       "pais": "México",
@@ -4497,7 +4484,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928382"
+      "timestamp": "2026-11-04T15:10:31.789935"
     },
     {
       "pais": "Nicaragua",
@@ -4661,7 +4648,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928390"
+      "timestamp": "2026-11-04T15:10:31.789941"
     },
     {
       "pais": "Panamá",
@@ -4810,7 +4797,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928397"
+      "timestamp": "2026-11-04T15:10:31.789949"
     },
     {
       "pais": "Belice",
@@ -4831,7 +4818,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928406"
+      "timestamp": "2026-11-04T15:10:31.789956"
     },
     {
       "pais": "República Dominicana",
@@ -4850,6 +4837,13 @@
         }
       ],
       "todos_items": [
+        {
+          "titulo": "Defensor del Pueblo celebra «Creciendo con Integridad» para promover valores institucionales",
+          "url": "https://defensordelpueblo.gob.do/2026/11/03/defensor-del-pueblo-celebra-creciendo-con-integridad-para-promover-valores-institucionales/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
         {
           "titulo": "Defensor del Pueblo entre entidades públicas que lideran apertura institucional en RD",
           "url": "https://defensordelpueblo.gob.do/2026/10/21/defensor-del-pueblo-entre-entidades-publicas-que-lideran-apertura-institucional-en-rd/",
@@ -4926,16 +4920,16 @@
           "fecha": "2026-07-27T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Defensor del Pueblo exhorta a la Policía Nacional a asumir reforma institucional",
-          "url": "https://defensordelpueblo.gob.do/2026/07/22/defensor-del-pueblo-exhorta-a-la-policia-nacional-a-asumir-reforma-institucional/",
-          "fecha": "2026-07-22T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_en_periodo": [
+        {
+          "titulo": "Defensor del Pueblo celebra «Creciendo con Integridad» para promover valores institucionales",
+          "url": "https://defensordelpueblo.gob.do/2026/11/03/defensor-del-pueblo-celebra-creciendo-con-integridad-para-promover-valores-institucionales/",
+          "fecha": "2026-11-03T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
         {
           "titulo": "Defensor del Pueblo entre entidades públicas que lideran apertura institucional en RD",
           "url": "https://defensordelpueblo.gob.do/2026/10/21/defensor-del-pueblo-entre-entidades-publicas-que-lideran-apertura-institucional-en-rd/",
@@ -4960,7 +4954,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928413"
+      "timestamp": "2026-11-04T15:10:31.789967"
     },
     {
       "pais": "República Dominicana",
@@ -4981,7 +4975,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928421"
+      "timestamp": "2026-11-04T15:10:31.789977"
     },
     {
       "pais": "Jamaica",
@@ -5001,15 +4995,15 @@
         {
           "url": "https://opd.gov.jm/articles/news-release",
           "tipo": "press_release",
-          "ok": false,
-          "items": 0
+          "ok": true,
+          "items": 8
         }
       ],
       "todos_items": [
         {
           "titulo": "Main navigation",
           "url": "https://opd.gov.jm/",
-          "fecha": null,
+          "fecha": "2026-01-31T00:00:00",
           "tipo_seccion": "news",
           "es_pdf": false
         },
@@ -5023,7 +5017,7 @@
         {
           "titulo": "Citizen Support",
           "url": "https://opd.gov.jm/news",
-          "fecha": null,
+          "fecha": "2026-01-31T00:00:00",
           "tipo_seccion": "news",
           "es_pdf": false
         },
@@ -5037,7 +5031,7 @@
         {
           "titulo": "Office of the Public Defender 25th Anniversary -…",
           "url": "https://opd.gov.jm/news/office-public-defender-25th-anniversary-2025",
-          "fecha": null,
+          "fecha": "2026-01-31T00:00:00",
           "tipo_seccion": "news",
           "es_pdf": false
         },
@@ -5054,34 +5048,20 @@
           "fecha": null,
           "tipo_seccion": "news",
           "es_pdf": false
+        },
+        {
+          "titulo": "Get Involved",
+          "url": "https://opd.gov.jm/articles/news-release",
+          "fecha": "2026-01-31T00:00:00",
+          "tipo_seccion": "press_release",
+          "es_pdf": false
         }
       ],
       "items_en_periodo": [],
       "items_sin_fecha": [
         {
-          "titulo": "Main navigation",
-          "url": "https://opd.gov.jm/",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
           "titulo": "Information",
           "url": "https://opd.gov.jm/publications-and-reports",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Citizen Support",
-          "url": "https://opd.gov.jm/news",
-          "fecha": null,
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Office of the Public Defender 25th Anniversary -…",
-          "url": "https://opd.gov.jm/news/office-public-defender-25th-anniversary-2025",
           "fecha": null,
           "tipo_seccion": "news",
           "es_pdf": false
@@ -5102,7 +5082,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928433"
+      "timestamp": "2026-11-04T15:10:31.789984"
     },
     {
       "pais": "Trinidad y Tobago",
@@ -5130,7 +5110,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928443"
+      "timestamp": "2026-11-04T15:10:31.789993"
     },
     {
       "pais": "Curaçao",
@@ -5215,7 +5195,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928468"
+      "timestamp": "2026-11-04T15:10:31.790000"
     },
     {
       "pais": "Haití",
@@ -5243,7 +5223,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928485"
+      "timestamp": "2026-11-04T15:10:31.790007"
     },
     {
       "pais": "Canadá",
@@ -5258,14 +5238,171 @@
           "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom",
           "tipo": "newsroom",
           "ok": true,
-          "items": 0
+          "items": 15
         }
       ],
-      "todos_items": [],
-      "items_en_periodo": [],
-      "items_sin_fecha": [],
+      "todos_items": [
+        {
+          "titulo": "Filter these results.Search by key word or choose from the filter options below to narrow the results.",
+          "url": "",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Canada’s next housing strategy starts with Budget 2026",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/canadas-next-housing-strategy-starts-budget-2026",
+          "fecha": "2026-10-21T00:00:00",
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Statement – Reconciliation means confronting hate",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/statement-reconciliation-means-confronting-hate",
+          "fecha": "2026-09-29T00:00:00",
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "We must confront antisemitism in Canada",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/we-must-confront-antisemitism-canada",
+          "fecha": "2026-09-25T00:00:00",
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Pay equity builds a stronger Canada",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/pay-equity-builds-stronger-canada",
+          "fecha": "2026-09-18T00:00:00",
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "New report calls for improved emergency responses for First Nations",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/new-report-calls-improved-emergency-responses-first-nations",
+          "fecha": "2026-08-24T00:00:00",
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "A strong and democratic Canada depends on human rights",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/strong-and-democratic-canada-depends-human-rights",
+          "fecha": "2026-06-29T00:00:00",
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Sharing the journey to reconciliation",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/sharing-journey-reconciliation",
+          "fecha": "2026-06-19T00:00:00",
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Advancing pay equity by making Canada stronger and more inclusive",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/advancing-pay-equity-making-canada-stronger-and-more-inclusive",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Building Canada strong means building barrier-free",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/building-canada-strong-means-building-barrier-free",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Statement - Artificial intelligence should benefit everyone",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/statement-artificial-intelligence-should-benefit-everyone",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Newsroom",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Resources",
+          "url": "https://www.chrc-ccdp.gc.ca/resources",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Stay connected",
+          "url": "https://www.chrc-ccdp.gc.ca/contact-the-commission",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        }
+      ],
+      "items_en_periodo": [
+        {
+          "titulo": "Canada’s next housing strategy starts with Budget 2026",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/canadas-next-housing-strategy-starts-budget-2026",
+          "fecha": "2026-10-21T00:00:00",
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        }
+      ],
+      "items_sin_fecha": [
+        {
+          "titulo": "Filter these results.Search by key word or choose from the filter options below to narrow the results.",
+          "url": "",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Advancing pay equity by making Canada stronger and more inclusive",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/advancing-pay-equity-making-canada-stronger-and-more-inclusive",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Building Canada strong means building barrier-free",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/building-canada-strong-means-building-barrier-free",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Statement - Artificial intelligence should benefit everyone",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/statement-artificial-intelligence-should-benefit-everyone",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Newsroom",
+          "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Resources",
+          "url": "https://www.chrc-ccdp.gc.ca/resources",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Stay connected",
+          "url": "https://www.chrc-ccdp.gc.ca/contact-the-commission",
+          "fecha": null,
+          "tipo_seccion": "newsroom",
+          "es_pdf": false
+        }
+      ],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928493"
+      "timestamp": "2026-11-04T15:10:31.790014"
     },
     {
       "pais": "Canadá",
@@ -5408,7 +5545,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928502"
+      "timestamp": "2026-11-04T15:10:31.790046"
     },
     {
       "pais": "Canadá",
@@ -5662,7 +5799,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928509"
+      "timestamp": "2026-11-04T15:10:31.790069"
     },
     {
       "pais": "Canadá",
@@ -5754,7 +5891,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928519"
+      "timestamp": "2026-11-04T15:10:31.790079"
     },
     {
       "pais": "Canadá",
@@ -5768,14 +5905,163 @@
           "url": "https://www.ombudsman.ab.ca/news/",
           "tipo": "news",
           "ok": true,
-          "items": 0
+          "items": 20
         }
       ],
-      "todos_items": [],
-      "items_en_periodo": [],
+      "todos_items": [
+        {
+          "titulo": "Ombuds Day 2026 – Know Your Options!",
+          "url": "https://www.ombudsman.ab.ca/ombuds-day-2026-know-your-options/",
+          "fecha": "2026-10-08T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Alberta Ombudsman Releases the 2025-2026 Annual Report, Detailing Another Record-Breaking Year of Complaints",
+          "url": "https://www.ombudsman.ab.ca/alberta-ombudsman-releases-the-2025-2026-annual-report-detailing-another-record-breaking-year-of-complaints/",
+          "fecha": "2026-09-01T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Community Conversations This Month",
+          "url": "https://www.ombudsman.ab.ca/community-conversations-this-month/",
+          "fecha": "2026-02-23T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Outreach and Engagement with Alberta Municipalities",
+          "url": "https://www.ombudsman.ab.ca/outreach-and-engagements-with-municipalities/",
+          "fecha": "2025-12-02T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Ombuds Day 2025 Empowers Voices",
+          "url": "https://www.ombudsman.ab.ca/ombuds-day-2025-empowers-voices/",
+          "fecha": "2025-10-09T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Alberta Ombudsman 2024−2025 Annual Report Reveals Record Number of Complaints",
+          "url": "https://www.ombudsman.ab.ca/2024-2025-report-reveals-record-number-of-complaints/",
+          "fecha": "2025-09-09T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Canadian Council of Parliamentary Ombudsman Endorses Key Principles to Strengthen Oversight and Public Trust",
+          "url": "https://www.ombudsman.ab.ca/ccpo-endorses-key-principles/",
+          "fecha": "2025-06-18T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Alberta Ombudsman Meets with Business Ombudsman of Ukraine",
+          "url": "https://www.ombudsman.ab.ca/the-ombudsman-visits-business-ombudsman-of-ukraine/",
+          "fecha": "2025-05-22T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Try Our New Complaint Checker!",
+          "url": "https://www.ombudsman.ab.ca/complaint-checker-launch/",
+          "fecha": "2025-05-08T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "The Ombudsman’s Office Visits Westlock for Community Engagement",
+          "url": "https://www.ombudsman.ab.ca/ombudsmans-office-visits_westlock/",
+          "fecha": "2025-05-07T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Raising Awareness and Engagement in Calgary",
+          "url": "https://www.ombudsman.ab.ca/raising-awareness-and-engagement-in-calgary/",
+          "fecha": "2025-02-24T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Celebrating Ombuds Day: Here to Hear You",
+          "url": "https://www.ombudsman.ab.ca/celebrating-ombuds-day-here-to-hear-you/",
+          "fecha": "2024-10-10T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Forging Connections in Red Deer",
+          "url": "https://www.ombudsman.ab.ca/forging-connections-in-red-deer/",
+          "fecha": "2024-10-04T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Recognizing the Importance of National Day for Truth and Reconciliation",
+          "url": "https://www.ombudsman.ab.ca/recognizing-the-importance-of-national-day-for-truth-and-reconciliation/",
+          "fecha": "2024-09-30T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Ombudsman’s Annual Report Promotes Fair Access for Albertans",
+          "url": "https://www.ombudsman.ab.ca/alberta-ombudsman-reports-promotes-fair-access-for-albertans/",
+          "fecha": "2024-09-12T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Complaints to the Ombudsman Reveal Systemic Issues",
+          "url": "https://www.ombudsman.ab.ca/alberta-ombudsman-releases-an-investigation-report-into-aahb-and-achb-programs/",
+          "fecha": "2024-07-17T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Alberta Ombudsman Releases an Investigation Report into PDD Program",
+          "url": "https://www.ombudsman.ab.ca/alberta-ombudsman-investigation-into-pdd/",
+          "fecha": "2024-05-07T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Bridging the Gap and Forging Connections",
+          "url": "https://www.ombudsman.ab.ca/bridging-the-gap-and-forging-connections/",
+          "fecha": "2024-01-30T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Alberta Ombudsman Reports on Year’s Top Cases",
+          "url": "https://www.ombudsman.ab.ca/alberta-ombudsman-reports-on-years-top-cases/",
+          "fecha": "2023-10-31T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Enhancing Fairness and Transparency: An Investigation into Alberta’s Criminal Code Review Board",
+          "url": "https://www.ombudsman.ab.ca/investigation-into-albertas-criminal-code-review-board/",
+          "fecha": "2023-10-18T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        }
+      ],
+      "items_en_periodo": [
+        {
+          "titulo": "Ombuds Day 2026 – Know Your Options!",
+          "url": "https://www.ombudsman.ab.ca/ombuds-day-2026-know-your-options/",
+          "fecha": "2026-10-08T00:00:00",
+          "tipo_seccion": "news",
+          "es_pdf": false
+        }
+      ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928529"
+      "timestamp": "2026-11-04T15:10:31.790102"
     },
     {
       "pais": "Canadá",
@@ -5796,7 +6082,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928536"
+      "timestamp": "2026-11-04T15:10:31.790110"
     },
     {
       "pais": "Canadá",
@@ -5817,7 +6103,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928545"
+      "timestamp": "2026-11-04T15:10:31.790119"
     },
     {
       "pais": "Canadá",
@@ -5881,7 +6167,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928554"
+      "timestamp": "2026-11-04T15:10:31.790126"
     },
     {
       "pais": "Canadá",
@@ -5931,7 +6217,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928562"
+      "timestamp": "2026-11-04T15:10:31.790133"
     },
     {
       "pais": "Regional",
@@ -5952,7 +6238,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928577"
+      "timestamp": "2026-11-04T15:10:31.790140"
     },
     {
       "pais": "Regional",
@@ -6116,7 +6402,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928595"
+      "timestamp": "2026-11-04T15:10:31.790147"
     },
     {
       "pais": "Regional",
@@ -6186,7 +6472,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928610"
+      "timestamp": "2026-11-04T15:10:31.790154"
     },
     {
       "pais": "Regional",
@@ -6405,7 +6691,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928618"
+      "timestamp": "2026-11-04T15:10:31.790163"
     },
     {
       "pais": "Regional",
@@ -6432,7 +6718,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-03T14:52:37.928633"
+      "timestamp": "2026-11-04T15:10:31.790173"
     }
   ]
 }
