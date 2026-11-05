@@ -4,10 +4,46 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "urn:defensorias:-7906740326409129981",
+      "id": "https://www.indh.cl/indh-arica-seminario-gendarmeria-nuevos-protocolos/",
+      "url": "https://www.indh.cl/indh-arica-seminario-gendarmeria-nuevos-protocolos/",
+      "title": "Jefe de INDH de Arica y Parinacota expuso en seminario que organizó Gendarmería para difundir los nuevos protocolos que regulan el uso de la fuerza en cárceles",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-11-05T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-antofagasta-tercera-escuela-formacion/",
+      "url": "https://www.indh.cl/indh-antofagasta-tercera-escuela-formacion/",
+      "title": "INDH Antofagasta finalizó la tercera versión de su Escuela de Formación en Derechos Humanos: 120 dirigentas y dirigentes sociales han sido parte de la iniciativa",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-11-05T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:3904789171835991042",
       "url": "",
       "title": "Defensoría de la Niñez buscará revertir inadmisibilidad de amparo ante ...",
       "summary": "Defensoría de la Niñez (Chile)",
+      "date_published": "2026-11-04T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/director-indh-advierte-eliminaria-proteccion/",
+      "url": "https://www.indh.cl/director-indh-advierte-eliminaria-proteccion/",
+      "title": "No solo elimina querellas: Director del INDH advierte que informe financiero de la reforma eliminaría a todos los equipos de protección de derechos",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
       "date_published": "2026-11-04T00:00:00",
       "tags": [
         "Chile",
@@ -52,7 +88,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1377659862951105560",
+      "id": "urn:defensorias:1145449601689478540",
       "url": "",
       "title": "Defensoría de la Niñez y UNICEF impulsan mecanismo de monitoreo ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -88,7 +124,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7436289352441723793",
+      "id": "urn:defensorias:-504106656040776768",
       "url": "",
       "title": "Defensoría de la Niñez presenta recurso de amparo para dejar ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -100,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3355333356987024882",
+      "id": "urn:defensorias:2844635912491711219",
       "url": "",
       "title": "T13 Radio | Entrevista al Defensor de la Niñez por...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -112,22 +148,10 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6868825199678520612",
+      "id": "urn:defensorias:-7411980740405470108",
       "url": "",
       "title": "Defensor de la Niñez expone ante la CIDH graves brechas ...",
       "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-10-28T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-director-seminario-xenofobia-discriminacion/",
-      "url": "https://www.indh.cl/indh-director-seminario-xenofobia-discriminacion/",
-      "title": "Director del INDH expuso en seminario sobre xenofobia y discriminación organizado junto con la Universidad Diego Portales y el Alto Comisionado de Naciones Unidas",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
       "date_published": "2026-10-28T00:00:00",
       "tags": [
         "Chile",
@@ -144,11 +168,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:-5115905834348613331",
+      "id": "urn:defensorias:-2610449733132335869",
       "url": "",
       "title": "Biobio.cl | Defensor de Niñez denuncia ante CIDH suspensión de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -168,7 +192,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -184,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:9084813447395803682",
+      "id": "urn:defensorias:3226819459175508809",
       "url": "",
       "title": "T13 | Entrevista al Defensor de la Niñez: rebajas de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3820339265741270044",
+      "id": "urn:defensorias:-8456645667362553092",
       "url": "",
       "title": "La Tercera | Columna de opinión, por el Defensor de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:217705959670238804",
+      "id": "urn:defensorias:-6435041717695238888",
       "url": "",
       "title": "24 Horas | «Revictimizante»: el Defensor de la Niñez lamenta...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-688467357867017521",
+      "id": "urn:defensorias:2748765923049680101",
       "url": "",
       "title": "Radio ADN | Entrevista al Defensor de la Niñez, sobre...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1497999610332406118",
+      "id": "urn:defensorias:-1432664304845183140",
       "url": "",
       "title": "Radio U. de Chile | Defensor de la Niñez: «Bajo...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1818537539737556363",
+      "id": "urn:defensorias:66151742946910671",
       "url": "",
       "title": "Defensoría de la Niñez rechaza el otorgamiento de beneficios a ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9104880691013318619",
+      "id": "urn:defensorias:8887552650671708752",
       "url": "",
       "title": "Radio biobio | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -280,7 +304,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4903978593892533647",
+      "id": "urn:defensorias:5805096308917368257",
       "url": "",
       "title": "Defensor de la Niñez aborda desafíos de protección y participación ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -292,7 +316,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6534540848777998129",
+      "id": "urn:defensorias:-8662834603617841843",
       "url": "",
       "title": "Defensoría de la Niñez advierte que más de la mitad ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -304,7 +328,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2522845003582948274",
+      "id": "urn:defensorias:-4538761328276344347",
       "url": "",
       "title": "A siete años del estallido social: Defensoría de la Niñez ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -313,42 +337,6 @@
         "Chile",
         "Sudamérica",
         "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-los-lagos-feria-derechos-humanos-2026/",
-      "url": "https://www.indh.cl/indh-los-lagos-feria-derechos-humanos-2026/",
-      "title": "Sede de Los Lagos realizó IV Feria de los Derechos Humanos 2026: más de 3 mil estudiantes han participado desde su primera versión",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-10-16T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-valparaiso-artequin-concurso/",
-      "url": "https://www.indh.cl/indh-valparaiso-artequin-concurso/",
-      "title": "INDH Valparaíso y Artequin Viña del Mar abrieron postulaciones para que niñas y niños participen del concurso “Jugar es un derecho”",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-10-14T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-3220235021479454090",
-      "url": "",
-      "title": "Radio Universo | Entrevista al Defensor de la Niñez, Anuar...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-10-06T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "prensa"
       ]
     }
   ]

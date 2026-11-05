@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Chile</title>
   <id>urn:defensorias-americas:prensa:chile</id>
-  <updated>2026-11-04T15:11:33Z</updated>
+  <updated>2026-11-05T15:13:29Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
+    <title>Jefe de INDH de Arica y Parinacota expuso en seminario que organizó Gendarmería para difundir los nuevos protocolos que regulan el uso de la fuerza en cárceles</title>
+    <id>https://www.indh.cl/indh-arica-seminario-gendarmeria-nuevos-protocolos/</id>
+    <link href="https://www.indh.cl/indh-arica-seminario-gendarmeria-nuevos-protocolos/" />
+    <updated>2026-11-05T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>INDH Antofagasta finalizó la tercera versión de su Escuela de Formación en Derechos Humanos: 120 dirigentas y dirigentes sociales han sido parte de la iniciativa</title>
+    <id>https://www.indh.cl/indh-antofagasta-tercera-escuela-formacion/</id>
+    <link href="https://www.indh.cl/indh-antofagasta-tercera-escuela-formacion/" />
+    <updated>2026-11-05T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+  </entry>
+  <entry>
     <title>Defensoría de la Niñez buscará revertir inadmisibilidad de amparo ante ...</title>
-    <id>urn:defensorias-americas:-7906740326409129981</id>
+    <id>urn:defensorias-americas:3904789171835991042</id>
     <updated>2026-11-04T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
+  </entry>
+  <entry>
+    <title>No solo elimina querellas: Director del INDH advierte que informe financiero de la reforma eliminaría a todos los equipos de protección de derechos</title>
+    <id>https://www.indh.cl/director-indh-advierte-eliminaria-proteccion/</id>
+    <link href="https://www.indh.cl/director-indh-advierte-eliminaria-proteccion/" />
+    <updated>2026-11-04T00:00:00</updated>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>La sede regional del INDH Aysén expuso en jornadas de capacitación de Carabineros en Coyhaique y Chile Chico</title>
@@ -34,7 +55,7 @@
   </entry>
   <entry>
     <title>Defensoría de la Niñez y UNICEF impulsan mecanismo de monitoreo ...</title>
-    <id>urn:defensorias-americas:-1377659862951105560</id>
+    <id>urn:defensorias-americas:1145449601689478540</id>
     <updated>2026-11-02T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
@@ -54,39 +75,32 @@
   </entry>
   <entry>
     <title>Defensoría de la Niñez presenta recurso de amparo para dejar ...</title>
-    <id>urn:defensorias-americas:7436289352441723793</id>
+    <id>urn:defensorias-americas:-504106656040776768</id>
     <updated>2026-10-30T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>T13 Radio | Entrevista al Defensor de la Niñez por...</title>
-    <id>urn:defensorias-americas:3355333356987024882</id>
+    <id>urn:defensorias-americas:2844635912491711219</id>
     <updated>2026-10-29T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Defensor de la Niñez expone ante la CIDH graves brechas ...</title>
-    <id>urn:defensorias-americas:-6868825199678520612</id>
+    <id>urn:defensorias-americas:-7411980740405470108</id>
     <updated>2026-10-28T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Director del INDH expuso en seminario sobre xenofobia y discriminación organizado junto con la Universidad Diego Portales y el Alto Comisionado de Naciones Unidas</title>
-    <id>https://www.indh.cl/indh-director-seminario-xenofobia-discriminacion/</id>
-    <link href="https://www.indh.cl/indh-director-seminario-xenofobia-discriminacion/" />
-    <updated>2026-10-28T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>INDH de Los Lagos realizó encuentros en universidades para relevar la importancia del acceso oportuno a salud mental</title>
     <id>https://www.indh.cl/indh-los-lagos-encuentros-salud-mental/</id>
     <link href="https://www.indh.cl/indh-los-lagos-encuentros-salud-mental/" />
     <updated>2026-10-28T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>Biobio.cl | Defensor de Niñez denuncia ante CIDH suspensión de...</title>
-    <id>urn:defensorias-americas:-5115905834348613331</id>
+    <id>urn:defensorias-americas:-2610449733132335869</id>
     <updated>2026-10-27T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -95,7 +109,7 @@
     <id>https://www.indh.cl/antofagasta-sobrepoblacion-carceles-indh/</id>
     <link href="https://www.indh.cl/antofagasta-sobrepoblacion-carceles-indh/" />
     <updated>2026-10-27T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias</summary>
+    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
   </entry>
   <entry>
     <title>INDH de Los Ríos realizó foro en el Festival Internacional de Cine de Valdivia que abordó la importancia del cuidado del medioambiente</title>
@@ -106,43 +120,43 @@
   </entry>
   <entry>
     <title>T13 | Entrevista al Defensor de la Niñez: rebajas de...</title>
-    <id>urn:defensorias-americas:9084813447395803682</id>
+    <id>urn:defensorias-americas:3226819459175508809</id>
     <updated>2026-10-23T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>La Tercera | Columna de opinión, por el Defensor de...</title>
-    <id>urn:defensorias-americas:3820339265741270044</id>
+    <id>urn:defensorias-americas:-8456645667362553092</id>
     <updated>2026-10-23T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>24 Horas | «Revictimizante»: el Defensor de la Niñez lamenta...</title>
-    <id>urn:defensorias-americas:217705959670238804</id>
+    <id>urn:defensorias-americas:-6435041717695238888</id>
     <updated>2026-10-23T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio ADN | Entrevista al Defensor de la Niñez, sobre...</title>
-    <id>urn:defensorias-americas:-688467357867017521</id>
+    <id>urn:defensorias-americas:2748765923049680101</id>
     <updated>2026-10-23T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Radio U. de Chile | Defensor de la Niñez: «Bajo...</title>
-    <id>urn:defensorias-americas:-1497999610332406118</id>
+    <id>urn:defensorias-americas:-1432664304845183140</id>
     <updated>2026-10-22T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
   <entry>
     <title>Defensoría de la Niñez rechaza el otorgamiento de beneficios a ...</title>
-    <id>urn:defensorias-americas:-1818537539737556363</id>
+    <id>urn:defensorias-americas:66151742946910671</id>
     <updated>2026-10-21T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>Radio biobio | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:-9104880691013318619</id>
+    <id>urn:defensorias-americas:8887552650671708752</id>
     <updated>2026-10-21T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
@@ -155,40 +169,20 @@
   </entry>
   <entry>
     <title>Defensor de la Niñez aborda desafíos de protección y participación ...</title>
-    <id>urn:defensorias-americas:-4903978593892533647</id>
+    <id>urn:defensorias-americas:5805096308917368257</id>
     <updated>2026-10-20T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>Defensoría de la Niñez advierte que más de la mitad ...</title>
-    <id>urn:defensorias-americas:6534540848777998129</id>
+    <id>urn:defensorias-americas:-8662834603617841843</id>
     <updated>2026-10-20T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
   </entry>
   <entry>
     <title>A siete años del estallido social: Defensoría de la Niñez ...</title>
-    <id>urn:defensorias-americas:2522845003582948274</id>
+    <id>urn:defensorias-americas:-4538761328276344347</id>
     <updated>2026-10-16T00:00:00</updated>
     <summary>Defensoría de la Niñez (Chile) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Sede de Los Lagos realizó IV Feria de los Derechos Humanos 2026: más de 3 mil estudiantes han participado desde su primera versión</title>
-    <id>https://www.indh.cl/indh-los-lagos-feria-derechos-humanos-2026/</id>
-    <link href="https://www.indh.cl/indh-los-lagos-feria-derechos-humanos-2026/" />
-    <updated>2026-10-16T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
-    <title>INDH Valparaíso y Artequin Viña del Mar abrieron postulaciones para que niñas y niños participen del concurso “Jugar es un derecho”</title>
-    <id>https://www.indh.cl/indh-valparaiso-artequin-concurso/</id>
-    <link href="https://www.indh.cl/indh-valparaiso-artequin-concurso/" />
-    <updated>2026-10-14T00:00:00</updated>
-    <summary>Instituto Nacional de Derechos Humanos (INDH) (Chile) — noticias_regionales</summary>
-  </entry>
-  <entry>
-    <title>Radio Universo | Entrevista al Defensor de la Niñez, Anuar...</title>
-    <id>urn:defensorias-americas:-3220235021479454090</id>
-    <updated>2026-10-06T00:00:00</updated>
-    <summary>Defensoría de la Niñez (Chile) — prensa</summary>
   </entry>
 </feed>
