@@ -1,6 +1,6 @@
 {
   "dias": 30,
-  "timestamp": "20261107_1346",
+  "timestamp": "20261108_1407",
   "instituciones": [
     {
       "pais": "Argentina",
@@ -52,18 +52,10 @@
           "es_pdf": false
         }
       ],
-      "items_en_periodo": [
-        {
-          "titulo": "SE FIRMÓ UN CONVENIO ENTRE EL MPD Y LA ASOCIACIÓN ARGENTINA DE JUICIO POR JURADOS",
-          "url": "https://www.mpd.gov.ar/index.php/noticias-h/se-firmo-un-convenio-entre-el-mpd-y-la-asociacion-argentina-de-juicio-por-jurados",
-          "fecha": "2026-10-09T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        }
-      ],
+      "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.675775"
+      "timestamp": "2026-11-08T14:06:23.489235"
     },
     {
       "pais": "Argentina",
@@ -91,7 +83,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.694859"
+      "timestamp": "2026-11-08T14:06:23.493423"
     },
     {
       "pais": "Argentina",
@@ -112,7 +104,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.695433"
+      "timestamp": "2026-11-08T14:06:23.493954"
     },
     {
       "pais": "Bolivia",
@@ -144,6 +136,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "FIO: DEFENSOR DEL PUEBLO DESTACA COOPERACIÓN REGIONAL Y ALERTA TEMPRANA PARA PROTEGER LA INDEPENDENCIA DE LAS DEFENSORÍAS",
+          "url": "https://www.defensoria.gob.bo/noticias/fiodefensor-del-pueblo-destaca-cooperacion-regional-y-alerta-temprana-para-proteger-la-independencia-de-las-defensorias",
+          "fecha": "2026-11-07T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "DEFENSORÍA DEL PUEBLO ARTICULA CON UNIVIDA PROPUESTA DE SEGURO PARA PERIODISTAS Y TRABAJADORES DE LA PRENSA",
           "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-articula-con-univida-propuesta-de-seguro-para-periodistas-y-trabajadores-de-la-prensa",
           "fecha": "2026-11-06T00:00:00",
@@ -202,13 +201,6 @@
         {
           "titulo": "Campaña “¿Quién paga la cuenta?”: Defensor del Pueblo destaca iniciativa para promover la prevención de la violencia",
           "url": "https://www.defensoria.gob.bo/noticias/campanya-quien-paga-la-cuenta-%E2%80%9Ddefensor-del-pueblo-destaca-iniciativa-para-promover-la-prevencion-de-la-violencia",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "DEFENSOR DEL PUEBLO PIDE AL TCP ANULAR BARRERAS DE INGRESO AL COLEGIO MILITAR POR VULNERAR DERECHOS",
-          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-pide-al-tcp-anular-barreras-de-ingreso-al-colegio-militar-por-vulnerar-derechos",
           "fecha": "2026-10-30T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -216,6 +208,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "FIO: DEFENSOR DEL PUEBLO DESTACA COOPERACIÓN REGIONAL Y ALERTA TEMPRANA PARA PROTEGER LA INDEPENDENCIA DE LAS DEFENSORÍAS",
+          "url": "https://www.defensoria.gob.bo/noticias/fiodefensor-del-pueblo-destaca-cooperacion-regional-y-alerta-temprana-para-proteger-la-independencia-de-las-defensorias",
+          "fecha": "2026-11-07T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "DEFENSORÍA DEL PUEBLO ARTICULA CON UNIVIDA PROPUESTA DE SEGURO PARA PERIODISTAS Y TRABAJADORES DE LA PRENSA",
           "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-articula-con-univida-propuesta-de-seguro-para-periodistas-y-trabajadores-de-la-prensa",
           "fecha": "2026-11-06T00:00:00",
@@ -277,18 +276,11 @@
           "fecha": "2026-10-30T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "DEFENSOR DEL PUEBLO PIDE AL TCP ANULAR BARRERAS DE INGRESO AL COLEGIO MILITAR POR VULNERAR DERECHOS",
-          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-pide-al-tcp-anular-barreras-de-ingreso-al-colegio-militar-por-vulnerar-derechos",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.696039"
+      "timestamp": "2026-11-08T14:06:23.494499"
     },
     {
       "pais": "Brasil",
@@ -513,7 +505,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.696360"
+      "timestamp": "2026-11-08T14:06:23.495347"
     },
     {
       "pais": "Brasil",
@@ -816,7 +808,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.697359"
+      "timestamp": "2026-11-08T14:06:23.495854"
     },
     {
       "pais": "Brasil",
@@ -837,7 +829,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.697755"
+      "timestamp": "2026-11-08T14:06:23.496995"
     },
     {
       "pais": "Brasil",
@@ -971,7 +963,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698256"
+      "timestamp": "2026-11-08T14:06:23.497543"
     },
     {
       "pais": "Brasil",
@@ -1134,7 +1126,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698578"
+      "timestamp": "2026-11-08T14:06:23.498022"
     },
     {
       "pais": "Brasil",
@@ -1325,7 +1317,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698614"
+      "timestamp": "2026-11-08T14:06:23.498043"
     },
     {
       "pais": "Brasil",
@@ -1344,6 +1336,41 @@
       ],
       "todos_items": [
         {
+          "titulo": "Defensoria orienta Ronda Maria da Penha sobre atendimento a mulheres vítimas de violência",
+          "url": "https://defensoria.am.def.br/2026/11/07/defensoria-orienta-policiais-da-ronda-maria-da-penha-sobre-atendimento-a-mulheres-em-situacao-de-violencia-no-interior/",
+          "fecha": "2026-11-07T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Campanha Meu Pai Tem Nome alcança famílias do interior com exames de DNA gratuitos",
+          "url": "https://defensoria.am.def.br/2026/11/07/campanha-meu-pai-tem-nome-da-defensoria-publica-do-amazonas-alcanca-familias-do-interior-com-exames-de-dna-gratuitos/",
+          "fecha": "2026-11-07T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "‘A família não acaba’: projeto da Defensoria discute criação dos filhos após separação",
+          "url": "https://defensoria.am.def.br/2026/11/07/a-familia-nao-acaba-pais-refletem-sobre-criacao-dos-filhos-apos-a-separacao-em-projeto-da-defensoria/",
+          "fecha": "2026-11-07T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Atrasos e interrupções no tratamento oncológico mobilizam atuação da Defensoria",
+          "url": "https://defensoria.am.def.br/2026/11/06/atrasos-e-interrupcoes-no-tratamento-oncologico-mobilizam-atuacao-da-defensoria-no-amazonas/",
+          "fecha": "2026-11-06T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Após ação da Defensoria, Justiça determina bloqueio de R$ 5 milhões do Sinetram",
+          "url": "https://defensoria.am.def.br/2026/11/06/apos-acao-da-defensoria-justica-determina-bloqueio-de-r-5-milhoes-do-sinetram-por-descumprimento-de-ordem-sobre-passe-livre-estudantil-em-manaus/",
+          "fecha": "2026-11-06T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoria do Amazonas atua para garantir acesso a exames, cirurgias e tratamentos pelo SUS",
           "url": "https://defensoria.am.def.br/2026/11/05/defensoria-do-amazonas-atua-para-garantir-acesso-a-exames-cirurgias-e-tratamentos-pelo-sus/",
           "fecha": "2026-11-05T00:00:00",
@@ -1351,7 +1378,7 @@
           "es_pdf": false
         },
         {
-          "titulo": "Após desocupação no Santa Etelvina, Defensoria consegue acordo para acesso de famílias a programa habitacional",
+          "titulo": "Defensoria do Amazonas consegue acordo para acesso de famílias a programa habitacional",
           "url": "https://defensoria.am.def.br/2026/11/05/apos-desocupacao-no-santa-etelvina-defensoria-consegue-acordo-para-acesso-de-familias-a-programa-habitacional/",
           "fecha": "2026-11-05T00:00:00",
           "tipo_seccion": "noticias",
@@ -1445,47 +1472,47 @@
           "titulo": "Defensoria confirma vínculo entre pai e três filhos durante entrega de exames de DNA",
           "url": "https://defensoria.am.def.br/2026/10/31/defensoria-confirma-vinculo-entre-pai-e-tres-filhos-durante-entrega-de-exames-de-dna/",
           "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria divulga edital do 6º concurso para servidores que atuarão em 13 cidades do estado",
-          "url": "https://defensoria.am.def.br/2026/10/31/defensoria-do-amazonas-divulga-edital-do-6o-concurso-para-servidores-que-atuarao-em-13-cidades-do-estado/",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria pede na Justiça aluguel social para famílias removidas de terreno no bairro Santa Etelvina",
-          "url": "https://defensoria.am.def.br/2026/10/30/defensoria-pede-na-justica-aluguel-social-para-familias-removidas-de-terreno-no-bairro-santa-etelvina/",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Após denúncias da Defensoria, Comitê define medidas para melhorar assistência oncológica",
-          "url": "https://defensoria.am.def.br/2026/10/30/apos-denuncias-da-defensoria-comite-de-saude-define-medidas-para-melhorar-assistencia-oncologica-no-amazonas/",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Ação da Defensoria contra métodos da PF no Rio Madeira ganha apoio de senador",
-          "url": "https://defensoria.am.def.br/2026/10/29/acao-da-defensoria-que-questiona-metodos-da-pf-em-operacoes-contra-o-garimpo-no-rio-madeira-ganha-apoio-de-senador/",
-          "fecha": "2026-10-29T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria realiza ação itinerante para atender demandas de pacientes oncológicos",
-          "url": "https://defensoria.am.def.br/2026/10/29/defensoria-do-amazonas-realiza-acao-itinerante-para-atender-demandas-de-pacientes-oncologicos/",
-          "fecha": "2026-10-29T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         }
       ],
       "items_en_periodo": [
         {
+          "titulo": "Defensoria orienta Ronda Maria da Penha sobre atendimento a mulheres vítimas de violência",
+          "url": "https://defensoria.am.def.br/2026/11/07/defensoria-orienta-policiais-da-ronda-maria-da-penha-sobre-atendimento-a-mulheres-em-situacao-de-violencia-no-interior/",
+          "fecha": "2026-11-07T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Campanha Meu Pai Tem Nome alcança famílias do interior com exames de DNA gratuitos",
+          "url": "https://defensoria.am.def.br/2026/11/07/campanha-meu-pai-tem-nome-da-defensoria-publica-do-amazonas-alcanca-familias-do-interior-com-exames-de-dna-gratuitos/",
+          "fecha": "2026-11-07T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "‘A família não acaba’: projeto da Defensoria discute criação dos filhos após separação",
+          "url": "https://defensoria.am.def.br/2026/11/07/a-familia-nao-acaba-pais-refletem-sobre-criacao-dos-filhos-apos-a-separacao-em-projeto-da-defensoria/",
+          "fecha": "2026-11-07T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Atrasos e interrupções no tratamento oncológico mobilizam atuação da Defensoria",
+          "url": "https://defensoria.am.def.br/2026/11/06/atrasos-e-interrupcoes-no-tratamento-oncologico-mobilizam-atuacao-da-defensoria-no-amazonas/",
+          "fecha": "2026-11-06T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Após ação da Defensoria, Justiça determina bloqueio de R$ 5 milhões do Sinetram",
+          "url": "https://defensoria.am.def.br/2026/11/06/apos-acao-da-defensoria-justica-determina-bloqueio-de-r-5-milhoes-do-sinetram-por-descumprimento-de-ordem-sobre-passe-livre-estudantil-em-manaus/",
+          "fecha": "2026-11-06T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoria do Amazonas atua para garantir acesso a exames, cirurgias e tratamentos pelo SUS",
           "url": "https://defensoria.am.def.br/2026/11/05/defensoria-do-amazonas-atua-para-garantir-acesso-a-exames-cirurgias-e-tratamentos-pelo-sus/",
           "fecha": "2026-11-05T00:00:00",
@@ -1493,7 +1520,7 @@
           "es_pdf": false
         },
         {
-          "titulo": "Após desocupação no Santa Etelvina, Defensoria consegue acordo para acesso de famílias a programa habitacional",
+          "titulo": "Defensoria do Amazonas consegue acordo para acesso de famílias a programa habitacional",
           "url": "https://defensoria.am.def.br/2026/11/05/apos-desocupacao-no-santa-etelvina-defensoria-consegue-acordo-para-acesso-de-familias-a-programa-habitacional/",
           "fecha": "2026-11-05T00:00:00",
           "tipo_seccion": "noticias",
@@ -1589,46 +1616,11 @@
           "fecha": "2026-10-31T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria divulga edital do 6º concurso para servidores que atuarão em 13 cidades do estado",
-          "url": "https://defensoria.am.def.br/2026/10/31/defensoria-do-amazonas-divulga-edital-do-6o-concurso-para-servidores-que-atuarao-em-13-cidades-do-estado/",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria pede na Justiça aluguel social para famílias removidas de terreno no bairro Santa Etelvina",
-          "url": "https://defensoria.am.def.br/2026/10/30/defensoria-pede-na-justica-aluguel-social-para-familias-removidas-de-terreno-no-bairro-santa-etelvina/",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Após denúncias da Defensoria, Comitê define medidas para melhorar assistência oncológica",
-          "url": "https://defensoria.am.def.br/2026/10/30/apos-denuncias-da-defensoria-comite-de-saude-define-medidas-para-melhorar-assistencia-oncologica-no-amazonas/",
-          "fecha": "2026-10-30T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Ação da Defensoria contra métodos da PF no Rio Madeira ganha apoio de senador",
-          "url": "https://defensoria.am.def.br/2026/10/29/acao-da-defensoria-que-questiona-metodos-da-pf-em-operacoes-contra-o-garimpo-no-rio-madeira-ganha-apoio-de-senador/",
-          "fecha": "2026-10-29T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria realiza ação itinerante para atender demandas de pacientes oncológicos",
-          "url": "https://defensoria.am.def.br/2026/10/29/defensoria-do-amazonas-realiza-acao-itinerante-para-atender-demandas-de-pacientes-oncologicos/",
-          "fecha": "2026-10-29T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698634"
+      "timestamp": "2026-11-08T14:06:23.498056"
     },
     {
       "pais": "Brasil",
@@ -1694,7 +1686,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698652"
+      "timestamp": "2026-11-08T14:06:23.498065"
     },
     {
       "pais": "Brasil",
@@ -1715,7 +1707,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698669"
+      "timestamp": "2026-11-08T14:06:23.498073"
     },
     {
       "pais": "Brasil",
@@ -1780,7 +1772,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698686"
+      "timestamp": "2026-11-08T14:06:23.498081"
     },
     {
       "pais": "Chile",
@@ -1807,7 +1799,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698704"
+      "timestamp": "2026-11-08T14:06:23.498096"
     },
     {
       "pais": "Chile",
@@ -2159,7 +2151,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698722"
+      "timestamp": "2026-11-08T14:06:23.498128"
     },
     {
       "pais": "Chile",
@@ -2335,7 +2327,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698745"
+      "timestamp": "2026-11-08T14:06:23.498160"
     },
     {
       "pais": "Colombia",
@@ -2369,7 +2361,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698764"
+      "timestamp": "2026-11-08T14:06:23.498183"
     },
     {
       "pais": "Colombia",
@@ -2396,7 +2388,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698782"
+      "timestamp": "2026-11-08T14:06:23.498202"
     },
     {
       "pais": "Ecuador",
@@ -2424,7 +2416,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698798"
+      "timestamp": "2026-11-08T14:06:23.498217"
     },
     {
       "pais": "Paraguay",
@@ -2616,7 +2608,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698813"
+      "timestamp": "2026-11-08T14:06:23.498233"
     },
     {
       "pais": "Paraguay",
@@ -2751,7 +2743,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698829"
+      "timestamp": "2026-11-08T14:06:23.498248"
     },
     {
       "pais": "Perú",
@@ -2786,6 +2778,20 @@
           "titulo": "Defensoría del Pueblo lanza campaña nacional para la prevención de la violencia física y sexual en agravio de niños y adolescentes",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-lanza-campana-nacional-para-la-prevencion-de-la-violencia-fisica-y-sexual-en-agravio-de-ninos-y-adolescentes/",
           "fecha": "2026-10-29T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo exige celeridad en investigación por incendio que ocasionó la muerte de un menor de edad en CAR de Pasco",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-celeridad-en-investigacion-por-incendio-que-ocasiono-la-muerte-de-un-menor-de-edad-en-car-de-pasco/",
+          "fecha": "2026-11-07T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo pide adelantar juicio por violencia sexual y ampliar funcionamiento de juzgado transitorio en Huaura",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-pide-adelantar-juicio-por-violencia-sexual-y-ampliar-funcionamiento-de-juzgado-transitorio-en-huaura/",
+          "fecha": "2026-11-07T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -2904,20 +2910,6 @@
         {
           "titulo": "Lima: Defensoría del Pueblo brinda recomendaciones ante grave accidente de tránsito ocurrido en la Panamericana Norte",
           "url": "https://www.defensoria.gob.pe/lima-defensoria-del-pueblo-brinda-recomendaciones-ante-grave-accidente-de-transito-ocurrido-en-la-panamericana-norte/",
-          "fecha": "2026-11-04T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo se despliega en Huánuco para acompañar la protesta, promover el diálogo y velar por los derechos de la población",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-se-despliega-en-huanuco-para-acompanar-la-protesta-promover-el-dialogo-y-velar-por-los-derechos-de-la-poblacion/",
-          "fecha": "2026-11-04T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo participa en sesión descentralizada para fortalecer la atención a víctimas de abuso sexual",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-participa-en-sesion-descentralizada-para-fortalecer-la-atencion-a-victimas-de-abuso-sexual/",
           "fecha": "2026-11-04T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -3065,6 +3057,20 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Defensoría del Pueblo exige celeridad en investigación por incendio que ocasionó la muerte de un menor de edad en CAR de Pasco",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-celeridad-en-investigacion-por-incendio-que-ocasiono-la-muerte-de-un-menor-de-edad-en-car-de-pasco/",
+          "fecha": "2026-11-07T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo pide adelantar juicio por violencia sexual y ampliar funcionamiento de juzgado transitorio en Huaura",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-pide-adelantar-juicio-por-violencia-sexual-y-ampliar-funcionamiento-de-juzgado-transitorio-en-huaura/",
+          "fecha": "2026-11-07T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoría del Pueblo supervisa abastecimiento de Factor IX y recomienda fortalecer la gestión de medicamentos e insumos médicos en EsSalud",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-abastecimiento-de-factor-ix-y-recomienda-fortalecer-la-gestion-de-medicamentos-e-insumos-medicos-en-essalud/",
           "fecha": "2026-11-06T00:00:00",
@@ -3184,20 +3190,6 @@
           "es_pdf": false
         },
         {
-          "titulo": "Defensoría del Pueblo se despliega en Huánuco para acompañar la protesta, promover el diálogo y velar por los derechos de la población",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-se-despliega-en-huanuco-para-acompanar-la-protesta-promover-el-dialogo-y-velar-por-los-derechos-de-la-poblacion/",
-          "fecha": "2026-11-04T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo participa en sesión descentralizada para fortalecer la atención a víctimas de abuso sexual",
-          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-participa-en-sesion-descentralizada-para-fortalecer-la-atencion-a-victimas-de-abuso-sexual/",
-          "fecha": "2026-11-04T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
           "titulo": "Defensoría del Pueblo lanza campaña nacional para la prevención de la violencia física y sexual en agravio de niños y adolescentes",
           "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-lanza-campana-nacional-para-la-prevencion-de-la-violencia-fisica-y-sexual-en-agravio-de-ninos-y-adolescentes/",
           "fecha": "2026-10-29T00:00:00",
@@ -3214,7 +3206,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698844"
+      "timestamp": "2026-11-08T14:06:23.498264"
     },
     {
       "pais": "Uruguay",
@@ -3499,13 +3491,6 @@
           "fecha": "2026-10-15T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "El informe sobre Educación y afrodescendencia en territorios de frontera se presentó en Artigas, Rivera y Cerro Largo",
-          "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/informe-sobre-educacion-afrodescendencia-territorios-frontera-se-presento",
-          "fecha": "2026-10-09T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [
@@ -3532,7 +3517,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698868"
+      "timestamp": "2026-11-08T14:06:23.498290"
     },
     {
       "pais": "Venezuela",
@@ -3625,7 +3610,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698885"
+      "timestamp": "2026-11-08T14:06:23.498313"
     },
     {
       "pais": "Guyana",
@@ -3704,7 +3689,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698901"
+      "timestamp": "2026-11-08T14:06:23.498335"
     },
     {
       "pais": "Costa Rica",
@@ -3738,7 +3723,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698922"
+      "timestamp": "2026-11-08T14:06:23.498358"
     },
     {
       "pais": "El Salvador",
@@ -4026,7 +4011,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698967"
+      "timestamp": "2026-11-08T14:06:23.498376"
     },
     {
       "pais": "Guatemala",
@@ -4060,7 +4045,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.698989"
+      "timestamp": "2026-11-08T14:06:23.498397"
     },
     {
       "pais": "Honduras",
@@ -4088,7 +4073,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699008"
+      "timestamp": "2026-11-08T14:06:23.498415"
     },
     {
       "pais": "México",
@@ -4152,7 +4137,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699026"
+      "timestamp": "2026-11-08T14:06:23.498455"
     },
     {
       "pais": "Nicaragua",
@@ -4316,7 +4301,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699044"
+      "timestamp": "2026-11-08T14:06:23.498478"
     },
     {
       "pais": "Panamá",
@@ -4465,7 +4450,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699060"
+      "timestamp": "2026-11-08T14:06:23.498490"
     },
     {
       "pais": "Belice",
@@ -4486,7 +4471,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699078"
+      "timestamp": "2026-11-08T14:06:23.498504"
     },
     {
       "pais": "República Dominicana",
@@ -4622,7 +4607,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699096"
+      "timestamp": "2026-11-08T14:06:23.498516"
     },
     {
       "pais": "República Dominicana",
@@ -4643,7 +4628,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699112"
+      "timestamp": "2026-11-08T14:06:23.498527"
     },
     {
       "pais": "Jamaica",
@@ -4750,7 +4735,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699134"
+      "timestamp": "2026-11-08T14:06:23.498537"
     },
     {
       "pais": "Trinidad y Tobago",
@@ -4778,7 +4763,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699155"
+      "timestamp": "2026-11-08T14:06:23.498546"
     },
     {
       "pais": "Curaçao",
@@ -4863,7 +4848,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699172"
+      "timestamp": "2026-11-08T14:06:23.498553"
     },
     {
       "pais": "Haití",
@@ -4891,7 +4876,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699191"
+      "timestamp": "2026-11-08T14:06:23.498561"
     },
     {
       "pais": "Canadá",
@@ -5070,7 +5055,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699207"
+      "timestamp": "2026-11-08T14:06:23.498568"
     },
     {
       "pais": "Canadá",
@@ -5213,7 +5198,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699224"
+      "timestamp": "2026-11-08T14:06:23.498575"
     },
     {
       "pais": "Canadá",
@@ -5460,7 +5445,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699238"
+      "timestamp": "2026-11-08T14:06:23.498585"
     },
     {
       "pais": "Canadá",
@@ -5552,7 +5537,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699252"
+      "timestamp": "2026-11-08T14:06:23.498614"
     },
     {
       "pais": "Canadá",
@@ -5714,7 +5699,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699270"
+      "timestamp": "2026-11-08T14:06:23.498626"
     },
     {
       "pais": "Canadá",
@@ -5735,7 +5720,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699294"
+      "timestamp": "2026-11-08T14:06:23.498638"
     },
     {
       "pais": "Canadá",
@@ -5756,7 +5741,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699312"
+      "timestamp": "2026-11-08T14:06:23.498646"
     },
     {
       "pais": "Canadá",
@@ -5820,7 +5805,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699329"
+      "timestamp": "2026-11-08T14:06:23.498656"
     },
     {
       "pais": "Canadá",
@@ -5870,7 +5855,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699346"
+      "timestamp": "2026-11-08T14:06:23.498664"
     },
     {
       "pais": "Regional",
@@ -5891,7 +5876,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699362"
+      "timestamp": "2026-11-08T14:06:23.498671"
     },
     {
       "pais": "Regional",
@@ -6055,7 +6040,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699379"
+      "timestamp": "2026-11-08T14:06:23.498678"
     },
     {
       "pais": "Regional",
@@ -6125,7 +6110,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699393"
+      "timestamp": "2026-11-08T14:06:23.498689"
     },
     {
       "pais": "Regional",
@@ -6400,7 +6385,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699413"
+      "timestamp": "2026-11-08T14:06:23.498698"
     },
     {
       "pais": "Regional",
@@ -6427,7 +6412,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-07T13:45:49.699429"
+      "timestamp": "2026-11-08T14:06:23.498706"
     }
   ]
 }
