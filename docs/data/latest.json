@@ -1,6 +1,6 @@
 {
   "dias": 30,
-  "timestamp": "20261108_1407",
+  "timestamp": "20261109_1713",
   "instituciones": [
     {
       "pais": "Argentina",
@@ -55,7 +55,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.489235"
+      "timestamp": "2026-11-09T17:12:35.964290"
     },
     {
       "pais": "Argentina",
@@ -83,7 +83,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.493423"
+      "timestamp": "2026-11-09T17:12:35.968688"
     },
     {
       "pais": "Argentina",
@@ -104,7 +104,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.493954"
+      "timestamp": "2026-11-09T17:12:35.969340"
     },
     {
       "pais": "Bolivia",
@@ -280,7 +280,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.494499"
+      "timestamp": "2026-11-09T17:12:35.969632"
     },
     {
       "pais": "Brasil",
@@ -505,7 +505,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.495347"
+      "timestamp": "2026-11-09T17:12:35.970128"
     },
     {
       "pais": "Brasil",
@@ -524,6 +524,20 @@
       ],
       "todos_items": [
         {
+          "titulo": "Inscrições abertas em Salvador para oficina gratuita de audiovisual, prévia da 16ª Mostra de Cinema e Direitos Humanos",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-em-salvador-para-oficina-gratuita-de-audiovisual-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
+          "fecha": "2026-11-09T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "MDHC acompanha caso de deputada federal eleita e reforça necessidade de investigação e responsabilização por ameaças",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-acompanha-caso-de-deputada-federal-eleita-e-reforca-necessidade-de-investigacao-e-responsabilizacao-por-ameacas",
+          "fecha": "2026-11-08T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Ministra Janine Mello recebe advogado que denunciou ameaças relacionadas à sua atuação no caso Ana Clara",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/ministra-janine-mello-recebe-advogado-que-denunciou-ameacas-relacionadas-a-sua-atuacao-no-caso-ana-clara",
           "fecha": "2026-11-06T00:00:00",
@@ -646,26 +660,26 @@
           "titulo": "MDHC promove consulta para atualizar guia sobre saúde integral e direitos sexuais e reprodutivos das pessoas com deficiência",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-promove-consulta-para-atualizar-guia-sobre-saude-integral-e-direitos-sexuais-e-reprodutivos-das-pessoas-com-deficiencia",
           "fecha": "2026-11-03T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Governo Federal reforça proteção de comunidades indígenas em Mato Grosso do Sul",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/governo-federal-reforca-protecao-de-comunidades-indigenas-em-mato-grosso-do-sul",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Programa Aqui é Brasil recebe 85 brasileiros repatriados em Confins (MG)",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/outubro/programa-aqui-e-brasil-recebe-85-brasileiros-repatriados-em-confins-mg",
-          "fecha": "2026-10-31T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         }
       ],
       "items_en_periodo": [
         {
+          "titulo": "Inscrições abertas em Salvador para oficina gratuita de audiovisual, prévia da 16ª Mostra de Cinema e Direitos Humanos",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-em-salvador-para-oficina-gratuita-de-audiovisual-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
+          "fecha": "2026-11-09T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "MDHC acompanha caso de deputada federal eleita e reforça necessidade de investigação e responsabilização por ameaças",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-acompanha-caso-de-deputada-federal-eleita-e-reforca-necessidade-de-investigacao-e-responsabilizacao-por-ameacas",
+          "fecha": "2026-11-08T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Ministra Janine Mello recebe advogado que denunciou ameaças relacionadas à sua atuação no caso Ana Clara",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/ministra-janine-mello-recebe-advogado-que-denunciou-ameacas-relacionadas-a-sua-atuacao-no-caso-ana-clara",
           "fecha": "2026-11-06T00:00:00",
@@ -790,25 +804,11 @@
           "fecha": "2026-11-03T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Governo Federal reforça proteção de comunidades indígenas em Mato Grosso do Sul",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/outubro/governo-federal-reforca-protecao-de-comunidades-indigenas-em-mato-grosso-do-sul",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Programa Aqui é Brasil recebe 85 brasileiros repatriados em Confins (MG)",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/outubro/programa-aqui-e-brasil-recebe-85-brasileiros-repatriados-em-confins-mg",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.495854"
+      "timestamp": "2026-11-09T17:12:35.970385"
     },
     {
       "pais": "Brasil",
@@ -829,7 +829,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.496995"
+      "timestamp": "2026-11-09T17:12:35.971328"
     },
     {
       "pais": "Brasil",
@@ -963,7 +963,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.497543"
+      "timestamp": "2026-11-09T17:12:35.972037"
     },
     {
       "pais": "Brasil",
@@ -1126,7 +1126,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498022"
+      "timestamp": "2026-11-09T17:12:35.972433"
     },
     {
       "pais": "Brasil",
@@ -1317,7 +1317,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498043"
+      "timestamp": "2026-11-09T17:12:35.972458"
     },
     {
       "pais": "Brasil",
@@ -1336,6 +1336,27 @@
       ],
       "todos_items": [
         {
+          "titulo": "Em Parintins, jovem realiza sonho de incluir sobrenome da avó socioafetiva com apoio da Defensoria",
+          "url": "https://defensoria.am.def.br/2026/11/09/em-parintins-jovem-realiza-sonho-de-incluir-sobrenome-da-avo-socioafetiva-com-apoio-da-defensoria/",
+          "fecha": "2026-11-09T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria cobrará do Estado respostas em até 48 horas sobre tratamentos oncológicos no Amazonas",
+          "url": "https://defensoria.am.def.br/2026/11/08/defensoria-cobrara-do-estado-respostas-em-ate-48-horas-sobre-tratamentos-oncologicos-no-amazonas/",
+          "fecha": "2026-11-08T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria amplia atendimento no ‘A Crítica nos Bairros’ com serviços para pessoas idosas",
+          "url": "https://defensoria.am.def.br/2026/11/08/defensoria-amplia-atendimento-no-a-critica-nos-bairros-com-servicos-para-pessoas-idosas/",
+          "fecha": "2026-11-08T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoria orienta Ronda Maria da Penha sobre atendimento a mulheres vítimas de violência",
           "url": "https://defensoria.am.def.br/2026/11/07/defensoria-orienta-policiais-da-ronda-maria-da-penha-sobre-atendimento-a-mulheres-em-situacao-de-violencia-no-interior/",
           "fecha": "2026-11-07T00:00:00",
@@ -1451,33 +1472,33 @@
           "titulo": "Defensoria realiza ação voltada a pacientes oncológicos que enfrentam dificuldades de acesso ao tratamento",
           "url": "https://defensoria.am.def.br/2026/11/02/defensoria-realiza-acao-voltada-a-pacientes-oncologicos-que-enfrentam-dificuldades-de-acesso-ao-tratamento/",
           "fecha": "2026-11-02T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria Pública garante soltura de homem preso por dívida que já havia sido paga",
-          "url": "https://defensoria.am.def.br/2026/11/01/defensoria-publica-garante-soltura-de-homem-preso-por-divida-que-ja-havia-sido-paga/",
-          "fecha": "2026-11-01T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria apura impactos socioambientais causados por dragagem no Careiro da Várzea",
-          "url": "https://defensoria.am.def.br/2026/10/31/defensoria-apura-possiveis-impactos-socioambientais-causados-por-dragagem-no-careiro-da-varzea/",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria confirma vínculo entre pai e três filhos durante entrega de exames de DNA",
-          "url": "https://defensoria.am.def.br/2026/10/31/defensoria-confirma-vinculo-entre-pai-e-tres-filhos-durante-entrega-de-exames-de-dna/",
-          "fecha": "2026-10-31T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         }
       ],
       "items_en_periodo": [
         {
+          "titulo": "Em Parintins, jovem realiza sonho de incluir sobrenome da avó socioafetiva com apoio da Defensoria",
+          "url": "https://defensoria.am.def.br/2026/11/09/em-parintins-jovem-realiza-sonho-de-incluir-sobrenome-da-avo-socioafetiva-com-apoio-da-defensoria/",
+          "fecha": "2026-11-09T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria cobrará do Estado respostas em até 48 horas sobre tratamentos oncológicos no Amazonas",
+          "url": "https://defensoria.am.def.br/2026/11/08/defensoria-cobrara-do-estado-respostas-em-ate-48-horas-sobre-tratamentos-oncologicos-no-amazonas/",
+          "fecha": "2026-11-08T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria amplia atendimento no ‘A Crítica nos Bairros’ com serviços para pessoas idosas",
+          "url": "https://defensoria.am.def.br/2026/11/08/defensoria-amplia-atendimento-no-a-critica-nos-bairros-com-servicos-para-pessoas-idosas/",
+          "fecha": "2026-11-08T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoria orienta Ronda Maria da Penha sobre atendimento a mulheres vítimas de violência",
           "url": "https://defensoria.am.def.br/2026/11/07/defensoria-orienta-policiais-da-ronda-maria-da-penha-sobre-atendimento-a-mulheres-em-situacao-de-violencia-no-interior/",
           "fecha": "2026-11-07T00:00:00",
@@ -1595,32 +1616,11 @@
           "fecha": "2026-11-02T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria Pública garante soltura de homem preso por dívida que já havia sido paga",
-          "url": "https://defensoria.am.def.br/2026/11/01/defensoria-publica-garante-soltura-de-homem-preso-por-divida-que-ja-havia-sido-paga/",
-          "fecha": "2026-11-01T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria apura impactos socioambientais causados por dragagem no Careiro da Várzea",
-          "url": "https://defensoria.am.def.br/2026/10/31/defensoria-apura-possiveis-impactos-socioambientais-causados-por-dragagem-no-careiro-da-varzea/",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoria confirma vínculo entre pai e três filhos durante entrega de exames de DNA",
-          "url": "https://defensoria.am.def.br/2026/10/31/defensoria-confirma-vinculo-entre-pai-e-tres-filhos-durante-entrega-de-exames-de-dna/",
-          "fecha": "2026-10-31T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498056"
+      "timestamp": "2026-11-09T17:12:35.972486"
     },
     {
       "pais": "Brasil",
@@ -1686,7 +1686,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498065"
+      "timestamp": "2026-11-09T17:12:35.972495"
     },
     {
       "pais": "Brasil",
@@ -1707,7 +1707,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498073"
+      "timestamp": "2026-11-09T17:12:35.972502"
     },
     {
       "pais": "Brasil",
@@ -1772,7 +1772,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498081"
+      "timestamp": "2026-11-09T17:12:35.972509"
     },
     {
       "pais": "Chile",
@@ -1799,7 +1799,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498096"
+      "timestamp": "2026-11-09T17:12:35.972515"
     },
     {
       "pais": "Chile",
@@ -2151,7 +2151,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498128"
+      "timestamp": "2026-11-09T17:12:35.972521"
     },
     {
       "pais": "Chile",
@@ -2327,7 +2327,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498160"
+      "timestamp": "2026-11-09T17:12:35.972530"
     },
     {
       "pais": "Colombia",
@@ -2361,7 +2361,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498183"
+      "timestamp": "2026-11-09T17:12:35.972540"
     },
     {
       "pais": "Colombia",
@@ -2388,7 +2388,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498202"
+      "timestamp": "2026-11-09T17:12:35.972546"
     },
     {
       "pais": "Ecuador",
@@ -2416,7 +2416,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498217"
+      "timestamp": "2026-11-09T17:12:35.972553"
     },
     {
       "pais": "Paraguay",
@@ -2436,6 +2436,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "Noticias 9 de noviembre de 2026 Entregamos colchones hospitalarios al Hospital Neuropsiquiátrico La Defensoría del Pueblo, a través de la Dirección Ge",
+          "url": "",
+          "fecha": "2026-11-09T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Noticias 5 de noviembre de 2026 Brindamos atención a una persona en situación de vulnerabilidad en Santa Rosa del Aguaray La delegatura de la Defensor",
           "url": "",
           "fecha": "2026-11-05T00:00:00",
@@ -2507,13 +2514,6 @@
         },
         {
           "titulo": "Noticias 22 de octubre de 2026 Defensoría Del Pueblo entregó resolución de cobro a Rogelio Goiburú y reconoció su lucha por la memoria y la justicia D",
-          "url": "",
-          "fecha": "2026-10-22T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Noticias 22 de octubre de 2026 Asistimos a una pareja de adultos mayores en situación de abandono en Ypané Vecinos se comunicaron a la Defensoría del",
           "url": "",
           "fecha": "2026-10-22T00:00:00",
           "tipo_seccion": "noticias",
@@ -2522,6 +2522,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Noticias 9 de noviembre de 2026 Entregamos colchones hospitalarios al Hospital Neuropsiquiátrico La Defensoría del Pueblo, a través de la Dirección Ge",
+          "url": "",
+          "fecha": "2026-11-09T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Noticias 5 de noviembre de 2026 Brindamos atención a una persona en situación de vulnerabilidad en Santa Rosa del Aguaray La delegatura de la Defensor",
           "url": "",
           "fecha": "2026-11-05T00:00:00",
@@ -2597,18 +2604,11 @@
           "fecha": "2026-10-22T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Noticias 22 de octubre de 2026 Asistimos a una pareja de adultos mayores en situación de abandono en Ypané Vecinos se comunicaron a la Defensoría del",
-          "url": "",
-          "fecha": "2026-10-22T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498233"
+      "timestamp": "2026-11-09T17:12:35.972559"
     },
     {
       "pais": "Paraguay",
@@ -2627,6 +2627,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "MNP y Plan International fortalecen la cooperación por los derechos humanos",
+          "url": "https://mnp.gov.py/6550-2/",
+          "fecha": "2026-11-09T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Monitoreo preventivo del MNP de las movilizaciones ciudadanas por el caso UENO BANK",
           "url": "https://mnp.gov.py/el-mnp-realiza-un-monitoreo-preventivo-de-las-movilizaciones-ciudadanas-por-el-caso-ueno-bank/",
           "fecha": "2026-11-06T00:00:00",
@@ -2672,19 +2679,19 @@
           "titulo": "El MNP desarrollará una agenda de trabajo con expertos de Naciones Unidas para la prevención de la tortura",
           "url": "https://mnp.gov.py/el-mnp-desarrollara-una-agenda-de-trabajo-con-expertos-de-naciones-unidas-para-la-prevencion-de-la-tortura/",
           "fecha": "2026-10-23T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "MNP monitorea las condiciones de vida y atención de las mujeres privadas de libertad en Serafina Dávalos",
-          "url": "https://mnp.gov.py/mnp-monitorea-las-condiciones-de-vida-y-atencion-de-las-mujeres-privadas-de-libertad-en-serafina-davalos/",
-          "fecha": "2026-10-22T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         }
       ],
       "items_en_periodo": [
         {
+          "titulo": "MNP y Plan International fortalecen la cooperación por los derechos humanos",
+          "url": "https://mnp.gov.py/6550-2/",
+          "fecha": "2026-11-09T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Monitoreo preventivo del MNP de las movilizaciones ciudadanas por el caso UENO BANK",
           "url": "https://mnp.gov.py/el-mnp-realiza-un-monitoreo-preventivo-de-las-movilizaciones-ciudadanas-por-el-caso-ueno-bank/",
           "fecha": "2026-11-06T00:00:00",
@@ -2732,18 +2739,11 @@
           "fecha": "2026-10-23T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "MNP monitorea las condiciones de vida y atención de las mujeres privadas de libertad en Serafina Dávalos",
-          "url": "https://mnp.gov.py/mnp-monitorea-las-condiciones-de-vida-y-atencion-de-las-mujeres-privadas-de-libertad-en-serafina-davalos/",
-          "fecha": "2026-10-22T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498248"
+      "timestamp": "2026-11-09T17:12:35.972571"
     },
     {
       "pais": "Perú",
@@ -3206,7 +3206,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498264"
+      "timestamp": "2026-11-09T17:12:35.972577"
     },
     {
       "pais": "Uruguay",
@@ -3517,7 +3517,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498290"
+      "timestamp": "2026-11-09T17:12:35.972605"
     },
     {
       "pais": "Venezuela",
@@ -3610,7 +3610,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498313"
+      "timestamp": "2026-11-09T17:12:35.972620"
     },
     {
       "pais": "Guyana",
@@ -3689,7 +3689,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498335"
+      "timestamp": "2026-11-09T17:12:35.972627"
     },
     {
       "pais": "Costa Rica",
@@ -3723,7 +3723,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498358"
+      "timestamp": "2026-11-09T17:12:35.972638"
     },
     {
       "pais": "El Salvador",
@@ -4011,7 +4011,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498376"
+      "timestamp": "2026-11-09T17:12:35.972653"
     },
     {
       "pais": "Guatemala",
@@ -4045,7 +4045,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498397"
+      "timestamp": "2026-11-09T17:12:35.972663"
     },
     {
       "pais": "Honduras",
@@ -4073,7 +4073,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498415"
+      "timestamp": "2026-11-09T17:12:35.972670"
     },
     {
       "pais": "México",
@@ -4137,7 +4137,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498455"
+      "timestamp": "2026-11-09T17:12:35.972676"
     },
     {
       "pais": "Nicaragua",
@@ -4301,7 +4301,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498478"
+      "timestamp": "2026-11-09T17:12:35.972683"
     },
     {
       "pais": "Panamá",
@@ -4450,7 +4450,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498490"
+      "timestamp": "2026-11-09T17:12:35.972689"
     },
     {
       "pais": "Belice",
@@ -4471,7 +4471,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498504"
+      "timestamp": "2026-11-09T17:12:35.972696"
     },
     {
       "pais": "República Dominicana",
@@ -4607,7 +4607,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498516"
+      "timestamp": "2026-11-09T17:12:35.972702"
     },
     {
       "pais": "República Dominicana",
@@ -4628,7 +4628,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498527"
+      "timestamp": "2026-11-09T17:12:35.972712"
     },
     {
       "pais": "Jamaica",
@@ -4735,7 +4735,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498537"
+      "timestamp": "2026-11-09T17:12:35.972719"
     },
     {
       "pais": "Trinidad y Tobago",
@@ -4763,7 +4763,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498546"
+      "timestamp": "2026-11-09T17:12:35.972725"
     },
     {
       "pais": "Curaçao",
@@ -4848,7 +4848,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498553"
+      "timestamp": "2026-11-09T17:12:35.972731"
     },
     {
       "pais": "Haití",
@@ -4876,7 +4876,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498561"
+      "timestamp": "2026-11-09T17:12:35.972737"
     },
     {
       "pais": "Canadá",
@@ -5055,7 +5055,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498568"
+      "timestamp": "2026-11-09T17:12:35.972743"
     },
     {
       "pais": "Canadá",
@@ -5073,6 +5073,13 @@
         }
       ],
       "todos_items": [
+        {
+          "titulo": "Détention : respecter les diètes prescrites par un médecin",
+          "url": "https://protecteurducitoyen.qc.ca/fr/enquetes/cas-vecus/detention-respecter-dietes-prescrites-par-medecin",
+          "fecha": "2026-11-09T00:00:00",
+          "tipo_seccion": "nouvelles",
+          "es_pdf": false
+        },
         {
           "titulo": "Séparation ou divorce : la médiation pour éviter le tribunal",
           "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/separation-divorce-mediation",
@@ -5135,16 +5142,16 @@
           "fecha": "2026-06-30T00:00:00",
           "tipo_seccion": "nouvelles",
           "es_pdf": false
-        },
-        {
-          "titulo": "Caméras dans les CHSLD et autres milieux de vie : ce qui est permis",
-          "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/cameras-chsld-nouvelles-regles",
-          "fecha": "2026-06-15T00:00:00",
-          "tipo_seccion": "nouvelles",
-          "es_pdf": false
         }
       ],
       "items_en_periodo": [
+        {
+          "titulo": "Détention : respecter les diètes prescrites par un médecin",
+          "url": "https://protecteurducitoyen.qc.ca/fr/enquetes/cas-vecus/detention-respecter-dietes-prescrites-par-medecin",
+          "fecha": "2026-11-09T00:00:00",
+          "tipo_seccion": "nouvelles",
+          "es_pdf": false
+        },
         {
           "titulo": "Séparation ou divorce : la médiation pour éviter le tribunal",
           "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/separation-divorce-mediation",
@@ -5198,7 +5205,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498575"
+      "timestamp": "2026-11-09T17:12:35.972749"
     },
     {
       "pais": "Canadá",
@@ -5445,7 +5452,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498585"
+      "timestamp": "2026-11-09T17:12:35.972756"
     },
     {
       "pais": "Canadá",
@@ -5537,7 +5544,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498614"
+      "timestamp": "2026-11-09T17:12:35.972762"
     },
     {
       "pais": "Canadá",
@@ -5699,7 +5706,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498626"
+      "timestamp": "2026-11-09T17:12:35.972773"
     },
     {
       "pais": "Canadá",
@@ -5720,7 +5727,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498638"
+      "timestamp": "2026-11-09T17:12:35.972782"
     },
     {
       "pais": "Canadá",
@@ -5741,7 +5748,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498646"
+      "timestamp": "2026-11-09T17:12:35.972788"
     },
     {
       "pais": "Canadá",
@@ -5805,7 +5812,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498656"
+      "timestamp": "2026-11-09T17:12:35.972794"
     },
     {
       "pais": "Canadá",
@@ -5818,44 +5825,15 @@
         {
           "url": "https://ombudsman.sk.ca",
           "tipo": "news",
-          "ok": true,
-          "items": 4
+          "ok": false,
+          "items": 0
         }
       ],
-      "todos_items": [
-        {
-          "titulo": "Flooding Resource List",
-          "url": "https://ombudsman.sk.ca/app/uploads/2026/09/Flooding-Resource-List.pdf",
-          "fecha": "2026-09-01T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": true
-        },
-        {
-          "titulo": "Public Interest Disclosure Commissioner Marks 15 Years of Whistleblower Legislation.",
-          "url": "https://ombudsman.sk.ca/news/2026/2026-09-01/public-interest-disclosure-commissioner-marks-15-years-of-whistleblower-legislation/",
-          "fecha": "2026-09-01T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Ombudsman Saskatchewan announces new Accessibility and Inclusion Unit during Disability Pride Month",
-          "url": "https://ombudsman.sk.ca/news/2026/2026-08-20/ombudsman-saskatchewan-announces-new-accessibility-and-inclusion-unit-during-disability-pride-month/",
-          "fecha": "2026-08-20T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Setting the Tone for Respectful Communication",
-          "url": "https://ombudsman.sk.ca/news/2026/2026-08-14/x/",
-          "fecha": "2026-08-14T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        }
-      ],
+      "todos_items": [],
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498664"
+      "timestamp": "2026-11-09T17:12:35.972800"
     },
     {
       "pais": "Regional",
@@ -5876,7 +5854,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498671"
+      "timestamp": "2026-11-09T17:12:35.972805"
     },
     {
       "pais": "Regional",
@@ -6040,7 +6018,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498678"
+      "timestamp": "2026-11-09T17:12:35.972811"
     },
     {
       "pais": "Regional",
@@ -6110,7 +6088,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498689"
+      "timestamp": "2026-11-09T17:12:35.972817"
     },
     {
       "pais": "Regional",
@@ -6385,7 +6363,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498698"
+      "timestamp": "2026-11-09T17:12:35.972822"
     },
     {
       "pais": "Regional",
@@ -6412,7 +6390,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-08T14:06:23.498706"
+      "timestamp": "2026-11-09T17:12:35.972833"
     }
   ]
 }
