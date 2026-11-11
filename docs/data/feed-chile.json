@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-antofagasta-encuentro-desarrollo-sostenible/",
+      "url": "https://www.indh.cl/indh-antofagasta-encuentro-desarrollo-sostenible/",
+      "title": "INDH de Antofagasta impulsó junto a otros actores encuentro regional para fomentar el desarrollo sostenible en las zonas con actividad minera",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-11-10T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-rios-formacion-560-carabineros/",
+      "url": "https://www.indh.cl/indh-rios-formacion-560-carabineros/",
+      "title": "INDH Los Ríos ha colaborado en la formación de 560 funcionarias y funcionarias de Carabineros en el marco del Plan Nacional de Derechos Humanos de la institución policial",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-11-10T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-lagos-prevenir-violencia-digital/",
       "url": "https://www.indh.cl/indh-lagos-prevenir-violencia-digital/",
       "title": "¿Cómo prevenir la violencia digital en comunidades educativas?: INDH Los Lagos realizó jornada en liceo de Puerto Montt",
@@ -76,22 +100,10 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7410767917774446580",
+      "id": "urn:defensorias:-4474118668302018669",
       "url": "",
       "title": "Defensoría de la Niñez buscará revertir inadmisibilidad de amparo ante ...",
       "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-11-04T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/director-indh-advierte-eliminaria-proteccion/",
-      "url": "https://www.indh.cl/director-indh-advierte-eliminaria-proteccion/",
-      "title": "No solo elimina querellas: Director del INDH advierte que informe financiero de la reforma eliminaría a todos los equipos de protección de derechos",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
       "date_published": "2026-11-04T00:00:00",
       "tags": [
         "Chile",
@@ -108,23 +120,11 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-los-lagos-medioambiental-liceo-sembrador/",
-      "url": "https://www.indh.cl/indh-los-lagos-medioambiental-liceo-sembrador/",
-      "title": "INDH Los Lagos realizó un recorrido medioambiental con estudiantes de Liceo El Sembrador",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-11-04T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
         "noticias_regionales"
       ]
     },
     {
-      "id": "urn:defensorias:-4331473799956783851",
+      "id": "urn:defensorias:-5977881533716401481",
       "url": "",
       "title": "Defensoría de la Niñez y UNICEF impulsan mecanismo de monitoreo ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8598814580567965291",
+      "id": "urn:defensorias:7579512234404252645",
       "url": "",
       "title": "Defensoría de la Niñez presenta recurso de amparo para dejar ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4162465534970932847",
+      "id": "urn:defensorias:-8971509423297986539",
       "url": "",
       "title": "T13 Radio | Entrevista al Defensor de la Niñez por...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1212018325180054779",
+      "id": "urn:defensorias:-237845019447780993",
       "url": "",
       "title": "Defensor de la Niñez expone ante la CIDH graves brechas ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,19 +172,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-los-lagos-encuentros-salud-mental/",
-      "url": "https://www.indh.cl/indh-los-lagos-encuentros-salud-mental/",
-      "title": "INDH de Los Lagos realizó encuentros en universidades para relevar la importancia del acceso oportuno a salud mental",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-10-28T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:7666963854129094161",
+      "id": "urn:defensorias:-2923754228918897632",
       "url": "",
       "title": "Biobio.cl | Defensor de Niñez denuncia ante CIDH suspensión de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3211029639786352660",
+      "id": "urn:defensorias:5231364525300827487",
       "url": "",
       "title": "T13 | Entrevista al Defensor de la Niñez: rebajas de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2124272632765932974",
+      "id": "urn:defensorias:3765143333831418065",
       "url": "",
       "title": "La Tercera | Columna de opinión, por el Defensor de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6715489311734642642",
+      "id": "urn:defensorias:-8779706284167500037",
       "url": "",
       "title": "24 Horas | «Revictimizante»: el Defensor de la Niñez lamenta...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-857279732674073205",
+      "id": "urn:defensorias:-4238270717058642104",
       "url": "",
       "title": "Radio ADN | Entrevista al Defensor de la Niñez, sobre...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2822894234209106511",
+      "id": "urn:defensorias:-7612270030076457716",
       "url": "",
       "title": "Radio U. de Chile | Defensor de la Niñez: «Bajo...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-6194970787420192897",
+      "id": "urn:defensorias:6077804569638262940",
       "url": "",
       "title": "Defensoría de la Niñez rechaza el otorgamiento de beneficios a ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -268,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8089204615449668724",
+      "id": "urn:defensorias:-8128554838847368617",
       "url": "",
       "title": "Radio biobio | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -280,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3563839260496812835",
+      "id": "urn:defensorias:-5327210480138387740",
       "url": "",
       "title": "Defensor de la Niñez aborda desafíos de protección y participación ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -292,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4027017775080025931",
+      "id": "urn:defensorias:-3841455585955766929",
       "url": "",
       "title": "Defensoría de la Niñez advierte que más de la mitad ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -304,7 +292,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1792693408370874141",
+      "id": "urn:defensorias:3157326763545835078",
       "url": "",
       "title": "A siete años del estallido social: Defensoría de la Niñez ...",
       "summary": "Defensoría de la Niñez (Chile)",

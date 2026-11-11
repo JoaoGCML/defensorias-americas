@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Américas</title>
   <id>urn:defensorias-americas:prensa:americas</id>
-  <updated>2026-11-10T15:27:17Z</updated>
+  <updated>2026-11-11T14:57:31Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-americas.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>246/26—CIDH concluye 197 Periodo de Sesiones con 29 audiencias públicas y espacios diálogos en Panamá</title>
+    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/246.asp&amp;utm_term=class-inst</id>
+    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/246.asp&amp;utm_term=class-inst" />
+    <updated>2026-11-10T00:00:00</updated>
+    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
+  </entry>
   <entry>
     <title>245/26—Nicaragua: CIDH condena la violencia y represión contra pueblos indígenas y afrodescendientes de la Costa Caribe</title>
     <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/245.asp&amp;utm_content=country-nic&amp;utm_term=class-mon</id>
@@ -158,13 +165,6 @@
     <link href="https://www.rindhca.org/la-rindhca-da-seguimiento-a-la-implementacion-de-las-opiniones-consultivas-de-la-corte-idh/" />
     <updated>2026-10-20T00:00:00</updated>
     <summary>RINDHCA — Red de INDH del Continente Americano (Regional) — noticias</summary>
-  </entry>
-  <entry>
-    <title>RD228/26—REDESCA advierte sobre los impactos de las nuevas tecnologías militares y de uso dual en comunidades y territorios de las Américas</title>
-    <id>https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/228.asp</id>
-    <link href="https://www.oas.org/es/CIDH/jsForm/?File=/es/cidh/prensa/comunicados/2026/228.asp" />
-    <updated>2026-10-20T00:00:00</updated>
-    <summary>CIDH - Comisión Interamericana de Derechos Humanos (Regional) — comunicados</summary>
   </entry>
   <entry>
     <title>La RINDHCA en coordinación con la Corte Interamericana de Derechos Humanos llevan a cabo la segunda sesión del Curso específico: Democracia, Estado de Derecho y Derechos Humanos en la jurisprudencia de la Corte Interamericana de Derechos Humanos</title>
