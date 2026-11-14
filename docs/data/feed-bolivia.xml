@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-11-13T15:09:42Z</updated>
+  <updated>2026-11-14T13:58:59Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>COMUNICADO: SOBRE LA FACILITACIÓN AL DIÁLOGO ENTRE EL MAGISTERIO URBANO Y EL MINISTERIO DE EDUCACIÓN</title>
+    <id>https://www.defensoria.gob.bo/noticias/comunicadosobre-la-facilitacion-al-dialogo-entre-el-magisterio-urbano-y-el-ministerio-de-educacion</id>
+    <link href="https://www.defensoria.gob.bo/noticias/comunicadosobre-la-facilitacion-al-dialogo-entre-el-magisterio-urbano-y-el-ministerio-de-educacion" />
+    <updated>2026-11-13T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>DEFENSORÍA DEL PUEBLO VIABILIZÓ LIBERTAD DE JULIO LERO, TRAS ABSOLUCIÓN JUDICIAL</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-viabilizo-libertad-de-julio-lero,-tras-absolucion-judicial</id>
@@ -65,13 +72,6 @@
     <title>Defensoría del Pueblo de Bolivia es reelegida para liderar la Red de Niñez y Adolescencia de la FIO</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-de-bolivia-es-reelegida-para-liderar-la-red-de-ninyez-y-adolescencia-de-la-fio</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-de-bolivia-es-reelegida-para-liderar-la-red-de-ninyez-y-adolescencia-de-la-fio" />
-    <updated>2026-11-05T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo impulsa una agenda regional para proteger a niñas, niños y adolescentes frente a la violencia sexual en entornos digitales</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-impulsa-una-agenda-regional-para-proteger-a-ninyas,-ninyos-y-adolescentes-frente-a-la-violencia-sexual-en-entornos-digitales</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-impulsa-una-agenda-regional-para-proteger-a-ninyas,-ninyos-y-adolescentes-frente-a-la-violencia-sexual-en-entornos-digitales" />
     <updated>2026-11-05T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
