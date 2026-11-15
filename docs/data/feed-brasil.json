@@ -4,6 +4,30 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/boa-vista-recebe-oficina-gratuita-de-audiovisual-que-antecede-16a-mostra-de-cinema-e-direitos-humanos",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/boa-vista-recebe-oficina-gratuita-de-audiovisual-que-antecede-16a-mostra-de-cinema-e-direitos-humanos",
+      "title": "Boa Vista recebe oficina gratuita de audiovisual que antecede 16ª Mostra de Cinema e Direitos Humanos",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-11-15T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-teresina-atividade-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-teresina-atividade-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
+      "title": "Inscrições abertas para oficina gratuita de audiovisual em Teresina, atividade prévia da 16ª Mostra de Cinema e Direitos Humanos",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-11-15T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-maceio-atividade-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-maceio-atividade-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
       "title": "Inscrições abertas para oficina gratuita de audiovisual em Maceió, atividade prévia da 16ª Mostra de Cinema e Direitos Humanos",
@@ -20,6 +44,18 @@
       "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4381/",
       "title": "NUDEM inicia grupo inédito para homens autores de violência na Defensoria Pública de Pernambuco",
       "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-11-14T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/defensoria-publica-e-instituto-da-crianca-com-diabetes-elaboram-cartilha-sobre-cuidados-com-a-saude-e-garantia-de-direitos",
+      "url": "https://www.defensoria.rs.def.br/defensoria-publica-e-instituto-da-crianca-com-diabetes-elaboram-cartilha-sobre-cuidados-com-a-saude-e-garantia-de-direitos",
+      "title": "Defensoria Pública e Instituto da Criança com Diabetes elaboram cartilha sobre cuidados com a saúde e garantia de direitos",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
       "date_published": "2026-11-14T00:00:00",
       "tags": [
         "Brasil",
@@ -268,6 +304,30 @@
       ]
     },
     {
+      "id": "https://www.defensoria.rs.def.br/defensoria-publica-realiza-mutirao-de-atendimentos-sobre-superendividamento-na-zona-norte-de-porto-alegre",
+      "url": "https://www.defensoria.rs.def.br/defensoria-publica-realiza-mutirao-de-atendimentos-sobre-superendividamento-na-zona-norte-de-porto-alegre",
+      "title": "Defensoria Pública realiza mutirão de atendimentos sobre superendividamento, na zona norte de Porto Alegre",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-11-13T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/dpe-rs-promove-mais-uma-etapa-de-formacao-de-liderancas-para-situacoes-de-emergencia-climatica",
+      "url": "https://www.defensoria.rs.def.br/dpe-rs-promove-mais-uma-etapa-de-formacao-de-liderancas-para-situacoes-de-emergencia-climatica",
+      "title": "DPE/RS promove mais uma etapa de formação de lideranças para situações de emergência climática",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-11-13T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-inaugura-sinalizacao-de-lugar-de-memoria-no-teatro-de-arena-da-unb",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-inaugura-sinalizacao-de-lugar-de-memoria-no-teatro-de-arena-da-unb",
       "title": "MDHC inaugura sinalização de lugar de memória no Teatro de Arena da UnB",
@@ -304,7 +364,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7945337411536563423",
+      "id": "urn:defensorias:8379358166212202772",
       "url": "",
       "title": "Mães em Cárcere, da Defensoria de SP, bate recorde e atende 39% mais mulheres que em todo o ano de 2025",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -496,30 +556,6 @@
       ]
     },
     {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-recebe-liderancas-indigenas-de-rondonia-para-discutir-denuncias-de-violacoes-de-direitos-humanos",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-recebe-liderancas-indigenas-de-rondonia-para-discutir-denuncias-de-violacoes-de-direitos-humanos",
-      "title": "MDHC recebe lideranças indígenas de Rondônia para discutir denúncias de violações de direitos humanos",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-11T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-porto-alegre-previa-a-16a-mostra-de-cinema-e-direitos-humanos",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-porto-alegre-previa-a-16a-mostra-de-cinema-e-direitos-humanos",
-      "title": "Inscrições abertas para oficina gratuita de audiovisual em Porto Alegre, prévia a 16ª Mostra de Cinema e Direitos Humanos",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-11T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.rj.def.br/noticia/detalhes/33143-Defensor-Publico-Geral-entrega-lista-eleitoral-ao-Governador-em-exercicio-do-Rio-de-Janeiro",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/33143-Defensor-Publico-Geral-entrega-lista-eleitoral-ao-Governador-em-exercicio-do-Rio-de-Janeiro",
       "title": "Defensor Público-Geral entrega lista eleitoral ao Governador do Rio de Janeiro e é nomeado",
@@ -616,7 +652,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9097365479029135878",
+      "id": "urn:defensorias:-8317100964494428466",
       "url": "",
       "title": "Defensoria e ITTC firmam parceria para ampliar acesso a direitos de mulheres migrantes presas em SP",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -724,7 +760,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3715193365665192259",
+      "id": "urn:defensorias:4872320599576998103",
       "url": "",
       "title": "Últimos dias para se inscrever no concurso da Defensoria Pública de SP com 70 vagas e salário inicial de R$ 29,7 mil",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -736,7 +772,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:339289087810973509",
+      "id": "urn:defensorias:5332449047474704123",
       "url": "",
       "title": "Defensoria Pública de SP promove mutirão #DáPraResolver em Araraquara e amplia acesso a direitos",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -796,7 +832,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8610770459242385238",
+      "id": "urn:defensorias:7558235146874217880",
       "url": "",
       "title": "Defensoria Pública de SP abre inscrições para mutirão #DáPraResolver em Araraquara",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -808,7 +844,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:943704318286559025",
+      "id": "urn:defensorias:7057698451210624184",
       "url": "",
       "title": "Defensoria Pública de SP e IPT firmam parceria para fortalecer a defesa do direito à moradia",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -820,7 +856,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3023300973598003060",
+      "id": "urn:defensorias:8953072931514197844",
       "url": "",
       "title": "Defensoria Pública de SP segue com inscrições abertas para concurso com 70 vagas e salário inicial de R$ 29,7 mil",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -832,7 +868,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-375927146319825282",
+      "id": "urn:defensorias:-5815686815725920785",
       "url": "",
       "title": "Defensoria realiza oitava edição do #DáPraResolver e atende 73 pessoas em Mogi das Cruzes",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",

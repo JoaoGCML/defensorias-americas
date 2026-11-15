@@ -4,6 +4,54 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed.json",
   "items": [
     {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/boa-vista-recebe-oficina-gratuita-de-audiovisual-que-antecede-16a-mostra-de-cinema-e-direitos-humanos",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/boa-vista-recebe-oficina-gratuita-de-audiovisual-que-antecede-16a-mostra-de-cinema-e-direitos-humanos",
+      "title": "Boa Vista recebe oficina gratuita de audiovisual que antecede 16ª Mostra de Cinema e Direitos Humanos",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-11-15T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-teresina-atividade-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-teresina-atividade-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
+      "title": "Inscrições abertas para oficina gratuita de audiovisual em Teresina, atividade prévia da 16ª Mostra de Cinema e Direitos Humanos",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-11-15T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-viabiliza-dotacion-de-medicamentos-para-pacientes-diabeticos",
+      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-viabiliza-dotacion-de-medicamentos-para-pacientes-diabeticos",
+      "title": "DEFENSORÍA DEL PUEBLO VIABILIZA DOTACIÓN DE MEDICAMENTOS PARA PACIENTES DIABÉTICOS",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-11-14T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-exhorta-al-estado-a-fortalecer-el-comite-nacional-de-lucha-contra-el-racismo-y-toda-forma-de-discriminacion",
+      "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-exhorta-al-estado-a-fortalecer-el-comite-nacional-de-lucha-contra-el-racismo-y-toda-forma-de-discriminacion",
+      "title": "DEFENSOR DEL PUEBLO EXHORTA AL ESTADO A FORTALECER EL COMITÉ NACIONAL DE LUCHA CONTRA EL RACISMO Y TODA FORMA DE DISCRIMINACIÓN",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-11-14T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-maceio-atividade-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-maceio-atividade-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
       "title": "Inscrições abertas para oficina gratuita de audiovisual em Maceió, atividade prévia da 16ª Mostra de Cinema e Direitos Humanos",
@@ -20,6 +68,18 @@
       "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4381/",
       "title": "NUDEM inicia grupo inédito para homens autores de violência na Defensoria Pública de Pernambuco",
       "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-11-14T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/defensoria-publica-e-instituto-da-crianca-com-diabetes-elaboram-cartilha-sobre-cuidados-com-a-saude-e-garantia-de-direitos",
+      "url": "https://www.defensoria.rs.def.br/defensoria-publica-e-instituto-da-crianca-com-diabetes-elaboram-cartilha-sobre-cuidados-com-a-saude-e-garantia-de-direitos",
+      "title": "Defensoria Pública e Instituto da Criança com Diabetes elaboram cartilha sobre cuidados com a saúde e garantia de direitos",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
       "date_published": "2026-11-14T00:00:00",
       "tags": [
         "Brasil",
@@ -280,7 +340,31 @@
       ]
     },
     {
-      "id": "urn:defensorias:2565305379993653637",
+      "id": "https://www.defensoria.rs.def.br/defensoria-publica-realiza-mutirao-de-atendimentos-sobre-superendividamento-na-zona-norte-de-porto-alegre",
+      "url": "https://www.defensoria.rs.def.br/defensoria-publica-realiza-mutirao-de-atendimentos-sobre-superendividamento-na-zona-norte-de-porto-alegre",
+      "title": "Defensoria Pública realiza mutirão de atendimentos sobre superendividamento, na zona norte de Porto Alegre",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-11-13T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.rs.def.br/dpe-rs-promove-mais-uma-etapa-de-formacao-de-liderancas-para-situacoes-de-emergencia-climatica",
+      "url": "https://www.defensoria.rs.def.br/dpe-rs-promove-mais-uma-etapa-de-formacao-de-liderancas-para-situacoes-de-emergencia-climatica",
+      "title": "DPE/RS promove mais uma etapa de formação de lideranças para situações de emergência climática",
+      "summary": "Defensoria Pública do Estado do Rio Grande do Sul (Brasil)",
+      "date_published": "2026-11-13T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:-4511030789217824871",
       "url": "",
       "title": "Noticias 13 de noviembre de 2026 Entrega de colchón hospitalario en la ciudad de Limpio Funcionarias de la Dirección Gral. de Asistencia Social de la",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -364,7 +448,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7945337411536563423",
+      "id": "urn:defensorias:8379358166212202772",
       "url": "",
       "title": "Mães em Cárcere, da Defensoria de SP, bate recorde e atende 39% mais mulheres que em todo o ano de 2025",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -508,7 +592,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3880961883236527706",
+      "id": "urn:defensorias:-6542629805692183339",
       "url": "",
       "title": "Informe Anual 2026: Defensoría de la Niñez alerta brechas en ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -532,7 +616,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1494591628848712662",
+      "id": "urn:defensorias:-1467240640518715670",
       "url": "",
       "title": "Noticias 12 de noviembre de 2026 Colegios privados no pueden impedir exámenes ni retener calificaciones por deudas, advierte la Defensoría del Pueblo",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -631,30 +715,6 @@
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/governo-do-brasil-repatria-remanescentes-osseos-de-mulher-de-ascendencia-africana-em-cerimonia-no-museu-nacional-ufrj-1",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/governo-do-brasil-repatria-remanescentes-osseos-de-mulher-de-ascendencia-africana-em-cerimonia-no-museu-nacional-ufrj-1",
       "title": "Governo do Brasil repatria remanescentes ósseos de mulher de ascendência africana em cerimônia no Museu Nacional/UFRJ",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-11T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-recebe-liderancas-indigenas-de-rondonia-para-discutir-denuncias-de-violacoes-de-direitos-humanos",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-recebe-liderancas-indigenas-de-rondonia-para-discutir-denuncias-de-violacoes-de-direitos-humanos",
-      "title": "MDHC recebe lideranças indígenas de Rondônia para discutir denúncias de violações de direitos humanos",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-11T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-porto-alegre-previa-a-16a-mostra-de-cinema-e-direitos-humanos",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-porto-alegre-previa-a-16a-mostra-de-cinema-e-direitos-humanos",
-      "title": "Inscrições abertas para oficina gratuita de audiovisual em Porto Alegre, prévia a 16ª Mostra de Cinema e Direitos Humanos",
       "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
       "date_published": "2026-11-11T00:00:00",
       "tags": [
@@ -784,7 +844,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5464507678116497854",
+      "id": "urn:defensorias:-8288720870707178459",
       "url": "",
       "title": "Noticias 11 de noviembre de 2026 Caso ueno bank: Ponemos a disposición los formularios para afectados La Defensoría del Pueblo informa a la ciudadanía",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -796,7 +856,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8970240521587973293",
+      "id": "urn:defensorias:-315234097727333622",
       "url": "",
       "title": "Noticias 11 de noviembre de 2026 Caso ueno bank: Ampliamos nuestro horario de atención para recibir denuncias de afectados Con el objetivo de facilita",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -928,7 +988,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9097365479029135878",
+      "id": "urn:defensorias:-8317100964494428466",
       "url": "",
       "title": "Defensoria e ITTC firmam parceria para ampliar acesso a direitos de mulheres migrantes presas em SP",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -1060,7 +1120,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8248598260735963125",
+      "id": "urn:defensorias:5534416418035400884",
       "url": "",
       "title": "Noticias 10 de noviembre de 2026 Pronunciamiento del Defensor del Pueblo ante los hechos vinculados al caso Ueno y la protección de los derechos ciuda",
       "summary": "Defensoría del Pueblo del Paraguay (Paraguay)",
@@ -1135,66 +1195,6 @@
       "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-logra-traslado-de-nino-recien-nacido-con-hidrocefalia-desde-sullana-a-hospital-especializado-en-lima/",
       "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-logra-traslado-de-nino-recien-nacido-con-hidrocefalia-desde-sullana-a-hospital-especializado-en-lima/",
       "title": "Defensoría del Pueblo logra traslado de niño recién nacido con hidrocefalia desde Sullana a hospital especializado en Lima",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-11-10T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-logra-cama-uci-y-traslado-a-lima-de-bebe-con-estado-delicado-de-salud/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-logra-cama-uci-y-traslado-a-lima-de-bebe-con-estado-delicado-de-salud/",
-      "title": "Defensoría del Pueblo logra cama UCI y traslado a Lima de bebé con estado delicado de salud",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-11-10T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/fenomeno-el-nino-defensoria-del-pueblo-pide-garantizar-seguridad-de-escolares-y-damnificados-que-compartiran-ambientes-de-colegio-en-tumbes/",
-      "url": "https://www.defensoria.gob.pe/fenomeno-el-nino-defensoria-del-pueblo-pide-garantizar-seguridad-de-escolares-y-damnificados-que-compartiran-ambientes-de-colegio-en-tumbes/",
-      "title": "Fenómeno El Niño: Defensoría del Pueblo pide garantizar seguridad de escolares y damnificados que compartirán ambientes de colegio en Tumbes",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-11-10T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-presencia-de-roedores-y-alimentos-afectados-en-colegio-emblematico-daniel-alcides-carrion-de-pasco/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-presencia-de-roedores-y-alimentos-afectados-en-colegio-emblematico-daniel-alcides-carrion-de-pasco/",
-      "title": "Defensoría del Pueblo advierte presencia de roedores y alimentos afectados en colegio emblemático Daniel Alcides Carrión de Pasco",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-11-10T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-centro-de-salud-de-la-matanza-y-advierte-necesidad-de-garantizar-abastecimiento-oportuno-de-vacunas-y-operatividad-del-equipamiento-medico/",
-      "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-centro-de-salud-de-la-matanza-y-advierte-necesidad-de-garantizar-abastecimiento-oportuno-de-vacunas-y-operatividad-del-equipamiento-medico/",
-      "title": "Defensoría del Pueblo supervisa Centro de Salud de La Matanza y advierte necesidad de garantizar abastecimiento oportuno de vacunas y operatividad del equipamiento médico",
-      "summary": "Defensoría del Pueblo del Perú (Perú)",
-      "date_published": "2026-11-10T00:00:00",
-      "tags": [
-        "Perú",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.pe/participamos-en-reunion-de-seguimiento-para-fortalecer-la-implementacion-del-mecanismo-de-tarjetas-alimentarias-del-pantbc/",
-      "url": "https://www.defensoria.gob.pe/participamos-en-reunion-de-seguimiento-para-fortalecer-la-implementacion-del-mecanismo-de-tarjetas-alimentarias-del-pantbc/",
-      "title": "Participamos en reunión de seguimiento para fortalecer la implementación del mecanismo de tarjetas alimentarias del PANTBC",
       "summary": "Defensoría del Pueblo del Perú (Perú)",
       "date_published": "2026-11-10T00:00:00",
       "tags": [

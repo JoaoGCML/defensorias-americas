@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Perú</title>
   <id>urn:defensorias-americas:prensa:peru</id>
-  <updated>2026-11-14T13:58:59Z</updated>
+  <updated>2026-11-15T14:35:38Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-peru.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -144,12 +144,5 @@
     <link href="https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-deficiencias-en-nuevo-hospital-de-iquitos-que-impedirian-su-adecuado-funcionamiento/" />
     <updated>2026-11-09T00:00:00</updated>
     <summary>Defensoría del Pueblo del Perú (Perú) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Comunicado n.° 063/DP/2026</title>
-    <id>https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-063-2026.pdf</id>
-    <link href="https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-063-2026.pdf" type="application/pdf" />
-    <updated>2026-10-16T00:00:00</updated>
-    <summary>Defensoría del Pueblo del Perú (Perú) — pronunciamientos</summary>
   </entry>
 </feed>

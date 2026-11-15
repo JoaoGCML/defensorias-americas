@@ -1,6 +1,6 @@
 {
   "dias": 30,
-  "timestamp": "20261114_1358",
+  "timestamp": "20261115_1435",
   "instituciones": [
     {
       "pais": "Argentina",
@@ -33,7 +33,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:56.985525"
+      "timestamp": "2026-11-15T14:32:41.221691"
     },
     {
       "pais": "Argentina",
@@ -61,7 +61,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:56.997192"
+      "timestamp": "2026-11-15T14:32:41.225375"
     },
     {
       "pais": "Argentina",
@@ -82,7 +82,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:56.997727"
+      "timestamp": "2026-11-15T14:32:41.225842"
     },
     {
       "pais": "Bolivia",
@@ -114,6 +114,20 @@
       ],
       "todos_items": [
         {
+          "titulo": "DEFENSORÍA DEL PUEBLO VIABILIZA DOTACIÓN DE MEDICAMENTOS PARA PACIENTES DIABÉTICOS",
+          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-viabiliza-dotacion-de-medicamentos-para-pacientes-diabeticos",
+          "fecha": "2026-11-14T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "DEFENSOR DEL PUEBLO EXHORTA AL ESTADO A FORTALECER EL COMITÉ NACIONAL DE LUCHA CONTRA EL RACISMO Y TODA FORMA DE DISCRIMINACIÓN",
+          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-exhorta-al-estado-a-fortalecer-el-comite-nacional-de-lucha-contra-el-racismo-y-toda-forma-de-discriminacion",
+          "fecha": "2026-11-14T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "COMUNICADO: SOBRE LA FACILITACIÓN AL DIÁLOGO ENTRE EL MAGISTERIO URBANO Y EL MINISTERIO DE EDUCACIÓN",
           "url": "https://www.defensoria.gob.bo/noticias/comunicadosobre-la-facilitacion-al-dialogo-entre-el-magisterio-urbano-y-el-ministerio-de-educacion",
           "fecha": "2026-11-13T00:00:00",
@@ -166,26 +180,26 @@
           "titulo": "DEFENSORÍA DEL PUEBLO ARTICULA CON UNIVIDA PROPUESTA DE SEGURO PARA PERIODISTAS Y TRABAJADORES DE LA PRENSA",
           "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-articula-con-univida-propuesta-de-seguro-para-periodistas-y-trabajadores-de-la-prensa",
           "fecha": "2026-11-06T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo fortalece la protección de derechos de residentes bolivianos y personas en situación de movilidad humana en Argentina",
-          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-fortalece-la-proteccion-de-derechos-de-residentes-bolivianos-y-personas-en-situacion-de-movilidad-humana-en-argentina",
-          "fecha": "2026-11-05T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo de Bolivia es reelegida para liderar la Red de Niñez y Adolescencia de la FIO",
-          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-de-bolivia-es-reelegida-para-liderar-la-red-de-ninyez-y-adolescencia-de-la-fio",
-          "fecha": "2026-11-05T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         }
       ],
       "items_en_periodo": [
         {
+          "titulo": "DEFENSORÍA DEL PUEBLO VIABILIZA DOTACIÓN DE MEDICAMENTOS PARA PACIENTES DIABÉTICOS",
+          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-viabiliza-dotacion-de-medicamentos-para-pacientes-diabeticos",
+          "fecha": "2026-11-14T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "DEFENSOR DEL PUEBLO EXHORTA AL ESTADO A FORTALECER EL COMITÉ NACIONAL DE LUCHA CONTRA EL RACISMO Y TODA FORMA DE DISCRIMINACIÓN",
+          "url": "https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-exhorta-al-estado-a-fortalecer-el-comite-nacional-de-lucha-contra-el-racismo-y-toda-forma-de-discriminacion",
+          "fecha": "2026-11-14T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "COMUNICADO: SOBRE LA FACILITACIÓN AL DIÁLOGO ENTRE EL MAGISTERIO URBANO Y EL MINISTERIO DE EDUCACIÓN",
           "url": "https://www.defensoria.gob.bo/noticias/comunicadosobre-la-facilitacion-al-dialogo-entre-el-magisterio-urbano-y-el-ministerio-de-educacion",
           "fecha": "2026-11-13T00:00:00",
@@ -240,25 +254,11 @@
           "fecha": "2026-11-06T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo fortalece la protección de derechos de residentes bolivianos y personas en situación de movilidad humana en Argentina",
-          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-fortalece-la-proteccion-de-derechos-de-residentes-bolivianos-y-personas-en-situacion-de-movilidad-humana-en-argentina",
-          "fecha": "2026-11-05T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Defensoría del Pueblo de Bolivia es reelegida para liderar la Red de Niñez y Adolescencia de la FIO",
-          "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-de-bolivia-es-reelegida-para-liderar-la-red-de-ninyez-y-adolescencia-de-la-fio",
-          "fecha": "2026-11-05T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:56.998308"
+      "timestamp": "2026-11-15T14:32:41.226264"
     },
     {
       "pais": "Brasil",
@@ -483,7 +483,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-14T13:57:56.998597"
+      "timestamp": "2026-11-15T14:32:41.226456"
     },
     {
       "pais": "Brasil",
@@ -509,6 +509,13 @@
           "es_pdf": false
         },
         {
+          "titulo": "Boa Vista recebe oficina gratuita de audiovisual que antecede 16ª Mostra de Cinema e Direitos Humanos",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/boa-vista-recebe-oficina-gratuita-de-audiovisual-que-antecede-16a-mostra-de-cinema-e-direitos-humanos",
+          "fecha": "2026-11-15T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "MDHC reúne gestores de todo o país para fortalecer a implementação das políticas públicas para pessoas com deficiência",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-reune-gestores-de-todo-o-pais-para-fortalecer-a-implementacao-das-politicas-publicas-para-pessoas-com-deficiencia",
           "fecha": "2026-11-13T00:00:00",
@@ -554,6 +561,13 @@
           "titulo": "Responsabilização dos autores dos assassinatos ocorridos em 2025 no assentamento Olga Benário",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/responsabilizacao-dos-autores-dos-assassinatos-ocorridos-em-2025-no-assentamento-olga-benario",
           "fecha": "2026-11-13T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Inscrições abertas para oficina gratuita de audiovisual em Teresina, atividade prévia da 16ª Mostra de Cinema e Direitos Humanos",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-teresina-atividade-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
+          "fecha": "2026-11-15T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
         },
@@ -626,23 +640,23 @@
           "fecha": "2026-11-11T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "MDHC recebe lideranças indígenas de Rondônia para discutir denúncias de violações de direitos humanos",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-recebe-liderancas-indigenas-de-rondonia-para-discutir-denuncias-de-violacoes-de-direitos-humanos",
-          "fecha": "2026-11-11T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Inscrições abertas para oficina gratuita de audiovisual em Porto Alegre, prévia a 16ª Mostra de Cinema e Direitos Humanos",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-porto-alegre-previa-a-16a-mostra-de-cinema-e-direitos-humanos",
-          "fecha": "2026-11-11T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_en_periodo": [
+        {
+          "titulo": "Boa Vista recebe oficina gratuita de audiovisual que antecede 16ª Mostra de Cinema e Direitos Humanos",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/boa-vista-recebe-oficina-gratuita-de-audiovisual-que-antecede-16a-mostra-de-cinema-e-direitos-humanos",
+          "fecha": "2026-11-15T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Inscrições abertas para oficina gratuita de audiovisual em Teresina, atividade prévia da 16ª Mostra de Cinema e Direitos Humanos",
+          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-teresina-atividade-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
+          "fecha": "2026-11-15T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
         {
           "titulo": "Inscrições abertas para oficina gratuita de audiovisual em Maceió, atividade prévia da 16ª Mostra de Cinema e Direitos Humanos",
           "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-maceio-atividade-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
@@ -768,25 +782,11 @@
           "fecha": "2026-11-11T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "MDHC recebe lideranças indígenas de Rondônia para discutir denúncias de violações de direitos humanos",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-recebe-liderancas-indigenas-de-rondonia-para-discutir-denuncias-de-violacoes-de-direitos-humanos",
-          "fecha": "2026-11-11T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Inscrições abertas para oficina gratuita de audiovisual em Porto Alegre, prévia a 16ª Mostra de Cinema e Direitos Humanos",
-          "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-porto-alegre-previa-a-16a-mostra-de-cinema-e-direitos-humanos",
-          "fecha": "2026-11-11T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:56.999521"
+      "timestamp": "2026-11-15T14:32:41.227068"
     },
     {
       "pais": "Brasil",
@@ -807,7 +807,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.000367"
+      "timestamp": "2026-11-15T14:32:41.227749"
     },
     {
       "pais": "Brasil",
@@ -948,7 +948,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.000845"
+      "timestamp": "2026-11-15T14:32:41.228512"
     },
     {
       "pais": "Brasil",
@@ -1111,7 +1111,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001201"
+      "timestamp": "2026-11-15T14:32:41.228765"
     },
     {
       "pais": "Brasil",
@@ -1302,7 +1302,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001235"
+      "timestamp": "2026-11-15T14:32:41.228783"
     },
     {
       "pais": "Brasil",
@@ -1605,7 +1605,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001256"
+      "timestamp": "2026-11-15T14:32:41.228795"
     },
     {
       "pais": "Brasil",
@@ -1684,7 +1684,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001273"
+      "timestamp": "2026-11-15T14:32:41.228821"
     },
     {
       "pais": "Brasil",
@@ -1705,7 +1705,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001288"
+      "timestamp": "2026-11-15T14:32:41.228828"
     },
     {
       "pais": "Brasil",
@@ -1718,15 +1718,59 @@
         {
           "url": "https://www.defensoria.rs.def.br/noticias/",
           "tipo": "noticias",
-          "ok": false,
-          "items": 0
+          "ok": true,
+          "items": 3
         }
       ],
-      "todos_items": [],
-      "items_en_periodo": [],
+      "todos_items": [
+        {
+          "titulo": "Defensoria Pública e Instituto da Criança com Diabetes elaboram cartilha sobre cuidados com a saúde e garantia de direitos",
+          "url": "https://www.defensoria.rs.def.br/defensoria-publica-e-instituto-da-crianca-com-diabetes-elaboram-cartilha-sobre-cuidados-com-a-saude-e-garantia-de-direitos",
+          "fecha": "2026-11-14T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria Pública realiza mutirão de atendimentos sobre superendividamento, na zona norte de Porto Alegre",
+          "url": "https://www.defensoria.rs.def.br/defensoria-publica-realiza-mutirao-de-atendimentos-sobre-superendividamento-na-zona-norte-de-porto-alegre",
+          "fecha": "2026-11-13T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "DPE/RS promove mais uma etapa de formação de lideranças para situações de emergência climática",
+          "url": "https://www.defensoria.rs.def.br/dpe-rs-promove-mais-uma-etapa-de-formacao-de-liderancas-para-situacoes-de-emergencia-climatica",
+          "fecha": "2026-11-13T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        }
+      ],
+      "items_en_periodo": [
+        {
+          "titulo": "Defensoria Pública e Instituto da Criança com Diabetes elaboram cartilha sobre cuidados com a saúde e garantia de direitos",
+          "url": "https://www.defensoria.rs.def.br/defensoria-publica-e-instituto-da-crianca-com-diabetes-elaboram-cartilha-sobre-cuidados-com-a-saude-e-garantia-de-direitos",
+          "fecha": "2026-11-14T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoria Pública realiza mutirão de atendimentos sobre superendividamento, na zona norte de Porto Alegre",
+          "url": "https://www.defensoria.rs.def.br/defensoria-publica-realiza-mutirao-de-atendimentos-sobre-superendividamento-na-zona-norte-de-porto-alegre",
+          "fecha": "2026-11-13T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "DPE/RS promove mais uma etapa de formação de lideranças para situações de emergência climática",
+          "url": "https://www.defensoria.rs.def.br/dpe-rs-promove-mais-uma-etapa-de-formacao-de-liderancas-para-situacoes-de-emergencia-climatica",
+          "fecha": "2026-11-13T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        }
+      ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001305"
+      "timestamp": "2026-11-15T14:32:41.228835"
     },
     {
       "pais": "Chile",
@@ -1753,7 +1797,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001323"
+      "timestamp": "2026-11-15T14:32:41.228843"
     },
     {
       "pais": "Chile",
@@ -2072,13 +2116,6 @@
           "fecha": "2026-10-20T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "A siete años del estallido social: Defensoría de la Niñez ...",
-          "url": "",
-          "fecha": "2026-10-16T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [
@@ -2112,7 +2149,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001342"
+      "timestamp": "2026-11-15T14:32:41.228850"
     },
     {
       "pais": "Chile",
@@ -2274,7 +2311,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001365"
+      "timestamp": "2026-11-15T14:32:41.228858"
     },
     {
       "pais": "Colombia",
@@ -2308,7 +2345,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001394"
+      "timestamp": "2026-11-15T14:32:41.228865"
     },
     {
       "pais": "Colombia",
@@ -2335,7 +2372,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001413"
+      "timestamp": "2026-11-15T14:32:41.228870"
     },
     {
       "pais": "Ecuador",
@@ -2363,7 +2400,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001430"
+      "timestamp": "2026-11-15T14:32:41.228876"
     },
     {
       "pais": "Paraguay",
@@ -2555,7 +2592,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001445"
+      "timestamp": "2026-11-15T14:32:41.228881"
     },
     {
       "pais": "Paraguay",
@@ -2690,7 +2727,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001458"
+      "timestamp": "2026-11-15T14:32:41.228891"
     },
     {
       "pais": "Perú",
@@ -3142,18 +3179,11 @@
           "fecha": "2026-11-09T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Comunicado n.° 063/DP/2026",
-          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-063-2026.pdf",
-          "fecha": "2026-10-16T00:00:00",
-          "tipo_seccion": "pronunciamientos",
-          "es_pdf": true
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001472"
+      "timestamp": "2026-11-15T14:32:41.228897"
     },
     {
       "pais": "Uruguay",
@@ -3431,13 +3461,6 @@
           "fecha": "2026-10-22T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Documental de la INDDHH sobre pueblo chaná se presentó en Soriano",
-          "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/documental-inddhh-sobre-pueblo-chana-se-presento-soriano",
-          "fecha": "2026-10-16T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [
@@ -3464,7 +3487,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001486"
+      "timestamp": "2026-11-15T14:32:41.228901"
     },
     {
       "pais": "Venezuela",
@@ -3557,7 +3580,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001501"
+      "timestamp": "2026-11-15T14:32:41.228906"
     },
     {
       "pais": "Guyana",
@@ -3636,7 +3659,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001522"
+      "timestamp": "2026-11-15T14:32:41.228911"
     },
     {
       "pais": "Costa Rica",
@@ -3670,7 +3693,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001547"
+      "timestamp": "2026-11-15T14:32:41.228921"
     },
     {
       "pais": "El Salvador",
@@ -3704,7 +3727,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001571"
+      "timestamp": "2026-11-15T14:32:41.228932"
     },
     {
       "pais": "Guatemala",
@@ -3738,7 +3761,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001590"
+      "timestamp": "2026-11-15T14:32:41.228941"
     },
     {
       "pais": "Honduras",
@@ -3766,7 +3789,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001607"
+      "timestamp": "2026-11-15T14:32:41.228947"
     },
     {
       "pais": "México",
@@ -3830,7 +3853,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001623"
+      "timestamp": "2026-11-15T14:32:41.228951"
     },
     {
       "pais": "Nicaragua",
@@ -3994,7 +4017,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001640"
+      "timestamp": "2026-11-15T14:32:41.228965"
     },
     {
       "pais": "Panamá",
@@ -4143,7 +4166,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001658"
+      "timestamp": "2026-11-15T14:32:41.228969"
     },
     {
       "pais": "Belice",
@@ -4164,7 +4187,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001673"
+      "timestamp": "2026-11-15T14:32:41.228976"
     },
     {
       "pais": "República Dominicana",
@@ -4300,7 +4323,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001691"
+      "timestamp": "2026-11-15T14:32:41.228981"
     },
     {
       "pais": "República Dominicana",
@@ -4321,7 +4344,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001711"
+      "timestamp": "2026-11-15T14:32:41.228990"
     },
     {
       "pais": "Jamaica",
@@ -4349,7 +4372,7 @@
         {
           "titulo": "Main navigation",
           "url": "https://opd.gov.jm/",
-          "fecha": "2026-01-31T00:00:00",
+          "fecha": null,
           "tipo_seccion": "news",
           "es_pdf": false
         },
@@ -4363,7 +4386,7 @@
         {
           "titulo": "Citizen Support",
           "url": "https://opd.gov.jm/news",
-          "fecha": "2026-01-31T00:00:00",
+          "fecha": null,
           "tipo_seccion": "news",
           "es_pdf": false
         },
@@ -4406,8 +4429,22 @@
       "items_en_periodo": [],
       "items_sin_fecha": [
         {
+          "titulo": "Main navigation",
+          "url": "https://opd.gov.jm/",
+          "fecha": null,
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
           "titulo": "Information",
           "url": "https://opd.gov.jm/publications-and-reports",
+          "fecha": null,
+          "tipo_seccion": "news",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Citizen Support",
+          "url": "https://opd.gov.jm/news",
           "fecha": null,
           "tipo_seccion": "news",
           "es_pdf": false
@@ -4428,7 +4465,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001733"
+      "timestamp": "2026-11-15T14:32:41.228999"
     },
     {
       "pais": "Trinidad y Tobago",
@@ -4456,7 +4493,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001755"
+      "timestamp": "2026-11-15T14:32:41.229003"
     },
     {
       "pais": "Curaçao",
@@ -4541,7 +4578,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001775"
+      "timestamp": "2026-11-15T14:32:41.229009"
     },
     {
       "pais": "Haití",
@@ -4569,7 +4606,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001794"
+      "timestamp": "2026-11-15T14:32:41.229014"
     },
     {
       "pais": "Canadá",
@@ -4748,7 +4785,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001829"
+      "timestamp": "2026-11-15T14:32:41.229019"
     },
     {
       "pais": "Canadá",
@@ -4891,7 +4928,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001850"
+      "timestamp": "2026-11-15T14:32:41.229023"
     },
     {
       "pais": "Canadá",
@@ -5085,39 +5122,11 @@
           "fecha": "2026-10-18T00:00:00",
           "tipo_seccion": "news",
           "es_pdf": false
-        },
-        {
-          "titulo": "ServiceOntario not meeting French-language service needs, ombudsman report says (CBC News)",
-          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/serviceontario-not-meeting-french-language-service-needs-ombudsman-report-says-cbc-news",
-          "fecha": "2026-10-16T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "ServiceOntario lagging in French-language needs: Ombudsman (Toronto Sun)",
-          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/serviceontario-lagging-french-language-needs-ombudsman-toronto-sun",
-          "fecha": "2026-10-16T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "« Personne ne parle français ici » : rapport accablant sur ServiceOntario (Radio-Canada)",
-          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/personne-ne-parle-francais-ici-rapport-accablant-sur-serviceontario-radio-canada",
-          "fecha": "2026-10-16T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Report finds ServiceOntario failing French-speaking residents (CTV News)",
-          "url": "https://www.ombudsman.on.ca/en/news/speeches-and-articles/report-finds-serviceontario-failing-french-speaking-residents-ctv-news",
-          "fecha": "2026-10-16T00:00:00",
-          "tipo_seccion": "news",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001864"
+      "timestamp": "2026-11-15T14:32:41.229027"
     },
     {
       "pais": "Canadá",
@@ -5209,7 +5218,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001879"
+      "timestamp": "2026-11-15T14:32:41.229033"
     },
     {
       "pais": "Canadá",
@@ -5379,7 +5388,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001899"
+      "timestamp": "2026-11-15T14:32:41.229039"
     },
     {
       "pais": "Canadá",
@@ -5400,7 +5409,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001919"
+      "timestamp": "2026-11-15T14:32:41.229045"
     },
     {
       "pais": "Canadá",
@@ -5421,7 +5430,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001939"
+      "timestamp": "2026-11-15T14:32:41.229049"
     },
     {
       "pais": "Canadá",
@@ -5485,7 +5494,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001958"
+      "timestamp": "2026-11-15T14:32:41.229055"
     },
     {
       "pais": "Canadá",
@@ -5535,7 +5544,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001977"
+      "timestamp": "2026-11-15T14:32:41.229059"
     },
     {
       "pais": "Regional",
@@ -5556,7 +5565,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.001995"
+      "timestamp": "2026-11-15T14:32:41.229063"
     },
     {
       "pais": "Regional",
@@ -5680,13 +5689,6 @@
           "fecha": "2026-10-20T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "La RINDHCA en coordinación con la Corte Interamericana de Derechos Humanos llevan a cabo la segunda sesión del Curso específico: Democracia, Estado de Derecho y Derechos Humanos en la jurisprudencia de la Corte Interamericana de Derechos Humanos",
-          "url": "https://www.rindhca.org/la-rindhca-en-coordinacion-con-la-corte-interamericana-de-derechos-humanos-llevan-a-cabo-la-segunda-sesion-del-curso-especifico-democracia-estado-de-derecho-y-derechos-humanos-en-la-jurisprudencia-d/",
-          "fecha": "2026-10-16T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [
@@ -5720,7 +5722,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.002023"
+      "timestamp": "2026-11-15T14:32:41.229067"
     },
     {
       "pais": "Regional",
@@ -5790,7 +5792,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.002041"
+      "timestamp": "2026-11-15T14:32:41.229071"
     },
     {
       "pais": "Regional",
@@ -6065,7 +6067,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.002060"
+      "timestamp": "2026-11-15T14:32:41.229075"
     },
     {
       "pais": "Regional",
@@ -6092,7 +6094,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-14T13:57:57.002075"
+      "timestamp": "2026-11-15T14:32:41.229080"
     }
   ]
 }
