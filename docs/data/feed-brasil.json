@@ -4,6 +4,78 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
+      "id": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-de-licitacao-aquisicao-de-ventiladores",
+      "url": "https://defensoria.al.def.br/index.php/noticias/aviso-de-dispensa-de-licitacao-aquisicao-de-ventiladores",
+      "title": "Aviso de Dispensa de Licitação - Aquisição de ventiladores",
+      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
+      "date_published": "2026-11-17T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-sao-luis-atividade-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/inscricoes-abertas-para-oficina-gratuita-de-audiovisual-em-sao-luis-atividade-previa-da-16a-mostra-de-cinema-e-direitos-humanos",
+      "title": "Inscrições abertas para oficina gratuita de audiovisual em São Luís, atividade prévia da 16ª Mostra de Cinema e Direitos Humanos",
+      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
+      "date_published": "2026-11-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/33166-Atuacao-da-DPRJ-garante-30-de-vagas-em-concursos-publicos-para-pessoas-negras-em-Nilopolis",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33166-Atuacao-da-DPRJ-garante-30-de-vagas-em-concursos-publicos-para-pessoas-negras-em-Nilopolis",
+      "title": "Atuação da DPRJ garante 30% de vagas em concursos públicos para pessoas negras em Nilópolis",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-11-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/33167-Defensoria-Publica-apresentou-servicos-de-saude-e-defesa-do-consumidor-na-FISWeek",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33167-Defensoria-Publica-apresentou-servicos-de-saude-e-defesa-do-consumidor-na-FISWeek",
+      "title": "Defensoria Pública apresentou serviços de acesso à saúde e de defesa do consumidor na Fisweek",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-11-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4383/",
+      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4383/",
+      "title": "Núcleo de Saúde da Defensoria Pública atua para garantir acesso da população aos serviços do SUS em Pernambuco",
+      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-11-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/11/16/defensoria-ta-na-area-encerra-calendario-de-2026-com-atendimentos-no-mercado-de-origem/",
+      "url": "https://defensoria.am.def.br/2026/11/16/defensoria-ta-na-area-encerra-calendario-de-2026-com-atendimentos-no-mercado-de-origem/",
+      "title": "‘Defensoria Tá na Área’ encerra calendário de 2026 com atendimentos no Mercado de Origem",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-11-16T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/boa-vista-recebe-oficina-gratuita-de-audiovisual-que-antecede-16a-mostra-de-cinema-e-direitos-humanos",
       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/boa-vista-recebe-oficina-gratuita-de-audiovisual-que-antecede-16a-mostra-de-cinema-e-direitos-humanos",
       "title": "Boa Vista recebe oficina gratuita de audiovisual que antecede 16ª Mostra de Cinema e Direitos Humanos",
@@ -364,7 +436,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8379358166212202772",
+      "id": "urn:defensorias:-7224747883521206241",
       "url": "",
       "title": "Mães em Cárcere, da Defensoria de SP, bate recorde e atende 39% mais mulheres que em todo o ano de 2025",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -544,18 +616,6 @@
       ]
     },
     {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/governo-do-brasil-repatria-remanescentes-osseos-de-mulher-de-ascendencia-africana-em-cerimonia-no-museu-nacional-ufrj-1",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/governo-do-brasil-repatria-remanescentes-osseos-de-mulher-de-ascendencia-africana-em-cerimonia-no-museu-nacional-ufrj-1",
-      "title": "Governo do Brasil repatria remanescentes ósseos de mulher de ascendência africana em cerimônia no Museu Nacional/UFRJ",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-11T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.rj.def.br/noticia/detalhes/33143-Defensor-Publico-Geral-entrega-lista-eleitoral-ao-Governador-em-exercicio-do-Rio-de-Janeiro",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/33143-Defensor-Publico-Geral-entrega-lista-eleitoral-ao-Governador-em-exercicio-do-Rio-de-Janeiro",
       "title": "Defensor Público-Geral entrega lista eleitoral ao Governador do Rio de Janeiro e é nomeado",
@@ -652,7 +712,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8317100964494428466",
+      "id": "urn:defensorias:-7087853486049079961",
       "url": "",
       "title": "Defensoria e ITTC firmam parceria para ampliar acesso a direitos de mulheres migrantes presas em SP",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -748,19 +808,7 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/11/10/defensoria-abre-inscricoes-para-processo-seletivo-de-residencia-juridica-em-manaquiri/",
-      "url": "https://defensoria.am.def.br/2026/11/10/defensoria-abre-inscricoes-para-processo-seletivo-de-residencia-juridica-em-manaquiri/",
-      "title": "Defensoria abre inscrições para processo seletivo de residência jurídica em Manaquiri",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-11-10T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:4872320599576998103",
+      "id": "urn:defensorias:-1126907557745036747",
       "url": "",
       "title": "Últimos dias para se inscrever no concurso da Defensoria Pública de SP com 70 vagas e salário inicial de R$ 29,7 mil",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -772,7 +820,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5332449047474704123",
+      "id": "urn:defensorias:2772678974117943840",
       "url": "",
       "title": "Defensoria Pública de SP promove mutirão #DáPraResolver em Araraquara e amplia acesso a direitos",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -796,43 +844,7 @@
       ]
     },
     {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/33137-Paulo-Vinicius-Cozzolino-Abrahao-e-reeleito-defensor-publico-geral-com-votacao-recorde",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/33137-Paulo-Vinicius-Cozzolino-Abrahao-e-reeleito-defensor-publico-geral-com-votacao-recorde",
-      "title": "Paulo Vinícius Cozzolino Abrahão é reeleito defensor público-geral com votação recorde",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-11-06T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.pe.def.br/noticias/detalhe/4362/",
-      "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4362/",
-      "title": "Defensoria Pública de Pernambuco recebe estudantes do Centro Universitário São Miguel para visita institucional",
-      "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
-      "date_published": "2026-11-06T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/33124-Defensoria-cobra-esclarecimentos-sobre-suspensao-da-emergencia-e-do-CTI-de-hospital-em-Nilopolis",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/33124-Defensoria-cobra-esclarecimentos-sobre-suspensao-da-emergencia-e-do-CTI-de-hospital-em-Nilopolis",
-      "title": "Defensoria cobra esclarecimentos sobre suspensão da emergência e do CTI de hospital em Nilópolis",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-11-04T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:7558235146874217880",
+      "id": "urn:defensorias:2921772020226739528",
       "url": "",
       "title": "Defensoria Pública de SP abre inscrições para mutirão #DáPraResolver em Araraquara",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -844,7 +856,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7057698451210624184",
+      "id": "urn:defensorias:-5620729418697526470",
       "url": "",
       "title": "Defensoria Pública de SP e IPT firmam parceria para fortalecer a defesa do direito à moradia",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -856,7 +868,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8953072931514197844",
+      "id": "urn:defensorias:-1545896936766301691",
       "url": "",
       "title": "Defensoria Pública de SP segue com inscrições abertas para concurso com 70 vagas e salário inicial de R$ 29,7 mil",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -868,7 +880,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5815686815725920785",
+      "id": "urn:defensorias:-2703694625967002109",
       "url": "",
       "title": "Defensoria realiza oitava edição do #DáPraResolver e atende 73 pessoas em Mogi das Cruzes",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",

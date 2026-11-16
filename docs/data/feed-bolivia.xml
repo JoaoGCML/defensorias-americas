@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-11-15T14:35:38Z</updated>
+  <updated>2026-11-16T16:48:54Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>DEFENSORÍA DEL PUEBLO IMPLEMENTA PROCESO DE CAPACITACIÓN PARA GESTORES COMUNITARIOS EN TUMUPASA Y SAN BUENAVENTURA</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-implementa-proceso-de-capacitacion-para-gestores-comunitarios-en-tumupasa-y-san-buenaventura</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-implementa-proceso-de-capacitacion-para-gestores-comunitarios-en-tumupasa-y-san-buenaventura" />
+    <updated>2026-11-16T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>DEFENSORÍA DEL PUEBLO VIABILIZA DOTACIÓN DE MEDICAMENTOS PARA PACIENTES DIABÉTICOS</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-viabiliza-dotacion-de-medicamentos-para-pacientes-diabeticos</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/fiodefensor-del-pueblo-destaca-cooperacion-regional-y-alerta-temprana-para-proteger-la-independencia-de-las-defensorias</id>
     <link href="https://www.defensoria.gob.bo/noticias/fiodefensor-del-pueblo-destaca-cooperacion-regional-y-alerta-temprana-para-proteger-la-independencia-de-las-defensorias" />
     <updated>2026-11-07T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>DEFENSORÍA DEL PUEBLO ARTICULA CON UNIVIDA PROPUESTA DE SEGURO PARA PERIODISTAS Y TRABAJADORES DE LA PRENSA</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-articula-con-univida-propuesta-de-seguro-para-periodistas-y-trabajadores-de-la-prensa</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-articula-con-univida-propuesta-de-seguro-para-periodistas-y-trabajadores-de-la-prensa" />
-    <updated>2026-11-06T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>

@@ -4,7 +4,19 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "urn:defensorias:-6542629805692183339",
+      "id": "https://www.indh.cl/indh-lucha-venegas-defensora-derechos-ninez/",
+      "url": "https://www.indh.cl/indh-lucha-venegas-defensora-derechos-ninez/",
+      "title": "Lucha Venegas, defensora de los derechos de la niñez: “No basta con cambiarle el nombre a las instituciones”",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-11-16T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:8442762860290819060",
       "url": "",
       "title": "Informe Anual 2026: Defensoría de la Niñez alerta brechas en ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -96,7 +108,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -124,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-384912111025971481",
+      "id": "urn:defensorias:-4462855880852052732",
       "url": "",
       "title": "Defensoría de la Niñez buscará revertir inadmisibilidad de amparo ante ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -136,7 +148,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-4380921652035932820",
+      "id": "urn:defensorias:4872938045125046817",
       "url": "",
       "title": "Defensoría de la Niñez y UNICEF impulsan mecanismo de monitoreo ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -148,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3139810190110685252",
+      "id": "urn:defensorias:7151740000047792323",
       "url": "",
       "title": "Defensoría de la Niñez presenta recurso de amparo para dejar ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3229216569533552724",
+      "id": "urn:defensorias:5837538822014214648",
       "url": "",
       "title": "T13 Radio | Entrevista al Defensor de la Niñez por...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-9158796205007503605",
+      "id": "urn:defensorias:2952162196193345861",
       "url": "",
       "title": "Defensor de la Niñez expone ante la CIDH graves brechas ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:753803707946790208",
+      "id": "urn:defensorias:4309074424991416063",
       "url": "",
       "title": "Biobio.cl | Defensor de Niñez denuncia ante CIDH suspensión de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1836285114961421895",
+      "id": "urn:defensorias:3594596646695049471",
       "url": "",
       "title": "T13 | Entrevista al Defensor de la Niñez: rebajas de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-1041214502905001302",
+      "id": "urn:defensorias:-6049702460176750394",
       "url": "",
       "title": "La Tercera | Columna de opinión, por el Defensor de...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:378642324289499396",
+      "id": "urn:defensorias:-6001352882905092385",
       "url": "",
       "title": "24 Horas | «Revictimizante»: el Defensor de la Niñez lamenta...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:6303736875079352364",
+      "id": "urn:defensorias:3140964159131843489",
       "url": "",
       "title": "Radio ADN | Entrevista al Defensor de la Niñez, sobre...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4219924473689408416",
+      "id": "urn:defensorias:9205987755589888642",
       "url": "",
       "title": "Radio U. de Chile | Defensor de la Niñez: «Bajo...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,7 +268,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1930046615337816923",
+      "id": "urn:defensorias:-5175532133587720379",
       "url": "",
       "title": "Defensoría de la Niñez rechaza el otorgamiento de beneficios a ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -268,7 +280,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8751669268167169752",
+      "id": "urn:defensorias:7688649532303807543",
       "url": "",
       "title": "Radio biobio | Entrevista al Defensor de la Niñez, Anuar...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -280,7 +292,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5609061170793089528",
+      "id": "urn:defensorias:-7045448143868045916",
       "url": "",
       "title": "Defensor de la Niñez aborda desafíos de protección y participación ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -292,7 +304,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7874714239406115592",
+      "id": "urn:defensorias:8888141531489908826",
       "url": "",
       "title": "Defensoría de la Niñez advierte que más de la mitad ...",
       "summary": "Defensoría de la Niñez (Chile)",
