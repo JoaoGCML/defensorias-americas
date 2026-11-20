@@ -4,11 +4,47 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.json",
   "items": [
     {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/comunicados/presente-futuro-infancias-adolescencias-protagonistas",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/comunicados/presente-futuro-infancias-adolescencias-protagonistas",
+      "title": "El presente y el futuro: las infancias y adolescencias como protagonistas",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-11-20T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "comunicados"
+      ]
+    },
+    {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-comparecio-ante-parlamento-proyecto-ley-sobre-capacidad-juridica",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-comparecio-ante-parlamento-proyecto-ley-sobre-capacidad-juridica",
+      "title": "La INDDHH compareció ante el Parlamento por el proyecto de ley sobre capacidad jurídica de las personas con discapacidad",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-11-19T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-presento-parlamento-riesgos-asociados-salidas-acordadas-del-sistema",
       "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-presento-parlamento-riesgos-asociados-salidas-acordadas-del-sistema",
       "title": "La INDDHH presentó al Parlamento los riesgos asociados a las salidas no acordadas del sistema de protección del INAU",
       "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
       "date_published": "2026-11-19T00:00:00",
+      "tags": [
+        "Uruguay",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/documental-chana-se-proyecto-rocha",
+      "url": "https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/documental-chana-se-proyecto-rocha",
+      "title": "Documental chaná se proyectó en Rocha",
+      "summary": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay)",
+      "date_published": "2026-11-13T00:00:00",
       "tags": [
         "Uruguay",
         "Sudamérica",

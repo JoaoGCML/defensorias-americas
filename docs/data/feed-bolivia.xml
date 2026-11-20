@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-11-19T16:23:10Z</updated>
+  <updated>2026-11-20T15:57:18Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>PRONUNCIAMIENTO: DEFENSORÍA DEL PUEBLO INSTA A AVANZAR EN LA REPARACIÓN INTEGRAL Y EL ACCESO A LA JUSTICIA PARA LAS VÍCTIMAS DE 2019</title>
+    <id>https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-insta-a-avanzar-en-la-reparacion-integral-y-el-acceso-a-la-justicia-para-las-victimas-de-2019</id>
+    <link href="https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-insta-a-avanzar-en-la-reparacion-integral-y-el-acceso-a-la-justicia-para-las-victimas-de-2019" />
+    <updated>2026-11-19T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensor del Pueblo y EDUCO fortalecen capacidades para prevenir la trata en niñas, niños y adolescentes</title>
     <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-y-educo-fortalecen-capacidades-para-prevenir-la-trata-en-ninyas,-ninyos-y-adolescentes</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/pronunciamientodefensoria-del-pueblo-alerta-sobre-riesgo-de-afectaciones-al-derecho-a-la-educacion-y-exhorta-al-dialogo-en-el-conflicto-del-magisterio</id>
     <link href="https://www.defensoria.gob.bo/noticias/pronunciamientodefensoria-del-pueblo-alerta-sobre-riesgo-de-afectaciones-al-derecho-a-la-educacion-y-exhorta-al-dialogo-en-el-conflicto-del-magisterio" />
     <updated>2026-11-11T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Defensoría del Pueblo y UNIVALLE concluyen segunda versión de la Catedra Libre sobre Derechos Humanos en la Era Digital</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-univalle-concluyen-segunda-version-de-la-catedra-libre-sobre-derechos-humanos-en-la-era-digital</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-univalle-concluyen-segunda-version-de-la-catedra-libre-sobre-derechos-humanos-en-la-era-digital" />
-    <updated>2026-11-10T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>

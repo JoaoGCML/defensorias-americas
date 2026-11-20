@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Canadá</title>
   <id>urn:defensorias-americas:prensa:canada</id>
-  <updated>2026-11-19T16:23:10Z</updated>
+  <updated>2026-11-20T15:57:18Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
   <entry>
@@ -53,12 +53,5 @@
     <link href="https://www.ombudsman.on.ca/en/news/speeches-and-articles/speech-carl-bouchard-annual-conference-assemblee-de-la-francophonie-de-lontario" />
     <updated>2026-10-22T00:00:00</updated>
     <summary>Ombudsman Ontario (Canadá) — news</summary>
-  </entry>
-  <entry>
-    <title>Canada’s next housing strategy starts with Budget 2026</title>
-    <id>https://www.chrc-ccdp.gc.ca/resources/newsroom/canadas-next-housing-strategy-starts-budget-2026</id>
-    <link href="https://www.chrc-ccdp.gc.ca/resources/newsroom/canadas-next-housing-strategy-starts-budget-2026" />
-    <updated>2026-10-21T00:00:00</updated>
-    <summary>Canadian Human Rights Commission (Canadá) — newsroom</summary>
   </entry>
 </feed>
