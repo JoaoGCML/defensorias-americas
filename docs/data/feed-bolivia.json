@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.json",
   "items": [
     {
+      "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-policia-boliviana-fortalecen-coordinacion-para-promover-actuaciones-policiales-con-enfoque-de-derechos-humanos",
+      "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-policia-boliviana-fortalecen-coordinacion-para-promover-actuaciones-policiales-con-enfoque-de-derechos-humanos",
+      "title": "Defensoría del Pueblo y Policía Boliviana fortalecen coordinación para promover actuaciones policiales con enfoque de derechos humanos",
+      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
+      "date_published": "2026-11-20T00:00:00",
+      "tags": [
+        "Bolivia",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-insta-a-avanzar-en-la-reparacion-integral-y-el-acceso-a-la-justicia-para-las-victimas-de-2019",
       "url": "https://www.defensoria.gob.bo/noticias/pronunciamiento-defensoria-del-pueblo-insta-a-avanzar-en-la-reparacion-integral-y-el-acceso-a-la-justicia-para-las-victimas-de-2019",
       "title": "PRONUNCIAMIENTO: DEFENSORÍA DEL PUEBLO INSTA A AVANZAR EN LA REPARACIÓN INTEGRAL Y EL ACCESO A LA JUSTICIA PARA LAS VÍCTIMAS DE 2019",
@@ -103,18 +115,6 @@
       "id": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-facilita-acuerdo-entre-el-ministerio-de-educacion-y-el-magisterio-rural-para-encaminar-una-solucion-al-conflicto-sobre-los-institutos-tecnicos-y-tecnologicos",
       "url": "https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-facilita-acuerdo-entre-el-ministerio-de-educacion-y-el-magisterio-rural-para-encaminar-una-solucion-al-conflicto-sobre-los-institutos-tecnicos-y-tecnologicos",
       "title": "DEFENSORÍA DEL PUEBLO FACILITA ACUERDO ENTRE EL MINISTERIO DE EDUCACIÓN Y EL MAGISTERIO RURAL PARA ENCAMINAR UNA SOLUCIÓN AL CONFLICTO SOBRE LOS INSTITUTOS TÉCNICOS Y TECNOLÓGICOS",
-      "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
-      "date_published": "2026-11-11T00:00:00",
-      "tags": [
-        "Bolivia",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.defensoria.gob.bo/noticias/pronunciamientodefensoria-del-pueblo-alerta-sobre-riesgo-de-afectaciones-al-derecho-a-la-educacion-y-exhorta-al-dialogo-en-el-conflicto-del-magisterio",
-      "url": "https://www.defensoria.gob.bo/noticias/pronunciamientodefensoria-del-pueblo-alerta-sobre-riesgo-de-afectaciones-al-derecho-a-la-educacion-y-exhorta-al-dialogo-en-el-conflicto-del-magisterio",
-      "title": "PRONUNCIAMIENTO: DEFENSORÍA DEL PUEBLO ALERTA SOBRE RIESGO DE AFECTACIONES AL DERECHO A LA EDUCACIÓN Y EXHORTA AL DIÁLOGO EN EL CONFLICTO DEL MAGISTERIO",
       "summary": "Defensoría del Pueblo de Bolivia (Bolivia)",
       "date_published": "2026-11-11T00:00:00",
       "tags": [
