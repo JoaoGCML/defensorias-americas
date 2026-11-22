@@ -1,6 +1,6 @@
 {
   "dias": 30,
-  "timestamp": "20261121_1508",
+  "timestamp": "20261122_1505",
   "instituciones": [
     {
       "pais": "Argentina",
@@ -33,7 +33,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.876063"
+      "timestamp": "2026-11-22T15:04:45.541886"
     },
     {
       "pais": "Argentina",
@@ -61,7 +61,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.880175"
+      "timestamp": "2026-11-22T15:04:45.545811"
     },
     {
       "pais": "Argentina",
@@ -82,7 +82,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.880701"
+      "timestamp": "2026-11-22T15:04:45.546295"
     },
     {
       "pais": "Bolivia",
@@ -258,7 +258,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.881298"
+      "timestamp": "2026-11-22T15:04:45.546545"
     },
     {
       "pais": "Brasil",
@@ -483,7 +483,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.881623"
+      "timestamp": "2026-11-22T15:04:45.546848"
     },
     {
       "pais": "Brasil",
@@ -504,7 +504,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.882790"
+      "timestamp": "2026-11-22T15:04:45.547102"
     },
     {
       "pais": "Brasil",
@@ -525,7 +525,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.883313"
+      "timestamp": "2026-11-22T15:04:45.547314"
     },
     {
       "pais": "Brasil",
@@ -666,7 +666,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.883787"
+      "timestamp": "2026-11-22T15:04:45.548043"
     },
     {
       "pais": "Brasil",
@@ -829,7 +829,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884101"
+      "timestamp": "2026-11-22T15:04:45.548284"
     },
     {
       "pais": "Brasil",
@@ -1020,7 +1020,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884132"
+      "timestamp": "2026-11-22T15:04:45.548303"
     },
     {
       "pais": "Brasil",
@@ -1323,7 +1323,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884156"
+      "timestamp": "2026-11-22T15:04:45.548313"
     },
     {
       "pais": "Brasil",
@@ -1403,7 +1403,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884177"
+      "timestamp": "2026-11-22T15:04:45.548322"
     },
     {
       "pais": "Brasil",
@@ -1424,7 +1424,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884196"
+      "timestamp": "2026-11-22T15:04:45.548333"
     },
     {
       "pais": "Brasil",
@@ -1443,6 +1443,13 @@
       ],
       "todos_items": [
         {
+          "titulo": "Defensoria Pública do Estado e ADPERGS se mobilizam para auxiliar atingidos pelo temporal em Tupanciretã",
+          "url": "https://www.defensoria.rs.def.br/defensoria-publica-e-adpergs-se-mobilizam-para-auxiliar-atingidos-pelo-temporal-em-tupancireta",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoria encerra participação no Missões Justiça e Cidadania garantindo acesso a direitos e diálogo com a comunidade da região",
           "url": "https://www.defensoria.rs.def.br/defensoria-encerra-participacao-no-missoes-justica-e-cidadania-garantindo-acesso-a-direitos-e-dialogo-com-a-comunidade-da-regiao",
           "fecha": "2026-11-19T00:00:00",
@@ -1452,13 +1459,6 @@
         {
           "titulo": "Ação da DPE/RS garante plano para continuidade da reabilitação intelectual de pacientes desassistidos em Porto Alegre",
           "url": "https://www.defensoria.rs.def.br/acao-da-dpe-rs-garante-plano-para-continuidade-da-reabilitacao-intelectual-de-pacientes-desassistidos-em-porto-alegre",
-          "fecha": "2026-11-19T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Em troca interestadual de experiências, NUDEP participa de visita técnica a complexo penitenciário em Minas Gerais",
-          "url": "https://www.defensoria.rs.def.br/em-troca-interestadual-de-experiencias-nudep-participa-de-visita-tecnica-a-complexo-penitenciario-em-minas-gerais",
           "fecha": "2026-11-19T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
@@ -1466,6 +1466,13 @@
       ],
       "items_en_periodo": [
         {
+          "titulo": "Defensoria Pública do Estado e ADPERGS se mobilizam para auxiliar atingidos pelo temporal em Tupanciretã",
+          "url": "https://www.defensoria.rs.def.br/defensoria-publica-e-adpergs-se-mobilizam-para-auxiliar-atingidos-pelo-temporal-em-tupancireta",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
           "titulo": "Defensoria encerra participação no Missões Justiça e Cidadania garantindo acesso a direitos e diálogo com a comunidade da região",
           "url": "https://www.defensoria.rs.def.br/defensoria-encerra-participacao-no-missoes-justica-e-cidadania-garantindo-acesso-a-direitos-e-dialogo-com-a-comunidade-da-regiao",
           "fecha": "2026-11-19T00:00:00",
@@ -1478,18 +1485,11 @@
           "fecha": "2026-11-19T00:00:00",
           "tipo_seccion": "noticias",
           "es_pdf": false
-        },
-        {
-          "titulo": "Em troca interestadual de experiências, NUDEP participa de visita técnica a complexo penitenciário em Minas Gerais",
-          "url": "https://www.defensoria.rs.def.br/em-troca-interestadual-de-experiencias-nudep-participa-de-visita-tecnica-a-complexo-penitenciario-em-minas-gerais",
-          "fecha": "2026-11-19T00:00:00",
-          "tipo_seccion": "noticias",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884218"
+      "timestamp": "2026-11-22T15:04:45.548341"
     },
     {
       "pais": "Chile",
@@ -1516,7 +1516,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884228"
+      "timestamp": "2026-11-22T15:04:45.548352"
     },
     {
       "pais": "Chile",
@@ -1793,34 +1793,6 @@
           "fecha": "2026-10-27T00:00:00",
           "tipo_seccion": "prensa",
           "es_pdf": false
-        },
-        {
-          "titulo": "T13 | Entrevista al Defensor de la Niñez: rebajas de...",
-          "url": "",
-          "fecha": "2026-10-23T00:00:00",
-          "tipo_seccion": "prensa",
-          "es_pdf": false
-        },
-        {
-          "titulo": "La Tercera | Columna de opinión, por el Defensor de...",
-          "url": "",
-          "fecha": "2026-10-23T00:00:00",
-          "tipo_seccion": "prensa",
-          "es_pdf": false
-        },
-        {
-          "titulo": "24 Horas | «Revictimizante»: el Defensor de la Niñez lamenta...",
-          "url": "",
-          "fecha": "2026-10-23T00:00:00",
-          "tipo_seccion": "prensa",
-          "es_pdf": false
-        },
-        {
-          "titulo": "Radio ADN | Entrevista al Defensor de la Niñez, sobre...",
-          "url": "",
-          "fecha": "2026-10-23T00:00:00",
-          "tipo_seccion": "prensa",
-          "es_pdf": false
         }
       ],
       "items_sin_fecha": [
@@ -1854,7 +1826,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884247"
+      "timestamp": "2026-11-22T15:04:45.548362"
     },
     {
       "pais": "Chile",
@@ -2072,7 +2044,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884267"
+      "timestamp": "2026-11-22T15:04:45.548376"
     },
     {
       "pais": "Colombia",
@@ -2106,7 +2078,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884282"
+      "timestamp": "2026-11-22T15:04:45.548384"
     },
     {
       "pais": "Colombia",
@@ -2133,7 +2105,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884293"
+      "timestamp": "2026-11-22T15:04:45.548391"
     },
     {
       "pais": "Ecuador",
@@ -2161,7 +2133,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884301"
+      "timestamp": "2026-11-22T15:04:45.548399"
     },
     {
       "pais": "Paraguay",
@@ -2353,7 +2325,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884309"
+      "timestamp": "2026-11-22T15:04:45.548406"
     },
     {
       "pais": "Paraguay",
@@ -2488,7 +2460,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884316"
+      "timestamp": "2026-11-22T15:04:45.548413"
     },
     {
       "pais": "Perú",
@@ -2502,14 +2474,14 @@
         {
           "url": "https://www.defensoria.gob.pe/noticias/",
           "tipo": "noticias",
-          "ok": false,
-          "items": 0
+          "ok": true,
+          "items": 20
         },
         {
           "url": "https://www.defensoria.gob.pe/pronunciamientos/",
           "tipo": "pronunciamientos",
-          "ok": false,
-          "items": 0
+          "ok": true,
+          "items": 20
         },
         {
           "url": "https://www.defensoria.gob.pe/alertas/",
@@ -2518,11 +2490,433 @@
           "items": 0
         }
       ],
-      "todos_items": [],
-      "items_en_periodo": [],
+      "todos_items": [
+        {
+          "titulo": "Defensoría del Pueblo y Cámara de Comercio de Lima suscriben convenio para fortalecer la cooperación interinstitucional",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-y-camara-de-comercio-de-lima-suscriben-convenio-para-fortalecer-la-cooperacion-interinstitucional/",
+          "fecha": "2026-11-12T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo saluda implementación de mejoras en el Hospital Jorge Reátegui Delgado de EsSalud Piura tras supervisión",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-saluda-implementacion-de-mejoras-en-el-hospital-jorge-reategui-delgado-de-essalud-piura-tras-supervision/",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo lidera coordinación interinstitucional para prevenir conflictos sociales tras las elecciones en el Centro Poblado Puerto Pizarro",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-lidera-coordinacion-interinstitucional-para-prevenir-conflictos-sociales-tras-las-elecciones-en-el-centro-poblado-puerto-pizarro/",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisa el respeto de los derechos fundamentales de personas detenidas en Operativo Nacional de la DIRCOTE",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-el-respeto-de-los-derechos-fundamentales-de-personas-detenidas-en-operativo-nacional-de-la-dircote/",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisó el Hospital Sergio Bernales y verificó su plan frente al Fenómeno El Niño 2026-2027",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-superviso-el-hospital-sergio-bernales-y-verifico-su-plan-frente-al-fenomeno-el-nino-2026-2027/",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo: en octubre se registraron 192 conflictos sociales a nivel nacional",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-en-octubre-se-registraron-192-conflictos-sociales-a-nivel-nacional/",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisa atención de emergencia y despliega oficinas defensoriales tras sismo de magnitud 6.7 en Junín",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-atencion-de-emergencia-y-despliega-oficinas-defensoriales-tras-sismo-de-magnitud-6-7-en-junin/",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisó medidas de seguridad durante concierto en el estadio San Marcos",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-superviso-medidas-de-seguridad-durante-concierto-en-el-estadio-san-marcos/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo advierte limitaciones de personal y deficiencias en puesto de salud de Villa María del Triunfo ante riesgo de dengue",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-limitaciones-de-personal-y-deficiencias-en-puesto-de-salud-de-villa-maria-del-triunfo-ante-riesgo-de-dengue/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo fortalece capacidades de docentes y directivos para prevenir la violencia escolar en San Borja",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-fortalece-capacidades-de-docentes-y-directivos-para-prevenir-la-violencia-escolar-en-san-borja/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisa trabajos de defensas ribereñas y recomienda reponer puertas en parapetos del río Piura",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-trabajos-de-defensas-riberenas-y-recomienda-reponer-puertas-en-parapetos-del-rio-piura/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Piura: Defensoría del Pueblo recomienda a EsSalud revisar procedimientos para la obtención de certificados de incapacidad temporal para el trabajo",
+          "url": "https://www.defensoria.gob.pe/piura-defensoria-del-pueblo-recomienda-a-essalud-revisar-procedimientos-para-la-obtencion-de-certificados-de-incapacidad-temporal-para-el-trabajo/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo alerta deficiencias en infraestructura, servicios básicos y falta de personal en el centro de salud de Papayal",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-alerta-deficiencias-en-infraestructura-servicios-basicos-y-falta-de-personal-en-el-centro-de-salud-de-papayal/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo insta al Estado fortalecer acciones concretas para garantizar los derechos de niños y adolescentes",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-insta-al-estado-fortalecer-acciones-concretas-para-garantizar-los-derechos-de-ninos-y-adolescentes/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "DEFENSORIA DEL PUEBLO PARTICIPA EN REUNIÓN MULTISECTORIAL PARA ABORDAR PUNTOS CRÍTICOS DE ACUMULACIÓN DE RESIDUOS SÓLIDOS EN PIURA",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-participa-en-reunion-multisectorial-para-abordar-puntos-criticos-de-acumulacion-de-residuos-solidos-en-piura/",
+          "fecha": "2026-11-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "¡ Dos jóvenes acceden a becas e ingresan a la Universidad Nacional de Frontera!",
+          "url": "https://www.defensoria.gob.pe/dos-jovenes-acceden-a-becas-e-ingresan-a-la-universidad-nacional-de-frontera/",
+          "fecha": "2026-11-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo exige protección inmediata para adolescente víctima de presunta violencia familiar en Loreto",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-proteccion-inmediata-para-adolescente-victima-de-presunta-violencia-familiar-en-loreto/",
+          "fecha": "2026-11-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo promueve una convivencia escolar libre de violencia en ferias informativas dirigidas a niños y adolescentes de la provincia de Virú",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-una-convivencia-escolar-libre-de-violencia-en-ferias-informativas-dirigidas-a-ninos-y-adolescentes-de-la-provincia-de-viru/",
+          "fecha": "2026-11-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo logra restablecimiento del servicio de agua potable en Nueva Honoria",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-logra-restablecimiento-del-servicio-de-agua-potable-en-nueva-honoria/",
+          "fecha": "2026-11-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo advierte graves deficiencias en el servicio de emergencia del Hospital Jorge Reátegui Delgado de EsSalud en Piura",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-graves-deficiencias-en-el-servicio-de-emergencia-del-hospital-jorge-reategui-delgado-de-essalud-en-piura/",
+          "fecha": "2026-11-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Comunicado n.° 063/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-063-2026.pdf",
+          "fecha": "2026-10-16T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 062/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-062-2026.pdf",
+          "fecha": "2026-10-05T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 061/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/10/Comunicado-061-2026.pdf",
+          "fecha": "2026-10-03T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 060/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-060-2026.pdf",
+          "fecha": "2026-09-24T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 059/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-059-2026.pdf",
+          "fecha": "2026-09-23T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 058/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-058-2026.pdf",
+          "fecha": "2026-09-21T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 057/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-057-2026.pdf",
+          "fecha": "2026-09-20T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 056/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-056-2026.pdf",
+          "fecha": "2026-09-19T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 055/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-055-2026.pdf",
+          "fecha": "2026-09-19T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 054/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-054-2026.pdf",
+          "fecha": "2026-09-19T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 053/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-053-2026.pdf",
+          "fecha": "2026-09-16T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 052/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-052-2026.pdf",
+          "fecha": "2026-09-15T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 051/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/09/Comunicado-051-2026.pdf",
+          "fecha": "2026-09-01T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 050/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/08/Comunicado-n-050-DP.pdf",
+          "fecha": "2026-08-30T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 049/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/08/Comunicado-049-2026.pdf",
+          "fecha": "2026-08-28T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 048/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/08/Comunicado-048-2026.pdf",
+          "fecha": "2026-08-15T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 047/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/08/Comunicado-047-2026.pdf",
+          "fecha": "2026-08-12T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 046/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Comunicado-n-046-DP.pdf",
+          "fecha": "2026-07-27T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 045/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Comunicado-n-045-DP.pdf",
+          "fecha": "2026-07-26T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        },
+        {
+          "titulo": "Comunicado n.° 044/DP/2026",
+          "url": "https://www.defensoria.gob.pe/wp-content/uploads/2026/07/Comunicado-n-044-DP.pdf",
+          "fecha": "2026-07-24T00:00:00",
+          "tipo_seccion": "pronunciamientos",
+          "es_pdf": true
+        }
+      ],
+      "items_en_periodo": [
+        {
+          "titulo": "Defensoría del Pueblo saluda implementación de mejoras en el Hospital Jorge Reátegui Delgado de EsSalud Piura tras supervisión",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-saluda-implementacion-de-mejoras-en-el-hospital-jorge-reategui-delgado-de-essalud-piura-tras-supervision/",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo lidera coordinación interinstitucional para prevenir conflictos sociales tras las elecciones en el Centro Poblado Puerto Pizarro",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-lidera-coordinacion-interinstitucional-para-prevenir-conflictos-sociales-tras-las-elecciones-en-el-centro-poblado-puerto-pizarro/",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisa el respeto de los derechos fundamentales de personas detenidas en Operativo Nacional de la DIRCOTE",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-el-respeto-de-los-derechos-fundamentales-de-personas-detenidas-en-operativo-nacional-de-la-dircote/",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisó el Hospital Sergio Bernales y verificó su plan frente al Fenómeno El Niño 2026-2027",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-superviso-el-hospital-sergio-bernales-y-verifico-su-plan-frente-al-fenomeno-el-nino-2026-2027/",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo: en octubre se registraron 192 conflictos sociales a nivel nacional",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-en-octubre-se-registraron-192-conflictos-sociales-a-nivel-nacional/",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisa atención de emergencia y despliega oficinas defensoriales tras sismo de magnitud 6.7 en Junín",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-atencion-de-emergencia-y-despliega-oficinas-defensoriales-tras-sismo-de-magnitud-6-7-en-junin/",
+          "fecha": "2026-11-21T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisó medidas de seguridad durante concierto en el estadio San Marcos",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-superviso-medidas-de-seguridad-durante-concierto-en-el-estadio-san-marcos/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo advierte limitaciones de personal y deficiencias en puesto de salud de Villa María del Triunfo ante riesgo de dengue",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-limitaciones-de-personal-y-deficiencias-en-puesto-de-salud-de-villa-maria-del-triunfo-ante-riesgo-de-dengue/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo fortalece capacidades de docentes y directivos para prevenir la violencia escolar en San Borja",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-fortalece-capacidades-de-docentes-y-directivos-para-prevenir-la-violencia-escolar-en-san-borja/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo supervisa trabajos de defensas ribereñas y recomienda reponer puertas en parapetos del río Piura",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-supervisa-trabajos-de-defensas-riberenas-y-recomienda-reponer-puertas-en-parapetos-del-rio-piura/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Piura: Defensoría del Pueblo recomienda a EsSalud revisar procedimientos para la obtención de certificados de incapacidad temporal para el trabajo",
+          "url": "https://www.defensoria.gob.pe/piura-defensoria-del-pueblo-recomienda-a-essalud-revisar-procedimientos-para-la-obtencion-de-certificados-de-incapacidad-temporal-para-el-trabajo/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo alerta deficiencias en infraestructura, servicios básicos y falta de personal en el centro de salud de Papayal",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-alerta-deficiencias-en-infraestructura-servicios-basicos-y-falta-de-personal-en-el-centro-de-salud-de-papayal/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo insta al Estado fortalecer acciones concretas para garantizar los derechos de niños y adolescentes",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-insta-al-estado-fortalecer-acciones-concretas-para-garantizar-los-derechos-de-ninos-y-adolescentes/",
+          "fecha": "2026-11-20T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "DEFENSORIA DEL PUEBLO PARTICIPA EN REUNIÓN MULTISECTORIAL PARA ABORDAR PUNTOS CRÍTICOS DE ACUMULACIÓN DE RESIDUOS SÓLIDOS EN PIURA",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-participa-en-reunion-multisectorial-para-abordar-puntos-criticos-de-acumulacion-de-residuos-solidos-en-piura/",
+          "fecha": "2026-11-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "¡ Dos jóvenes acceden a becas e ingresan a la Universidad Nacional de Frontera!",
+          "url": "https://www.defensoria.gob.pe/dos-jovenes-acceden-a-becas-e-ingresan-a-la-universidad-nacional-de-frontera/",
+          "fecha": "2026-11-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo exige protección inmediata para adolescente víctima de presunta violencia familiar en Loreto",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-exige-proteccion-inmediata-para-adolescente-victima-de-presunta-violencia-familiar-en-loreto/",
+          "fecha": "2026-11-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo promueve una convivencia escolar libre de violencia en ferias informativas dirigidas a niños y adolescentes de la provincia de Virú",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-promueve-una-convivencia-escolar-libre-de-violencia-en-ferias-informativas-dirigidas-a-ninos-y-adolescentes-de-la-provincia-de-viru/",
+          "fecha": "2026-11-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo logra restablecimiento del servicio de agua potable en Nueva Honoria",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-logra-restablecimiento-del-servicio-de-agua-potable-en-nueva-honoria/",
+          "fecha": "2026-11-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo advierte graves deficiencias en el servicio de emergencia del Hospital Jorge Reátegui Delgado de EsSalud en Piura",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-advierte-graves-deficiencias-en-el-servicio-de-emergencia-del-hospital-jorge-reategui-delgado-de-essalud-en-piura/",
+          "fecha": "2026-11-19T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        },
+        {
+          "titulo": "Defensoría del Pueblo y Cámara de Comercio de Lima suscriben convenio para fortalecer la cooperación interinstitucional",
+          "url": "https://www.defensoria.gob.pe/defensoria-del-pueblo-y-camara-de-comercio-de-lima-suscriben-convenio-para-fortalecer-la-cooperacion-interinstitucional/",
+          "fecha": "2026-11-12T00:00:00",
+          "tipo_seccion": "noticias",
+          "es_pdf": false
+        }
+      ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884333"
+      "timestamp": "2026-11-22T15:04:45.548420"
     },
     {
       "pais": "Uruguay",
@@ -2854,7 +3248,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884353"
+      "timestamp": "2026-11-22T15:04:45.548428"
     },
     {
       "pais": "Venezuela",
@@ -2940,7 +3334,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884362"
+      "timestamp": "2026-11-22T15:04:45.548454"
     },
     {
       "pais": "Guyana",
@@ -3019,7 +3413,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884371"
+      "timestamp": "2026-11-22T15:04:45.548462"
     },
     {
       "pais": "Costa Rica",
@@ -3053,7 +3447,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884383"
+      "timestamp": "2026-11-22T15:04:45.548472"
     },
     {
       "pais": "El Salvador",
@@ -3087,7 +3481,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884392"
+      "timestamp": "2026-11-22T15:04:45.548479"
     },
     {
       "pais": "Guatemala",
@@ -3121,7 +3515,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884399"
+      "timestamp": "2026-11-22T15:04:45.548486"
     },
     {
       "pais": "Honduras",
@@ -3149,7 +3543,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884406"
+      "timestamp": "2026-11-22T15:04:45.548494"
     },
     {
       "pais": "México",
@@ -3213,7 +3607,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884426"
+      "timestamp": "2026-11-22T15:04:45.548502"
     },
     {
       "pais": "Nicaragua",
@@ -3377,7 +3771,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884444"
+      "timestamp": "2026-11-22T15:04:45.548509"
     },
     {
       "pais": "Panamá",
@@ -3526,7 +3920,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884453"
+      "timestamp": "2026-11-22T15:04:45.548518"
     },
     {
       "pais": "Belice",
@@ -3547,7 +3941,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884463"
+      "timestamp": "2026-11-22T15:04:45.548530"
     },
     {
       "pais": "República Dominicana",
@@ -3676,7 +4070,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884470"
+      "timestamp": "2026-11-22T15:04:45.548537"
     },
     {
       "pais": "República Dominicana",
@@ -3697,7 +4091,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884480"
+      "timestamp": "2026-11-22T15:04:45.548545"
     },
     {
       "pais": "Jamaica",
@@ -3804,7 +4198,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884490"
+      "timestamp": "2026-11-22T15:04:45.548554"
     },
     {
       "pais": "Trinidad y Tobago",
@@ -3832,7 +4226,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884505"
+      "timestamp": "2026-11-22T15:04:45.548561"
     },
     {
       "pais": "Curaçao",
@@ -3932,7 +4326,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884538"
+      "timestamp": "2026-11-22T15:04:45.548569"
     },
     {
       "pais": "Haití",
@@ -3960,7 +4354,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884548"
+      "timestamp": "2026-11-22T15:04:45.548579"
     },
     {
       "pais": "Canadá",
@@ -4139,7 +4533,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884556"
+      "timestamp": "2026-11-22T15:04:45.548586"
     },
     {
       "pais": "Canadá",
@@ -4275,7 +4669,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884564"
+      "timestamp": "2026-11-22T15:04:45.548594"
     },
     {
       "pais": "Canadá",
@@ -4452,7 +4846,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884572"
+      "timestamp": "2026-11-22T15:04:45.548604"
     },
     {
       "pais": "Canadá",
@@ -4544,7 +4938,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884583"
+      "timestamp": "2026-11-22T15:04:45.548612"
     },
     {
       "pais": "Canadá",
@@ -4714,7 +5108,7 @@
       ],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884597"
+      "timestamp": "2026-11-22T15:04:45.548622"
     },
     {
       "pais": "Canadá",
@@ -4735,7 +5129,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884622"
+      "timestamp": "2026-11-22T15:04:45.548642"
     },
     {
       "pais": "Canadá",
@@ -4756,7 +5150,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884633"
+      "timestamp": "2026-11-22T15:04:45.548652"
     },
     {
       "pais": "Canadá",
@@ -4820,7 +5214,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884640"
+      "timestamp": "2026-11-22T15:04:45.548659"
     },
     {
       "pais": "Canadá",
@@ -4870,7 +5264,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884647"
+      "timestamp": "2026-11-22T15:04:45.548667"
     },
     {
       "pais": "Regional",
@@ -4891,7 +5285,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884661"
+      "timestamp": "2026-11-22T15:04:45.548674"
     },
     {
       "pais": "Regional",
@@ -5055,7 +5449,7 @@
         }
       ],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884669"
+      "timestamp": "2026-11-22T15:04:45.548683"
     },
     {
       "pais": "Regional",
@@ -5125,7 +5519,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884675"
+      "timestamp": "2026-11-22T15:04:45.548693"
     },
     {
       "pais": "Regional",
@@ -5146,7 +5540,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884682"
+      "timestamp": "2026-11-22T15:04:45.548701"
     },
     {
       "pais": "Regional",
@@ -5173,7 +5567,7 @@
       "items_en_periodo": [],
       "items_sin_fecha": [],
       "error": "",
-      "timestamp": "2026-11-21T15:07:13.884701"
+      "timestamp": "2026-11-22T15:04:45.548708"
     }
   ]
 }
