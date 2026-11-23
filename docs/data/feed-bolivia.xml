@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Bolivia</title>
   <id>urn:defensorias-americas:prensa:bolivia</id>
-  <updated>2026-11-22T15:05:48Z</updated>
+  <updated>2026-11-23T19:01:31Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-bolivia.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Defensor del Pueblo alerta sobre el incremento de muertes violentas en cárceles y exige un Plan Integral de Seguridad Penitenciaria</title>
+    <id>https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-sobre-el-incremento-de-muertes-violentas-en-carceles-y-exige-un-plan-integral-de-seguridad-penitenciaria</id>
+    <link href="https://www.defensoria.gob.bo/noticias/defensor-del-pueblo-alerta-sobre-el-incremento-de-muertes-violentas-en-carceles-y-exige-un-plan-integral-de-seguridad-penitenciaria" />
+    <updated>2026-11-23T00:00:00</updated>
+    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
+  </entry>
   <entry>
     <title>Defensoría del Pueblo y Policía Boliviana fortalecen coordinación para promover actuaciones policiales con enfoque de derechos humanos</title>
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-y-policia-boliviana-fortalecen-coordinacion-para-promover-actuaciones-policiales-con-enfoque-de-derechos-humanos</id>
@@ -66,13 +73,6 @@
     <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-viabilizo-libertad-de-julio-lero,-tras-absolucion-judicial</id>
     <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-viabilizo-libertad-de-julio-lero,-tras-absolucion-judicial" />
     <updated>2026-11-12T00:00:00</updated>
-    <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
-  </entry>
-  <entry>
-    <title>DEFENSORÍA DEL PUEBLO FACILITA ACUERDO ENTRE EL MINISTERIO DE EDUCACIÓN Y EL MAGISTERIO RURAL PARA ENCAMINAR UNA SOLUCIÓN AL CONFLICTO SOBRE LOS INSTITUTOS TÉCNICOS Y TECNOLÓGICOS</title>
-    <id>https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-facilita-acuerdo-entre-el-ministerio-de-educacion-y-el-magisterio-rural-para-encaminar-una-solucion-al-conflicto-sobre-los-institutos-tecnicos-y-tecnologicos</id>
-    <link href="https://www.defensoria.gob.bo/noticias/defensoria-del-pueblo-facilita-acuerdo-entre-el-ministerio-de-educacion-y-el-magisterio-rural-para-encaminar-una-solucion-al-conflicto-sobre-los-institutos-tecnicos-y-tecnologicos" />
-    <updated>2026-11-11T00:00:00</updated>
     <summary>Defensoría del Pueblo de Bolivia (Bolivia) — noticias</summary>
   </entry>
 </feed>
