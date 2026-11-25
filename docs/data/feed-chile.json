@@ -4,7 +4,43 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
-      "id": "urn:defensorias:-1599922497661526750",
+      "id": "https://www.indh.cl/indh-ohiggins-museo-memoria-impacto-prision-politica/",
+      "url": "https://www.indh.cl/indh-ohiggins-museo-memoria-impacto-prision-politica/",
+      "title": "INDH de O’Higgins y el Museo de la Memoria realizaron jornada sobre el impacto de la prisión política en mujeres con estudiantes de Rancagua y Coltauco",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-11-25T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-araucania-escuela-formacion-malleco/",
+      "url": "https://www.indh.cl/indh-araucania-escuela-formacion-malleco/",
+      "title": "INDH de La Araucanía finalizó exitosamente Escuela de Formación en Derechos Económicos y Sociales para dirigentas y dirigentes de la provincia de Malleco",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-11-24T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://www.indh.cl/indh-ohiggins-talleres-carabineros/",
+      "url": "https://www.indh.cl/indh-ohiggins-talleres-carabineros/",
+      "title": "INDH O’Higgins realizó talleres con funcionarias y funcionarios de Carabineros sobre función policial y uso de la fuerza en Rancagua y Pichilemu",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-11-24T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:7388800568322976531",
       "url": "",
       "title": "ADN | Defensoría de la Niñez alerta en el Congreso...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -76,34 +112,10 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-antecedentes-presuntas-amenazas/",
-      "url": "https://www.indh.cl/indh-antecedentes-presuntas-amenazas/",
-      "title": "INDH solicita antecedentes sobre reportes de plataformas digitales en investigaciones por presuntas amenazas contra autoridades",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-11-19T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:1805928954005598646",
+      "id": "urn:defensorias:-6877708127619832739",
       "url": "",
       "title": "Defensoría de la Niñez presenta en el Congreso muestra que ...",
       "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-11-17T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-araucania-taller-personas-mayores/",
-      "url": "https://www.indh.cl/indh-araucania-taller-personas-mayores/",
-      "title": "Sede del INDH en La Araucanía impartió taller sobre la nueva Ley de Personas Mayores en Loncoche",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
       "date_published": "2026-11-17T00:00:00",
       "tags": [
         "Chile",
@@ -120,7 +132,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -148,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-7508898826254217450",
+      "id": "urn:defensorias:6391984983560703930",
       "url": "",
       "title": "Informe Anual 2026: Defensoría de la Niñez alerta brechas en ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:5364476982879660339",
+      "id": "urn:defensorias:2913066428001116895",
       "url": "",
       "title": "Emol | Defensoría de la Niñez alerta por cuidado alternativo:...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1076398181016301837",
+      "id": "urn:defensorias:-7831271012752757875",
       "url": "",
       "title": "La Tercera | “El Estado falló”: defensor de la Niñez...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,31 +196,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-rios-solicita-informar-medidas/",
-      "url": "https://www.indh.cl/indh-rios-solicita-informar-medidas/",
-      "title": "INDH Los Ríos solicita a autoridades regionales informar medidas para resguardar abastecimiento de combustibles ante paro de transportistas",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-11-11T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "https://www.indh.cl/indh-lagos-gendarmeria-jornadas-reinsercion/",
-      "url": "https://www.indh.cl/indh-lagos-gendarmeria-jornadas-reinsercion/",
-      "title": "INDH de Los Lagos y Gendarmería desarrollaron jornadas para la reinserción social de personas privadas de libertad",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-11-11T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:5528738660727469475",
+      "id": "urn:defensorias:3033644048453615790",
       "url": "",
       "title": "Defensoría de la Niñez buscará revertir inadmisibilidad de amparo ante ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3686423584997469088",
+      "id": "urn:defensorias:146298281562364806",
       "url": "",
       "title": "Defensoría de la Niñez y UNICEF impulsan mecanismo de monitoreo ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -232,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:8287100050303464542",
+      "id": "urn:defensorias:1697272512641620188",
       "url": "",
       "title": "Defensoría de la Niñez presenta recurso de amparo para dejar ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -244,7 +232,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4964927160239587396",
+      "id": "urn:defensorias:-1827065242252925190",
       "url": "",
       "title": "T13 Radio | Entrevista al Defensor de la Niñez por...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -256,7 +244,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:3495602867976332239",
+      "id": "urn:defensorias:1541288192653093420",
       "url": "",
       "title": "Defensor de la Niñez expone ante la CIDH graves brechas ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -268,7 +256,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:7217126046808305640",
+      "id": "urn:defensorias:3098105794521505399",
       "url": "",
       "title": "Biobio.cl | Defensor de Niñez denuncia ante CIDH suspensión de...",
       "summary": "Defensoría de la Niñez (Chile)",
