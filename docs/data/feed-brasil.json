@@ -4,11 +4,11 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-brasil.json",
   "items": [
     {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/nota-de-pesar-2014-fabio-konder-comparato",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/nota-de-pesar-2014-fabio-konder-comparato",
-      "title": "Nota de pesar — Fábio Konder Comparato",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-25T00:00:00",
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/33190-Quilombo-Sacopa-conquista-CNPJ-com-apoio-juridico-da-Coordenadoria-de-Promocao-da-Equidade-Racial",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33190-Quilombo-Sacopa-conquista-CNPJ-com-apoio-juridico-da-Coordenadoria-de-Promocao-da-Equidade-Racial",
+      "title": "Quilombo Sacopã conquista CNPJ com apoio jurídico da Coordenadoria de Promoção da Equidade Racial",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-11-26T00:00:00",
       "tags": [
         "Brasil",
         "Sudamérica",
@@ -16,7 +16,55 @@
       ]
     },
     {
-      "id": "urn:defensorias:5196768853854599299",
+      "id": "https://defensoria.rj.def.br/noticia/detalhes/33189-DPRJ-garante-pleno-restabelecimento-de-energia-eletrica-e-agua-em-Paqueta",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33189-DPRJ-garante-pleno-restabelecimento-de-energia-eletrica-e-agua-em-Paqueta",
+      "title": "DPRJ garante pleno restabelecimento de energia elétrica e água em Paquetá",
+      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
+      "date_published": "2026-11-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/11/26/projeto-gente-da-319-defensoria-do-amazonas-leva-regularizacao-fundiaria-a-vila-do-puru-puru/",
+      "url": "https://defensoria.am.def.br/2026/11/26/projeto-gente-da-319-defensoria-do-amazonas-leva-regularizacao-fundiaria-a-vila-do-puru-puru/",
+      "title": "Projeto Gente da 319: Defensoria do Amazonas leva regularização fundiária à Vila do Puru Puru",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-11-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/11/26/justica-atende-a-pedido-da-defensoria-e-determina-transparencia-na-selecao-de-familias-para-programa-habitacional-em-codajas/",
+      "url": "https://defensoria.am.def.br/2026/11/26/justica-atende-a-pedido-da-defensoria-e-determina-transparencia-na-selecao-de-familias-para-programa-habitacional-em-codajas/",
+      "title": "Defensoria garante na Justiça transparência em programa habitacional de Codajás",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-11-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/11/26/defensoria-ta-na-area-oferece-atendimento-juridico-gratuito-neste-sabado-no-centro-de-manaus/",
+      "url": "https://defensoria.am.def.br/2026/11/26/defensoria-ta-na-area-oferece-atendimento-juridico-gratuito-neste-sabado-no-centro-de-manaus/",
+      "title": "‘Defensoria Tá na Área’ oferece atendimento jurídico gratuito neste sábado no Centro de Manaus",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-11-26T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "urn:defensorias:6612708965098174398",
       "url": "",
       "title": "Defensoria de SP obtém anulação de multa ambiental de mais de R$ 1 milhão aplicada a pescador em Ubatuba",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -28,7 +76,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5219373503356972939",
+      "id": "urn:defensorias:9011927891766816789",
       "url": "",
       "title": "Comunidade quilombola de Mongaguá obtém decisão contra exigências indevidas para registro de associação",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -68,6 +116,30 @@
       "url": "https://www.defensoria.pe.def.br/noticias/detalhe/4399/",
       "title": "DPPE leva cidadania e assistência jurídica gratuita à população durante ação da Alepe no Recife",
       "summary": "Defensoria Pública do Estado de Pernambuco (Brasil)",
+      "date_published": "2026-11-25T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/11/25/sede-do-nudem-completa-dois-anos-com-atendimento-especializado-e-acolhimento-a-mulheres-em-situacao-de-violencia/",
+      "url": "https://defensoria.am.def.br/2026/11/25/sede-do-nudem-completa-dois-anos-com-atendimento-especializado-e-acolhimento-a-mulheres-em-situacao-de-violencia/",
+      "title": "Sede do Nudem completa dois anos de acolhimento a mulheres em situação de violência",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
+      "date_published": "2026-11-25T00:00:00",
+      "tags": [
+        "Brasil",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
+      "id": "https://defensoria.am.def.br/2026/11/25/obra-do-defensor-publico-maurilio-casas-maia-e-premiada-no-18o-congresso-brasileiro-de-direito-do-consumidor/",
+      "url": "https://defensoria.am.def.br/2026/11/25/obra-do-defensor-publico-maurilio-casas-maia-e-premiada-no-18o-congresso-brasileiro-de-direito-do-consumidor/",
+      "title": "Obra de Maurilio Casas Maia é premiada em Congresso de Direito do Consumidor",
+      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
       "date_published": "2026-11-25T00:00:00",
       "tags": [
         "Brasil",
@@ -124,79 +196,7 @@
       ]
     },
     {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-fortalece-programa-de-protecao-a-defensores-de-direitos-humanos-no-amazonas-e-acompanha-129-pessoas-em-30-municipios",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-fortalece-programa-de-protecao-a-defensores-de-direitos-humanos-no-amazonas-e-acompanha-129-pessoas-em-30-municipios",
-      "title": "MDHC fortalece Programa de Proteção a Defensores de Direitos Humanos no Amazonas e acompanha 129 pessoas em 30 municípios",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mostra-de-cinema-e-direitos-humanos-chega-a-salvador-com-programacao-gratuita-sobre-envelhecimento-e-direitos-das-pessoas-idosas",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mostra-de-cinema-e-direitos-humanos-chega-a-salvador-com-programacao-gratuita-sobre-envelhecimento-e-direitos-das-pessoas-idosas",
-      "title": "Mostra de Cinema e Direitos Humanos chega a Salvador com programação gratuita sobre envelhecimento e direitos das pessoas idosas",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-defende-autonomia-e-participacao-das-pessoas-com-deficiencia-na-politica-nacional-de-cuidados",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-defende-autonomia-e-participacao-das-pessoas-com-deficiencia-na-politica-nacional-de-cuidados",
-      "title": "MDHC defende autonomia e participação das pessoas com deficiência na Política Nacional de Cuidados",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-reune-juventude-indigena-lgbtqia-guarani-kaiowa-em-seminarios-voltados-ao-enfrentamento-de-violencias-no-mato-grosso-do-sul",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-reune-juventude-indigena-lgbtqia-guarani-kaiowa-em-seminarios-voltados-ao-enfrentamento-de-violencias-no-mato-grosso-do-sul",
-      "title": "MDHC reúne juventude indígena LGBTQIA+ Guarani Kaiowá em seminários voltados ao enfrentamento de violências no Mato Grosso do Sul",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-faz-nova-entrega-de-embarcacoes-no-marajo-nesta-terca-feira-24",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-faz-nova-entrega-de-embarcacoes-no-marajo-nesta-terca-feira-24",
-      "title": "MDHC faz nova entrega de embarcações no Marajó nesta terça-feira (24)",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/ministerio-dos-direitos-humanos-e-da-cidadania-marca-presenca-na-23a-semana-nacional-de-ciencia-e-tecnologia",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/ministerio-dos-direitos-humanos-e-da-cidadania-marca-presenca-na-23a-semana-nacional-de-ciencia-e-tecnologia",
-      "title": "Ministério dos Direitos Humanos e da Cidadania marca presença na 23ª Semana Nacional de Ciência e Tecnologia",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-24T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-3414885485038704415",
+      "id": "urn:defensorias:-4694132531019275471",
       "url": "",
       "title": "Black Friday: Defensoria de SP orienta consumidores na Estação Palmeiras-Barra Funda nesta quarta (25)",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -340,66 +340,6 @@
       ]
     },
     {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/ministra-janine-mello-participa-da-31a-parada-do-orgulho-lgbti-do-rio-de-janeiro-e-reafirma-compromisso-com-a-garantia-de-direitos",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/ministra-janine-mello-participa-da-31a-parada-do-orgulho-lgbti-do-rio-de-janeiro-e-reafirma-compromisso-com-a-garantia-de-direitos",
-      "title": "Ministra Janine Mello participa da 31ª Parada do Orgulho LGBTI+ do Rio de Janeiro e reafirma compromisso com a garantia de direitos",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-23T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mostra-de-cinema-e-direitos-humanos-destaca-protagonismo-das-pessoas-idosas-em-rio-branco-fortaleza-e-no-rio-de-janeiro",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mostra-de-cinema-e-direitos-humanos-destaca-protagonismo-das-pessoas-idosas-em-rio-branco-fortaleza-e-no-rio-de-janeiro",
-      "title": "Mostra de Cinema e Direitos Humanos destaca protagonismo das pessoas idosas em Rio Branco, Fortaleza e no Rio de Janeiro",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-23T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/nota-a-imprensa",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/nota-a-imprensa",
-      "title": "Nota à imprensa",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-23T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/protecao-de-criancas-no-ambiente-digital-mjsp-e-mdhc-defendem-banimento-de-ferramentas-de-201cnudificacao201d-com-ia",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/protecao-de-criancas-no-ambiente-digital-mjsp-e-mdhc-defendem-banimento-de-ferramentas-de-201cnudificacao201d-com-ia",
-      "title": "Proteção de crianças no ambiente digital: MJSP e MDHC defendem banimento de ferramentas de “nudificação” com IA",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-23T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-discute-interseccionalidade-entre-racismo-e-capacitismo-e-invisibilidade-de-mulheres-negras-com-deficiencia",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-discute-interseccionalidade-entre-racismo-e-capacitismo-e-invisibilidade-de-mulheres-negras-com-deficiencia",
-      "title": "MDHC discute interseccionalidade entre racismo e capacitismo e invisibilidade de mulheres negras com deficiência",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-23T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.rj.def.br/noticia/detalhes/33179-DPRJ-participa-de-painel-sobre-inovacao-com-grandes-instituicoes-do-Judiciario-do-Rio",
       "url": "https://defensoria.rj.def.br/noticia/detalhes/33179-DPRJ-participa-de-painel-sobre-inovacao-com-grandes-instituicoes-do-Judiciario-do-Rio",
       "title": "Defensoria participa de painel sobre inovação com grandes instituições do estado do RJ",
@@ -508,42 +448,6 @@
       ]
     },
     {
-      "id": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-deste-fim-de-20-a-22-de-novembro-de-2026",
-      "url": "https://defensoria.al.def.br/index.php/noticias/lista-dos-defensores-publicos-plantonistas-deste-fim-de-20-a-22-de-novembro-de-2026",
-      "title": "Lista dos defensores públicos plantonistas deste fim de 20 a 22 de novembro de 2026",
-      "summary": "Defensoria Pública do Estado de Alagoas (Brasil)",
-      "date_published": "2026-11-22T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/aqui-e-brasil-128-brasileiros-repatriados-sao-recepcionados-em-confins-mg",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/aqui-e-brasil-128-brasileiros-repatriados-sao-recepcionados-em-confins-mg",
-      "title": "Aqui é Brasil: 128 brasileiros repatriados são recepcionados em Confins (MG)",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-21T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/previa-da-16a-mostra-de-cinema-e-direitos-humanos-oficina-gratuita-de-audiovisual-em-vitoria-esta-com-inscricoes-abertas",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/previa-da-16a-mostra-de-cinema-e-direitos-humanos-oficina-gratuita-de-audiovisual-em-vitoria-esta-com-inscricoes-abertas",
-      "title": "Prévia da 16ª Mostra de Cinema e Direitos Humanos: oficina gratuita de audiovisual em Vitória está com inscrições abertas",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-21T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
       "id": "https://defensoria.am.def.br/2026/11/21/defensoria-ta-na-area-oferece-atendimento-gratuito-para-dividas-e-cobrancas-indevidas-no-centro-de-manaus/",
       "url": "https://defensoria.am.def.br/2026/11/21/defensoria-ta-na-area-oferece-atendimento-gratuito-para-dividas-e-cobrancas-indevidas-no-centro-de-manaus/",
       "title": "‘Defensoria Tá na Área’ oferece atendimento para dívidas e cobranças indevidas no Centro",
@@ -556,79 +460,7 @@
       ]
     },
     {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/previa-da-16a-mostra-de-cinema-e-direitos-humanos-oficina-gratuita-de-audiovisual-em-natal-esta-com-inscricoes-abertas",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/previa-da-16a-mostra-de-cinema-e-direitos-humanos-oficina-gratuita-de-audiovisual-em-natal-esta-com-inscricoes-abertas",
-      "title": "Prévia da 16ª Mostra de Cinema e Direitos Humanos: oficina gratuita de audiovisual em Natal está com inscrições abertas",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-20T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/programa-de-protecao-aprova-inclusao-de-21-novas-defensoras-e-defensores-de-direitos-humanos-em-situacao-de-risco",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/programa-de-protecao-aprova-inclusao-de-21-novas-defensoras-e-defensores-de-direitos-humanos-em-situacao-de-risco",
-      "title": "Programa de Proteção aprova inclusão de 21 novas defensoras e defensores de direitos humanos em situação de risco",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-participa-do-lancamento-da-acao-21-dias-de-ativismo-pelo-fim-da-violencia-e-do-racismo-contra-as-mulheres",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-participa-do-lancamento-da-acao-21-dias-de-ativismo-pelo-fim-da-violencia-e-do-racismo-contra-as-mulheres",
-      "title": "MDHC participa do lançamento da ação 21 Dias de Ativismo pelo Fim da Violência e do Racismo contra as Mulheres",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/parceria-entre-mdhc-mpu-e-mecanismo-de-monitoramento-e-valorizada-em-formacao-para-membros-do-judiciario",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/parceria-entre-mdhc-mpu-e-mecanismo-de-monitoramento-e-valorizada-em-formacao-para-membros-do-judiciario",
-      "title": "Parceria entre MDHC, MPU e mecanismo de monitoramento é valorizada em formação para membros do Judiciário",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-abre-inscricoes-para-o-iii-encontro-nacional-de-evidencias-em-direitos-humanos",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/mdhc-abre-inscricoes-para-o-iii-encontro-nacional-de-evidencias-em-direitos-humanos",
-      "title": "MDHC abre inscrições para o III Encontro Nacional de Evidências em Direitos Humanos",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/enfrentamento-a-violencia-sexual-associada-ao-casamento-infantil-marca-novos-compromissos-do-brasil-pela-protecao-de-criancas-e-adolescentes",
-      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/enfrentamento-a-violencia-sexual-associada-ao-casamento-infantil-marca-novos-compromissos-do-brasil-pela-protecao-de-criancas-e-adolescentes",
-      "title": "Enfrentamento à violência sexual associada ao casamento infantil marca novos compromissos do Brasil pela proteção de crianças e adolescentes",
-      "summary": "Ministério dos Direitos Humanos e da Cidadania (Brasil)",
-      "date_published": "2026-11-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:1392659892139732951",
+      "id": "urn:defensorias:6770257218414551651",
       "url": "",
       "title": "Corregedor-Geral da Defensoria Pública de SP é eleito como presidente do Conselho Nacional de Corregedoras e Corregedores-Gerais das Defensorias Públicas dos Estados do Distrito Federal e da União (CNCG)",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -700,58 +532,10 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/11/19/defensoria-do-amazonas-realiza-prova-para-estagio-em-direito-neste-domingo/",
-      "url": "https://defensoria.am.def.br/2026/11/19/defensoria-do-amazonas-realiza-prova-para-estagio-em-direito-neste-domingo/",
-      "title": "Defensoria do Amazonas realiza prova para estágio em Direito neste domingo",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-11-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/11/19/procura-por-atendimento-na-defensoria-do-amazonas-chega-a-340-mil-chamados-em-quatro-meses-e-reforca-pedido-de-recomposicao-orcamentaria/",
-      "url": "https://defensoria.am.def.br/2026/11/19/procura-por-atendimento-na-defensoria-do-amazonas-chega-a-340-mil-chamados-em-quatro-meses-e-reforca-pedido-de-recomposicao-orcamentaria/",
-      "title": "Procura por atendimento na Defensoria do Amazonas chega a 340 mil chamados em quatro meses e reforça pedido de recomposição orçamentária",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-11-19T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-785335524855416185",
+      "id": "urn:defensorias:-7859582690403881211",
       "url": "",
       "title": "Com atuação da Defensoria, Justiça suspende leilão de terreno público que integra área a ser regularizada em Carapicuíba",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
-      "date_published": "2026-11-18T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/33172-DPRJ-recebe-selo-de-excelencia-em-protecao-de-dados-de-assistidos",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/33172-DPRJ-recebe-selo-de-excelencia-em-protecao-de-dados-de-assistidos",
-      "title": "DPRJ recebe selo de excelência em proteção de dados",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
-      "date_published": "2026-11-18T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.rj.def.br/noticia/detalhes/33171-Seminario-na-DPRJ-debate-documentacao-civil-como-caminho-para-o-acesso-a-cidadania",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/33171-Seminario-na-DPRJ-debate-documentacao-civil-como-caminho-para-o-acesso-a-cidadania",
-      "title": "Seminário na DPRJ debate documentação civil como caminho para o acesso à cidadania",
-      "summary": "Defensoria Pública do Estado do Rio de Janeiro (Brasil)",
       "date_published": "2026-11-18T00:00:00",
       "tags": [
         "Brasil",
@@ -772,43 +556,7 @@
       ]
     },
     {
-      "id": "https://defensoria.am.def.br/2026/11/18/defensoria-do-amazonas-recebe-selo-safira-do-condege-por-adequacao-a-protecao-de-dados/",
-      "url": "https://defensoria.am.def.br/2026/11/18/defensoria-do-amazonas-recebe-selo-safira-do-condege-por-adequacao-a-protecao-de-dados/",
-      "title": "Defensoria do Amazonas recebe Selo Safira do Condege por adequação à proteção de dados",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-11-18T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/11/18/com-atuacao-da-defensoria-13-criancas-e-adolescentes-deixam-abrigos-apos-audiencias-em-manaus/",
-      "url": "https://defensoria.am.def.br/2026/11/18/com-atuacao-da-defensoria-13-criancas-e-adolescentes-deixam-abrigos-apos-audiencias-em-manaus/",
-      "title": "Com atuação da Defensoria, 13 crianças e adolescentes deixam abrigos após audiências",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-11-18T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "https://defensoria.am.def.br/2026/11/18/defensoria-abre-agendamentos-nesta-quarta-feira-para-servicos-gratuitos-do-projeto-ta-na-area-no-mercado-de-origem/",
-      "url": "https://defensoria.am.def.br/2026/11/18/defensoria-abre-agendamentos-nesta-quarta-feira-para-servicos-gratuitos-do-projeto-ta-na-area-no-mercado-de-origem/",
-      "title": "Defensoria abre agendamentos para o ‘Tá na Área’ no Mercado de Origem nesta quarta-feira",
-      "summary": "Defensoria Pública do Estado do Amazonas (Brasil)",
-      "date_published": "2026-11-18T00:00:00",
-      "tags": [
-        "Brasil",
-        "Sudamérica",
-        "noticias"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-8831798935489668383",
+      "id": "urn:defensorias:-5857811656116799525",
       "url": "",
       "title": "Defensoria de SP obtém reconhecimento de dupla maternidade de bebê concebida por inseminação caseira em Santos",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -868,7 +616,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4537555518646974482",
+      "id": "urn:defensorias:1048332902177183677",
       "url": "",
       "title": "Mães em Cárcere, da Defensoria de SP, bate recorde e atende 39% mais mulheres que em todo o ano de 2025",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",
@@ -880,7 +628,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:589497042166908476",
+      "id": "urn:defensorias:1370492456517317988",
       "url": "",
       "title": "Defensoria e ITTC firmam parceria para ampliar acesso a direitos de mulheres migrantes presas em SP",
       "summary": "Defensoria Pública do Estado de São Paulo (Brasil)",

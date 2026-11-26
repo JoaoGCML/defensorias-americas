@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-canada.json",
   "items": [
     {
+      "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/remarks-chief-commissioner-standing-senate-committee-social-affairs-science-and",
+      "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/remarks-chief-commissioner-standing-senate-committee-social-affairs-science-and",
+      "title": "Remarks for the Chief Commissioner to the Standing Senate Committee on Social Affairs, Science and Technology",
+      "summary": "Canadian Human Rights Commission (Canadá)",
+      "date_published": "2026-11-25T00:00:00",
+      "tags": [
+        "Canadá",
+        "Norteamérica",
+        "newsroom"
+      ]
+    },
+    {
       "id": "https://www.chrc-ccdp.gc.ca/resources/newsroom/path-canada-where-everyone-has-home",
       "url": "https://www.chrc-ccdp.gc.ca/resources/newsroom/path-canada-where-everyone-has-home",
       "title": "On the path to a Canada where everyone has a home",
@@ -37,18 +49,6 @@
         "Canadá",
         "Norteamérica",
         "news"
-      ]
-    },
-    {
-      "id": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/separation-divorce-mediation",
-      "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/separation-divorce-mediation",
-      "title": "Séparation ou divorce : la médiation pour éviter le tribunal",
-      "summary": "Protecteur du citoyen du Québec (Canadá)",
-      "date_published": "2026-10-27T00:00:00",
-      "tags": [
-        "Canadá",
-        "Norteamérica",
-        "nouvelles"
       ]
     }
   ]
