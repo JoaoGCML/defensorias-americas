@@ -4,6 +4,18 @@
   "feed_url": "https://JoaoGCML.github.io/defensorias-americas/data/feed-chile.json",
   "items": [
     {
+      "id": "https://www.indh.cl/indh-los-rios-violencia-contra-mujeres/",
+      "url": "https://www.indh.cl/indh-los-rios-violencia-contra-mujeres/",
+      "title": "“La violencia contra las mujeres no es un asunto privado”: Jefa de INDH Los Ríos participó en acto del 25N",
+      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
+      "date_published": "2026-11-26T00:00:00",
+      "tags": [
+        "Chile",
+        "Sudamérica",
+        "noticias"
+      ]
+    },
+    {
       "id": "https://www.indh.cl/indh-valparaiso-encuentro-agua/",
       "url": "https://www.indh.cl/indh-valparaiso-encuentro-agua/",
       "title": "INDH Valparaíso, el Gobierno Regional de Valparaíso y la Municipalidad de Putaendo convocan a funcionarios municipales a un encuentro sobre el derecho al agua",
@@ -76,7 +88,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:1317154304103591093",
+      "id": "urn:defensorias:6810698567973312611",
       "url": "",
       "title": "ADN | Defensoría de la Niñez alerta en el Congreso...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -108,7 +120,7 @@
       "tags": [
         "Chile",
         "Sudamérica",
-        "noticias"
+        "noticias_regionales"
       ]
     },
     {
@@ -124,7 +136,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:2787287265123058495",
+      "id": "urn:defensorias:2189282649200289468",
       "url": "",
       "title": "Defensoría de la Niñez presenta en el Congreso muestra que ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -136,19 +148,7 @@
       ]
     },
     {
-      "id": "https://www.indh.cl/indh-tarapaca-querellante-carcel-trata/",
-      "url": "https://www.indh.cl/indh-tarapaca-querellante-carcel-trata/",
-      "title": "INDH de Tarapacá actuó como querellante contra dos personas condenadas a 16 años de cárcel por trata con fines de explotación sexual",
-      "summary": "Instituto Nacional de Derechos Humanos (INDH) (Chile)",
-      "date_published": "2026-11-16T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias_regionales"
-      ]
-    },
-    {
-      "id": "urn:defensorias:2292635374382307950",
+      "id": "urn:defensorias:-8885403841212820372",
       "url": "",
       "title": "Informe Anual 2026: Defensoría de la Niñez alerta brechas en ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:4463528714492316466",
+      "id": "urn:defensorias:4076358501633578971",
       "url": "",
       "title": "Emol | Defensoría de la Niñez alerta por cuidado alternativo:...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-5356894320250097927",
+      "id": "urn:defensorias:3424642979961613743",
       "url": "",
       "title": "La Tercera | “El Estado falló”: defensor de la Niñez...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8769173779117154570",
+      "id": "urn:defensorias:1982141553925708168",
       "url": "",
       "title": "Defensoría de la Niñez buscará revertir inadmisibilidad de amparo ante ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-3093275972255195283",
+      "id": "urn:defensorias:-2410150001683320359",
       "url": "",
       "title": "Defensoría de la Niñez y UNICEF impulsan mecanismo de monitoreo ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8523575634685522741",
+      "id": "urn:defensorias:-5650934533545557273",
       "url": "",
       "title": "Defensoría de la Niñez presenta recurso de amparo para dejar ...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "id": "urn:defensorias:-8356640557258540344",
+      "id": "urn:defensorias:-5143688735576407927",
       "url": "",
       "title": "T13 Radio | Entrevista al Defensor de la Niñez por...",
       "summary": "Defensoría de la Niñez (Chile)",
@@ -229,18 +229,6 @@
         "Chile",
         "Sudamérica",
         "prensa"
-      ]
-    },
-    {
-      "id": "urn:defensorias:-1027878142007240997",
-      "url": "",
-      "title": "Defensor de la Niñez expone ante la CIDH graves brechas ...",
-      "summary": "Defensoría de la Niñez (Chile)",
-      "date_published": "2026-10-28T00:00:00",
-      "tags": [
-        "Chile",
-        "Sudamérica",
-        "noticias"
       ]
     }
   ]

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Notas de Prensa — Defensorías de las Américas · Uruguay</title>
   <id>urn:defensorias-americas:prensa:uruguay</id>
-  <updated>2026-11-26T17:34:46Z</updated>
+  <updated>2026-11-27T17:17:10Z</updated>
   <link rel="self" href="https://JoaoGCML.github.io/defensorias-americas/data/feed-uruguay.xml" />
   <rights>Contenido de fuentes institucionales públicas</rights>
+  <entry>
+    <title>Celebramos los derechos y la participación de niñas, niños y adolescentes</title>
+    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/celebramos-derechos-participacion-ninas-ninos-adolescentes</id>
+    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/celebramos-derechos-participacion-ninas-ninos-adolescentes" />
+    <updated>2026-11-20T00:00:00</updated>
+    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
+  </entry>
   <entry>
     <title>El presente y el futuro: las infancias y adolescencias como protagonistas</title>
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/comunicados/presente-futuro-infancias-adolescencias-protagonistas</id>
@@ -66,20 +73,6 @@
     <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-entrego-800-materiales-didacticos-para-fomentar-derechos-infancias</id>
     <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-entrego-800-materiales-didacticos-para-fomentar-derechos-infancias" />
     <updated>2026-10-29T00:00:00</updated>
-    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
-  </entry>
-  <entry>
-    <title>INDDHH realizó taller con adolescentes sobre entornos digitales</title>
-    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-realizo-taller-adolescentes-sobre-entornos-digitales</id>
-    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/inddhh-realizo-taller-adolescentes-sobre-entornos-digitales" />
-    <updated>2026-10-28T00:00:00</updated>
-    <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
-  </entry>
-  <entry>
-    <title>Propuestas para mejorar el sistema de adopciones y garantizar el derecho a vivir en familia</title>
-    <id>https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/propuestas-para-mejorar-sistema-adopciones-garantizar-derecho-vivir-familia</id>
-    <link href="https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay/comunicacion/noticias/propuestas-para-mejorar-sistema-adopciones-garantizar-derecho-vivir-familia" />
-    <updated>2026-10-28T00:00:00</updated>
     <summary>Institución Nacional de Derechos Humanos y Defensoría del Pueblo (Uruguay) — noticias</summary>
   </entry>
 </feed>
